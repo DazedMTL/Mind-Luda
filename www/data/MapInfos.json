@@ -1,0 +1,3855 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "MAP001",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "OP:地下牢",
+        "order": 2,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "OP:執務室",
+        "order": 3,
+        "parentId": 2,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "OP:闘技場",
+        "order": 4,
+        "parentId": 3,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "OP:玉座",
+        "order": 5,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "OP:城1",
+        "order": 6,
+        "parentId": 5,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "OP:城2",
+        "order": 7,
+        "parentId": 6,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "OP:オルギの家1",
+        "order": 20,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "OP:オルギの家2",
+        "order": 21,
+        "parentId": 8,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "2:自宅",
+        "order": 71,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "2:街 自宅前",
+        "order": 73,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "OP:城3",
+        "order": 8,
+        "parentId": 7,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "OP:城4",
+        "order": 9,
+        "parentId": 12,
+        "scrollX": 811,
+        "scrollY": 507
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "OP:城5",
+        "order": 10,
+        "parentId": 13,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "OP:城6",
+        "order": 11,
+        "parentId": 14,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 16,
+        "expanded": false,
+        "name": "OP:武器屋2F",
+        "order": 42,
+        "parentId": 27,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "OP:オルギの家3",
+        "order": 22,
+        "parentId": 9,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "OP:自宅",
+        "order": 26,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "OP:街 自宅前",
+        "order": 27,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "OP:街 広場",
+        "order": 28,
+        "parentId": 19,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "OP:街　管理所前",
+        "order": 29,
+        "parentId": 20,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "OP:街　酒場前",
+        "order": 30,
+        "parentId": 21,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "OP:街　詰所前",
+        "order": 31,
+        "parentId": 22,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "OP:街　闘技場前",
+        "order": 32,
+        "parentId": 23,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 25,
+        "expanded": false,
+        "name": "OP:道具屋",
+        "order": 35,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 26,
+        "expanded": false,
+        "name": "OP:酒場",
+        "order": 36,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 27,
+        "expanded": false,
+        "name": "OP:武器屋1F",
+        "order": 41,
+        "parentId": 0,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "OP:詰所1",
+        "order": 43,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "OP:管理所1",
+        "order": 47,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "OP:イリメ家",
+        "order": 54,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "OP:管理所2",
+        "order": 48,
+        "parentId": 29,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "OP:詰所　昇降機",
+        "order": 44,
+        "parentId": 28,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "OP:闘技場 1",
+        "order": 55,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "OP:闘技場 舞台",
+        "order": 56,
+        "parentId": 33,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "OP:闘技場 2",
+        "order": 57,
+        "parentId": 34,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "OP:闘技場 処置室",
+        "order": 58,
+        "parentId": 35,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "OP:管理所3",
+        "order": 49,
+        "parentId": 31,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "OP:管理所 学内1",
+        "order": 50,
+        "parentId": 37,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "OP:管理所　学内2",
+        "order": 51,
+        "parentId": 38,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "OP:闘技場 3",
+        "order": 59,
+        "parentId": 36,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "OP:詰所2",
+        "order": 45,
+        "parentId": 32,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 42,
+        "expanded": false,
+        "name": "OP:イベント用　街 広場",
+        "order": 60,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "OP:詰所　訓練昇降機",
+        "order": 46,
+        "parentId": 41,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 44,
+        "expanded": false,
+        "name": "OP:査定用施設1",
+        "order": 62,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "OP:城7",
+        "order": 12,
+        "parentId": 15,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "OP:オルギの家4",
+        "order": 23,
+        "parentId": 17,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "OP:査定用施設2",
+        "order": 63,
+        "parentId": 44,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "OP:査定用施設3",
+        "order": 64,
+        "parentId": 47,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "OP:管理所4",
+        "order": 52,
+        "parentId": 39,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "OP:執務室",
+        "order": 53,
+        "parentId": 49,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "OP:イベント用　地下牢",
+        "order": 61,
+        "parentId": 42,
+        "scrollX": 1416.8,
+        "scrollY": 1068.4
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "OP:城イベント用1",
+        "order": 13,
+        "parentId": 45,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "OP:城イベント用2",
+        "order": 14,
+        "parentId": 52,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "OP:城8",
+        "order": 15,
+        "parentId": 53,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "OP:城9",
+        "order": 16,
+        "parentId": 54,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "OP:城10",
+        "order": 17,
+        "parentId": 55,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "OP:城11",
+        "order": 18,
+        "parentId": 56,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "OP:城12",
+        "order": 19,
+        "parentId": 57,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "OP:イベント用1",
+        "order": 24,
+        "parentId": 46,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "OP:イベント用2",
+        "order": 25,
+        "parentId": 59,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "OP:査定用施設4",
+        "order": 65,
+        "parentId": 48,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "OP:査定用施設5",
+        "order": 66,
+        "parentId": 61,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "OP:査定用施設6",
+        "order": 67,
+        "parentId": 62,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "OP:査定用施設7",
+        "order": 68,
+        "parentId": 63,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "OP:査定用施設8",
+        "order": 69,
+        "parentId": 64,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "OP:査定用施設9",
+        "order": 70,
+        "parentId": 65,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "2:街 広場",
+        "order": 74,
+        "parentId": 11,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "2:街　管理所前",
+        "order": 75,
+        "parentId": 67,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "2:街　酒場前",
+        "order": 76,
+        "parentId": 68,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "2:街　詰所前",
+        "order": 77,
+        "parentId": 69,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "2:街　闘技場前",
+        "order": 78,
+        "parentId": 70,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 72,
+        "expanded": false,
+        "name": "2:道具屋",
+        "order": 85,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 73,
+        "expanded": false,
+        "name": "2:酒場",
+        "order": 86,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "2:武器屋1F",
+        "order": 91,
+        "parentId": 0,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "2:武器屋2F",
+        "order": 92,
+        "parentId": 74,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "2:詰所1",
+        "order": 93,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "2:詰所　昇降機",
+        "order": 94,
+        "parentId": 76,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "2:詰所2",
+        "order": 95,
+        "parentId": 77,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "2:詰所2着替え",
+        "order": 96,
+        "parentId": 78,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 80,
+        "expanded": false,
+        "name": "2:管理所1",
+        "order": 97,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "2:管理所2",
+        "order": 98,
+        "parentId": 80,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "2:管理所3",
+        "order": 99,
+        "parentId": 81,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "2:管理所 学内1",
+        "order": 100,
+        "parentId": 82,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "2:管理所　学内2",
+        "order": 101,
+        "parentId": 83,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "2:管理所4",
+        "order": 102,
+        "parentId": 84,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "2:執務室",
+        "order": 103,
+        "parentId": 85,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 87,
+        "expanded": false,
+        "name": "2:イリメ家",
+        "order": 110,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "2:闘技場 1",
+        "order": 111,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "2:闘技場 舞台",
+        "order": 112,
+        "parentId": 88,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "2:闘技場 2",
+        "order": 113,
+        "parentId": 89,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "2:闘技場 処置室",
+        "order": 114,
+        "parentId": 90,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 92,
+        "expanded": true,
+        "name": "op2:闘技場 3",
+        "order": 115,
+        "parentId": 91,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 93,
+        "expanded": false,
+        "name": "2:地下牢・遺跡",
+        "order": 119,
+        "parentId": 0,
+        "scrollX": 1416.8,
+        "scrollY": 1371.6
+    },
+    {
+        "id": 94,
+        "expanded": false,
+        "name": "1:遺跡1",
+        "order": 136,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "1:闘技場 3",
+        "order": 189,
+        "parentId": 111,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "2:闘技場 控室2",
+        "order": 117,
+        "parentId": 98,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "1:遺跡2",
+        "order": 137,
+        "parentId": 94,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "2:闘技場 控室",
+        "order": 116,
+        "parentId": 92,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "1:遺跡3",
+        "order": 138,
+        "parentId": 97,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "1:遺跡深部",
+        "order": 139,
+        "parentId": 99,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "1:遺跡4",
+        "order": 140,
+        "parentId": 100,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 102,
+        "expanded": false,
+        "name": "1:自宅",
+        "order": 149,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 103,
+        "expanded": false,
+        "name": "1:街 自宅前",
+        "order": 150,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 104,
+        "expanded": false,
+        "name": "1:道具屋",
+        "order": 159,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 105,
+        "expanded": false,
+        "name": "1:酒場",
+        "order": 160,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 106,
+        "expanded": false,
+        "name": "1:武器屋1F",
+        "order": 166,
+        "parentId": 0,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 107,
+        "expanded": false,
+        "name": "1:詰所1",
+        "order": 168,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "1:管理所1",
+        "order": 173,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "1:イリメ家",
+        "order": 180,
+        "parentId": 108,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 110,
+        "expanded": false,
+        "name": "1:闘技場 1",
+        "order": 181,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 111,
+        "expanded": false,
+        "name": "1:地下牢",
+        "order": 188,
+        "parentId": 0,
+        "scrollX": 1416.8,
+        "scrollY": 1284.4
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "1:執務室",
+        "order": 174,
+        "parentId": 108,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 113,
+        "expanded": true,
+        "name": "1:街 広場",
+        "order": 151,
+        "parentId": 103,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "1:街　管理所前",
+        "order": 152,
+        "parentId": 113,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 115,
+        "expanded": true,
+        "name": "1:街　酒場前",
+        "order": 153,
+        "parentId": 114,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "1:街　詰所前",
+        "order": 154,
+        "parentId": 115,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "1:街　闘技場前",
+        "order": 155,
+        "parentId": 116,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 118,
+        "expanded": false,
+        "name": "1:武器屋2F",
+        "order": 167,
+        "parentId": 106,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "1:詰所　昇降機",
+        "order": 169,
+        "parentId": 107,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "1:詰所2",
+        "order": 170,
+        "parentId": 119,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "1:詰所2着替え",
+        "order": 171,
+        "parentId": 120,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 122,
+        "expanded": true,
+        "name": "1:管理所2",
+        "order": 175,
+        "parentId": 112,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "1:管理所 学内1",
+        "order": 176,
+        "parentId": 122,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 124,
+        "expanded": true,
+        "name": "1:管理所　学内2",
+        "order": 177,
+        "parentId": 123,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "1:管理所4",
+        "order": 178,
+        "parentId": 124,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "1:闘技場 舞台",
+        "order": 182,
+        "parentId": 110,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "1:闘技場 2",
+        "order": 183,
+        "parentId": 126,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 128,
+        "expanded": true,
+        "name": "1:闘技場 処置室",
+        "order": 184,
+        "parentId": 127,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 129,
+        "expanded": true,
+        "name": "1:闘技場 3",
+        "order": 185,
+        "parentId": 128,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 130,
+        "expanded": true,
+        "name": "1:闘技場 控室",
+        "order": 186,
+        "parentId": 129,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "1:イベント用1",
+        "order": 190,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 132,
+        "expanded": true,
+        "name": "1:イベント用2",
+        "order": 191,
+        "parentId": 131,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "1:闘技場 控室2",
+        "order": 187,
+        "parentId": 130,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "2:闘技場 3",
+        "order": 118,
+        "parentId": 96,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 135,
+        "expanded": true,
+        "name": "OP:酒場2",
+        "order": 37,
+        "parentId": 26,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "OP:酒場3",
+        "order": 38,
+        "parentId": 135,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "OP:酒場4",
+        "order": 39,
+        "parentId": 136,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 138,
+        "expanded": false,
+        "name": "OP:酒場5",
+        "order": 40,
+        "parentId": 137,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "1:酒場2",
+        "order": 161,
+        "parentId": 105,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 140,
+        "expanded": true,
+        "name": "1:酒場3",
+        "order": 162,
+        "parentId": 139,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "1:酒場4",
+        "order": 163,
+        "parentId": 140,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "1:酒場5",
+        "order": 164,
+        "parentId": 141,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "2:酒場2",
+        "order": 87,
+        "parentId": 73,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "2:酒場3",
+        "order": 88,
+        "parentId": 143,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "2:酒場4",
+        "order": 89,
+        "parentId": 144,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "2:酒場5",
+        "order": 90,
+        "parentId": 145,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 147,
+        "expanded": true,
+        "name": "2:イベント用　学内2",
+        "order": 104,
+        "parentId": 86,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 148,
+        "expanded": true,
+        "name": "2:遺跡1",
+        "order": 120,
+        "parentId": 93,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 149,
+        "expanded": true,
+        "name": "2:遺跡2",
+        "order": 121,
+        "parentId": 148,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "2:遺跡深部1",
+        "order": 122,
+        "parentId": 149,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "2:遺跡深部2",
+        "order": 123,
+        "parentId": 150,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "2:遺跡3",
+        "order": 124,
+        "parentId": 151,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "1:街　森",
+        "order": 156,
+        "parentId": 117,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "2:街　森",
+        "order": 79,
+        "parentId": 71,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 155,
+        "expanded": true,
+        "name": "OP:街　森",
+        "order": 33,
+        "parentId": 24,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "2:遺跡4",
+        "order": 125,
+        "parentId": 152,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "2:E用孤児院1",
+        "order": 80,
+        "parentId": 154,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "2:E用孤児院2",
+        "order": 81,
+        "parentId": 157,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 159,
+        "expanded": true,
+        "name": "2:E用孤児院3",
+        "order": 82,
+        "parentId": 158,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 160,
+        "expanded": true,
+        "name": "2:E用孤児院4",
+        "order": 83,
+        "parentId": 159,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 161,
+        "expanded": true,
+        "name": "1:遺跡5",
+        "order": 141,
+        "parentId": 101,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "1:遺跡6",
+        "order": 142,
+        "parentId": 161,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "1:遺跡7",
+        "order": 143,
+        "parentId": 162,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "1:遺跡8",
+        "order": 144,
+        "parentId": 163,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "1:遺跡9",
+        "order": 145,
+        "parentId": 164,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "2:遺跡5",
+        "order": 126,
+        "parentId": 156,
+        "scrollX": 811,
+        "scrollY": 453
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "2:遺跡6",
+        "order": 127,
+        "parentId": 166,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "2:遺跡7",
+        "order": 128,
+        "parentId": 167,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "2:遺跡8",
+        "order": 129,
+        "parentId": 168,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "2:遺跡9",
+        "order": 130,
+        "parentId": 169,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "2:遺跡10",
+        "order": 131,
+        "parentId": 170,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 172,
+        "expanded": false,
+        "name": "3:自宅",
+        "order": 196,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 173,
+        "expanded": false,
+        "name": "3:街 自宅前",
+        "order": 197,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 174,
+        "expanded": true,
+        "name": "3:街 広場",
+        "order": 198,
+        "parentId": 173,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "3:街　管理所前",
+        "order": 199,
+        "parentId": 174,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 176,
+        "expanded": true,
+        "name": "3:街　酒場前",
+        "order": 200,
+        "parentId": 175,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 177,
+        "expanded": true,
+        "name": "3:街　詰所前",
+        "order": 201,
+        "parentId": 176,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 178,
+        "expanded": true,
+        "name": "3:街　闘技場前",
+        "order": 202,
+        "parentId": 177,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 179,
+        "expanded": true,
+        "name": "3:街　森",
+        "order": 203,
+        "parentId": 178,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "3:道具屋",
+        "order": 205,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 181,
+        "expanded": false,
+        "name": "3:酒場",
+        "order": 206,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "3:酒場2",
+        "order": 207,
+        "parentId": 181,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "3:酒場3",
+        "order": 208,
+        "parentId": 182,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "3:酒場4",
+        "order": 209,
+        "parentId": 183,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "3:酒場5",
+        "order": 210,
+        "parentId": 184,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 186,
+        "expanded": false,
+        "name": "3:武器屋1F",
+        "order": 212,
+        "parentId": 0,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 187,
+        "expanded": false,
+        "name": "3:武器屋2F",
+        "order": 213,
+        "parentId": 186,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "3:イリメ家",
+        "order": 214,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 189,
+        "expanded": false,
+        "name": "3:詰所1",
+        "order": 215,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "3:詰所　昇降機",
+        "order": 216,
+        "parentId": 189,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "3:詰所2",
+        "order": 217,
+        "parentId": 190,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "3:詰所2着替え",
+        "order": 218,
+        "parentId": 191,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 193,
+        "expanded": false,
+        "name": "3:管理所1",
+        "order": 219,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "3:執務室",
+        "order": 220,
+        "parentId": 193,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 195,
+        "expanded": true,
+        "name": "3:管理所2",
+        "order": 221,
+        "parentId": 194,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 196,
+        "expanded": true,
+        "name": "3:管理所 学内1",
+        "order": 222,
+        "parentId": 195,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 197,
+        "expanded": true,
+        "name": "3:管理所　学内2",
+        "order": 223,
+        "parentId": 196,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 198,
+        "expanded": true,
+        "name": "3:管理所4",
+        "order": 224,
+        "parentId": 197,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "3:闘技場 1",
+        "order": 226,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "3:闘技場 舞台",
+        "order": 227,
+        "parentId": 199,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 201,
+        "expanded": true,
+        "name": "3:闘技場 2",
+        "order": 228,
+        "parentId": 200,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "3:闘技場 処置室",
+        "order": 229,
+        "parentId": 201,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 203,
+        "expanded": true,
+        "name": "3:闘技場 控室",
+        "order": 230,
+        "parentId": 202,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "3:闘技場 控室2",
+        "order": 231,
+        "parentId": 203,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 205,
+        "expanded": false,
+        "name": "3:地下牢",
+        "order": 234,
+        "parentId": 0,
+        "scrollX": 1416.8,
+        "scrollY": 1323.6
+    },
+    {
+        "id": 206,
+        "expanded": false,
+        "name": "3:遺跡1",
+        "order": 236,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 207,
+        "expanded": true,
+        "name": "3:闘技場 3",
+        "order": 232,
+        "parentId": 204,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 208,
+        "expanded": false,
+        "name": "OP:医院",
+        "order": 34,
+        "parentId": 155,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "1:夢",
+        "order": 157,
+        "parentId": 153,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 210,
+        "expanded": false,
+        "name": "1:医院",
+        "order": 158,
+        "parentId": 209,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 211,
+        "expanded": false,
+        "name": "3:医院",
+        "order": 204,
+        "parentId": 179,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 212,
+        "expanded": false,
+        "name": "2:医院",
+        "order": 84,
+        "parentId": 160,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 213,
+        "expanded": true,
+        "name": "1:イベント用 オルギの家1",
+        "order": 192,
+        "parentId": 132,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 214,
+        "expanded": true,
+        "name": "1:イベント用 オルギの家2",
+        "order": 193,
+        "parentId": 213,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 215,
+        "expanded": true,
+        "name": "E用1:詰所2着替え",
+        "order": 172,
+        "parentId": 121,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "Ｅ用:酒場3",
+        "order": 165,
+        "parentId": 142,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 217,
+        "expanded": true,
+        "name": "2:イベント用城6",
+        "order": 105,
+        "parentId": 147,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 218,
+        "expanded": false,
+        "name": "2:夢　自宅",
+        "order": 72,
+        "parentId": 10,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 219,
+        "expanded": true,
+        "name": "2:イベント用宴1",
+        "order": 106,
+        "parentId": 217,
+        "scrollX": 1416.8,
+        "scrollY": 986
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "1:管理所　学内3",
+        "order": 179,
+        "parentId": 125,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 221,
+        "expanded": false,
+        "name": "MAP221",
+        "order": 422,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "3:イベント用1",
+        "order": 244,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 223,
+        "expanded": false,
+        "name": "4:自宅",
+        "order": 250,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 224,
+        "expanded": false,
+        "name": "4:街 自宅前",
+        "order": 251,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 225,
+        "expanded": false,
+        "name": "4:道具屋",
+        "order": 259,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 226,
+        "expanded": false,
+        "name": "4:酒場",
+        "order": 260,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 227,
+        "expanded": false,
+        "name": "4:武器屋1F",
+        "order": 266,
+        "parentId": 0,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 228,
+        "expanded": false,
+        "name": "4:イリメ家",
+        "order": 268,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 229,
+        "expanded": false,
+        "name": "4:詰所1",
+        "order": 269,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "4:管理所1",
+        "order": 273,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 231,
+        "expanded": false,
+        "name": "4:闘技場 1",
+        "order": 280,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 232,
+        "expanded": false,
+        "name": "4:地下牢",
+        "order": 287,
+        "parentId": 0,
+        "scrollX": 1416.8,
+        "scrollY": 1052.4
+    },
+    {
+        "id": 233,
+        "expanded": false,
+        "name": "4:遺跡1",
+        "order": 288,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 234,
+        "expanded": false,
+        "name": "4:イベント用",
+        "order": 298,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 235,
+        "expanded": false,
+        "name": "4:武器屋2F",
+        "order": 267,
+        "parentId": 227,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 236,
+        "expanded": true,
+        "name": "4:街 広場",
+        "order": 252,
+        "parentId": 224,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 237,
+        "expanded": true,
+        "name": "4:街　管理所前",
+        "order": 253,
+        "parentId": 236,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "4:街　酒場前",
+        "order": 254,
+        "parentId": 237,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 239,
+        "expanded": true,
+        "name": "4:街　詰所前",
+        "order": 255,
+        "parentId": 238,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 240,
+        "expanded": true,
+        "name": "4:街　闘技場前",
+        "order": 256,
+        "parentId": 239,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 241,
+        "expanded": true,
+        "name": "4:街　森",
+        "order": 257,
+        "parentId": 240,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 242,
+        "expanded": false,
+        "name": "4:医院",
+        "order": 258,
+        "parentId": 241,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 243,
+        "expanded": true,
+        "name": "4:酒場2",
+        "order": 261,
+        "parentId": 226,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 244,
+        "expanded": true,
+        "name": "4:酒場3",
+        "order": 262,
+        "parentId": 243,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 245,
+        "expanded": true,
+        "name": "4:酒場4",
+        "order": 263,
+        "parentId": 244,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 246,
+        "expanded": true,
+        "name": "4:酒場5",
+        "order": 264,
+        "parentId": 245,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 247,
+        "expanded": true,
+        "name": "4:詰所　昇降機",
+        "order": 270,
+        "parentId": 229,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 248,
+        "expanded": true,
+        "name": "4:詰所2",
+        "order": 271,
+        "parentId": 247,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "4:詰所2着替え",
+        "order": 272,
+        "parentId": 248,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 250,
+        "expanded": true,
+        "name": "4:執務室",
+        "order": 274,
+        "parentId": 230,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 251,
+        "expanded": true,
+        "name": "4:管理所2",
+        "order": 275,
+        "parentId": 250,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 252,
+        "expanded": true,
+        "name": "4:管理所 学内1",
+        "order": 276,
+        "parentId": 251,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 253,
+        "expanded": true,
+        "name": "4:管理所　学内2",
+        "order": 277,
+        "parentId": 252,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 254,
+        "expanded": true,
+        "name": "4:管理所　学内3",
+        "order": 278,
+        "parentId": 253,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 255,
+        "expanded": true,
+        "name": "4:管理所4",
+        "order": 279,
+        "parentId": 254,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "3:管理所　学内3",
+        "order": 225,
+        "parentId": 198,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 257,
+        "expanded": true,
+        "name": "2:管理所　学内3",
+        "order": 107,
+        "parentId": 219,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 258,
+        "expanded": true,
+        "name": "4:闘技場 舞台",
+        "order": 281,
+        "parentId": 231,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 259,
+        "expanded": true,
+        "name": "4:闘技場 2",
+        "order": 282,
+        "parentId": 258,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "4:闘技場 処置室",
+        "order": 283,
+        "parentId": 259,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "4:闘技場 控室",
+        "order": 284,
+        "parentId": 260,
+        "scrollX": 982.8,
+        "scrollY": 543.6
+    },
+    {
+        "id": 262,
+        "expanded": true,
+        "name": "4:闘技場 控室2",
+        "order": 285,
+        "parentId": 261,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 263,
+        "expanded": true,
+        "name": "4:闘技場 3",
+        "order": 286,
+        "parentId": 262,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 264,
+        "expanded": true,
+        "name": "3:遺跡2",
+        "order": 237,
+        "parentId": 206,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 265,
+        "expanded": true,
+        "name": "4:遺跡2",
+        "order": 289,
+        "parentId": 233,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 266,
+        "expanded": true,
+        "name": "4:遺跡深部",
+        "order": 290,
+        "parentId": 265,
+        "scrollX": 1416.8,
+        "scrollY": 795.6
+    },
+    {
+        "id": 267,
+        "expanded": true,
+        "name": "3:遺跡深部",
+        "order": 238,
+        "parentId": 264,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 268,
+        "expanded": true,
+        "name": "3:遺跡3",
+        "order": 239,
+        "parentId": 267,
+        "scrollX": 1416.8,
+        "scrollY": 876.4
+    },
+    {
+        "id": 269,
+        "expanded": true,
+        "name": "3:遺跡4",
+        "order": 240,
+        "parentId": 268,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 270,
+        "expanded": true,
+        "name": "3:遺跡5",
+        "order": 241,
+        "parentId": 269,
+        "scrollX": 1416.8,
+        "scrollY": 2067.6
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "3:遺跡6",
+        "order": 242,
+        "parentId": 270,
+        "scrollX": 1416.8,
+        "scrollY": 1611.6
+    },
+    {
+        "id": 272,
+        "expanded": true,
+        "name": "4:遺跡3",
+        "order": 291,
+        "parentId": 266,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 273,
+        "expanded": true,
+        "name": "4:遺跡4",
+        "order": 292,
+        "parentId": 272,
+        "scrollX": 1416.8,
+        "scrollY": 795.6
+    },
+    {
+        "id": 274,
+        "expanded": true,
+        "name": "4:遺跡5",
+        "order": 293,
+        "parentId": 273,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 868.8888888888889
+    },
+    {
+        "id": 275,
+        "expanded": true,
+        "name": "4:遺跡6",
+        "order": 294,
+        "parentId": 274,
+        "scrollX": 1922.6666666666667,
+        "scrollY": 868.8888888888889
+    },
+    {
+        "id": 276,
+        "expanded": true,
+        "name": "3:Ｅ用　闘技場 舞台",
+        "order": 233,
+        "parentId": 207,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 277,
+        "expanded": false,
+        "name": "5:自宅",
+        "order": 303,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 278,
+        "expanded": false,
+        "name": "5:街 自宅前",
+        "order": 304,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 279,
+        "expanded": false,
+        "name": "5:道具屋",
+        "order": 312,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 280,
+        "expanded": false,
+        "name": "5:酒場",
+        "order": 313,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 281,
+        "expanded": false,
+        "name": "5:武器屋1F",
+        "order": 320,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 282,
+        "expanded": false,
+        "name": "5:イリメ家",
+        "order": 322,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 283,
+        "expanded": false,
+        "name": "5:詰所1",
+        "order": 323,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 284,
+        "expanded": false,
+        "name": "5:管理所1",
+        "order": 328,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 285,
+        "expanded": false,
+        "name": "5:闘技場 1",
+        "order": 335,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 286,
+        "expanded": false,
+        "name": "5:地下牢",
+        "order": 343,
+        "parentId": 0,
+        "scrollX": 1416.8,
+        "scrollY": 1284.4
+    },
+    {
+        "id": 287,
+        "expanded": false,
+        "name": "5:遺跡1",
+        "order": 344,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 288,
+        "expanded": false,
+        "name": "5:イベント用",
+        "order": 364,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 289,
+        "expanded": true,
+        "name": "5:街 広場",
+        "order": 305,
+        "parentId": 278,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 290,
+        "expanded": true,
+        "name": "5:街　管理所前",
+        "order": 306,
+        "parentId": 289,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 291,
+        "expanded": true,
+        "name": "5:街　酒場前",
+        "order": 307,
+        "parentId": 290,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 292,
+        "expanded": true,
+        "name": "5:街　詰所前",
+        "order": 308,
+        "parentId": 291,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 293,
+        "expanded": true,
+        "name": "5:街　闘技場前",
+        "order": 309,
+        "parentId": 292,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 294,
+        "expanded": true,
+        "name": "5:街　森",
+        "order": 310,
+        "parentId": 293,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 295,
+        "expanded": false,
+        "name": "5:医院",
+        "order": 311,
+        "parentId": 294,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 296,
+        "expanded": false,
+        "name": "5:武器屋2F",
+        "order": 321,
+        "parentId": 281,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 297,
+        "expanded": true,
+        "name": "5:酒場2",
+        "order": 314,
+        "parentId": 280,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 298,
+        "expanded": true,
+        "name": "5:酒場3",
+        "order": 315,
+        "parentId": 297,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 299,
+        "expanded": true,
+        "name": "5:酒場4",
+        "order": 316,
+        "parentId": 298,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 300,
+        "expanded": true,
+        "name": "5:酒場5",
+        "order": 317,
+        "parentId": 299,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 301,
+        "expanded": true,
+        "name": "5:詰所　昇降機",
+        "order": 324,
+        "parentId": 283,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 302,
+        "expanded": true,
+        "name": "5:詰所2",
+        "order": 325,
+        "parentId": 301,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 303,
+        "expanded": true,
+        "name": "5:詰所2着替え",
+        "order": 326,
+        "parentId": 302,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "5:執務室",
+        "order": 329,
+        "parentId": 284,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 305,
+        "expanded": true,
+        "name": "5:管理所2",
+        "order": 330,
+        "parentId": 304,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 306,
+        "expanded": true,
+        "name": "5:管理所 学内1",
+        "order": 331,
+        "parentId": 305,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 307,
+        "expanded": true,
+        "name": "5:管理所　学内2",
+        "order": 332,
+        "parentId": 306,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 308,
+        "expanded": true,
+        "name": "5:管理所　学内3",
+        "order": 333,
+        "parentId": 307,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 309,
+        "expanded": true,
+        "name": "5:管理所4",
+        "order": 334,
+        "parentId": 308,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 310,
+        "expanded": true,
+        "name": "5:闘技場 舞台",
+        "order": 336,
+        "parentId": 285,
+        "scrollX": 1416.8,
+        "scrollY": 876.4
+    },
+    {
+        "id": 311,
+        "expanded": true,
+        "name": "5:闘技場 2",
+        "order": 337,
+        "parentId": 310,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 312,
+        "expanded": true,
+        "name": "5:闘技場 処置室",
+        "order": 338,
+        "parentId": 311,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 313,
+        "expanded": true,
+        "name": "5:闘技場 控室",
+        "order": 339,
+        "parentId": 312,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 314,
+        "expanded": true,
+        "name": "5:闘技場 控室2",
+        "order": 340,
+        "parentId": 313,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 315,
+        "expanded": true,
+        "name": "5:闘技場 3",
+        "order": 341,
+        "parentId": 314,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 316,
+        "expanded": false,
+        "name": "過去:自宅",
+        "order": 381,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 317,
+        "expanded": false,
+        "name": "過去:街 自宅前",
+        "order": 382,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 318,
+        "expanded": true,
+        "name": "過去:街 広場",
+        "order": 383,
+        "parentId": 317,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 319,
+        "expanded": true,
+        "name": "過去:イリメ家",
+        "order": 384,
+        "parentId": 318,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 320,
+        "expanded": true,
+        "name": "過去:郊外1",
+        "order": 385,
+        "parentId": 319,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 321,
+        "expanded": true,
+        "name": "過去:郊外2",
+        "order": 386,
+        "parentId": 320,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 322,
+        "expanded": true,
+        "name": "過去:駐屯地1",
+        "order": 387,
+        "parentId": 321,
+        "scrollX": 1416.8,
+        "scrollY": 987.6
+    },
+    {
+        "id": 323,
+        "expanded": true,
+        "name": "過去:駐屯地2",
+        "order": 388,
+        "parentId": 322,
+        "scrollX": 1416.8,
+        "scrollY": 788.4
+    },
+    {
+        "id": 324,
+        "expanded": true,
+        "name": "過去:医院",
+        "order": 389,
+        "parentId": 323,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 325,
+        "expanded": true,
+        "name": "5:遺跡2",
+        "order": 345,
+        "parentId": 287,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 326,
+        "expanded": true,
+        "name": "5:Ｅ用　闘技場 控室2",
+        "order": 365,
+        "parentId": 288,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 327,
+        "expanded": true,
+        "name": "5:Ｅ用　闘技場 舞台",
+        "order": 366,
+        "parentId": 326,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 328,
+        "expanded": true,
+        "name": "5:Ｅ用　イリメ家",
+        "order": 367,
+        "parentId": 327,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 329,
+        "expanded": true,
+        "name": "5:Ｅ用　街 広場",
+        "order": 368,
+        "parentId": 328,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 330,
+        "expanded": true,
+        "name": "5:Ｅ用　街　酒場前",
+        "order": 369,
+        "parentId": 329,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 331,
+        "expanded": true,
+        "name": "5:Ｅ用　街　闘技場前",
+        "order": 370,
+        "parentId": 330,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "5:遺跡深部",
+        "order": 346,
+        "parentId": 325,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "5:遺跡深部2",
+        "order": 347,
+        "parentId": 332,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "5:遺跡深部3",
+        "order": 348,
+        "parentId": 333,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 335,
+        "expanded": true,
+        "name": "5:遺跡罠2",
+        "order": 349,
+        "parentId": 334,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 336,
+        "expanded": true,
+        "name": "5:Ｅ用　医院",
+        "order": 371,
+        "parentId": 331,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 337,
+        "expanded": false,
+        "name": "3:地下牢2",
+        "order": 235,
+        "parentId": 205,
+        "scrollX": 1416.8,
+        "scrollY": 884.4
+    },
+    {
+        "id": 338,
+        "expanded": true,
+        "name": "5:E用宴1",
+        "order": 372,
+        "parentId": 336,
+        "scrollX": 1416.8,
+        "scrollY": 1227.6
+    },
+    {
+        "id": 339,
+        "expanded": true,
+        "name": "4:E用闘技場 1",
+        "order": 299,
+        "parentId": 234,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 340,
+        "expanded": true,
+        "name": "4:Ｅ用闘技場 舞台",
+        "order": 300,
+        "parentId": 339,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 341,
+        "expanded": true,
+        "name": "5:遺跡罠1",
+        "order": 350,
+        "parentId": 335,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "3:イベント用2",
+        "order": 245,
+        "parentId": 222,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "3:イベント用3",
+        "order": 246,
+        "parentId": 342,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 344,
+        "expanded": true,
+        "name": "1:イベント用　学内2",
+        "order": 194,
+        "parentId": 214,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 345,
+        "expanded": true,
+        "name": "1:イベント用　学内1",
+        "order": 195,
+        "parentId": 344,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 346,
+        "expanded": true,
+        "name": "2:イベント用学内1",
+        "order": 108,
+        "parentId": 257,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "3:イベント用 学内1",
+        "order": 247,
+        "parentId": 343,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "2:Ｅ用:酒場3",
+        "order": 109,
+        "parentId": 346,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "Ｅ用:酒場4",
+        "order": 265,
+        "parentId": 246,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "3:Ｅ用:酒場3",
+        "order": 211,
+        "parentId": 185,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 351,
+        "expanded": true,
+        "name": "4:E用駐屯地",
+        "order": 301,
+        "parentId": 340,
+        "scrollX": 1416.8,
+        "scrollY": 1472.4
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "5:遺跡罠3",
+        "order": 351,
+        "parentId": 341,
+        "scrollX": 1416.8,
+        "scrollY": 876.4
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "Ｅ用:酒場5",
+        "order": 318,
+        "parentId": 300,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 354,
+        "expanded": true,
+        "name": "5:E用駐屯地",
+        "order": 373,
+        "parentId": 338,
+        "scrollX": 1416.8,
+        "scrollY": 1462
+    },
+    {
+        "id": 355,
+        "expanded": true,
+        "name": "5:遺跡罠4",
+        "order": 352,
+        "parentId": 352,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 356,
+        "expanded": true,
+        "name": "5:遺跡罠5",
+        "order": 353,
+        "parentId": 355,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 357,
+        "expanded": true,
+        "name": "5:遺跡罠6",
+        "order": 354,
+        "parentId": 356,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 358,
+        "expanded": false,
+        "name": "E:1",
+        "order": 395,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 359,
+        "expanded": true,
+        "name": "E:2",
+        "order": 396,
+        "parentId": 358,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "E:3",
+        "order": 397,
+        "parentId": 359,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 361,
+        "expanded": true,
+        "name": "5:Ｅ用地下牢2",
+        "order": 374,
+        "parentId": 354,
+        "scrollX": 1416.8,
+        "scrollY": 1348.4
+    },
+    {
+        "id": 362,
+        "expanded": true,
+        "name": "5:闘技場 4",
+        "order": 342,
+        "parentId": 315,
+        "scrollX": 1416.8,
+        "scrollY": 1082
+    },
+    {
+        "id": 363,
+        "expanded": true,
+        "name": "5:Ｅ用街入口",
+        "order": 375,
+        "parentId": 361,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 364,
+        "expanded": true,
+        "name": "E:4",
+        "order": 398,
+        "parentId": 360,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 365,
+        "expanded": true,
+        "name": "E:5",
+        "order": 399,
+        "parentId": 364,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 366,
+        "expanded": true,
+        "name": "5:面会",
+        "order": 376,
+        "parentId": 363,
+        "scrollX": 1416.8,
+        "scrollY": 1371.6
+    },
+    {
+        "id": 367,
+        "expanded": true,
+        "name": "5:Ｅ用闘技場 舞台",
+        "order": 377,
+        "parentId": 366,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 368,
+        "expanded": true,
+        "name": "4:E用管理所　学内2",
+        "order": 302,
+        "parentId": 351,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 369,
+        "expanded": true,
+        "name": "5:Ｅ用　詰所2",
+        "order": 327,
+        "parentId": 303,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 370,
+        "expanded": true,
+        "name": "5:地下牢2",
+        "order": 378,
+        "parentId": 367,
+        "scrollX": 1416.8,
+        "scrollY": 996.4
+    },
+    {
+        "id": 371,
+        "expanded": true,
+        "name": "5:遺跡3",
+        "order": 355,
+        "parentId": 357,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 372,
+        "expanded": true,
+        "name": "5:遺跡4",
+        "order": 356,
+        "parentId": 371,
+        "scrollX": 973.1999999999999,
+        "scrollY": 927.5999999999999
+    },
+    {
+        "id": 373,
+        "expanded": true,
+        "name": "5:遺跡5",
+        "order": 357,
+        "parentId": 372,
+        "scrollX": 973.1999999999999,
+        "scrollY": 944.4
+    },
+    {
+        "id": 374,
+        "expanded": true,
+        "name": "5:遺跡6",
+        "order": 358,
+        "parentId": 373,
+        "scrollX": 973.1999999999999,
+        "scrollY": 543.6
+    },
+    {
+        "id": 375,
+        "expanded": true,
+        "name": "5:遺跡7",
+        "order": 359,
+        "parentId": 374,
+        "scrollX": 973.1999999999999,
+        "scrollY": 543.6
+    },
+    {
+        "id": 376,
+        "expanded": true,
+        "name": "5:遺跡8",
+        "order": 360,
+        "parentId": 375,
+        "scrollX": 973.1999999999999,
+        "scrollY": 944.4
+    },
+    {
+        "id": 377,
+        "expanded": true,
+        "name": "5:遺跡9",
+        "order": 361,
+        "parentId": 376,
+        "scrollX": 1416.8,
+        "scrollY": 876.4
+    },
+    {
+        "id": 378,
+        "expanded": false,
+        "name": "END免罪1",
+        "order": 400,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 379,
+        "expanded": true,
+        "name": "免罪2",
+        "order": 401,
+        "parentId": 378,
+        "scrollX": 832,
+        "scrollY": 640
+    },
+    {
+        "id": 380,
+        "expanded": true,
+        "name": "免罪3",
+        "order": 402,
+        "parentId": 379,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 381,
+        "expanded": true,
+        "name": "免罪4",
+        "order": 403,
+        "parentId": 380,
+        "scrollX": 1293.8181818181818,
+        "scrollY": 716.7272727272727
+    },
+    {
+        "id": 382,
+        "expanded": true,
+        "name": "4:遺跡7",
+        "order": 295,
+        "parentId": 275,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 383,
+        "expanded": true,
+        "name": "1:遺跡10",
+        "order": 146,
+        "parentId": 165,
+        "scrollX": 1416.8,
+        "scrollY": 1092.4
+    },
+    {
+        "id": 384,
+        "expanded": true,
+        "name": "1:遺跡11",
+        "order": 147,
+        "parentId": 383,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 385,
+        "expanded": true,
+        "name": "1:遺跡12",
+        "order": 148,
+        "parentId": 384,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 386,
+        "expanded": true,
+        "name": "2:遺跡11",
+        "order": 132,
+        "parentId": 171,
+        "scrollX": 819,
+        "scrollY": 453
+    },
+    {
+        "id": 387,
+        "expanded": true,
+        "name": "2:遺跡12",
+        "order": 133,
+        "parentId": 386,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 388,
+        "expanded": true,
+        "name": "2:遺跡13",
+        "order": 134,
+        "parentId": 387,
+        "scrollX": 1416.8,
+        "scrollY": 2116.4
+    },
+    {
+        "id": 389,
+        "expanded": false,
+        "name": "MAP389",
+        "order": 363,
+        "parentId": 287,
+        "scrollX": 819,
+        "scrollY": 453
+    },
+    {
+        "id": 390,
+        "expanded": true,
+        "name": "5:Ｅ用闘技場 1",
+        "order": 379,
+        "parentId": 370,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 391,
+        "expanded": true,
+        "name": "5:E用闘技場5",
+        "order": 380,
+        "parentId": 390,
+        "scrollX": 1416.8,
+        "scrollY": 986
+    },
+    {
+        "id": 392,
+        "expanded": false,
+        "name": "Ｅ用5:自宅",
+        "order": 319,
+        "parentId": 353,
+        "scrollX": 1416.8,
+        "scrollY": 1099.6
+    },
+    {
+        "id": 393,
+        "expanded": false,
+        "name": "E:ロザロ1",
+        "order": 404,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 394,
+        "expanded": true,
+        "name": "E:ロザロ2",
+        "order": 405,
+        "parentId": 393,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 395,
+        "expanded": true,
+        "name": "E:ロザロ3",
+        "order": 406,
+        "parentId": 394,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 396,
+        "expanded": true,
+        "name": "E:ロザロ4",
+        "order": 407,
+        "parentId": 395,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 397,
+        "expanded": true,
+        "name": "E：フービィ1",
+        "order": 408,
+        "parentId": 396,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 398,
+        "expanded": true,
+        "name": "E:ヘベタ1",
+        "order": 409,
+        "parentId": 397,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 399,
+        "expanded": true,
+        "name": "E:ヘベタ2",
+        "order": 410,
+        "parentId": 398,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 400,
+        "expanded": true,
+        "name": "E:ホジコ",
+        "order": 411,
+        "parentId": 399,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 401,
+        "expanded": true,
+        "name": "E:ホジコ",
+        "order": 412,
+        "parentId": 400,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 402,
+        "expanded": true,
+        "name": "5:遺跡10",
+        "order": 362,
+        "parentId": 377,
+        "scrollX": 1581.3333333333333,
+        "scrollY": 876
+    },
+    {
+        "id": 403,
+        "expanded": false,
+        "name": "回想",
+        "order": 415,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 404,
+        "expanded": true,
+        "name": "3:イベント用　酒場3",
+        "order": 248,
+        "parentId": 347,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 405,
+        "expanded": true,
+        "name": "過去:医院2",
+        "order": 390,
+        "parentId": 324,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 406,
+        "expanded": true,
+        "name": "過去:医院3",
+        "order": 391,
+        "parentId": 405,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 407,
+        "expanded": true,
+        "name": "3:遺跡7",
+        "order": 243,
+        "parentId": 271,
+        "scrollX": 1416.8,
+        "scrollY": 788.4
+    },
+    {
+        "id": 408,
+        "expanded": true,
+        "name": "4:遺跡8",
+        "order": 296,
+        "parentId": 382,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 409,
+        "expanded": true,
+        "name": "4:遺跡9",
+        "order": 297,
+        "parentId": 408,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 410,
+        "expanded": true,
+        "name": "訓練用:森",
+        "order": 421,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 411,
+        "expanded": true,
+        "name": "5:Ｅ用街入口",
+        "order": 392,
+        "parentId": 406,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 412,
+        "expanded": true,
+        "name": "過去:駐屯所",
+        "order": 393,
+        "parentId": 411,
+        "scrollX": 1779,
+        "scrollY": 985.5
+    },
+    {
+        "id": 413,
+        "expanded": true,
+        "name": "過去:森",
+        "order": 394,
+        "parentId": 412,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 414,
+        "expanded": true,
+        "name": "E：フービィ2",
+        "order": 413,
+        "parentId": 401,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 415,
+        "expanded": true,
+        "name": "E:ロザロ5",
+        "order": 414,
+        "parentId": 414,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 416,
+        "expanded": true,
+        "name": "回想2",
+        "order": 416,
+        "parentId": 403,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 417,
+        "expanded": true,
+        "name": "回想3",
+        "order": 417,
+        "parentId": 416,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 418,
+        "expanded": true,
+        "name": "回想4",
+        "order": 418,
+        "parentId": 417,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 419,
+        "expanded": true,
+        "name": "回想:査定用施設1",
+        "order": 419,
+        "parentId": 418,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 420,
+        "expanded": true,
+        "name": "3:イベント用　学内3",
+        "order": 249,
+        "parentId": 404,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 421,
+        "expanded": false,
+        "name": "特典:城1",
+        "order": 423,
+        "parentId": 0,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 422,
+        "expanded": true,
+        "name": "回想2",
+        "order": 420,
+        "parentId": 419,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 423,
+        "expanded": true,
+        "name": "特典:城2",
+        "order": 424,
+        "parentId": 421,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 424,
+        "expanded": true,
+        "name": "特典:城3",
+        "order": 425,
+        "parentId": 423,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 425,
+        "expanded": true,
+        "name": "特典:城4",
+        "order": 426,
+        "parentId": 424,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 426,
+        "expanded": true,
+        "name": "特典:兵舎1",
+        "order": 427,
+        "parentId": 425,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 427,
+        "expanded": false,
+        "name": "特典:兵舎2",
+        "order": 428,
+        "parentId": 426,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    },
+    {
+        "id": 428,
+        "expanded": true,
+        "name": "2:遺跡14",
+        "order": 135,
+        "parentId": 388,
+        "scrollX": 1423.2,
+        "scrollY": 788.4
+    }
+]
