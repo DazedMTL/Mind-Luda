@@ -166,7 +166,7 @@ var $plugins = [
     name: "ChangeWeaponOnBattle",
     status: true,
     description: "戦闘コマンドに装備変更を追加",
-    parameters: { commandName: "装備変更" },
+    parameters: { commandName: "Equipment" },
   },
   {
     name: "HPConsumeSkill",
