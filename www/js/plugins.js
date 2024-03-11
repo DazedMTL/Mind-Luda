@@ -317,40 +317,40 @@ var $plugins = [
       "Reward Popup Delay": "0",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
       "Get Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[24]手に入れた！",
-      "Lost Gold Text": "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[2]失った。",
-      "Get Item Text": "「_name」を\\C[24]入手。\\n\\C[6]_desc1",
-      "Lost Item Text": "「\\I[_icon]_name」 を\\C[2]失った。\\n\\C[6]_desc1",
+        "Got \\C[24]'\\I[_icon]_num\\C[14] \\G\\C[0]'",
+      "Lost Gold Text": "Lost \\C[2]'\\I[_icon]_num\\C[14] \\G\\C[0]'",
+      "Get Item Text": "Acquired \\C[24]'_name'.\\n\\C[6]_desc1",
+      "Lost Item Text": "Lost \\C[2]'\\I[_icon]_name'.\\n\\C[6]_desc1",
       "Get Item Text Num":
-        "「\\I[_icon]_name」 を\\C[14]_num個\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "Got \\C[24]'\\I[_icon]_name' x\\C[14]_num!\\n\\C[6]_desc1",
       "Lost Item Text Num":
-        "「\\I[_icon]_name」を\\C[14]_num個\\C[2]失った。\\n\\C[6]_desc1",
-      "Get Skill Text": "_actorは「_name」 を\\C[24]習得。\\n\\C[6]_desc1",
+        "Lost \\C[2]'\\I[_icon]_name' x\\C[14]_num.\\n\\C[6]_desc1",
+      "Get Skill Text": "_actor learned \\C[24]'_name'.\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」を \\C[2]喪失。\\n\\C[6]_desc1",
+        "_actor lost \\C[2]'\\I[_icon]_name'.\\n\\C[6]_desc1",
       "Exp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[24]\\C[14]_num \\C[0]points of \\C[4]_name\\C[0]!",
       "Exp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[2]\\C[14]_num \\C[0]points of \\C[4]_name\\C[0]...",
       "Lv Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num \\C[24]points!",
       "Lv Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num \\C[2]points...",
       "Param Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num \\C[24]points!",
       "Param Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num \\C[2]points...",
       "Abp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[24]\\C[14]_num \\C[0]points of \\C[4]_name\\C[0]!",
       "Abp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[2]\\C[14]_num \\C[0]points of \\C[4]_name\\C[0]...",
       "Class Lv Up Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_class \\C[0]_name increased by \\C[14]_num \\C[24]points!",
       "Class Lv Down Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_class \\C[0]_name decreased by \\C[14]_num \\C[2]points...",
       "Formation Lv Up Text":
-        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
-      "Formation Lv Max Text": "\\C[4]_name\\C[0]を\\C[14]マスターした！",
+        "Mastery of \\C[4]_name \\C[0]increased by \\C[14]_num \\C[24]points!",
+      "Formation Lv Max Text": "Mastered \\C[4]_name\\C[0]!",
     },
   },
   {
