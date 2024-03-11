@@ -195,7 +195,7 @@ function OriginMenuStatusSaveObj() {
           $gameSystem.OriginMenuStatusSaveObj().SubParam(args[1], args[2]);
           break;
         case "SetParam":
-          $gameSystem.OriginMenuStatusSaveObj().SetParam(args[1], args[2]);
+          $gameSystem.OriginMenuStatusSaveObj().SetParam(args[1], args[2].replace(/_/g, ' '));
           break;
         case "SetParamVariable":
           $gameSystem
