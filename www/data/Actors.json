@@ -27,7 +27,7 @@
         "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:aa>\n<初期CP:10>\n<初期スキルセット数:2>",
-        "profile": "A valet at the royal castle of the Night Watch nation \"Dawn's Ear\".\nDaughter of Orugi, the head of the self-defense force, and his deputy,\nSeno."
+        "profile": "A valet at the royal castle of the Night Watch nation\n\"Dawn's Ear\". Daughter of Orugi, the head of the self-\ndefense force, and his deputy, Seno."
     },
     {
         "id": 2,
@@ -50,7 +50,7 @@
         "name": "Yuia",
         "nickname": "",
         "note": "<BPnormal:bb>",
-        "profile": "A former \"Dawn's Ear\" royal warrior. Husband to Segi and father to\nRiia. A young man with a strong sense of justice and integrity."
+        "profile": "A former \"Dawn's Ear\" royal warrior. Husband to Segi and\nfather to Riia. A young man with a strong sense of justice\nand integrity."
     },
     {
         "id": 3,
@@ -96,7 +96,7 @@
         "name": "Riia",
         "nickname": "",
         "note": "",
-        "profile": "Yuia and Segi's son. A city warrior under the tutelage of Rozaro, a\nfriend of his father's."
+        "profile": "Yuia and Segi's son. A city warrior under the tutelage of\nRozaro, a friend of his father's."
     },
     {
         "id": 5,
@@ -211,7 +211,7 @@
         "name": "Rozaro",
         "nickname": "",
         "note": "",
-        "profile": "A formidable warrior. His right eye, injured in an accident, has been\nreplaced with a prosthetic and hardly sees anything."
+        "profile": "A formidable warrior. His right eye, injured in an accident,\nhas been replaced with a prosthetic and hardly sees\nanything."
     },
     {
         "id": 10,
@@ -231,7 +231,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Ryuda Soldier",
+        "name": "Luda Soldier",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -401,7 +401,7 @@
         "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:000>\n<初期CP:10>\n<初期スキルセット数:3>\n<CS_下限HP:1,30>  # 現在のHPが40%を下回るとステート[5]を付与\n",
-        "profile": "Yuia's wife and Riia's mother. Driven from her homeland \"Dawn's Ear\"\nby Lyuda, she drifted to this land with Yuia."
+        "profile": "Yuia's wife and Riia's mother. Driven from her homeland\n\"Dawn's Ear\" by Luda, she drifted to this land with Yuia."
     },
     {
         "id": 18,
@@ -904,7 +904,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "Ryuda Recruit",
+        "name": "Luda Recruit",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -953,7 +953,7 @@
         "name": "Soldier of Dawn's Ear",
         "nickname": "",
         "note": "",
-        "profile": "A valet of the \"Dawn's Ear\" royal castle in the Night Watch nation.\nDaughter of Orugi, the leader of the self-defense force, and his\ndeputy, Seno."
+        "profile": "A valet at the royal castle of the Night Watch nation\n\"Dawn's Ear\". Daughter of Orugi, the head of the self-\ndefense force, and his deputy, Seno."
     },
     {
         "id": 42,
@@ -1005,7 +1005,7 @@
         "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:000>\n<初期CP:10>\n<初期スキルセット数:3>\n<CS_下限HP:1,30>  # 現在のHPが40%を下回るとステート[5]を付与\n",
-        "profile": "Valet of the \"Dawn's Ear\" royal castle in the Night Watch nation.\nDaughter of the self-defense force leader Orugi and his deputy leader\nSeno."
+        "profile": "A valet at the royal castle of the Night Watch nation\n\"Dawn's Ear\". Daughter of Orugi, the head of the self-\ndefense force, and his deputy, Seno."
     },
     {
         "id": 44,
@@ -1143,7 +1143,7 @@
         "name": "Delhi",
         "nickname": "",
         "note": "",
-        "profile": "A valet at the royal castle of the Night Watch nation \"Dawn's Ear\".\nDaughter of the self-defense force leader Orugi and his deputy leader\nSeno."
+        "profile": "A valet at the royal castle of the Night Watch nation\n\"Dawn's Ear\". Daughter of Orugi, the head of the self-\ndefense force, and his deputy, Seno."
     },
     {
         "id": 50,
@@ -1166,6 +1166,6 @@
         "name": "Pregnant woman",
         "nickname": "",
         "note": "",
-        "profile": "The royal attendant of the Night Watch nation \"Dawn's Ear\". Daughter\nof the self-defense force leader Orugi and his deputy leader Seno."
+        "profile": "A valet at the royal castle of the Night Watch nation\n\"Dawn's Ear\". Daughter of Orugi, the head of the self-\ndefense force, and his deputy, Seno."
     }
 ]
