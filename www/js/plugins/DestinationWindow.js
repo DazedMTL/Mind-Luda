@@ -534,7 +534,7 @@
       this._textList = [];
     }
     textList.forEach(function (text, index) {
-      text = this.convertEscapeCharacters(text);
+      text = this.convertEscapeCharacters(text.replace(/_/g, ' '));
       if (this._textList[index] === text && this._iconIndex === iconIndex) {
         return;
       }
