@@ -1961,7 +1961,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 遺跡へ向かい、経皮毒の原料を探す"
+                                "DW_目標設定 Head_to_the_ruins_and_search_for_the_ingredients_of_the_transdermal_poison."
                             ]
                         },
                         {
@@ -2318,7 +2318,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "DW_目標設定 時間を潰し、再度医院へ向かう"
+                                "DW_目標設定 Killing_time_before_heading_back_to_the_clinic_again."
                             ]
                         },
                         {
@@ -3218,7 +3218,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "DW_目標設定 練兵会へ向け、情報を収集する"
+                                "DW_目標設定 Gathering_information_for_the_training_session."
                             ]
                         },
                         {
