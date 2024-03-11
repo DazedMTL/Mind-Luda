@@ -3947,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、駄目……こんな恰好で広場に出るなんて……。"
+                                "\\N<Segi>No, I can't... I can't go out to the plaza dressed like\nthis..."
                             ]
                         },
                         {
@@ -4092,7 +4092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、駄目……こんな恰好で広場に出るなんて……。"
+                                "\\N<Segi>No, I can't... I can't go out to the plaza dressed like\nthis..."
                             ]
                         },
                         {
@@ -5578,14 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡は下層に進めば進む程、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶悪な化け物共が跋扈しています。"
+                                "\\N<Man>The deeper you go into the ruins, the more vicious monsters\nyou'll encounter."
                             ]
                         },
                         {
@@ -5602,14 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>自らを鍛える為とは言え、命を落としては何も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なりません……くれぐれも気を付けて進む事です。"
+                                "\\N<Man>Even if you're doing it to train yourself, losing your life\ngains you nothing... Please proceed with utmost caution."
                             ]
                         },
                         {
@@ -5779,14 +5765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡は下層に進めば進む程、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶悪な化け物共が跋扈しています。"
+                                "\\N<Man>The deeper you go into the ruins, the more vicious monsters\nyou'll encounter."
                             ]
                         },
                         {
@@ -5803,14 +5782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>自らを鍛える為とは言え、命を落としては何も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なりません……くれぐれも気を付けて進む事です。"
+                                "\\N<Man>Even if you're doing it to train yourself, losing your life\ngains you nothing... Please proceed with utmost caution."
                             ]
                         },
                         {
@@ -5878,14 +5850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡は下層に進めば進む程、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凶悪な化け物共が跋扈しています。"
+                                "\\N<Man>The deeper you go into the ruins, the more vicious monsters\nyou'll encounter."
                             ]
                         },
                         {
@@ -5902,14 +5867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>自らを鍛える為とは言え、命を落としては何も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なりません……くれぐれも気を付けて進む事です。"
+                                "\\N<Man>Even if you're doing it to train yourself, losing your life\ngains you nothing... Please proceed with utmost caution."
                             ]
                         },
                         {
@@ -6097,21 +6055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部をウロつく化け物共にやられた傷は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中が治療してくれるらしいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は化け物共より彼等の方が信用出来ません……。"
+                                "\\N<Man>It seems that the folks from Ryuda will treat the wounds\ninflicted by the monsters lurking inside the ruins, but I\ntrust them even less than the monsters..."
                             ]
                         },
                         {
@@ -6230,21 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部をウロつく化け物共にやられた傷は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中が治療してくれるらしいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は化け物共より彼等の方が信用出来ません……。"
+                                "\\N<Man>It seems that the folks from Ryuda will treat the wounds\ninflicted by the monsters lurking inside the ruins, but I\ntrust them even less than the monsters..."
                             ]
                         },
                         {
@@ -6363,21 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部をウロつく化け物共にやられた傷は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中が治療してくれるらしいですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は化け物共より彼等の方が信用出来ません……。"
+                                "\\N<Man>It seems that the folks from Ryuda will treat the wounds\ninflicted by the monsters lurking inside the ruins, but I\ntrust them even less than the monsters..."
                             ]
                         },
                         {
@@ -6505,14 +6421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部には未だ未到達な個所も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隈なく探索すれば有用な物品を発見する事もあるかもな。"
+                                "\\N<Man>There are still many areas within the ruins that remain\nunexplored. If you search every nook and cranny, you might\ndiscover something useful."
                             ]
                         },
                         {
@@ -6631,14 +6540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部には未だ未到達な個所も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隈なく探索すれば有用な物品を発見する事もあるかもな。"
+                                "\\N<Man>There are still many areas within the ruins that remain\nunexplored. If we search every nook and cranny, we might\ndiscover something useful."
                             ]
                         },
                         {
@@ -6766,14 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>何を見てやがる、言いたい事でもあるってのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何なら地下牢にでも繋いでから話を聞いてやろうか？あ？"
+                                "\\N<Ryuda Soldier>What are you looking at, got something to say? Maybe I\nshould tie you up in the dungeon before we talk, huh?"
                             ]
                         },
                         {

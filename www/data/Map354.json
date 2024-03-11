@@ -7067,14 +7067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少女>かあさま、つかいのものがまいりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おつとめとの事です。"
+                                "\\N<Girl>Mother, a messenger has arrived. They say it's for your\nduties."
                             ]
                         },
                         {
@@ -7107,7 +7100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>……判りました。すぐに向かいます。"
+                                "\\N<Princess Consort Suia>...I understand. I will head there immediately."
                             ]
                         },
                         {
@@ -7140,7 +7133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少女>その、かあさま……おつとめとは何なのでしょうか？"
+                                "\\N<Girl>Um, mother... what are these duties about?"
                             ]
                         },
                         {
@@ -7237,21 +7230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>それを知るのはあなたにはまだ早い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配せずとも何れあなたにも知らなければならなくなる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時が来ます。"
+                                "\\N<Princess Consort Suia>It's too early for you to know that. Don't worry, the time\nwill come when you must be informed."
                             ]
                         },
                         {
@@ -7268,14 +7247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>わたくしと……あなたの置かれた立場。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてあなたの兄様の事をね。"
+                                "\\N<Princess Consort Suia>About my role... and the position you are in, as well as\nabout your brother."
                             ]
                         },
                         {
@@ -7299,7 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少女>わたしの……にいさま……。"
+                                "\\N<Girl>My... brother..."
                             ]
                         },
                         {
@@ -7349,7 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>あ、ああ……はあ……っ！"
+                                "\\N<Princess Consort Suia>Ah, ahh... haah...!"
                             ]
                         },
                         {
@@ -7407,7 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ん……ふ……っ！はあ……っ！"
+                                "\\N<Seno>Mm... fu... haah...!"
                             ]
                         },
                         {
@@ -7489,7 +7461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>はあ……はあ……っ！こ、公妃様……っ！"
+                                "\\N<Former Duchy Soldier>Haah... haah...! Princess Consort...!"
                             ]
                         },
                         {
@@ -7506,14 +7478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>駄目……駄目です……これ以上はもう……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わたくし……壊れてしまいますから……っ！"
+                                "\\N<Princess Consort Suia>No... it's no good... I can't take any more...! I-I'll break\nif we continue...!"
                             ]
                         },
                         {
@@ -7530,14 +7495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>そんな……つ、次は私の番なんです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうかそれまでは……っ！"
+                                "\\N<Former Duchy Soldier>But... it's my turn next! Please, at least until then...!"
                             ]
                         },
                         {
@@ -7554,14 +7512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>お、おい……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無茶はするなって言ったろ……！？"
+                                "\\N<Seno>Hey...! Didn't I tell you not to overdo it...!?"
                             ]
                         },
                         {
@@ -7578,14 +7529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>そんなにヤリたいならあたしが相手してやるから……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、大人しく順番待ちしてなっ！"
+                                "\\N<Seno>If you're that eager, I'll take care of you...! Just wait\nyour turn quietly!"
                             ]
                         },
                         {
@@ -7602,7 +7546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>副団長……ああ……お二人ともとてもお綺麗だ……。"
+                                "\\N<Former Duchy Soldier>Vice-Captain... ah... both of you are so beautiful..."
                             ]
                         },
                         {
@@ -7619,14 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>俺達は幸せ者です……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな思いが出来るのならば、リュダに降って良かった！"
+                                "\\N<Former Duchy Soldier>We are truly fortunate...! To be able to experience this, it\nwas good to surrender to Ryuda!"
                             ]
                         },
                         {
@@ -7643,14 +7580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>く……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、情けない事を言うんじゃないよ……っ！"
+                                "\\N<Seno>Ku...! Don't say such pathetic things...!"
                             ]
                         },
                         {
@@ -7720,14 +7650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>よう、今日も張り切ってんなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにイイかい？このお二方はよ？"
+                                "\\N<Zuuteruka>Yo, you're all fired up today too, huh? Is it that good?\nWith these two ladies?"
                             ]
                         },
                         {
@@ -7744,7 +7667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ズーテルカ……？"
+                                "\\N<Former Duchy Soldier>Zuuteruka...?"
                             ]
                         },
                         {
@@ -7761,14 +7684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>いいぜ、続けてろよ。だが無茶はさせるなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ大切な身体だからなあ？"
+                                "\\N<Zuuteruka>Yeah, keep going. But don't push them too hard, alright?\nThey're precious bodies after all."
                             ]
                         },
                         {
@@ -7785,7 +7701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>も、勿論……決して無茶など……。"
+                                "\\N<Former Duchy Soldier>Of course... I would never be reckless..."
                             ]
                         },
                         {
@@ -7802,21 +7718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>な、何の用です……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぐわいの最中に無粋では無いですか……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、出てお行きなさい……！"
+                                "\\N<Princess Consort Suia>What do you want...!? Isn't it rude to interrupt during\ncopulation...! Please, leave at once...!"
                             ]
                         },
                         {
@@ -7833,21 +7735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、無粋は承知の上さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腹の中の赤ん坊の事も有るしなあ、こいつらがアンタらに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無茶してねえかと思ってさ。"
+                                "\\N<Zuuteruka>Hehehe, I know it's impolite. But I'm concerned about the\nbaby inside you, making sure these guys aren't being too\nrough with you."
                             ]
                         },
                         {
@@ -7864,14 +7752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ホレ、何と言ってもこいつらには昔年の慕情みてえなモンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるからなあ？"
+                                "\\N<Zuuteruka>After all, these guys have something like a yearning for the\nold days with you two, right?"
                             ]
                         },
                         {
@@ -7888,7 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>はあ……っ！はあ……っ！"
+                                "\\N<Former Duchy Soldier>Haah...! Haah...!"
                             ]
                         },
                         {
@@ -7905,14 +7786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>だとしたら何だってのさ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタがあたしらの身体を気遣うなんざ、何の冗談だい！？"
+                                "\\N<Seno>If that's the case, what about it...!? Why would you care\nabout our bodies, what kind of joke is that!?"
                             ]
                         },
                         {
@@ -7929,21 +7803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、まあそう言う事も有るさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せアンタら二人には大切な任務に当たって貰う事に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なったんだからな。"
+                                "\\N<Zuuteruka>Hehehe, well there's that. After all, you two have been\nassigned an important mission."
                             ]
                         },
                         {
@@ -8001,7 +7861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>に、任務……ですって？"
+                                "\\N<Princess Consort Suia>A mission... you say?"
                             ]
                         },
                         {
@@ -8018,14 +7878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、この俺との合同さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に辺境の遺跡都市ミィべに向かって貰う。"
+                                "\\N<Zuuteruka>Yeah, a joint operation with me. We're heading to the\nfrontier ruins city of Myibe together."
                             ]
                         },
                         {
@@ -8042,14 +7895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>ミィベ……何故わたくし達があの様な辺境に出向かねば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならぬのです……？"
+                                "\\N<Princess Consort Suia>Myibe... why must we go to such a remote place...?"
                             ]
                         },
                         {
@@ -8066,21 +7912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、亡くなった公妃サマの旦那……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり大公閣下の御一族はミィベと古い繋がりが有ったって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話じゃねえか。"
+                                "\\N<Zuuteruka>Hehehe, didn't the late Princess Consort's husband... in\nother words, His Grace the Grand Duke have an old connection\nwith Myibe?"
                             ]
                         },
                         {
@@ -8097,14 +7929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>全く何も言ってくれねえんだもんな、水臭いじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなに身体を重ねた間柄なのによ？"
+                                "\\N<Zuuteruka>You never say anything, do you? It's stingy. Even though\nwe've been so intimate?"
                             ]
                         },
                         {
@@ -8121,14 +7946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>お前に何故その様な事を語らねばならぬのです……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わたくしにその様な義理など有りはしません……！"
+                                "\\N<Princess Consort Suia>Why must I speak of such things to you...!? I owe you no\nsuch obligation...!"
                             ]
                         },
                         {
@@ -8145,14 +7963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、楽しみだなあ？色々とよ？"
+                                "\\N<Zuuteruka>Hehehe... is that so. Well, I'm looking forward to it. In\nvarious ways, huh?"
                             ]
                         },
                         {
@@ -8169,7 +7980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>……。"
+                                "\\N<Princess Consort Suia>..."
                             ]
                         },
                         {
@@ -8186,21 +7997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ふ、ふん……イイのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この駐屯所から離れれば公妃様やあたしが逃げ出すとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わないのかい……！？"
+                                "\\N<Seno>Hmph... is that okay with you? If we leave this garrison,\ndon't you think Princess Consort and I might just run\naway...!?"
                             ]
                         },
                         {
@@ -8217,14 +8014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……だったら逃げてみろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然ここに残ったアンタらの子達の身は保証しねえぜ？"
+                                "\\N<Zuuteruka>Hehehe... then try running away. Of course, I won't\nguarantee the safety of your children left here."
                             ]
                         },
                         {
@@ -8241,14 +8031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何せ誰のコかも判らねーからなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "守ってやる義理なんざねえよなあ？"
+                                "\\N<Zuuteruka>After all, who knows whose kids they are? There's no\nobligation to protect them, right?"
                             ]
                         },
                         {
@@ -8265,7 +8048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>な……何ですって……！？"
+                                "\\N<Princess Consort Suia>Wh-what did you say...!?"
                             ]
                         },
                         {
@@ -8282,14 +8065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それに……アンタらは逃げねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げてドコへ行くってんだ？"
+                                "\\N<Zuuteruka>Besides... you won't run away. Where would you go if you\ndid?"
                             ]
                         },
                         {
@@ -8318,14 +8094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……新天地での重要な任務だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟して準備して置けよ？身体も……そして心もな。"
+                                "\\N<Zuuteruka>Hehehe... it's an important mission in a new land. Prepare\nyourself mentally and physically. Both your body and your\nheart."
                             ]
                         },
                         {
@@ -8448,7 +8217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -8465,7 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ち、ちょっと待って、これって……。"
+                                "\\N<Segi>W-wait a minute, this means..."
                             ]
                         },
                         {
@@ -8524,14 +8293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……やっぱり記載された日付が近い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これって……この街にズーテルカが来たあの日の直前……？"
+                                "\\N<Segi>...as I thought, the dates noted are close. This means...\nright before the day Zuuteruka came to this town...?"
                             ]
                         },
                         {
@@ -8659,7 +8421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>さて……と。今日は何処から見廻りますかねえ？"
+                                "\\N<Zuuteruka>Well then... Where shall we start our patrol today?"
                             ]
                         },
                         {
@@ -9000,8 +8762,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9045,7 +8807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……お二人さん、今日もお盛んで。"
+                                "\\N<Zuuteruka>Hehehe... You two are quite spirited today as well."
                             ]
                         },
                         {
@@ -9062,14 +8824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ズーテルカ>それにしても……あの2人はリュダの士気向上に十分"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "過ぎる程に役立ってる。"
+                                "\\N<Zuuteruka>Even so... those two are more than enough to boost the\nmorale of Ryuda's troops."
                             ]
                         },
                         {
@@ -9086,14 +8841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ズーテルカ>どれだけ高尚なお題目を唱えた所で、所詮男なんざ女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次第で殺気立ちもするし、無気力にもなりやがるからな……。"
+                                "\\N<Zuuteruka>No matter how noble the ideals you preach, in the end, a\nman's vigor can rise or fall depending on a woman..."
                             ]
                         },
                         {
@@ -9323,7 +9071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>はあっ！はあ……っ！"
+                                "\\N<Former Duchy Soldier>Haah! Haa...!"
                             ]
                         },
                         {
@@ -9375,14 +9123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>副団長……お、俺……明日戦場へ送られるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中の命令で……夢も希望も無い過酷な戦地へ……。"
+                                "\\N<Former Duchy Soldier>Vice-Captain... I... I'm being sent to the battlefield\ntomorrow. By the orders of the Ryuda faction... to a harsh\nbattlefield with no dreams or hope..."
                             ]
                         },
                         {
@@ -9399,21 +9140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>そうかい……それは辛いね……でも、いいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に帰って来るんだよ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしもここで無事を祈って待ってるからね……？"
+                                "\\N<Seno>Is that so... That's tough... But listen, okay? Make sure\nyou come back safely...? I'll be here praying for your safe\nreturn..."
                             ]
                         },
                         {
@@ -9471,7 +9198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ふ、副団長……っ！"
+                                "\\N<Former Duchy Soldier>Vi-Vice-Captain...!"
                             ]
                         },
                         {
@@ -9488,7 +9215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>あん……っ。い、いいよ……気持ちいいよ……？"
+                                "\\N<Seno>Ahn... It's okay... It feels good..."
                             ]
                         },
                         {
@@ -9505,7 +9232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>はあっ！はあ……っ！"
+                                "\\N<Former Duchy Soldier>Haah! Haa...!"
                             ]
                         },
                         {
@@ -9522,14 +9249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>すまないね、お前達。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしがこんな身体になっちまったばかりに無茶出来なくて。"
+                                "\\N<Seno>I'm sorry, you guys. Because I've become like this, I can't\ndo anything too reckless."
                             ]
                         },
                         {
@@ -9546,14 +9266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>い、いえ……どんな御姿になろうと貴女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魅力的な女性です……。"
+                                "\\N<Former Duchy Soldier>No... No matter what form you take, you are an attractive\nwoman..."
                             ]
                         },
                         {
@@ -9570,14 +9283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ふ、ふふ……嘘でも嬉しいじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな年増相手にさ。"
+                                "\\N<Seno>Fu, fufu... Even if it's a lie, it makes me happy. To think\nyou'd say that to an older woman like me."
                             ]
                         },
                         {
@@ -9594,14 +9300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ほ、本当です！俺は国の自警団にいる頃から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "副団長に憧れて来たんだ！"
+                                "\\N<Former Duchy Soldier>It's true! I've admired the Vice-Captain since my days in\nthe national militia!"
                             ]
                         },
                         {
@@ -9618,21 +9317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ですが……何故ここまでしてくれるのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……現に公妃様は俺達元「暁の穂」の兵を相手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "されないと聴きました……。"
+                                "\\N<Former Duchy Soldier>But... why are you doing so much for us? I heard that Her\nHighness the Princess Consort doesn't associate with us\nformer 'Dawn's Ear' soldiers..."
                             ]
                         },
                         {
@@ -9649,14 +9334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>そっか……でもそれは仕方ない事なのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公妃様にはきっとお考えが有るんだ……。"
+                                "\\N<Seno>Is that so... But that can't be helped. The Princess Consort\nmust have her reasons..."
                             ]
                         },
                         {
@@ -9673,21 +9351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>でも……あたしは違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喜んでお前達の相手をさせて貰うよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ……だからもっと……。"
+                                "\\N<Seno>But... I'm different. I'm happy to keep you guys company? So\ncome on... give me more..."
                             ]
                         },
                         {
@@ -9704,7 +9368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ふ、副団長……っ！"
+                                "\\N<Former Duchy Soldier>Vi-Vice-Captain...!"
                             ]
                         },
                         {
@@ -9774,7 +9438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>あ、あんっ！？"
+                                "\\N<Seno>Ah, ahn!?"
                             ]
                         },
                         {
@@ -9832,21 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ふふ……だ、駄目じゃないか、女の身体はもっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優しく扱わないとね？ウチの旦那なんかガサツな見てくれと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は裏腹に、夜はそりゃあ紳士だったモンさ。"
+                                "\\N<Seno>Fufu... That's not good, you know? A woman's body needs to\nbe treated more gently? My husband, despite his rough\nappearance, was quite the gentleman at night."
                             ]
                         },
                         {
@@ -9863,7 +9513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>だ、団長が……。"
+                                "\\N<Former Duchy Soldier>The Captain was..."
                             ]
                         },
                         {
@@ -9926,21 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>んん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あたしらにもう少しチカラがあれば……お前達はこんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想いしないで済んだんだ。"
+                                "\\N<Seno>Mmm... If only we had a little more power... you guys\nwouldn't have to go through this."
                             ]
                         },
                         {
@@ -9957,21 +9593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>あたしらの弱さがお前達の大切な故郷と居場所を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪っちまったんだ。だから……だからせめてこの身体で慰め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "られるものなら、そうしてやりたいのさ。"
+                                "\\N<Seno>Our weakness is what took away your precious homeland and\nplace to belong. So... that's why, if I can comfort you with\nthis body, then that's what I want to do."
                             ]
                         },
                         {
@@ -9993,14 +9615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>今のあたしには、他には何も無いからね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ位しか出来ないが勘弁しておくれ……？"
+                                "\\N<Seno>Right now, this is all I have... It's not much, but please\nforgive me..."
                             ]
                         },
                         {
@@ -10017,14 +9632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>な、何を仰るのですか……充分です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "充分満たされています……！"
+                                "\\N<Former Duchy Soldier>What are you saying... It's more than enough! I am\ncompletely satisfied...!"
                             ]
                         },
                         {
@@ -10041,14 +9649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>この柔らかな肌に身を預けている間は……国の事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もリュダの事も忘れられそうです……。"
+                                "\\N<Former Duchy Soldier>While I entrust myself to this soft skin... I can almost\nforget about the country and Ryuda..."
                             ]
                         },
                         {
@@ -10065,14 +9666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ふふ……そう言われれば、旦那を犠牲にしてまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生き永らえたあたし自身にも意味が有るんだって救われるよ。"
+                                "\\N<Seno>Fufu... If you say that, then it makes me feel like there's\nmeaning in my own survival, even at the cost of sacrificing\nmy husband."
                             ]
                         },
                         {
@@ -10089,21 +9683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>副団長……！どうかお一人で抱え込まないで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下さい……！わ、我らがこれからもこれからもお慰め致し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ますから……っ！"
+                                "\\N<Former Duchy Soldier>Vice-Captain...! Please don't bear it all alone...! We will\ncontinue to comfort you from now on...!"
                             ]
                         },
                         {
@@ -10120,7 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>……ふふ……。"
+                                "\\N<Seno>...Fufu..."
                             ]
                         },
                         {
@@ -10137,21 +9717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>そ、その暁には……その……無事お子が産まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ましたら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は……我らの子を……。"
+                                "\\N<Former Duchy Soldier>When the dawn comes... if... when your child is safely\nborn... next time... our children will..."
                             ]
                         },
                         {
@@ -10189,7 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>……ああ。その時は……ね。"
+                                "\\N<Seno>...Yeah. When that time comes... right."
                             ]
                         },
                         {

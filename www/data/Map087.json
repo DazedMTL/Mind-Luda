@@ -2469,7 +2469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>やあ、セギ。その……調子はどうだい？"
+                                "\\N<Irime>Hey, Segi. How are you feeling...?"
                             ]
                         },
                         {
@@ -2493,14 +2493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……特に変わりはありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかしたんですか……？"
+                                "\\N<Segi>Irime-san... Nothing's changed particularly, but is\nsomething the matter...?"
                             ]
                         },
                         {
@@ -2524,14 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>い、いや……その、さ。変わりが無いならいいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要らない心配だったね、あはは……。"
+                                "\\N<Irime>No, it's just... Well, if nothing's changed, that's good. It\nwas unnecessary worry on my part, haha..."
                             ]
                         },
                         {
@@ -2555,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2579,21 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>……やっぱり何かあったのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら話してごらんよ？そうすれば少しは落ち着くかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知れないよ？"
+                                "\\N<Irime>...Is there really something wrong? If it's okay with you,\nwhy don't you talk about it? It might help you feel a bit\nbetter?"
                             ]
                         },
                         {
@@ -2641,14 +2613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あのズーテルカがアンタを……そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事が……。"
+                                "\\N<Irime>That Zuuteruka did something to you... I see. So that's what\nhappened..."
                             ]
                         },
                         {
@@ -2672,14 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……すみません、折角気にして頂いたのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も変わりがないなんて嘘を吐いてしまって……。"
+                                "\\N<Segi>...I'm sorry, even though you were concerned about me, I\nlied saying nothing had changed..."
                             ]
                         },
                         {
@@ -2703,7 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>いいさ。気軽に話せる事でもないしね。"
+                                "\\N<Irime>It's alright. It's not something you can easily talk about."
                             ]
                         },
                         {
@@ -2720,21 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>それに……こう言っちゃなんだけどさ、アンタの気持ち"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判るよ。いや、ユイアさんがいない今、この街じゃアタシ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけがアンタの気持ちを判ると言っても過言じゃない筈さ。"
+                                "\\N<Irime>Besides... I mean, I understand how you feel. No, with Yuia-\nsan not here, I might be the only one in this town who truly\nunderstands your feelings."
                             ]
                         },
                         {
@@ -2758,7 +2702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -2782,14 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>何とか今はこうして練兵会を勝ち抜く事が出来てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもさ、こう見えてアタシも色々あったからね。"
+                                "\\N<Irime>Somehow I've managed to make it through the training\nsessions. But you see, I've had my fair share of troubles\ntoo."
                             ]
                         },
                         {
@@ -2806,21 +2743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>平坦で安全な道ばかり歩ってたんじゃ、目的の場所へは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辿り着かない。時には危険を冒してでも進まなきゃいけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時もあるだろうさ。"
+                                "\\N<Irime>If you only walk on safe and smooth roads, you won't reach\nyour destination. Sometimes you have to take risks and move\nforward even if it's dangerous."
                             ]
                         },
                         {
@@ -2844,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2868,14 +2791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>だから……アンタの気持ちはアタシが一番よく判る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方の無い選択だったってのも判ってるさ。"
+                                "\\N<Irime>That's why... I understand your feelings the best. I also\nunderstand that it was a choice you had to make."
                             ]
                         },
                         {
@@ -2899,7 +2815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……。"
+                                "\\N<Segi>Irime-san..."
                             ]
                         },
                         {
@@ -2998,14 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>何とか今はこうして練兵会を勝ち抜く事が出来てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもさ、こう見えてアタシも色々あったからね。"
+                                "\\N<Irime>Somehow, I've managed to make it through the training\nsessions. But you know, I've had my fair share of troubles\ntoo."
                             ]
                         },
                         {
@@ -3022,21 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>平坦で安全な道ばかり歩ってたんじゃ、目的の場所へは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辿り着かない。時には危険を冒してでも進まなきゃいけない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時もあるだろうさ。"
+                                "\\N<Irime>If you only walk on flat and safe paths, you won't reach\nyour destination. Sometimes you have to take risks and move\nforward, even if it's dangerous."
                             ]
                         },
                         {
@@ -3176,7 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……。"
+                                "\\N<Segi>Irime-san..."
                             ]
                         },
                         {
@@ -3200,7 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>……どうしたんだい？思い詰めたカオしちゃって。"
+                                "\\N<Irime>...What's the matter? You look so serious."
                             ]
                         },
                         {
@@ -3224,7 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……。"
+                                "\\N<Segi>No, it's nothing..."
                             ]
                         },
                         {
@@ -3262,7 +3157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>こんな時間迄精が出るね。練兵会の準備かい？"
+                                "\\N<Irime>You're still at it this late? Preparing for the training\nsession?"
                             ]
                         },
                         {
@@ -3286,14 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい。わたしの様な戦闘経験の無い身は、幾ら準備しても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "し過ぎると言う事はありませんから。"
+                                "\\N<Segi>Yes. Someone with as little combat experience as me can\nnever be too prepared."
                             ]
                         },
                         {
@@ -3317,14 +3205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>それはお互い様さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい後悔の無い様にしっかりやろうじゃないか。"
+                                "\\N<Irime>That's true for both of us. Let's make sure we do our best\nwithout any regrets."
                             ]
                         },
                         {
@@ -3364,21 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あ……ち、ちょっと待ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタ、それ……何を持っているんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……妙な粘着性の有る糸と言うか……。"
+                                "\\N<Irime>Ah... wait a minute. What are you holding there? That...\nstrange sticky thread?"
                             ]
                         },
                         {
@@ -3402,14 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ああ、これ……遺跡で拾ったんです。何なのかは判らない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、もしかしたら何かの役に立つかと思ったもので。"
+                                "\\N<Segi>Oh, this... I found it in the ruins. I don't know what it\nis, but I thought it might be useful for something."
                             ]
                         },
                         {
@@ -3433,7 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>それ……ちょっと見せてごらん？"
+                                "\\N<Irime>Can I take a look at that?"
                             ]
                         },
                         {
@@ -3457,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい。どうぞ。"
+                                "\\N<Segi>Yes, here you go."
                             ]
                         },
                         {
@@ -3497,14 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ふぅん……アンタの言う通りコレが何なのかは別としても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに役立つかも知れないね。"
+                                "\\N<Irime>Hmm... Regardless of what this actually is, it might indeed\nprove to be useful."
                             ]
                         },
                         {
@@ -3521,14 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>でも、このままじゃダメだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コイツを道具として使える様に加工しなきゃ。"
+                                "\\N<Irime>But it's no good as it is. We need to process it to make it\nusable as a tool."
                             ]
                         },
                         {
@@ -3552,7 +3398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……どう言う事でしょうか。"
+                                "\\N<Segi>What do you mean?"
                             ]
                         },
                         {
@@ -3576,21 +3422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ホラ、この間の話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フービィの奴の動きを封じるのに使えるかもって話。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この粘着性を利用すれば或いは……。"
+                                "\\N<Irime>Remember our conversation the other day? About using\nsomething to immobilize Fubii. Maybe we can use this\nstickiness to our advantage..."
                             ]
                         },
                         {
@@ -3614,7 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……。"
+                                "\\N<Segi>Ah..."
                             ]
                         },
                         {
@@ -3638,21 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>でも、このままじゃダメだ。加工した上でじゃないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の役にも立たないだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……この街にそんな芸当が出来るヤツがいればいいけど。"
+                                "\\N<Irime>But as I said, it's useless in its current state. It needs\nto be processed before it can be of any use... If only there\nwas someone in town who could perform such a feat."
                             ]
                         },
                         {
@@ -3676,7 +3494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>道具として使える様に加工……。"
+                                "\\N<Segi>Process it to make it usable as a tool..."
                             ]
                         },
                         {
@@ -3792,21 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>でも、このままじゃダメだ。加工した上でじゃないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の役にも立たないだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……この街にそんな芸当が出来るヤツがいればいいけど。"
+                                "\\N<Irime>But this won't do as it is. It needs to be processed further\nto be of any use... If only there was someone in this town\ncapable of such a feat."
                             ]
                         },
                         {
@@ -3990,14 +3794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>わたし……こわいんです。またママが戦いに行くのが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてわたしが何も出来ない事が。"
+                                "\\N<Rame>I'm scared... that Mama will go off to fight again... and\nthat I can't do anything about it."
                             ]
                         },
                         {
@@ -4014,21 +3811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>わたし……ケンカはにがてですけど、リイアちゃんが早く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つよくなりたいって言ってた気持ち、今ならほんの少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかる気がします……。"
+                                "\\N<Rame>I'm not good at fighting, but now I think I understand, even\nif just a little, how Riia-chan felt when he said he wanted\nto become stronger quickly..."
                             ]
                         },
                         {
@@ -4118,14 +3901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>わたし……こわいんです。またママが戦いに行くのが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてわたしが何も出来ない事が。"
+                                "\\N<Rame>I'm scared... I'm scared of Mama going off to fight again...\nand that I can't do anything about it."
                             ]
                         },
                         {
@@ -4142,21 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>わたし……ケンカはにがてですけど、リイアちゃんが早く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つよくなりたいって言ってた気持ち、今ならほんの少し"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わかる気がします……。"
+                                "\\N<Rame>I'm not good at fighting, but now I think I understand, even\nif just a little, why Riia-chan wanted to become stronger so\nquickly..."
                             ]
                         },
                         {
@@ -4296,14 +4058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>フービィ……彼が来てからと言うもの教練所の男の子達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふんいきがかわっちゃったみたいに思います。"
+                                "\\N<Rame>Fubii... ever since he arrived, it seems like the atmosphere\namong the boys at the training grounds has changed."
                             ]
                         },
                         {
@@ -4320,14 +4075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>彼は一体何がしたいんだろう……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやリイアちゃんにはかんけいないと思いますけど……。"
+                                "\\N<Rame>What on earth does he want to do...? I don't think it has\nanything to do with me or Riia-chan though..."
                             ]
                         },
                         {
@@ -4417,14 +4165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>フービィ……彼が来てからと言うもの教練所の男の子達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふんいきがかわっちゃったみたいに思います。"
+                                "\\N<Rame>Fubii... Ever since he arrived, it seems like the atmosphere\namong the boys at the training grounds has changed."
                             ]
                         },
                         {
@@ -4441,14 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>彼は一体何がしたいんだろう……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやリイアちゃんにはかんけいないと思いますけど……。"
+                                "\\N<Rame>What on earth does he want to do...? I don't think it has\nanything to do with me or Riia-chan though..."
                             ]
                         },
                         {
@@ -4590,14 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>やあ、セギさん……見舞いに来てくれたのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "済まないね……こんな格好のままで……。"
+                                "\\N<Irime's Husband>Hey, Segi-san... did you come to visit me? I'm sorry... for\nbeing in such a state..."
                             ]
                         },
                         {
@@ -4621,7 +4348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ……そんな。それよりお加減は如何でしょうか？"
+                                "\\N<Segi>No... don't worry about that. How are you feeling?"
                             ]
                         },
                         {
@@ -4645,14 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>悪くはないが、どうにもね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は大病を患い、見ての通り自由に動き回る事も出来ない。"
+                                "\\N<Irime's Husband>Not too bad, but still... I've been seriously ill, and as\nyou can see, I can't move around freely."
                             ]
                         },
                         {
@@ -4669,14 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>だから恥を忍んであなたに頼みたいんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妻の事を。イリメの事をね……。"
+                                "\\N<Irime's Husband>That's why, swallowing my pride, I want to ask you for a\nfavor... about my wife. About Irime..."
                             ]
                         },
                         {
@@ -4693,21 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>彼女は私を気遣い、いつも気丈に振る舞ってはいるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "芯が弱い女性だ。しかし当の私は文字通り彼女を支える事も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力になってやる事も出来ない……。"
+                                "\\N<Irime's Husband>She's concerned about me and always tries to act strong, but\nshe's a woman with a fragile core. Yet I literally can't\nsupport her or be the strength she needs..."
                             ]
                         },
                         {
@@ -4724,14 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>こんな時だからこそ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の代わりに信頼するあなたに力になってやって欲しいのさ。"
+                                "\\N<Irime's Husband>That's why, especially now... I want you, someone I trust,\nto be there for her in my stead."
                             ]
                         },
                         {
@@ -4755,14 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……判りました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな私でお役に立てるのでしたら、是非。"
+                                "\\N<Segi>...Understood. If I can be of any help, then certainly."
                             ]
                         },
                         {
@@ -4786,7 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>有難う……その言葉を聞いて安心したよ。"
+                                "\\N<Irime's Husband>Thank you... hearing those words puts me at ease."
                             ]
                         },
                         {
@@ -4803,14 +4488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>妻や娘……そしてこの街の行く末がどうなるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判らないのに……非力な自分が情けないよ。"
+                                "\\N<Irime's Husband>Not knowing what will become of my wife and daughter... and\nthe future of this town... it's frustrating to be so\npowerless."
                             ]
                         },
                         {
@@ -4834,14 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな事は気に病まずご養生なさって下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとそれがイリメさん達の為ですから。"
+                                "\\N<Segi>Please don't worry about that and focus on your recovery.\nSurely that's what's best for Irime-san and everyone else."
                             ]
                         },
                         {
@@ -4865,7 +4536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>……有難う。あなたは心優しい女性だ……。"
+                                "\\N<Irime's Husband>...Thank you. You are a kind-hearted woman..."
                             ]
                         },
                         {
@@ -4941,7 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>……有難う。あなたは心優しい女性だ……。"
+                                "\\N<Irime's Husband>...Thank you. You are a kind-hearted woman..."
                             ]
                         },
                         {

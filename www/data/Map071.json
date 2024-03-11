@@ -3835,14 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>警備任務中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無いなら話しかけないで貰おうか。"
+                                "\\N<Ryuda Soldier>I'm on guard duty. If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -4039,21 +4032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会が始まってからと言うもの、既にその勝敗によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天国と地獄を味わう住民が現れています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは街の人心が二分されてしまいます……。"
+                                "\\N<Man>Ever since the military training competition began, there\nare already citizens who have tasted both heaven and hell\ndepending on the outcomes. If this continues, the town's\npublic sentiment will be split in two..."
                             ]
                         },
                         {
@@ -4130,14 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>知っての通り中では練兵会が催されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らの運命を決定付ける戦いだ、心して臨むがいいさ。"
+                                "\\N<Ryuda Soldier>As you know, a training session is being held inside. It's a\nbattle that will determine your fate, so approach it with\nresolve."
                             ]
                         },
                         {
@@ -4214,21 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会会場か……ここも以前は街の演舞場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その憩いの場が、リュダの奴らが来てからすっかり血生臭い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に変わってしまった……。"
+                                "\\N<Man>The training grounds, huh... This place used to be the\ntown's performance hall. Ever since those Ryuda guys came,\nthis relaxing spot has completely turned into a blood-\nstained place..."
                             ]
                         },
                         {
@@ -4439,7 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>やあ、おばさん。また会ったね。"
+                                "\\N<Fubii>Hey, auntie. We meet again."
                             ]
                         },
                         {
@@ -4463,14 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>偶然を装わないで、白々しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っていたんでしょう？わたしにまだ何か用なの？"
+                                "\\N<Segi>Don't pretend it's a coincidence, it's so obvious. You were\nwaiting for me, weren't you? Do you still need something\nfrom me?"
                             ]
                         },
                         {
@@ -4494,14 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、大した用事じゃないよ。何も知らないおばさんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと教えてあげようと思ってさ？"
+                                "\\N<Fubii>Ahaha, it's nothing important. I just thought I'd enlighten\nan ignorant old lady like you a little bit."
                             ]
                         },
                         {
@@ -4525,7 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4549,14 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>さっき闘技場にいたもう一人のおばさん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレってラメの母親でしょ？仲イイんだよね？"
+                                "\\N<Fubii>The other old lady who was at the arena earlier... That's\nRame's mother, right? You're close with her, aren't you?"
                             ]
                         },
                         {
@@ -4573,7 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ならさ、当然あの噂も知ってるんだよね……？"
+                                "\\N<Fubii>So then, you must surely know about that rumor, right...?"
                             ]
                         },
                         {
@@ -4597,7 +4534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさんの噂？一体何の事？"
+                                "\\N<Segi>The rumor about Miss Irime? What are you talking about?"
                             ]
                         },
                         {
@@ -4621,21 +4558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、そっか、知らないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ知らないなら僕からどうこう言う話じゃ無いよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけさ、じゃあね。"
+                                "\\N<Fubii>Ahaha, I see, you don't know. Well, if you don't know, it's\nnot something I should be talking about. That's all, see ya."
                             ]
                         },
                         {
@@ -4730,7 +4653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>彼は何の事を言っていたの……？"
+                                "\\N<Segi>What was he talking about...?"
                             ]
                         },
                         {
@@ -4747,14 +4670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>まさかイリメさんがズーテルカと一緒にいた事と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関係が……？"
+                                "\\N<Segi>Could it possibly be related to Miss Irime being with\nZuuteruka...?"
                             ]
                         },
                         {

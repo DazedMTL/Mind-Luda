@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には獄に繋がれている夫の延命措置として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会期間中、5日毎に金子の納付が義務付けられている。"
+                                "\\N<Ryuda Soldier>As a life-prolonging measure for your husband who is\nimprisoned, you are obligated to pay gold every 5 days\nduring the training period."
                             ]
                         },
                         {
@@ -1633,7 +1626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今回貴様に課せられている金額は\\C[1][1500 MO]\\C[0]だ。"
+                                "\\N<Ryuda Soldier>The amount you are required to pay this time is \\C[1][1500\nMO]\\C[0]."
                             ]
                         },
                         {
@@ -1657,7 +1650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今回の納付準備は出来ているか？\\$"
+                                "\\N<Ryuda Soldier>Are you prepared to make the payment this time?\\$"
                             ]
                         },
                         {
@@ -1665,9 +1658,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備出来ている",
-                                    "準備中",
-                                    "用意は出来ない"
+                                    "Ready to go",
+                                    "Preparing",
+                                    "I'm not ready"
                                 ],
                                 1,
                                 0,
@@ -1732,14 +1725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "御苦労だった、今後も励むと良かろう。"
+                                "\\N<Ryuda Soldier>Hmm... indeed. You have worked hard; it would be good for\nyou to continue to do so."
                             ]
                         },
                         {
@@ -1800,14 +1786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>尤も……貴様が我が身可愛さに納付を中断したところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こちらは粛々と形を執行するだけだがな。"
+                                "\\N<Ryuda Soldier>However... should you stop the payments out of self-\npreservation, we will simply carry out the sentence\nmethodically."
                             ]
                         },
                         {
@@ -1850,7 +1829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>何の真似だ？貴様も所持金は条件を満たしていない。"
+                                "\\N<Ryuda Soldier>What's this? You also do not have enough money on hand to\nmeet the conditions."
                             ]
                         },
                         {
@@ -1932,7 +1911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -1956,14 +1935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？黙っていても始まらん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分の成すべき事を成せ。"
+                                "\\N<Ryuda Soldier>What's wrong? Silence won't start anything. Do what you must\ndo."
                             ]
                         },
                         {
@@ -1987,7 +1959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>Th-that is..."
                             ]
                         },
                         {
@@ -2011,14 +1983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>……そうか。万事理解した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やはり貴様は器では無かったと言う事だな。"
+                                "\\N<Ryuda Soldier>...I see. I understand everything. It seems you were not up\nto the task after all."
                             ]
                         },
                         {
@@ -2042,14 +2007,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ま、待って下さい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少しだけ待って頂ければお金は必ず……！"
+                                "\\N<Segi>W-wait, please! If you could just wait a little longer, I\nwill definitely have the money...!"
                             ]
                         },
                         {
@@ -2073,14 +2031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には既に十分な猶予が与えられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ以上の温情は無い。"
+                                "\\N<Ryuda Soldier>You have already been given ample time. There will be no\nfurther leniency."
                             ]
                         },
                         {
@@ -2104,7 +2055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でもっ！！"
+                                "\\N<Segi>But, but...!!"
                             ]
                         },
                         {
@@ -2128,14 +2079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>来い。器では無いとは言ったが、幸い貴様には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ利用価値が有りそうだからな。"
+                                "\\N<Ryuda Soldier>Come. I said you were not up to the task, but fortunately,\nit seems you still have some value to us."
                             ]
                         },
                         {
@@ -2339,14 +2283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様の夫ユイアの一時免責は既に認可済だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は貴様自身が練兵会の舞台に立つのみだ。"
+                                "\\N<Ryuda Soldier>Your husband Yuia's temporary exemption has already been\napproved. All that's left is for you yourself to take the\nstage at the military training assembly."
                             ]
                         },
                         {
@@ -2516,14 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……逃げる訳にはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様の為……リイアの為。わたしがやらなくちゃ……。"
+                                "\\N<Segi>...I can't run away. For Yuia-sama's sake... for Riia's\nsake. I have to do this..."
                             ]
                         },
                         {
@@ -2980,14 +2910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<練兵会受付>場内では練兵会が開催中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参加者でない者はこれ以上進む事は叶わん。"
+                                "\\N<Training Troops Receptionist>The training session is currently being held inside. Those\nwho are not participants cannot proceed any further."
                             ]
                         },
                         {
@@ -3069,7 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>本日……練兵会で戦う為に参りました。"
+                                "\\N<Segi>I've come today... to fight in the training troops assembly."
                             ]
                         },
                         {
@@ -3093,14 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<練兵会受付>ふむ……来たか。貴様は今日で第三戦目だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回も逃げ出さず現れた事、褒めてやろう。"
+                                "\\N<Training Troops Receptionist>Hmm... you've arrived. This is your third battle today. I\nmust commend you for showing up without fleeing."
                             ]
                         },
                         {
@@ -3117,21 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<練兵会受付>前回に続き貴様には練兵会の舞台で戦うに当たり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夫ユイアの罪状に対する一時面免責の処理が必要となる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対象の書類を提示せよ。"
+                                "\\N<Training Troops Receptionist>As before, in order for you to fight on the stage of the\ntraining troops assembly, we need to process a temporary\nexemption for your husband Yuia's charges. Present the\nrelevant documents."
                             ]
                         },
                         {
@@ -3170,7 +3072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3230,14 +3132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<練兵会受付>ふむ。課せられた義務は判っているな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "例によって先ずは黒衣を纏い、戦士の控え室に移動して貰う。"
+                                "\\N<Training Troops Receptionist>Hmm. You understand the obligations that have been imposed\nupon you? As usual, first don the black garb and move to the\nwarriors' waiting room."
                             ]
                         },
                         {
@@ -3261,14 +3156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判っています。自らに課せられた義務も、その上で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成さねばならない事も。"
+                                "\\N<Segi>...I understand. Both the obligations imposed upon me and\nwhat I must do beyond that."
                             ]
                         },
                         {
@@ -3292,21 +3180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<練兵会受付>ふむ……マインド・リュダに侵されたその身体で貴様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良くやっている。その効果は最早貴様の理性や道徳心等では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自制も利くまい。"
+                                "\\N<Training Troops Receptionist>Hmm... Mind. Lyuda. With your body invaded by it, you're\ndoing well. Its effects are such that your reason and moral\nsense can no longer control it."
                             ]
                         },
                         {
@@ -3323,14 +3197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<練兵会受付>だが皮肉な事に、かの霊薬の効果が失くば貴様はこの戦いを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生き抜く事も出来まい。相手があのゾゾイェでは尚更な。"
+                                "\\N<Training Troops Receptionist>But ironically, without the effects of that spirit medicine,\nyou wouldn't be able to survive this battle. Especially not\nagainst someone like Zozoie."
                             ]
                         },
                         {
@@ -3347,21 +3214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<練兵会受付>ふふ……戦う力を欲すれば欲する程、失う理性。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マインド・リュダに侵された貴様とゾゾイェの奴はある意味"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では似た者同士なのかも知れんな。"
+                                "\\N<Training Troops Receptionist>Heh... The more you desire the power to fight, the more\nreason you lose. Mind. Lyuda. In a way, you and that Zozoie\nfellow are quite similar."
                             ]
                         },
                         {
@@ -3385,7 +3238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3409,14 +3262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<練兵会受付>……そんな顔をするな。仮に似た者同士であったとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その心に秘める原動力は貴様の方が、より崇高なものだ。"
+                                "\\N<Training Troops Receptionist>...Don't make such a face. Even if you are similar, the\ndriving force hidden in your heart is more noble than his."
                             ]
                         },
                         {
@@ -3440,7 +3286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -3814,21 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会で勝ち抜くには力は勿論の事、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対戦者に対しての知識が必要不可欠になるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "匹夫の勇で勝ち抜ける程甘くは無いって事だな。"
+                                "\\N<Man>To win in the training tournament, strength is of course\nnecessary, but knowledge of your opponents is absolutely\nessential. It means you can't just win through brute force\nalone."
                             ]
                         },
                         {

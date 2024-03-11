@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:中層",
+    "displayName": "Lakebed Ruins Myyve: Middle Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2365,21 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ここが遺跡中層……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体、この遺跡は何処まで続いているの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして何の為に作られたんだろう……。"
+                                "\\N<Segi>This is the middle layer of the ruins... How far do these\nruins extend? And what were they made for, I wonder..."
                             ]
                         },
                         {
@@ -2396,14 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>先に進めば、その答えが出るのかしら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……例えそうだとしてもわたしには関係無い。"
+                                "\\N<Segi>If I proceed further, will I find the answer? But... even if\nthat's the case, it has nothing to do with me."
                             ]
                         },
                         {
@@ -2420,21 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わたしの役目はこの遺跡の踏破じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで自身を鍛え、ユイア様達をお救いする事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その想いに迷い何て無い……。"
+                                "\\N<Segi>My role isn't to traverse these ruins. It's to train myself\nhere and rescue Lord Yuia and the others. I have no doubts\nabout that..."
                             ]
                         },
                         {
@@ -2704,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミィベ湖底遺跡について"
+                                "About the MiiBe Lake Ruins"
                             ]
                         },
                         {
@@ -2728,21 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遺跡内にはセギの敵となる怪異が闊歩していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接触により傷付いてもゲームオーバーになる事はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スリップダメージを除く）"
+                                "There are strange creatures within the ruins that are\nenemies to Segi, but contact with them will not result in a\ngame over, except for slip damage."
                             ]
                         },
                         {
@@ -2766,14 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし一部の条件で傷付き、倒れてしまうと彼女の身に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何らかの危険が迫る事が有ります。"
+                                "However, under certain conditions, if she is injured and\ncollapses, some kind of danger may befall her."
                             ]
                         },
                         {
@@ -2797,14 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、闊歩する敵や宝箱の中には特殊な色を持った個体が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存在します。"
+                                "Additionally, among the roaming enemies and treasure chests,\nthere are individuals with special colors."
                             ]
                         },
                         {
@@ -2828,14 +2765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これらは通常色の個体と比べ、ランダム要素を含むものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総じてより良い報酬が期待出来ます。"
+                                "These individuals, while random, generally offer better\nrewards compared to those of normal color."
                             ]
                         },
                         {

@@ -2131,21 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先を進めばズーテルカ様の執務室だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この駐留地の指揮官でもある方だ……せいぜい言動に留意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "する事だな。"
+                                "\\N<Ryuda Soldier>Beyond here is Lord Zuuteruka's office. He's also the\ncommander of this garrison... Make sure to watch your words\nand actions carefully."
                             ]
                         },
                         {
@@ -2280,28 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:その他"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:逗留画家"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]創作物制作についての助力、酒場2階に逗留中の依頼者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで申告の事。"
+                                "\\C[1]■Request Details: Miscellaneous■Requester: The Sojourning\nPainter\\C[0]Assistance with creative work, report to the\nrequester staying on the second floor of the tavern."
                             ]
                         },
                         {
@@ -2309,8 +2274,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -2517,28 +2482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:その他"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:逗留画家"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]創作物制作についての助力、酒場2階に逗留中の依頼者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで申告の事。"
+                                "\\C[1]■Request Details: Other■Requester: The Sojourning\nPainter\\C[0]Assistance with creative works, report to the\nrequester staying on the second floor of the tavern."
                             ]
                         },
                         {
@@ -2926,21 +2870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:業務補佐"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:酒場店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]酒場運営に於いての簡素な業務補佐。"
+                                "\\C[1]■Request Details: Business Assistance■Requester: Tavern\nMaster\\C[0]Simple business assistance in the operation of\nthe tavern."
                             ]
                         },
                         {
@@ -2948,8 +2878,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -3156,21 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:業務補佐"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:酒場店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]酒場運営に於いての簡素な業務補佐。"
+                                "\\C[1]■Request Details: Business Assistance■Requester: Tavern\nMaster\\C[0]Simple business assistance in the operation of\nthe tavern."
                             ]
                         },
                         {
@@ -3306,14 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここには住民達や我らリュダの兵よりの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼委託掲示板が設置されている。"
+                                "\\N<Ryuda Soldier>Here we have a request board set up by the residents and our\nRyuda soldiers."
                             ]
                         },
                         {
@@ -3330,21 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>依頼案件は同時に複数受託する事は出来ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、受託した依頼を達成し、その上で日付を跨ん限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他案件の受託も出来ん。"
+                                "\\N<Ryuda Soldier>You cannot undertake multiple requests at the same time.\nAlso, you cannot take on other requests until you complete\nthe one you've accepted and the date changes."
                             ]
                         },
                         {
@@ -3479,28 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:続・戦闘訓練"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:ロザロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]練兵会に向けての戦闘訓練。対人訓練を想定しており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相手を募集。"
+                                "\\C[1]■Request Details: Continued. Combat Training■Requester:\nRozaro\\C[0]Combat training for the Militia Assembly. Looking\nfor a sparring partner, with the assumption of person-to-\nperson training."
                             ]
                         },
                         {
@@ -3508,8 +3382,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -3716,28 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:続・戦闘訓練"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:ロザロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]練兵会に向けての戦闘訓練。対人訓練を想定しており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相手を募集。"
+                                "\\C[1]■Request Details: Continued. Combat Training■Requester:\nRozaro\\C[0]Combat training for the training soldiers\nassociation. Looking for opponents for mock battles with\nother people."
                             ]
                         },
                         {

@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPを少量回復する。\n※上限：10個",
+        "description": "Restores a small amount of HP. ※Limit: 10",
         "effects": [
             {
                 "code": 11,
@@ -23,7 +23,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "回復薬",
+        "name": "Healing Potion",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 50,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "SPを少量回復する。\n※上限：10個",
+        "description": "Restores a small amount of SP. ※Limit: 10",
         "effects": [
             {
                 "code": 12,
@@ -56,7 +56,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "栄養剤",
+        "name": "Nutrient Supplement",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 50,
@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "出血状態を治療し、HPを極小回復。\n※上限：10個",
+        "description": "Treats bleeding and slightly restores HP. ※Limit: 10",
         "effects": [
             {
                 "code": 22,
@@ -107,7 +107,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "止血剤",
+        "name": "Hemostatic Agent",
         "note": "itemMaxNum:10\n",
         "occasion": 0,
         "price": 40,
@@ -140,7 +140,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "活力剤",
+        "name": "Vitality Tonic",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -166,7 +166,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "鍵",
+        "name": "Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -187,7 +187,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HP/SPを少量回復する。\n※上限：10個",
+        "description": "Restores a small amount of HP/SP. ※Limit: 10",
         "effects": [
             {
                 "code": 11,
@@ -205,7 +205,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "複合薬",
+        "name": "Compound Medicine",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 70,
@@ -226,7 +226,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPを中量回復する。\n※上限：10個",
+        "description": "Restores a moderate amount of HP. ※Limit: 10",
         "effects": [
             {
                 "code": 11,
@@ -238,7 +238,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "高回復薬",
+        "name": "High Healing Potion",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 120,
@@ -259,7 +259,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "SPを中量回復する。\n※上限：10個",
+        "description": "Restores a moderate amount of SP. ※Limit: 10",
         "effects": [
             {
                 "code": 12,
@@ -271,7 +271,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "高栄養剤",
+        "name": "High Nutrient Supplement",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 120,
@@ -334,7 +334,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "高止血剤",
+        "name": "High Hemostatic Agent",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 200,
@@ -355,7 +355,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HP/SPを中量回復する。\n※上限：10個",
+        "description": "Restores a moderate amount of HP/SP. ※Limit: 10",
         "effects": [
             {
                 "code": 11,
@@ -373,7 +373,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "高複合薬",
+        "name": "High Compound Medicine",
         "note": "itemMaxNum:10",
         "occasion": 0,
         "price": 200,
@@ -394,7 +394,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPを大量回復する。\n※上限：5個",
+        "description": "Restores a large amount of HP. ※Limit: 5",
         "effects": [
             {
                 "code": 11,
@@ -406,7 +406,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "極回復薬",
+        "name": "Ultimate Healing Potion",
         "note": "itemMaxNum:5",
         "occasion": 0,
         "price": 300,
@@ -427,7 +427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "SPを大量回復する。\n※上限：5個",
+        "description": "Restores a large amount of SP. ※Limit: 5",
         "effects": [
             {
                 "code": 12,
@@ -439,7 +439,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "極栄養剤",
+        "name": "Ultimate Nutrient Supplement",
         "note": "itemMaxNum:5",
         "occasion": 0,
         "price": 300,
@@ -460,7 +460,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HP/SPを大量回復する。\n※上限：5個",
+        "description": "Restores a large amount of HP/SP. ※Limit: 5",
         "effects": [
             {
                 "code": 11,
@@ -478,7 +478,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "極複合薬",
+        "name": "Ultimate Compound Medicine",
         "note": "itemMaxNum:5",
         "occasion": 0,
         "price": 400,
@@ -537,7 +537,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "体力強化剤",
+        "name": "Physical Enhancer",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -596,7 +596,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "煙幕",
+        "name": "Smoke Screen",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -643,7 +643,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で最大HPが1上昇する丸薬。",
+        "description": "A pill that increases maximum HP by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -655,7 +655,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤HP",
+        "name": "Growth Agent HP",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -676,7 +676,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で最大SPが1上昇する丸薬。",
+        "description": "A pill that increases maximum SP by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -688,7 +688,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤SP",
+        "name": "Growth Agent SP",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -709,7 +709,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で攻撃力が1上昇する丸薬。",
+        "description": "A pill that increases Attack by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -721,7 +721,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤ATK",
+        "name": "Growth Agent ATK",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -742,7 +742,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で防御力が1上昇する丸薬。",
+        "description": "A pill that increases Defense by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -754,7 +754,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤DEF",
+        "name": "Growth Agent DEF",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -775,7 +775,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で技力が1上昇する丸薬。",
+        "description": "A pill that increases Skill Power by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -787,7 +787,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤MAG",
+        "name": "Growth Agent MAG",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -808,7 +808,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で技耐性が1上昇する丸薬。",
+        "description": "A pill that increases Skill Resistance by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -820,7 +820,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤MDEF",
+        "name": "Growth Agent MDEF",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -841,7 +841,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で敏捷性が1上昇する丸薬。",
+        "description": "A pill that increases Agility by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -853,7 +853,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤SPD",
+        "name": "Growth Agent SPD",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -874,7 +874,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で運が1上昇する丸薬。",
+        "description": "A pill that increases Luck by 1 when used.",
         "effects": [
             {
                 "code": 42,
@@ -886,7 +886,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "成長剤LAK",
+        "name": "Growth Agent LAK",
         "note": "",
         "occasion": 2,
         "price": 50,
@@ -933,12 +933,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "換金アイテム。",
+        "description": "Exchange item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ルーイングラスの粉末",
+        "name": "Ruininglass Powder",
         "note": "",
         "occasion": 3,
         "price": 10,
@@ -959,12 +959,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "換金アイテム。",
+        "description": "Exchange item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ルーイングラスの欠片（小）",
+        "name": "Ruininglass Shard (Small)",
         "note": "",
         "occasion": 3,
         "price": 20,
@@ -985,12 +985,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "換金アイテム。",
+        "description": "Exchange item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ルーイングラスの欠片（大）",
+        "name": "Ruininglass Shard (Large)",
         "note": "",
         "occasion": 3,
         "price": 30,
@@ -1011,12 +1011,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "換金アイテム。",
+        "description": "Exchange item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ルーイングラスの結晶",
+        "name": "Ruininglass Crystal",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -1037,12 +1037,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "換金アイテム。",
+        "description": "Exchange item.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "ルーイングラスの核",
+        "name": "Ruininglass Core",
         "note": "",
         "occasion": 3,
         "price": 100,
@@ -1063,7 +1063,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『応急手当』の使用が可能になる。\n【効果】自身のHPを少量回復する。",
+        "description": "Enables the use of \"First Aid\" when used. 【Effect】Restores a small\namount of your own HP.",
         "effects": [
             {
                 "code": 44,
@@ -1075,7 +1075,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】応急手当",
+        "name": "[Technique Book] First Aid",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 300,
@@ -1096,12 +1096,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "湖底遺跡内に点在する扉開錠用の鍵。",
+        "description": "A key for unlocking doors scattered throughout the lakebed ruins.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "湖底遺跡の鍵",
+        "name": "Lakebed Ruins Key",
         "note": "",
         "occasion": 3,
         "price": 150,
@@ -1122,7 +1122,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『防護の構え』の使用が可能になる。\n【効果】短時間の間、防御力が上昇する。",
+        "description": "Enables the use of \"Defensive Stance\" when used. 【Effect】Temporarily\nincreases Defense.",
         "effects": [
             {
                 "code": 44,
@@ -1134,7 +1134,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】防護の構え",
+        "name": "[Technique Book] Defensive Stance",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1155,7 +1155,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『敏捷の歩法』の使用が可能になる。\n【効果】短時間の間、敏捷性が上昇する。",
+        "description": "Enables the use of \"Agile Footwork\" when used. 【Effect】Temporarily\nincreases Agility.",
         "effects": [
             {
                 "code": 44,
@@ -1167,7 +1167,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】敏捷の歩法",
+        "name": "[Technique Book] Agile Footwork",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1188,7 +1188,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『大打擲』の使用が可能になる。\n【効果】命中率は下がるが、より強い一撃を放つ。",
+        "description": "Enables the use of \"Heavy Strike\" when used. 【Effect】Decreases\nAccuracy but allows for a stronger attack.",
         "effects": [
             {
                 "code": 44,
@@ -1200,7 +1200,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】大打擲",
+        "name": "[Technique Book] Heavy Strike",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1221,7 +1221,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『穿刃』の使用が可能になる。\n【効果】体力を犠牲にし、敵に防御力無視の攻撃を行なう。",
+        "description": "Enables the use of \"Piercing Blade\" when used. 【Effect】Sacrifices\nhealth to perform an attack that ignores enemy defense.",
         "effects": [
             {
                 "code": 44,
@@ -1233,7 +1233,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】穿刃",
+        "name": "[Technique Book] Piercing Blade",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -1254,7 +1254,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『小型榴弾』の使用が可能になる。\n【効果】敵に小型の榴弾を投げつける。",
+        "description": "Enables the use of \"Small Grenade\" when used. 【Effect】Throws a small\ngrenade at the enemy.",
         "effects": [
             {
                 "code": 44,
@@ -1266,7 +1266,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】小型榴弾",
+        "name": "[Technique Book] Small Grenade",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -1299,7 +1299,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】HP20UP",
+        "name": "[Technique Book] HP20UP",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -1320,7 +1320,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『自棄』の使用が可能になる。\n【効果】戦闘中、全てを諦め敗北の道を選ぶ。",
+        "description": "Enables the use of \"Desperation\" when used. 【Effect】During battle,\ngive up everything and choose the path of defeat.",
         "effects": [
             {
                 "code": 44,
@@ -1332,7 +1332,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】自棄",
+        "name": "[Technique Book] Desperation",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -1353,7 +1353,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『卵嚢の粘縄』の使用が可能になる。\n【効果】粘糸の束を投擲する。",
+        "description": "Enables the use of \"Egg Sac Adhesive\" when used. 【Effect】Throws a\nbundle of sticky threads.",
         "effects": [
             {
                 "code": 44,
@@ -1365,7 +1365,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】卵嚢の粘縄",
+        "name": "[Technique Book] Egg Sac Adhesive",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -1386,7 +1386,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『閃光玉』の使用が可能になる。\n【効果】遺跡の主から作られた特殊な眼眩まし。",
+        "description": "Enables the use of \"Flash Bomb\" when used. 【Effect】A special blinding\ndevice made by the master of the ruins.",
         "effects": [
             {
                 "code": 44,
@@ -1398,7 +1398,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】閃光玉",
+        "name": "[Technique Book] Flash Bomb",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 0,
@@ -1419,7 +1419,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『弱性経皮毒』の使用が可能になる。\n【効果】自然排出可能な弱性の毒。",
+        "description": "Enables the use of \"Weak Transdermal Poison\" when used. 【Effect】A weak\npoison that can be naturally expelled.",
         "effects": [
             {
                 "code": 44,
@@ -1431,7 +1431,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】弱性経皮毒",
+        "name": "[Technique Book] Weakness Transdermal Poison",
         "note": "<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 1000,
@@ -1452,7 +1452,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『回避歩法』の使用が可能になる。\n【効果】一定時間の間、床ダメージを無効化する。",
+        "description": "Using this enables the use of \"Evasion Step.\" [Effect] For a certain\nperiod, floor damage is nullified.",
         "effects": [
             {
                 "code": 44,
@@ -1464,7 +1464,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】回避歩法",
+        "name": "[Technique Manual] Evasion Step",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1485,7 +1485,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『急襲の構え』の使用が可能になる。\n【効果】短時間の間、攻撃力が上昇する。",
+        "description": "Using this enables the use of \"Assault Stance.\" [Effect] Attack power\nincreases for a short time.",
         "effects": [
             {
                 "code": 44,
@@ -1497,7 +1497,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】急襲の構え",
+        "name": "[Technique Manual] Assault Stance",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1518,7 +1518,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『治療』の使用が可能になる。\n【効果】出血状態を治療し、HPを極小回復。",
+        "description": "Using this enables the use of \"Healing.\" [Effect] Treats bleeding\nstatus and slightly recovers HP.",
         "effects": [
             {
                 "code": 44,
@@ -1530,7 +1530,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】治療",
+        "name": "[Technique Manual] Healing",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 300,
@@ -1551,7 +1551,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『戒心の構え』の使用が可能になる。\n【効果】短時間の間、ほぼ全ての能力が僅かに上昇する。",
+        "description": "Using this enables the use of \"Vigilance Stance.\" [Effect] For a short\ntime, nearly all abilities increase slightly.",
         "effects": [
             {
                 "code": 44,
@@ -1563,7 +1563,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】戒心の構え",
+        "name": "[Technique Manual] Vigilance Stance",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1584,12 +1584,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：給仕衣装裸",
+        "name": "Standing Picture: Naked in Servant Outfit",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1610,12 +1610,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：魔淑女の黒衣裸",
+        "name": "Standing Picture: Naked in Sorceress's Black Garb",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1636,12 +1636,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常全裸背面",
+        "name": "Standing Picture: Everyday Naked Back View",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1662,12 +1662,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常全裸",
+        "name": "Standing Picture: Everyday Naked",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1688,12 +1688,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：給仕衣装2",
+        "name": "Standing Picture: Servant Outfit 2",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1714,12 +1714,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：給仕衣装",
+        "name": "Standing Picture: Servant Outfit",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 300,
@@ -1740,12 +1740,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：魔淑女の黒衣背面",
+        "name": "Standing Picture: Back View of Sorceress's Black Garb",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1766,12 +1766,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：魔淑女の黒衣",
+        "name": "Standing Picture: Sorceress's Black Garb",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1792,12 +1792,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常着半裸",
+        "name": "Standing Picture: Half-Naked in Everyday Clothes",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1818,12 +1818,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常着下着背面",
+        "name": "Standing Picture: Underwear Back View in Everyday Clothes",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1844,12 +1844,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常着背面",
+        "name": "Standing Picture: Back View in Everyday Clothes",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 500,
@@ -1870,12 +1870,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自宅の鏡にて閲覧可能。",
+        "description": "Available for viewing at the mirror in your home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "立ち絵：日常着",
+        "name": "Standing Picture: Everyday Clothes",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 300,
@@ -1896,7 +1896,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "マインド・リュダの催淫を軽減する為の錠剤。",
+        "description": "Pills to mitigate the aphrodisiac effects of Mind Lyuda.",
         "effects": [
             {
                 "code": 44,
@@ -1908,7 +1908,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "特殊抗鬱剤",
+        "name": "Special Antidepressant",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -1929,7 +1929,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用する事で『必殺』の使用が可能になる。\n【効果】敵に死から逃れられない必殺の一撃を放つ。",
+        "description": "Using this enables the use of \"Fatal Blow.\" [Effect] Delivers a deadly\nstrike that ensures the enemy cannot escape death.",
         "effects": [
             {
                 "code": 44,
@@ -1941,7 +1941,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "【技法書】必殺",
+        "name": "[Technique Manual] Fatal Blow",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 2,
         "price": 500,
@@ -1962,7 +1962,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "重度の憂鬱を解消する為の錠剤。",
+        "description": "Pills to relieve severe melancholy.",
         "effects": [
             {
                 "code": 22,
@@ -1974,7 +1974,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "重度抗鬱剤",
+        "name": "Strong Antidepressant",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -1995,7 +1995,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "陰鬱を解消する為の錠剤。",
+        "description": "Pills to relieve gloominess.",
         "effects": [
             {
                 "code": 22,
@@ -2007,7 +2007,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "抗鬱剤",
+        "name": "Antidepressant",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -2054,12 +2054,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ユイアの一時免罪用の証書。",
+        "description": "A temporary absolution certificate for Yuia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ユイアの免罪符5",
+        "name": "Yuia's Indulgence 5",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2080,12 +2080,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ユイアの一時免罪用の証書。",
+        "description": "A temporary absolution certificate for Yuia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ユイアの免罪符4",
+        "name": "Yuia's Indulgence 4",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2106,12 +2106,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ユイアの一時免罪用の証書。",
+        "description": "A temporary absolution certificate for Yuia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ユイアの免罪符3",
+        "name": "Yuia's Indulgence 3",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2132,12 +2132,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ユイアの一時免罪用の証書。",
+        "description": "A temporary absolution certificate for Yuia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ユイアの免罪符2",
+        "name": "Yuia's Indulgence 2",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2158,12 +2158,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ユイアの一時免罪用の証書。",
+        "description": "A temporary absolution certificate for Yuia.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ユイアの免罪符1",
+        "name": "Yuia's Indulgence 1",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2184,12 +2184,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "リュダの背信者ツェダの身に着けていた徽章。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "The badge worn by Lyuda's traitor, Zeda. Submitting it to the archive\nwithin the management office allows access to \"Marching Records.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ツェダの徽章",
+        "name": "Zeda's Badge",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2210,12 +2210,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡で入手した怪物の表皮組織。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "Monster epidermal tissue obtained from ruins. Submitting it to the\narchive within the management office allows access to \"Marching\nRecords.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡下層の主の細胞",
+        "name": "Lower Ruins Master's Cell",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2236,12 +2236,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡で入手した怪物の表皮組織。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "Monster epidermal tissue obtained from ruins. Submitting it to the\narchive within the management office allows access to \"Marching\nRecords.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡中層の主の細胞",
+        "name": "Middle Ruins Master's Cell",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2262,12 +2262,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡で入手した怪物の表皮組織。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "Monster epidermal tissue obtained from ruins. Submitting it to the\narchive within the management office allows access to \"Marching\nRecords.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡上層の主の細胞",
+        "name": "Upper Ruins Master's Cell",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2288,12 +2288,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡で入手した怪物の表皮組織。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "Monster epidermal tissue obtained from ruins. Submitting it to the\narchive within the management office allows access to \"Marching\nRecords.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡最上層の主細胞",
+        "name": "Topmost Ruins Master Cell",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2314,12 +2314,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 6』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 6\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 6",
+        "name": "Ryuda Marching Records Access Permit 6",
         "note": "<mat1:I82*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2340,12 +2340,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 5』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 5\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 5",
+        "name": "Ryuda Marching Records Access Permit 5",
         "note": "<mat1:I71*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2366,12 +2366,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 4』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 4\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 4",
+        "name": "Ryuda Marching Records Access Permit 4",
         "note": "<mat1:I72*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2392,12 +2392,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 3』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 3\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 3",
+        "name": "Ryuda Marching Records Access Permit 3",
         "note": "<mat1:I73*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2418,12 +2418,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 2』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 2\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 2",
+        "name": "Ryuda Marching Records Access Permit 2",
         "note": "<mat1:I74*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2444,12 +2444,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "『リュダ行軍記録 1』\n独立夜警国家「暁の穂」行軍禄閲覧許可証。",
+        "description": "\"Lyuda Marching Record 1\" A permit to view the marching records of the\nindependent night watch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダ行軍記録 閲覧許可証 1",
+        "name": "Ryuda Marching Records Access Permit 1",
         "note": "<mat1:I75*1>\n<MNKR_SwitchSell>\nitemMaxNum:1",
         "occasion": 3,
         "price": 300,
@@ -2470,12 +2470,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "練兵会終了に伴い配布された証書。\n管理所内の書庫に提出する事で『行軍記録』が閲覧出来る。",
+        "description": "Certificate distributed upon completion of military training.\nSubmitting it to the archive within the management office allows\naccess to \"Marching Records.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "練兵会終了証",
+        "name": "Militia Training Completion Certificate",
         "note": "itemMaxNum:1",
         "occasion": 3,
         "price": 0,
@@ -2496,7 +2496,7 @@
             "type": 1,
             "variance": 10
         },
-        "description": "イリメから譲り受けた武具。遺跡の主を怯ませるのに有効。",
+        "description": "Arms handed down from Irime. Effective in intimidating the lord of\nruins.",
         "effects": [
             {
                 "code": 21,
@@ -2508,7 +2508,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "炸裂弾",
+        "name": "Burst Bullet",
         "note": "",
         "occasion": 1,
         "price": 0,
@@ -2562,12 +2562,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ラメがリイアの誕生祝いに用意したささやかな贈り物。",
+        "description": "A modest gift prepared by Rame for Riia's birthday celebration.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "ラメの贈り物",
+        "name": "Rame's Gift",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2588,12 +2588,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "薬学の書籍に記載されていた毒草。",
+        "description": "A poisonous herb listed in pharmacological texts.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "毒草",
+        "name": "Poisonous Herb",
         "note": "",
         "occasion": 3,
         "price": 50,
@@ -2614,7 +2614,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "閲覧する事で薬学の為の知識が得られる。",
+        "description": "By perusing it, one can gain knowledge for pharmacology.",
         "effects": [
             {
                 "code": 44,
@@ -2626,7 +2626,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "薬学の書籍",
+        "name": "Pharmacology Textbook",
         "note": "itemMaxNum:1",
         "occasion": 2,
         "price": 500,
@@ -2647,12 +2647,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "夜警国家「暁の穂」大公一族に伝わる首飾り。",
+        "description": "A necklace passed down through the Grand Ducal family of the night\nwatch nation \"Dawn's Ear.\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "暁の穂の首飾り",
+        "name": "Dawn Spike Necklace",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2673,12 +2673,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "死刑囚ゾゾイェを捕縛、連行する際に使用された薬。",
+        "description": "The drug used to capture and transport the death row prisoner Zozoye.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "リュダの阻害薬",
+        "name": "Ryuda's Inhibitor",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2699,12 +2699,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡最下層で入手した数滴の液体。",
+        "description": "A few drops of liquid obtained from the lowest level of the ruins.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡最下層の液体",
+        "name": "Liquid from the Ruins' Deepest Layer",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2725,7 +2725,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの手帳。色々と書き込める。第5戦用。",
+        "description": "Segi's notebook. It can be written in for various purposes. For the\n5th battle.",
         "effects": [
             {
                 "code": 44,
@@ -2737,7 +2737,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "メモ帳",
+        "name": "Notebook",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2758,7 +2758,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの手帳。色々と書き込める。第4戦用。",
+        "description": "Segi's notebook. It can be written in for various purposes. For the\n4th battle.",
         "effects": [
             {
                 "code": 44,
@@ -2770,7 +2770,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "メモ帳",
+        "name": "Notebook",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2791,7 +2791,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの手帳。色々と書き込める。第3戦用。",
+        "description": "Segi's notebook. It can be written in for various purposes. For the\n3rd battle.",
         "effects": [
             {
                 "code": 44,
@@ -2803,7 +2803,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "メモ帳",
+        "name": "Notebook",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2824,7 +2824,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの手帳。色々と書き込める。第2戦用。",
+        "description": "Segi's notebook. It can be written in for various purposes. For the\n2nd battle.",
         "effects": [
             {
                 "code": 44,
@@ -2836,7 +2836,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "メモ帳",
+        "name": "Notebook",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2857,7 +2857,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの手帳。色々と書き込める。初戦用。",
+        "description": "Segi's notebook. It can be written in for various purposes. For the\ninitial battle.",
         "effects": [
             {
                 "code": 44,
@@ -2869,7 +2869,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "メモ帳",
+        "name": "Notebook",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2890,12 +2890,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "酒場の店主から依頼された原料。",
+        "description": "Ingredients requested by the tavern owner.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "アルコール材料",
+        "name": "Alcohol Material",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2921,7 +2921,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "遺跡の主の卵嚢",
+        "name": "Ruins Master's Egg Sac",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -2954,7 +2954,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "スキル本HP20UP",
+        "name": "Skill Book HP20UP",
         "note": "",
         "occasion": 2,
         "price": 0,
@@ -2975,12 +2975,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "遺跡で入手した怪物の表皮組織。",
+        "description": "Monstrous epidermal tissue obtained from the ruins.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "輝く鱗",
+        "name": "Gleaming Scales",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3001,12 +3001,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "城内に於ける大公夫婦私室の鍵。",
+        "description": "The key to the private chambers of the Grand Duke and Duchess within\nthe castle.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "大公夫婦私室のカギ",
+        "name": "Grand Duke's Private Chamber Key",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3027,12 +3027,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "湖底遺跡内に存在する扉開錠用の特注品の鍵。",
+        "description": "A custom-made key for unlocking doors within the lakebed ruins.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "湖底遺跡の鍵(特注）",
+        "name": "Lakebed Ruins Key (Custom)",
         "note": "itemMaxNum:1\n<MNKR_SwitchSell>",
         "occasion": 3,
         "price": 300,
@@ -3417,12 +3417,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの私物。売却用。",
+        "description": "Segi's personal belonging. For sale.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "セギの下着3",
+        "name": "Segi's Underwear 3",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3443,12 +3443,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの私物。売却用。",
+        "description": "Segi's personal belonging. For sale.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "セギの下着2",
+        "name": "Segi's Underwear 2",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3469,12 +3469,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの私物。売却用。",
+        "description": "Segi's personal belonging. For sale.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "セギの下着1",
+        "name": "Segi's Underwear 1",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3495,12 +3495,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの私物。売却用。",
+        "description": "Segi's personal belonging. For sale.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "セギの日常着2",
+        "name": "Segi's Casual Clothes 2",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -3521,12 +3521,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "セギの私物。売却用。",
+        "description": "Segi's personal belonging. For sale.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 2,
-        "name": "セギの日常着",
+        "name": "Segi's Casual Clothes",
         "note": "",
         "occasion": 3,
         "price": 0,

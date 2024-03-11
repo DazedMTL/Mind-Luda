@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:最下層",
+    "displayName": "Lakebed Ruins Myyve: Lowest Level",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2429,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！？"
+                                "\\N<Segi>...huh!?"
                             ]
                         },
                         {
@@ -2502,7 +2502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>（こ……っこんな時……に……！？）"
+                                "\\N<Segi>(Th...This timing...!?)"
                             ]
                         },
                         {
@@ -2540,7 +2540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>どうした、セギさん？"
+                                "\\N<Rozaro>What's wrong, Segi-san?"
                             ]
                         },
                         {
@@ -2564,7 +2564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……っ。"
+                                "\\N<Segi>N-no...huh."
                             ]
                         },
                         {
@@ -2588,7 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -2619,7 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ここから先がツェダの逃げ込んだ遺跡の最下層と言う訳か。"
+                                "\\N<Rozaro>So this is the entrance to the lowest level of the ruins\nwhere Zeda has taken refuge."
                             ]
                         },
                         {
@@ -2677,7 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ。"
+                                "\\N<Segi>...huh."
                             ]
                         },
                         {
@@ -2694,21 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>再三注意したが、ここからは罠も多いと聞く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "或いはツェダの奴が何か仕掛けを施しているかも知れん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慎重に進もう。"
+                                "\\N<Rozaro>I've warned repeatedly, but I've heard there are many traps\nfrom here on. Perhaps Zeda has set up something as well, we\nshould proceed with caution."
                             ]
                         },
                         {
@@ -2725,7 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……はい。"
+                                "\\N<Segi>Ye...yes."
                             ]
                         },
                         {
@@ -2742,21 +2728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それと……これは俺が奴と同じ部隊に所属していた時の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話だが、奴は密かに独自でマインド・リュダの研究を行って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いたらしい。"
+                                "\\N<Rozaro>Also... this is something from when I was in the same unit\nas him, but it seems he was secretly conducting his own\nresearch on Mind Lyuda."
                             ]
                         },
                         {
@@ -2773,14 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>俺も貴女も今はそのマインド・リュダの恩恵を受けてこそ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場に立っていられる。"
+                                "\\N<Rozaro>Both you and I are standing here now, benefiting from that\nMind Lyuda."
                             ]
                         },
                         {
@@ -2797,14 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>その秘薬の効果を奴は知り尽くしていると言う訳だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を仕掛けて来るか判らん、用心して置いた方が良かろう。"
+                                "\\N<Rozaro>He knows full well the effects of that secret medicine. We\ncan't predict what he'll do next, it's better to be\ncautious."
                             ]
                         },
                         {
@@ -2821,7 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ……判りました。"
+                                "\\N<Segi>I... understand."
                             ]
                         },
                         {
@@ -2838,14 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>先程からどうした？様子がおかしいぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと俺の話を聞いてくれていたのか？"
+                                "\\N<Rozaro>What's been going on with you since earlier? You seem off.\nAre you listening to me?"
                             ]
                         },
                         {
@@ -2862,7 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさん……で、出来れば……。"
+                                "\\N<Segi>Rozaro-san... if possible..."
                             ]
                         },
                         {
@@ -2879,14 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>もう少し……は、離れて頂けませんか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わたし……そ、その……。"
+                                "\\N<Segi>Could you please... stay a bit further away from me...? I...\nI'm just..."
                             ]
                         },
                         {
@@ -2903,14 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……やはりその黒衣が気になるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の前でそんなはしたない恰好をする事が。"
+                                "\\N<Rozaro>...Is it that black robe that's bothering you? That you have\nto dress so indecently in front of me."
                             ]
                         },
                         {
@@ -2927,7 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2944,14 +2881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、俺はリイアの命を救う為にここにいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の気持ちも判るが今は……。"
+                                "\\N<Rozaro>Segi-san, I'm here to save Riia's life. I understand how you\nfeel, but now is not the time..."
                             ]
                         },
                         {
@@ -2968,7 +2898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2985,21 +2915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>じ、自分の役目は判っています……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにロザロさんがリイアの為にここにいると言う事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理解はしているつもりです……。"
+                                "\\N<Segi>I... understand my role... and I believe I understand that\nyou're here for Riia's sake..."
                             ]
                         },
                         {
@@ -3016,14 +2932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ならば何故、俺達の間で今更恥ずかしいの恥ずかしく無いの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "などと低俗な話が……。"
+                                "\\N<Rozaro>Then why are we having such a vulgar conversation about\nwhat's embarrassing or not at this point?"
                             ]
                         },
                         {
@@ -3132,14 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさん……あなたとは今迄色々ありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが今わたしはリイアの為と言うあなたを信じたい。"
+                                "\\N<Segi>Rozaro-san... we've been through a lot together. But now, I\nwant to trust you when you say you're doing this for Riia."
                             ]
                         },
                         {
@@ -3156,14 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ、信じさせて下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはもう誰も憎みたくも疑いたくも無いんです……。"
+                                "\\N<Segi>No, please let me trust you. I don't want to hate or doubt\nanyone anymore..."
                             ]
                         },
                         {
@@ -3180,21 +3075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だから……だからその為に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたを信じさせて貰う為に……今、わたしに触れている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その手を退けて頂けませんか……？"
+                                "\\N<Segi>So... for that reason, to allow myself to trust you... could\nyou please remove your hand that's touching me right now...?"
                             ]
                         },
                         {
@@ -3211,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -3228,21 +3109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……判った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その代わり貴女も今回の俺の行動に他意は無い事を理解して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれるか？"
+                                "\\N<Rozaro>...Understood. In return, will you also understand that\nthere's no ulterior motive in my actions this time?"
                             ]
                         },
                         {
@@ -3259,21 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>確かに貴女と俺には過去様々な事が遭った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし今はリイアを救う為にも俺と反目する事は避けると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束してくれるか……？"
+                                "\\N<Rozaro>Indeed, you and I have had our share of past events. But\nnow, can you promise to avoid antagonizing me for Riia's\nsake as well?"
                             ]
                         },
                         {
@@ -3302,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {

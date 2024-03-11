@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:最上層",
+    "displayName": "Lakebed Ruins Myyve: Top Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ここが……。"
+                                "\\N<Segi>This place is..."
                             ]
                         },
                         {
@@ -2381,14 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……何だろう、確かに鼻につく様な嫌な匂いがする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにここの空気は肌を刺す様に緊張してる……。"
+                                "\\N<Segi>Ugh... What is that? There's definitely a nasty smell that's\ngetting to my nose. And the air here feels tense, like it's\npricking my skin..."
                             ]
                         },
                         {
@@ -2405,14 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……さっきの抗毒剤を飲んでいなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒気と空気の重圧で少しの時間で昏倒してしまいそう……。"
+                                "\\N<Segi>...If I hadn't taken that antidote earlier, the poisonous\nair and the pressure would have knocked me out in no time..."
                             ]
                         },
                         {
@@ -2436,7 +2422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……平気。あの抗毒剤が効いているのね……。"
+                                "\\N<Segi>But... I'm fine. The antidote is working..."
                             ]
                         },
                         {
@@ -2453,7 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リュダ……やはり彼らは優れた技術を持っているんだわ。"
+                                "\\N<Segi>The Ryuda... they really do have superior technology."
                             ]
                         },
                         {
@@ -2491,14 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そうか……ロザロさんも仰ってたっけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等リュダの技術がこの遺跡の内部探索を可能にしたって。"
+                                "\\N<Segi>That's right... Rozaro-san mentioned it too. The Ryuda's\ntechnology made it possible to explore the interior of these\nruins."
                             ]
                         },
                         {
@@ -2538,14 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……感心してる場合じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の私が成すべき事は立ち止まる事じゃ無いもの。"
+                                "\\N<Segi>...Now's not the time to be impressed. What I need to do now\nisn't to stand still."
                             ]
                         },
                         {
@@ -2569,7 +2541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>進まなきゃ……そして強くならなきゃ。"
+                                "\\N<Segi>I must move forward... and become stronger."
                             ]
                         },
                         {
@@ -3213,7 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミィベ湖底遺跡について"
+                                "About the Lake Mybe Ruins"
                             ]
                         },
                         {
@@ -3237,14 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遺跡内にはセギの敵となる怪異が闊歩していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接触により傷付いてもゲームオーバーになる事はありません。"
+                                "There are apparitions within the ruins that are enemies to\nSegi, but even if she gets hurt by contact, it will not\nresult in a game over."
                             ]
                         },
                         {
@@ -3268,14 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし傷付き、倒れてしまうと彼女の身に何らかの危険が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迫る事が有ります。"
+                                "However, if she is wounded and collapses, some kind of\ndanger may befall her."
                             ]
                         },
                         {
@@ -3299,14 +3257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、闊歩する敵や宝箱の中には特殊な色を持った個体が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存在します。"
+                                "Additionally, among the enemies that roam and the contents\nof treasure chests, there are individuals with special\ncolors."
                             ]
                         },
                         {
@@ -3330,14 +3281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これらは通常色の個体と比べ、ランダム要素を含むものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総じてより良い報酬が期待出来ます。"
+                                "These individuals, while random, generally offer better\nrewards compared to those of normal color."
                             ]
                         },
                         {
@@ -3380,14 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また一部の特殊なイベントを除き、セギは遺跡内に配置されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いる成長剤を使用する事でしか能力アップが出来ません。"
+                                "Apart from certain special events, Segi can only increase\nher abilities by using the growth agents placed within the\nruins."
                             ]
                         },
                         {
@@ -3411,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この為、配置されているアイテムは積極的に入手してゆく事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "をお薦め致します。"
+                                "For this reason, we recommend actively acquiring the items\nthat are placed throughout."
                             ]
                         },
                         {

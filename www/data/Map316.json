@@ -2756,14 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "数日が過ぎ……今日もわたしは心を殺したまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様の匂いが残る家へと帰る。"
+                                "Days have passed... and today, too, I return home to the\nhouse that still smells of Lord Yuia, with my heart\ndeadened."
                             ]
                         },
                         {
@@ -2780,14 +2773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "決して自らの心に葛藤が無い訳では無かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも……これが唯一の方法だと心を建て直す。"
+                                "It's not that there was no conflict in my heart. Still... I\nreassure myself that this is the only way."
                             ]
                         },
                         {
@@ -2804,14 +2790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……この日々は有限なのだと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後、僅か数日が過ぎれば、再び安寧が訪れるのだと……。"
+                                "Yes... these days are finite. In just a few more days, peace\nwill return..."
                             ]
                         },
                         {
@@ -2828,7 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはその為に……必要な事なのだと……。"
+                                "This is necessary... for that purpose..."
                             ]
                         },
                         {
@@ -3190,7 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>よお、セギ。"
+                                "\\N<Zuuteruka>Hey there, Segi."
                             ]
                         },
                         {
@@ -3214,7 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……っ！！？？"
+                                "\\N<Segi>Wha...!!??"
                             ]
                         },
                         {
@@ -3231,7 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……何でここに！？どう言うつもりっ！？"
+                                "\\N<Segi>Wha... Why are you here!? What do you mean by this!?"
                             ]
                         },
                         {
@@ -3255,21 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そう捲し立てるなよ、折角この街に来たんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前とユイアの家でも見て置こうと思ってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ……そう言う訳だ、邪魔するぜ？"
+                                "\\N<Zuuteruka>Don't get all flustered, I just thought I'd check out your\nand Yuia's place while I'm in town. Hehehe... that's the\ndeal, so I'm intruding, alright?"
                             ]
                         },
                         {
@@ -3293,7 +3258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待って……どう言うつもり！？帰って！帰ってよ！"
+                                "\\N<Segi>Wait... what do you mean!? Go home! Please go home!"
                             ]
                         },
                         {
@@ -3333,21 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、誰にも……誰にも見られてないでしょうね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしも……もしもその……すぐにって言うならわたしが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもの場所に……！"
+                                "\\N<Segi>No one... no one has seen us, right!? If it's... if it's\nthat urgent... I'll go to the usual spot...!"
                             ]
                         },
                         {
@@ -3371,21 +3322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それじゃ詰まらねえじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにいつも待ちぼうけってのも俺が可哀想だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束の日まで後2日だ、残り少ない日々を楽しませてくれよ。"
+                                "\\N<Zuuteruka>That'd be boring. Plus, it's sad for me to always be kept\nwaiting, right? There are only 2 days left until the\npromised day, let me enjoy the remaining days."
                             ]
                         },
                         {
@@ -3449,7 +3386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……っ！？"
+                                "\\N<Segi>Sto...p!?"
                             ]
                         },
                         {
@@ -3495,7 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……っ！あ……んんっ！"
+                                "\\N<Segi>Ahh...! Ah...nnn!"
                             ]
                         },
                         {
@@ -3565,7 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、だめ……いきなり……こ、こんな……っ！？"
+                                "\\N<Segi>No, no good... so sudden... like this...!?"
                             ]
                         },
                         {
@@ -3589,14 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカはセギに近寄ると、只獣の様に彼女に襲い掛かり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強引に自らのモノをセギの膣内に埋没させてゆく。"
+                                "Zuuteruka approached Segi like a beast and forcefully buried\nhis own thing inside Segi's pussy."
                             ]
                         },
                         {
@@ -3613,21 +3543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこには愛や情念などと呼べるモノも無く、それはただ純粋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に己の欲望のままに眼の前の雌を蹂躙したいと言うケダモノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の姿に他ならなかった。"
+                                "There was no love or passion to be found there, it was\npurely the figure of a beast wanting to trample the female\nbefore him according to his own desires."
                             ]
                         },
                         {
@@ -3651,7 +3567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……っ！だ、だめ……ぬ、抜い……んっ！"
+                                "\\N<Segi>Ahh...! No, no good... pu, pull it ou...nn!"
                             ]
                         },
                         {
@@ -3668,14 +3584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>イイじゃねえか、それとも雰囲気たっぷりに愛でも囁かれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ながら夫婦のベッドで抱いて欲しいか？"
+                                "\\N<Zuuteruka>Isn't it fine? Or do you want to be embraced in a marital\nbed with lots of atmosphere and sweet nothings whispered to\nyou?"
                             ]
                         },
                         {
@@ -3692,14 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いや……そ、それだけは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけはダメ……ぇっ！"
+                                "\\N<Segi>No, not that... anything but that...! Please no...ahh!"
                             ]
                         },
                         {
@@ -3716,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>素直じゃねえなあ、ひへへ、ま、安心しろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待には応えてやるさ。ホレ、ベッド行くぞ。"
+                                "\\N<Zuuteruka>You're not honest, hehehe, well, don't worry. I'll live up\nto your expectations. Come on, let's go to the bed."
                             ]
                         },
                         {
@@ -3747,21 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカはセギを抱えたまま、彼女とユイアの寝台へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誘おうと移動を始める。セギはその身を怒張したモノで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貫かれながらも必死に拒絶して見せた。"
+                                "Zuuteruka began to move towards the bed he shared with Yuia\nwhile carrying Segi, who was being penetrated by his erect\nthing and desperately trying to resist."
                             ]
                         },
                         {
@@ -3785,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それだけ……それだけはダメ……ぇっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だめ……だめだって……ばあっ！んっ！あっ！"
+                                "\\N<Segi>Just not that... anything but that...ahh! No good... it's no\ngood...ahh! Nn! Ah!"
                             ]
                         },
                         {
@@ -3809,14 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>どうせなら雰囲気たっぷりに抱いて欲しいんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愉しませてやるさ、俺は案外気の遣える男でな、ひへへ。"
+                                "\\N<Zuuteruka>You want to be embraced with lots of atmosphere, right? I'll\nentertain you; I'm quite considerate, you know, hehehe."
                             ]
                         },
                         {
@@ -3833,14 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待って……！ほ、ほんとに……!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にだめだから……ああっ！！"
+                                "\\N<Segi>Wait...! Really...! It's really no good...ahh!!"
                             ]
                         },
                         {
@@ -3916,7 +3776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！？え……っ！？"
+                                "\\N<Segi>Eh...!? Eh...!?"
                             ]
                         },
                         {
@@ -3933,14 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何だあ？誰か来たぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全くこんな時にドコのどいつ様だ？"
+                                "\\N<Zuuteruka>What's that? Someone's coming? Damn, who could it be at a\ntime like this?"
                             ]
                         },
                         {
@@ -3957,7 +3810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……っ！う……んんっ！"
+                                "\\N<Segi>Uh...! Uh...nnn!"
                             ]
                         },
                         {
@@ -3974,21 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、声が漏れねえ様に必死になっちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮する事ねえぞ？ホレ、対応して来いよ、大事な要件かも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知れねえぞ？"
+                                "\\N<Zuuteruka>Hehehe, you're desperately trying not to let your voice leak\nout. No need to hold back? Come on, go deal with it. It\nmight be something important?"
                             ]
                         },
                         {
@@ -4005,7 +3844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でも……でも……っ！"
+                                "\\N<Segi>But... but...!"
                             ]
                         },
                         {
@@ -4022,14 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>行けって言ってんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行かねえなら俺が大声出してやろうか？"
+                                "\\N<Zuuteruka>I'm telling you to go. If you don't, shall I raise my voice\ninstead?"
                             ]
                         },
                         {
@@ -4046,7 +3878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、判った……判ったからそれだけはやめてっ！"
+                                "\\N<Segi>Okay, okay... just don't do that!"
                             ]
                         },
                         {
@@ -4094,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ？何やってんだ、おい？"
+                                "\\N<Zuuteruka>Huh? What are you doing, hey?"
                             ]
                         },
                         {
@@ -4111,7 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何って……服を……。"
+                                "\\N<Segi>Wha-what do you mean... my clothes..."
                             ]
                         },
                         {
@@ -4128,14 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>は？俺はそのまま行けって言ったんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素っ裸で対応しろよ。"
+                                "\\N<Zuuteruka>Huh? I told you to go as you are. Deal with it naked."
                             ]
                         },
                         {
@@ -4152,14 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……何言ってるの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬鹿言わないで……そ、そんな事出来る訳が……！"
+                                "\\N<Segi>Wha-what are you saying!? Don't be ridiculous... there's no\nway I can do that...!"
                             ]
                         },
                         {
@@ -4176,21 +3994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>イイじゃねえか、大サービスってヤツだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前のそのデカい乳でも拝ませてやれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ、客も驚くかもなあ？"
+                                "\\N<Zuuteruka>It's fine, consider it a big service. Why don't you show off\nthose big tits of yours? Hehehe, might give the visitor a\nshock, huh?"
                             ]
                         },
                         {
@@ -4207,14 +4011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いや……お、お願い……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いだから服を……。"
+                                "\\N<Segi>No, please... please let me wear my clothes..."
                             ]
                         },
                         {
@@ -4280,7 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……ど、どちらさまでしょう……か。"
+                                "\\N<Segi>Um... who may it be...?"
                             ]
                         },
                         {
@@ -4309,7 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>やあ……セギちゃん。急に訪ねてすまないねえ。"
+                                "\\N<Hojiko>Hey there... Segi-chan. Sorry for dropping by so suddenly."
                             ]
                         },
                         {
@@ -4367,7 +4164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ホジコさん……。"
+                                "\\N<Segi>...Hojiko-san..."
                             ]
                         },
                         {
@@ -4384,21 +4181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>おや？今日は独りかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイアさんはいないのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったら、その……は、入っていいかい？"
+                                "\\N<Hojiko>Oh? Are you alone today? Isn't Yuia-san around? If that's\nthe case, then... um, is it okay if I come in?"
                             ]
                         },
                         {
@@ -4415,14 +4198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……い、今は……今はダメです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご用件は何でしょうか……？"
+                                "\\N<Segi>Ah, um... now is... now's not good. What do you need...?"
                             ]
                         },
                         {
@@ -4439,7 +4215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>も、もしかして何か取り込み中だったかな？"
+                                "\\N<Hojiko>Oh, were you in the middle of something perhaps?"
                             ]
                         },
                         {
@@ -4456,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そう言う訳では……な、無いのです……が。"
+                                "\\N<Segi>It's not that I'm... not... doing anything..."
                             ]
                         },
                         {
@@ -4473,14 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>その……た、大した話じゃ無いがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち話もなんだろう？な、中に入れておくれよ……？"
+                                "\\N<Hojiko>That... it's nothing important, but standing and talking\nisn't great, right? Let me in for a bit...?"
                             ]
                         },
                         {
@@ -4550,7 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……は……っ！？"
+                                "\\N<Segi>Ah... uh...!?"
                             ]
                         },
                         {
@@ -4567,7 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>……？ど、どうしたんだい、セギちゃん？"
+                                "\\N<Hojiko>...? What's wrong, Segi-chan?"
                             ]
                         },
                         {
@@ -4584,21 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何でもありま……せん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でも今はちょっと……な、中へ入って頂くのは……、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、駄目……です。"
+                                "\\N<Segi>It's nothing... but right now is just a little... I can't\nlet you in..."
                             ]
                         },
                         {
@@ -4615,21 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>……そうかい。じゃあ仕方ないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、実は取引先から珍しい菓子を頂いてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせならセギちゃんと一緒にって思ったんだが。"
+                                "\\N<Hojiko>...I see. Can't be helped then. Actually, I got some rare\nsweets from a business partner. Thought it'd be nice to\nshare them with you."
                             ]
                         },
                         {
@@ -4646,7 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そうでしたか……すみません……。"
+                                "\\N<Segi>Is that so... I'm sorry..."
                             ]
                         },
                         {
@@ -4663,14 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……せ、折角ですから……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、奥様とお召し上がりになっては……い、如何でしょうか。"
+                                "\\N<Segi>Um... since you've gone to the trouble... why don't you\nenjoy them with your wife...?"
                             ]
                         },
                         {
@@ -4687,21 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>う、うん……そ、そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいさ、また日を改めるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それよりその……大丈夫かい？さっきから顔が赤いよ……？"
+                                "\\N<Hojiko>Yeah... that's true. Alright, I'll come back another day.\nMore importantly... are you okay? Your face has been red\nthis whole time...?"
                             ]
                         },
                         {
@@ -4771,7 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……か……っ！？"
+                                "\\N<Segi>Ah... uh...!?"
                             ]
                         },
                         {
@@ -4788,7 +4508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>……っ！？"
+                                "\\N<Hojiko>...!?"
                             ]
                         },
                         {
@@ -4805,14 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、大丈夫です……ホントに平気です……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、ですが……じ、実は少し具合が悪くて……んっ。"
+                                "\\N<Segi>I'm fine... really, I'm okay... but... actually, I'm feeling\na little sick..."
                             ]
                         },
                         {
@@ -4829,21 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>おや、それはいけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なら少し介抱してあげようか……？食事とか作ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしはこう見えても上手いんだよ……？"
+                                "\\N<Hojiko>Oh, that's not good. Should I take care of you for a bit...?\nI can cook and stuff, I'm actually pretty good at it..."
                             ]
                         },
                         {
@@ -4901,14 +4600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そ、そう……ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは奥様も……お、およろこび……ですね……。"
+                                "\\N<Segi>...Is that so... Your wife would be... pleased..."
                             ]
                         },
                         {
@@ -4925,14 +4617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>う～……ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツに喜んで貰っても仕方無いんだけどね、あはは……。"
+                                "\\N<Hojiko>Ugh... yeah. Not like it matters if she's happy though,\nhaha..."
                             ]
                         },
                         {
@@ -4949,7 +4634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……あ、あは……は……っ。"
+                                "\\N<Segi>...Ah, ahaha...!"
                             ]
                         },
                         {
@@ -5019,7 +4704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ひ……っ！？"
+                                "\\N<Segi>...Eh...!?"
                             ]
                         },
                         {
@@ -5048,7 +4733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……ふ……っ！ん……ん……っ！？"
+                                "\\N<Segi>Ah... uh...! Mm... mm...!?"
                             ]
                         },
                         {
@@ -5118,7 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……ふ……っ！？"
+                                "\\N<Segi>Ah... uh...!?"
                             ]
                         },
                         {
@@ -5135,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>セギちゃん……？"
+                                "\\N<Hojiko>Segi-chan...?"
                             ]
                         },
                         {
@@ -5205,14 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ご、ご……ごめんなさい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へ、変な声をだ……出してしまっ……て……。"
+                                "\\N<Segi>I'm sorry... for making such a strange noise..."
                             ]
                         },
                         {
@@ -5229,7 +4907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>い、いや……イイんだけど……さ。"
+                                "\\N<Hojiko>No, it's fine... but..."
                             ]
                         },
                         {
@@ -5299,7 +4977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>……。"
+                                "\\N<Hojiko>..."
                             ]
                         },
                         {
@@ -5316,7 +4994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ほ、本当に大丈夫ですから……その……。"
+                                "\\N<Segi>I'm really okay... so..."
                             ]
                         },
                         {
@@ -5333,14 +5011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>き、今日の……今日のとこ……ところは……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、おひ……お引き取り……に……。"
+                                "\\N<Segi>For today... just for today please... withdraw..."
                             ]
                         },
                         {
@@ -5410,7 +5081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か……あ……っ！？"
+                                "\\N<Segi>Ah... ah...!?"
                             ]
                         },
                         {
@@ -5480,7 +5151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……あ……っ！？はあ……っ！"
+                                "\\N<Segi>Ha... ah...! Haah...!"
                             ]
                         },
                         {
@@ -5610,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ひ……っ！？"
+                                "\\N<Segi>...Eh...!?"
                             ]
                         },
                         {
@@ -5680,14 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>き、今日は……ほ、ほんとに……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、だめ……だめ……なんです……。"
+                                "\\N<Segi>Today is really... truly not good..."
                             ]
                         },
                         {
@@ -5704,21 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>……そうかい。な、何か事情が有るんだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判ったよ、アタシもしつこくする男じゃないからね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じ、じゃあまた来るよ、お大事にね。"
+                                "\\N<Hojiko>...I see. Must be some circumstances. Alright, I won't\ninsist. I'll come by again, take care."
                             ]
                         },
                         {
@@ -5735,14 +5385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、何……も、お、おか……お構い……出来ず……んっ。"
+                                "\\N<Segi>Yes... sorry for not being able to entertain you..."
                             ]
                         },
                         {
@@ -5759,21 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>で、でも……約束だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうしてセギちゃんとご近所になれたのも何かの縁なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから……何か遭ったらアタシを頼ってよ？"
+                                "\\N<Hojiko>But remember our promise, okay? Becoming neighbors with you\nguys must be fate. So if something happens, rely on me,\nalright?"
                             ]
                         },
                         {
@@ -5790,21 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>アタシは……ま、まだこの街に来て間もない君ら二人を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、応援しているんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから……ね？遠慮なんてしないでさ……？"
+                                "\\N<Hojiko>I'm supporting you guys who are still new to this town. So\ndon't hesitate to ask for help..."
                             ]
                         },
                         {
@@ -5874,14 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、ありがとう……ございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……その時が……き、来たら……ぜ……ひ……。"
+                                "\\N<Segi>Thank you very much. When the time comes... I'll\ndefinitely..."
                             ]
                         },
                         {
@@ -5936,14 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はあ……！はあ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、何を……何をして……っ！"
+                                "\\N<Segi>Haah...! Haah...! What are you doing...!"
                             ]
                         },
                         {
@@ -5960,7 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、イイじゃねえか、少しは楽しめたろ？"
+                                "\\N<Zuuteruka>Hehehe, isn't it fine? You got to have a bit of fun, right?"
                             ]
                         },
                         {
@@ -5977,7 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふ、ふざけないで！人を何だと思って……！"
+                                "\\N<Segi>Don't joke around! What do you think I am...!"
                             ]
                         },
                         {
@@ -5994,14 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それより、さっきの男。近所のヤツか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ……あいつ、お前に惚れてるな。"
+                                "\\N<Zuuteruka>More importantly, that guy from earlier, he's a neighbor,\nright? Hehehe... He's totally smitten with you."
                             ]
                         },
                         {
@@ -6018,14 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ホジコさんが……？ば、馬鹿言わないで……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も彼もあなたの様なケダモノじゃないわ……。"
+                                "\\N<Segi>Mr. Hojiko...? Don't be ridiculous... Not everyone is a\nbeast like you..."
                             ]
                         },
                         {
@@ -6042,21 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>判るさ。発情してる男の目程判りやすいものもねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その証拠に必死に上がり込もうとしてたじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイアが留守と知ってな。"
+                                "\\N<Zuuteruka>I can tell. There's nothing more obvious than the look in a\nman's eyes when he's in heat. Proof of that is how\ndesperately he tried to come in, knowing Yuia wasn't home."
                             ]
                         },
                         {
@@ -6073,21 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それに心配する振りしてお前の身体を見てたろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要するにヤりたいのさ。危なかったなあ、おい？あんなのを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上げてたら、今頃無理矢理犯されてたかも知れねえぞ？"
+                                "\\N<Zuuteruka>Plus, he was pretending to be concerned while checking out\nyour body, right? Basically, he just wants to fuck. It was\ndangerous, huh? If I had let him in, he might have forced\nhimself on you by now?"
                             ]
                         },
                         {
@@ -6104,14 +5663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ど、どの口がそんな事を……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの方こそ……む、無理矢理わたしを……っ！"
+                                "\\N<Segi>How can you say such things...! You're the one who...\nforcefully...!"
                             ]
                         },
                         {
@@ -6193,7 +5745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……はあっ！？"
+                                "\\N<Segi>Mmm... Hah!?"
                             ]
                         },
                         {
@@ -6222,21 +5774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>おいおい、忘れたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は無理矢理なんかじゃないぜ？お互い合意の上じゃねえか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくともあと二日の間はなあ？"
+                                "\\N<Zuuteruka>Hey hey, have you forgotten? I'm not doing anything against\nyour will, am I? It's mutual consent, at least for the next\ntwo days, right?"
                             ]
                         },
                         {
@@ -6413,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……あっ！？あっ！はあっ！"
+                                "\\N<Segi>Mmm... Ah!? Ah! Hah!"
                             ]
                         },
                         {
@@ -6430,14 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……イイ顔じゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっき迄散々我慢してたモンが噴き出したってトコか？"
+                                "\\N<Zuuteruka>Hehehe... That's a good face. All the pent-up frustration\nfrom earlier must be bursting out now, huh?"
                             ]
                         },
                         {
@@ -6454,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ……んんっ！そ、そんなんじゃ……あっ！あっ！"
+                                "\\N<Segi>Tha... Mmm! That's not... Ah! Ah!"
                             ]
                         },
                         {
@@ -6471,14 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……なあ、おい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喘いでねえでちょっと見てみろ。"
+                                "\\N<Zuuteruka>Hehehe... Hey, instead of gasping, take a look over here."
                             ]
                         },
                         {
@@ -6495,7 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何……を……！？"
+                                "\\N<Segi>Wha... what...!?"
                             ]
                         },
                         {
@@ -6512,14 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>決まってるじゃねえか、そこの鏡だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白えモンが見れるぜ？"
+                                "\\N<Zuuteruka>It's obvious, isn't it? Look at that mirror. You'll see\nsomething interesting."
                             ]
                         },
                         {
@@ -6536,7 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か、鏡……？"
+                                "\\N<Segi>The mirror...?"
                             ]
                         },
                         {
@@ -6553,7 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！？"
+                                "\\N<Segi>...!?"
                             ]
                         },
                         {
@@ -6570,7 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いや……い、いや……やだ……っ！"
+                                "\\N<Segi>No... No... I don't want this...!"
                             ]
                         },
                         {
@@ -6587,14 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>駄々こねてねえで、黙って言う事聞きな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良くヤってる俺の機嫌を損ねるんじゃねえよ。"
+                                "\\N<Zuuteruka>Stop throwing a tantrum and just do as you're told. Don't\nspoil my mood while I'm enjoying myself."
                             ]
                         },
                         {
@@ -6611,14 +6121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何ならユイアの奴が帰って来るまでここに居座ってやっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イイんだぜ？"
+                                "\\N<Zuuteruka>If you want, I could stay here until Yuia comes back, you\nknow?"
                             ]
                         },
                         {
@@ -6635,7 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、だめ……そ、そんなの……っ！"
+                                "\\N<Segi>No... That's not...!"
                             ]
                         },
                         {
@@ -6652,21 +6155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>だよなあ？後生大事に手も出さずに大事にしてる女が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺なんぞに犯されてる所みたら卒倒するかもな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが嫌なら大人しく言う事を聴けばイイんだよ。"
+                                "\\N<Zuuteruka>Right? Yuia would be shocked to see his precious girl being\nfucked by someone like me. If you don't want that, just\nquietly do as you're told."
                             ]
                         },
                         {
@@ -6683,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……ふ……っ！"
+                                "\\N<Segi>Mmm... Huh...!"
                             ]
                         },
                         {
@@ -6700,7 +6189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う、うう……ううう……っ！"
+                                "\\N<Segi>Ugh... Ughhh...!"
                             ]
                         },
                         {
@@ -6734,7 +6223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……んっ！あっ！はっ！んっ！"
+                                "\\N<Segi>Hah... Mmm! Ah! Hah! Mmm!"
                             ]
                         },
                         {
@@ -6751,21 +6240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、な？すっかりイイ顔になったじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり母娘だよな、俺の上で腰振ってる時の母親"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっくりだ。"
+                                "\\N<Zuuteruka>Hehehe, see? You've got quite the look on your face now.\nJust like your mother when she's riding on top of me."
                             ]
                         },
                         {
@@ -6782,7 +6257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、母を……そんな風に言わないで……っ！"
+                                "\\N<Segi>Don't talk about my mother like that...!"
                             ]
                         },
                         {
@@ -6799,14 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>馬鹿、褒めてるんだよ。お前にしても母親にしても男を虜に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るイイ女って事じゃねえか。"
+                                "\\N<Zuuteruka>Idiot, I'm complimenting you. Both you and your mother are\nfine women who can make a man their captive."
                             ]
                         },
                         {
@@ -6823,14 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……んっ！は、母も……わたしもっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そん……そんな女……じゃ……っ！"
+                                "\\N<Segi>Ah... Mmm! My mother and I aren't... that kind of women...!"
                             ]
                         },
                         {
@@ -6847,21 +6308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、嘘じゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男なんてイイ女に優しくされりゃ大抵舞い上がって何でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホイホイ言う事聞いちまうモンさ。"
+                                "\\N<Zuuteruka>Hehehe, it's no lie. Men are simple creatures; if a good\nwoman treats them kindly, they'll get carried away and do\nwhatever she says."
                             ]
                         },
                         {
@@ -6878,21 +6325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>現にさっきの奴だってそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツ、今頃お前がユイア以外の男の上でこんな顔してると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知ったら卒倒するかもなあ？"
+                                "\\N<Zuuteruka>Just like that guy earlier. If he knew right now that you're\nmaking faces like this on top of a man other than Yuia, he\nmight faint."
                             ]
                         },
                         {
@@ -6909,14 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>近所に越して来た清楚で可憐な娘……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな風にお前の事を幻想化してやがるぜ、きっと。"
+                                "\\N<Zuuteruka>The chaste and lovely girl who moved into the\nneighborhood... He's definitely romanticized you in his\nmind."
                             ]
                         },
                         {
@@ -6933,21 +6359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……それだけにさっきのは刺激的だっただろうな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツ今頃さっきのお前の顔を思い出して股間いじってやがる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かも知れねえぞ？ひへへ……！"
+                                "\\N<Zuuteruka>Hehehe... That's why it must have been so stimulating for\nhim earlier. Right now, he might be recalling your face from\nearlier and playing with his crotch, hehehe...!"
                             ]
                         },
                         {
@@ -6964,7 +6376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……そ、そんな風に……っ！"
+                                "\\N<Segi>Stop... Don't talk about me like that...!"
                             ]
                         },
                         {
@@ -6981,14 +6393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>だからそれだけお前は魅力的な女だってのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コレで判っただろう？"
+                                "\\N<Zuuteruka>That's because you're an attractive woman. You get it now?"
                             ]
                         },
                         {
@@ -7005,21 +6410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>全く、ユイアの奴は理解しかねるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺ならこんな女毎日ヤってやるのによお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ……俺とお前が過ごしたこの数日の様になあ……！？"
+                                "\\N<Zuuteruka>Seriously, I can't understand Yuia. If it were me, I'd fuck\na woman like you every day. Hehehe... Just like these past\nfew days we've spent together...!"
                             ]
                         },
                         {
@@ -7036,7 +6427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……ふ……っ！んんっ！んっ！"
+                                "\\N<Segi>Ugh... Huh...! Mmm!"
                             ]
                         },
                         {
@@ -7053,14 +6444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ま、いいさ。ユイアの奴がお前をどう扱おうと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は俺で好きにさせて貰う迄さ。"
+                                "\\N<Zuuteruka>Well, it's fine. Whatever Yuia decides to do with you. As\nfor me, I'll do as I please until then."
                             ]
                         },
                         {
@@ -7077,21 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何せ……今の俺達は恋人だもんなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ……恋人なら恋人らしく、愛し合う二人にしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない事……しようぜえ？"
+                                "\\N<Zuuteruka>After all... we're lovers right now, aren't we? Hehehe... As\nlovers, let's do things only lovers can do, shall we?"
                             ]
                         },
                         {
@@ -7108,14 +6478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……い、いやっ！も、もう……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も……う……っ！"
+                                "\\N<Segi>Hah... No! I can't take it anymore...!"
                             ]
                         },
                         {
@@ -7341,7 +6704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……約束の七日間が過ぎた。"
+                                "And then... the promised seven days passed."
                             ]
                         },
                         {
@@ -7358,7 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日はズーテルカが本隊へ戻る為に街を発つ日なのだと言う。"
+                                "Today is the day Zuuteruka leaves town to return to the main\nforces."
                             ]
                         },
                         {
@@ -7382,14 +6745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは……ユイア様を救う事が出来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでいい……それでいいんだと自らの心を慰めた。"
+                                "I was able to save Yuia-sama. That's enough... I comforted\nmy own heart by telling myself that's enough."
                             ]
                         },
                         {
@@ -7562,7 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ、セギ……？"
+                                "\\N<Yuia>Segi, Segi...?"
                             ]
                         },
                         {
@@ -7623,7 +6979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え？ああ……す、すみません。少しボーっとしてました。"
+                                "\\N<Segi>Eh? Oh... I'm sorry. I was just spacing out a little."
                             ]
                         },
                         {
@@ -7647,7 +7003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>どうしたんだ？随分顔色が悪いよ？"
+                                "\\N<Yuia>What's wrong? You look quite pale."
                             ]
                         },
                         {
@@ -7671,21 +7027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……何でもありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほ、ほら今日は少しお洗濯ものが多かったし……少し疲れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "るだけですよ。"
+                                "\\N<Segi>...It's nothing. Look, I had a lot of laundry to do today...\nI'm just a bit tired, that's all."
                             ]
                         },
                         {
@@ -7702,14 +7044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様も今日は訓練で遠出されてお疲れでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お早くお休み下さいね？"
+                                "\\N<Segi>You must be tired from your training and the long trip today\ntoo, Lord Yuia? Please get some rest soon, okay?"
                             ]
                         },
                         {
@@ -7733,7 +7068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……ああ。"
+                                "\\N<Yuia>...Yeah."
                             ]
                         },
                         {
@@ -7771,14 +7106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局……ユイア様に報告する事は出来なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敢えてしなかったと言う方が正しいのかも知れない。"
+                                "In the end... I couldn't bring myself to report to Lord\nYuia. It might be more accurate to say I chose not to."
                             ]
                         },
                         {
@@ -7795,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしは……自分がどうすれば良いのか迷っていたからだ。"
+                                "I was... unsure about what I should do."
                             ]
                         },
                         {
@@ -7812,21 +7140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仮にこれが本当に母からの報せである場合、急を要する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし万が一リュダからの細工であれば、彼等による何らか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の罠である可能性が高い。"
+                                "If this truly is a message from my mother, it's urgent. But\nif it's a trick by Ryuda, then it's likely some sort of trap\nthey've set."
                             ]
                         },
                         {
@@ -7843,21 +7157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リュダによる罠の可能性が有る以上、ユイア様を危険に晒す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訳にはいかない。彼等の狙いは間違い無く公妃様の血を引く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様なのだから。"
+                                "Given the possibility of a trap by Ryuda, I can't expose\nLord Yuia to danger. Their target is undoubtedly Lord Yuia,\nwho carries the blood of the Princess Consort."
                             ]
                         },
                         {
@@ -7881,7 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからこそわたしは……結局ユイア様にお伝えしなかった。"
+                                "That's why I... ultimately didn't tell Lord Yuia."
                             ]
                         },
                         {
@@ -7905,14 +7205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "故郷を追われ、漸く辿り着いた安住の地。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくともこの時のわたしはそう思っていた。"
+                                "Driven from my homeland, I had finally found a place of\nrefuge. At least, that's what I thought at the time."
                             ]
                         },
                         {
@@ -7936,7 +7229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし……その安住の地から始まる、再びの悲劇。"
+                                "However... from that place of refuge began another tragedy."
                             ]
                         },
                         {
@@ -7953,14 +7246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今にして思えば……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはこの時全始まったと言えるのだろう。"
+                                "In hindsight... it could be said that it all started at that\nmoment."
                             ]
                         },
                         {
@@ -8229,14 +7515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ……？どうしたんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にどこか具合でも悪いんじゃないか？"
+                                "\\N<Yuia>Segi...? What's wrong? Are you really not feeling well\nsomewhere?"
                             ]
                         },
                         {
@@ -8260,14 +7539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、その……はい……少しだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも大丈夫です、御心配お掛けして申し訳ありません。"
+                                "\\N<Segi>Ah, that... yes... just a little. But I'm okay, I apologize\nfor making you worry."
                             ]
                         },
                         {
@@ -8291,7 +7563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>そうか……？"
+                                "\\N<Yuia>Is that so...?"
                             ]
                         },
                         {
@@ -8315,7 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>大丈夫ですよ？ユイア様はわたしがお守りしますから。"
+                                "\\N<Segi>It's okay, right? I will protect you, Lord Yuia."
                             ]
                         },
                         {
@@ -8339,7 +7611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>え……？"
+                                "\\N<Yuia>Eh...?"
                             ]
                         },
                         {
@@ -8377,7 +7649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ……迷う必要なんて無い。"
+                                "That's right... there's no need to hesitate."
                             ]
                         },
                         {
@@ -8394,14 +7666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この街に来る迄に……皆がそうして来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからわたしにだってきっと……きっと出来る。"
+                                "Until we came to this town... everyone did the same. So\nsurely... surely I can do it too."
                             ]
                         },
                         {
@@ -8425,7 +7690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしが……ユイア様をお守りしなければならない。"
+                                "I must... protect Lord Yuia."
                             ]
                         },
                         {
@@ -8442,7 +7707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その想いはきっと亡国の民としての使命感などでは無く……。"
+                                "That feeling is surely not just a sense of duty as a citizen\nof a fallen nation..."
                             ]
                         },
                         {
@@ -8725,7 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして……夜は明けた。"
+                                "And then... the night gave way to dawn."
                             ]
                         },
                         {
@@ -8742,14 +8007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしやユイア様の想いを置き去りにしたまま……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝は平等に訪れる。"
+                                "Leaving behind my feelings and those of Lord Yuia... morning\ncomes impartially to all."
                             ]
                         },
                         {
@@ -8780,14 +8038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてこの朝は……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしにとって自分の覚悟を試す七日間の始まりだった。"
+                                "And this morning... marks the beginning of the seven days\nthat will test my resolve."
                             ]
                         },
                         {
@@ -9140,7 +8391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>公妃様が……！？"
+                                "\\N<Segi>The Princess Consort...!?"
                             ]
                         },
                         {
@@ -9164,14 +8415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ああ、自警団の1人がそれらしい人物を見たって言う話だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飽くまで噂の範疇だけどね。"
+                                "\\N<Yuia>Yeah, one of the vigilantes said they saw someone who looked\nlike her. It's still just a rumor, though."
                             ]
                         },
                         {
@@ -9188,7 +8432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>母上と……セノに良く似た人物をリュダの駐屯地で見たとね。"
+                                "\\N<Yuia>They said they saw someone who looked a lot like Mother and\nSeno at the garrison in Ryuda."
                             ]
                         },
                         {
@@ -9239,7 +8483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな……公妃様とお母さんが……。"
+                                "\\N<Segi>No way... The Princess Consort and mother..."
                             ]
                         },
                         {
@@ -9263,14 +8507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>今の所似た人物と言うだけさ、勿論確証なんて無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもこの目で確かめて見たいんだ。"
+                                "\\N<Yuia>For now, it's just someone who looks similar, of course\nthere's no confirmation. But I still want to see it with my\nown eyes."
                             ]
                         },
                         {
@@ -9337,14 +8574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待って下さい。それってユイア様がリュダの駐屯地に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直接出向くと言う事ですか？"
+                                "\\N<Segi>W-Wait a moment. Are you saying that you, Lord Yuia, will\npersonally go to the garrison in Ryuda?"
                             ]
                         },
                         {
@@ -9368,14 +8598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ああ、勿論危険は承知の上さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも確かめてみる価値は有ると思う。"
+                                "\\N<Yuia>Yes, I'm well aware of the dangers. But I think it's worth\nchecking out."
                             ]
                         },
                         {
@@ -9426,7 +8649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -9450,21 +8673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……大丈夫、必ず無事に戻る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君を独りに何てさせやしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから……俺を信じてくれないか？"
+                                "\\N<Yuia>...It's okay, I'll definitely return safely. I won't leave\nyou alone. So... won't you trust me?"
                             ]
                         },
                         {
@@ -9515,7 +8724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様……。"
+                                "\\N<Segi>Lord Yuia..."
                             ]
                         },
                         {

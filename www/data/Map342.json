@@ -2276,7 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>さ、こっちだ。急ぎな。"
+                                "\\N<Zuuteruka>Come this way, hurry up."
                             ]
                         },
                         {
@@ -2300,7 +2300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ま、待ちな……まだ着替えが済んで……っ！"
+                                "\\N<Seno>W-wait... I'm not done changing...!"
                             ]
                         },
                         {
@@ -2324,14 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>へへ、そのままで構わねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせこれからまた脱ぐ事になるんだからな。"
+                                "\\N<Zuuteruka>Heh, no need to worry about that. You're going to take it\noff again soon anyway."
                             ]
                         },
                         {
@@ -2355,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>な、何だと……っ！？"
+                                "\\N<Seno>W-what did you say...!?"
                             ]
                         },
                         {
@@ -2644,7 +2637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>セノっ……！？"
+                                "\\N<Princess Consort Suia>Seno...!?"
                             ]
                         },
                         {
@@ -2715,7 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ス、スーイア……様！？"
+                                "\\N<Seno>P-Princess Consort Suia...!?"
                             ]
                         },
                         {
@@ -2739,7 +2732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>おおっと。丁度ソッチも終わりとは良かった。"
+                                "\\N<Zuuteruka>Oops. Good timing, just as you're finishing up over there."
                             ]
                         },
                         {
@@ -2763,21 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、今日は例の日だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女、まだまだ抱き足りんが、生憎俺達でこの二人を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "独占する訳にもいかんからな。"
+                                "\\N<Ryuda Soldier>Yeah, today's that special day, right? I'm not yet satisfied\nwith this woman, but unfortunately, we can't monopolize\nthese two just for ourselves."
                             ]
                         },
                         {
@@ -2801,14 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>な、何だってのさ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきから何を言っているんだい……？"
+                                "\\N<Seno>W-what are you talking about...? What have you been saying\nsince earlier...?"
                             ]
                         },
                         {
@@ -2832,14 +2804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、今夜は大事なお披露目会ってトコかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタらにはこれからソイツに参加して貰う。"
+                                "\\N<Zuuteruka>Hehehe, tonight is the big unveiling ceremony, I guess? You\ntwo will be participating in that from now on."
                             ]
                         },
                         {
@@ -2863,14 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<公妃スーイア>お披露目……ですって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな格好で一体何をさせようと言うのですか……！？"
+                                "\\N<Princess Consort Suia>An unveiling... ceremony? What on earth do you intend to\nmake us do in these outfits...!?"
                             ]
                         },
                         {
@@ -2932,21 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>その通りだよっ！こちとら下手クソなアンタらの相手で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れてるんだ！この上、何をさせようってんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっとと休ませなっての！"
+                                "\\N<Seno>Exactly! We're tired from dealing with you clowns! What more\ndo you want us to do!? Just let us rest already!"
                             ]
                         },
                         {
@@ -2970,14 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうかあ？まあ、どうしても休みてえってんなら止めは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しねえけどなあ？"
+                                "\\N<Zuuteruka>Is that so? Well, I won't stop you if you really want to\nrest, but..."
                             ]
                         },
                         {
@@ -2994,21 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>これから始まるお披露目会はアンタらにとっても重要な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コトだと思うぜ？参加して置いた方がイイと思うがなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰らない方がイイと思うがなあ？"
+                                "\\N<Zuuteruka>The unveiling ceremony starting soon is an important event\nfor you too, I think? It'd be better if you participated,\ndon't you think? I think it's better not to go back."
                             ]
                         },
                         {
@@ -3032,14 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セノ>ち……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思わせ振りな言い方をしやがって気分の悪い……っ！"
+                                "\\N<Seno>Tch...! Your insinuating way of speaking is making me\nsick...!"
                             ]
                         },
                         {
@@ -3063,7 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……じゃあ話が纏まった所で来て貰おうか。"
+                                "\\N<Zuuteruka>Hehehe... Well then, now that we've settled that, let's have\nyou come along."
                             ]
                         },
                         {

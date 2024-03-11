@@ -5099,7 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>湖底遺跡……？"
+                                "\\N<Zuuteruka>Lakebed ruins...?"
                             ]
                         },
                         {
@@ -5123,7 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>その通りだ。"
+                                "\\N<Senior Officer Ryuda>That's right."
                             ]
                         },
                         {
@@ -5147,14 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>生憎聴いた事ねえが、その辺鄙な街の寂れた遺跡にどれ程の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "価値が有るってんです？"
+                                "\\N<Zuuteruka>Unfortunately, I've never heard of them. What value could\nthere possibly be in some desolate ruins in a backwater\ntown?"
                             ]
                         },
                         {
@@ -5178,7 +5171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>それを調査するのが貴様の任務だ。"
+                                "\\N<Senior Officer Ryuda>Investigating that is your mission."
                             ]
                         },
                         {
@@ -5195,21 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>かの遺跡には我々リュダの支配を盤石の物とするモノが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠ってるかも知れんのだ。上手くすれば、ソレを入手出来る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やも知れん。"
+                                "\\N<Senior Officer Ryuda>Those ruins may contain something that will solidify our\nRyuda's control. If you play your cards right, you might be\nable to obtain it."
                             ]
                         },
                         {
@@ -5233,7 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>……。"
+                                "\\N<Zuuteruka>..."
                             ]
                         },
                         {
@@ -5466,14 +5445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>戻ったか、ズーテルカ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早速だが湖底遺跡の調査結果を聴かせて貰おう。"
+                                "\\N<Senior Officer Ryuda>You're back, Zuuteruka. Let's hear the results of your\ninvestigation of the underwater ruins without delay."
                             ]
                         },
                         {
@@ -5497,7 +5469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……ま、期待していた程の情報じゃねえですがねえ。"
+                                "\\N<Zuuteruka>Hehehe... Well, it's not as much information as you might\nhave hoped for."
                             ]
                         },
                         {
@@ -5731,14 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>隊長、ズーテルカの奴は一体どんな情報を持ち帰って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来たんです？"
+                                "\\N<Ryuda Soldier>Captain, what kind of information has Zuuteruka brought\nback?"
                             ]
                         },
                         {
@@ -5793,7 +5758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>さてね、別動隊の事だからねえ、俺にも仔細は判らない。"
+                                "\\N<Tseda>Well, it's a separate unit's business, so I don't know the\ndetails."
                             ]
                         },
                         {
@@ -5810,21 +5775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>だが話によれば、何とかって辺境の街に俺達リュダの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "支配を盤石にする何かってのが眠ってるらしい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな情報らしいぜ？"
+                                "\\N<Tseda>But from what I've heard, there's something in some remote\ntown that could solidify our Ryuda's control... That seems\nto be the gist of it."
                             ]
                         },
                         {
@@ -5848,7 +5799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>それは一体……？"
+                                "\\N<Ryuda Soldier>What could that be...?"
                             ]
                         },
                         {
@@ -5872,7 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>何かは判らないが面白そうじゃない？"
+                                "\\N<Tseda>I don't know what it is, but doesn't it sound interesting?"
                             ]
                         },
                         {
@@ -5889,21 +5840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>もしもソイツを俺が手に入れる事が出来たら一大事だよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大出世ってヤツだ。眉唾物かも知れないが、調べてみる価値"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は有ると思わないか？"
+                                "\\N<Tseda>If I could get my hands on it, it would be a big deal, a\nreal rise in status. It might be dubious, but don't you\nthink it's worth checking out?"
                             ]
                         },
                         {
@@ -5927,7 +5864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>では……その何やら言う街へ向かうと？"
+                                "\\N<Ryuda Soldier>So... we're heading to this town you speak of?"
                             ]
                         },
                         {
@@ -5951,7 +5888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>ああ、そのつもりさ。"
+                                "\\N<Tseda>Yes, that's the plan."
                             ]
                         },
                         {
@@ -5975,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>しかし隊長は今……別の任務を遂行中では？"
+                                "\\N<Ryuda Soldier>But Captain, aren't you currently on a different mission?"
                             ]
                         },
                         {
@@ -5999,21 +5936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>あんな御端仕事、熱心にこなした所で大した功績には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なりゃしないさ。だったら一か八かズーテルカの持って来た"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報に乗ってみるのもアリだと思わない？"
+                                "\\N<Tseda>Such trivial tasks, even if done diligently, won't amount to\nany significant achievements. So why not take a chance on\nthe information Zuuteruka brought back?"
                             ]
                         },
                         {
@@ -6037,14 +5960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……仰る通りかも知れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "承知しました、俺達もお供させて貰います。"
+                                "\\N<Ryuda Soldier>...You may be right. Understood, we will accompany you."
                             ]
                         },
                         {
@@ -6107,14 +6023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、俺は始めからもっとデカい仕事がしたかったん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですよ、何処でもついて行きますぜ！"
+                                "\\N<Ryuda Soldier>Heh, I've always wanted to be part of something bigger from\nthe start. I'll follow you anywhere!"
                             ]
                         },
                         {
@@ -6138,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>よっしゃ、そう来なくっちゃ。"
+                                "\\N<Tseda>Alright, that's the spirit."
                             ]
                         },
                         {
@@ -6367,7 +6276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……お呼びでしょうか。"
+                                "\\N<Rozaro>...Did you call for me?"
                             ]
                         },
                         {
@@ -6391,14 +6300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>うむ……ツェダとその一党が隊を離れ、件の街の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡へ向かった。"
+                                "\\N<Senior Officer Ryuda>Yes... Tseda and his party have left the unit and headed for\nthe ruins in that town."
                             ]
                         },
                         {
@@ -6415,14 +6317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>奴は平素より隊への不満を口にしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "或いは今回の行動も造反への第一歩かも知れん。"
+                                "\\N<Senior Officer Ryuda>He has always voiced dissatisfaction with the unit. Perhaps\nthis action is the first step towards rebellion."
                             ]
                         },
                         {
@@ -6473,7 +6368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -6497,14 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>ロザロ、貴様は腕も立つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツェダ一党を追い、捕縛して来るのだ。"
+                                "\\N<Senior Officer Ryuda>Rozaro, you are skilled. Pursue Tseda's party and bring them\nback in chains."
                             ]
                         },
                         {
@@ -6521,14 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ上級将校>任務成功の暁には貴様にツェダのこれまで挙げて来た功績、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "褒章の全てを引き継がせよう。"
+                                "\\N<Senior Officer Ryuda>Should you succeed in your mission, I will see to it that\nyou inherit all of Tseda's achievements and rewards to date."
                             ]
                         },
                         {
@@ -6579,7 +6460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……承知致しました。"
+                                "\\N<Rozaro>...Understood."
                             ]
                         },
                         {
@@ -6765,7 +6646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>隊への不満……造反か。"
+                                "\\N<Rozaro>Dissatisfaction with the unit... Rebellion, huh."
                             ]
                         },
                         {
@@ -6782,14 +6663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>割りに合わん任務の数々を押し付けられれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうしたくもなる。"
+                                "\\N<Rozaro>If one is burdened with one thankless task after another,\nit's natural to want to rebel."
                             ]
                         },
                         {
@@ -6854,14 +6728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふん……我ながら造反者に同調とはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば或いは俺も……潮時なのかも知れんな。"
+                                "\\N<Rozaro>Hmph... To think I would sympathize with a rebel. Perhaps\nit's time for me too... to consider my options."
                             ]
                         },
                         {

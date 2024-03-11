@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:最上層",
+    "displayName": "Lakebed Ruins Myyve: Top Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2381,14 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……相変わらず鼻につく様な刺激臭がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして空気は一増肌を刺す様に緊張してる……。"
+                                "\\N<Segi>...As usual, there's that irritating, pungent smell. And the\nair is tense, as if it's pricking at the skin..."
                             ]
                         },
                         {
@@ -2405,14 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの時ズーテルカに促された抗毒剤……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『マインド・リュダ』と言ったかしら……？"
+                                "\\N<Segi>The antidote that Zuuteruka urged me to take back then...\nwas it called \"Mind Lyuda\"...?"
                             ]
                         },
                         {
@@ -2429,14 +2415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>この毒気と空気の重圧に昏倒しないのは、きっとあの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薬の所為なのね……。"
+                                "\\N<Segi>The fact that I'm not fainting from this toxic air and\npressure must be because of that medicine..."
                             ]
                         },
                         {
@@ -2474,21 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……それが何だの言うの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等の技術であろうが何であろうが、前に進む為……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様やリイアの為なら何でも使わせて貰うつもり。"
+                                "\\N<Segi>But... what does it matter? Whether it's their technology or\nwhatever else, to move forward... for Lord Yuia and Riia,\nI'll use anything at my disposal."
                             ]
                         },
                         {
@@ -2505,14 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だからもう、迷わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしは……そう決めたのだから。"
+                                "\\N<Segi>That's why I won't hesitate anymore. I've... made up my\nmind."
                             ]
                         },
                         {

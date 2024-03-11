@@ -3276,14 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>中には街の駐屯管理者様がおられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも口の利き方には気を付ける事だ。"
+                                "\\N<Ryuda Soldier>Inside, the town's garrison manager-sama is present. Be very\ncareful about how you speak."
                             ]
                         },
                         {
@@ -3351,14 +3344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>中には街の駐屯管理者ズーテルカ様がおられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも口の利き方には気を付ける事だ。"
+                                "\\N<Ryuda Soldier>Inside, you'll find the town's garrison commander, Lord\nZuuteruka. Be very careful about how you speak."
                             ]
                         },
                         {
@@ -3435,14 +3421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この街の連中は運が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には有無を言わさず虐殺の憂目に遭った街もある程だ。"
+                                "\\N<Ryuda Soldier>The people of this town are lucky. Some towns have been\nmassacred without so much as a word."
                             ]
                         },
                         {
@@ -3510,21 +3489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この街の連中は運が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には有無を言わさず虐殺の憂目に遭った街もある程だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズーテルカ様に感謝するんだな。"
+                                "\\N<Ryuda Soldier>The people of this town are lucky. Some towns have been\nmassacred without question. Be thankful to Lord Zuuteruka."
                             ]
                         },
                         {
@@ -4059,7 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん。ユイアの奴を迎えに来たのかい？"
+                                "\\N<Man>Segi-san, have you come to pick up Yuia?"
                             ]
                         },
                         {
@@ -4083,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい。主人は中でしょうか？"
+                                "\\N<Segi>Yes. Is my master inside?"
                             ]
                         },
                         {
@@ -4107,14 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ああ。折角足を運んでくれたのに悪いが、まだ話し合い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の途中でね。この分だとあともう少しかかるかも知れない。"
+                                "\\N<Man>Yes, but I'm sorry to say that they're still in the middle\nof a discussion. At this rate, it might take a little\nlonger."
                             ]
                         },
                         {
@@ -4138,7 +4096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判りました。では少しその辺りで時間を潰して来ます。"
+                                "\\N<Segi>Understood. Then I'll kill some time around here for a bit."
                             ]
                         },
                         {
@@ -4162,7 +4120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ああ、すまないがそうしておくれ。"
+                                "\\N<Man>Yes, I'm sorry, but please do that."
                             ]
                         },
                         {
@@ -4296,7 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん。ユイアの奴を迎えに来たのかい？"
+                                "\\N<Man>Segi-san, have you come to pick up Yuia?"
                             ]
                         },
                         {
@@ -4320,7 +4278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい。主人は中でしょうか？"
+                                "\\N<Segi>Yes. Is my master inside?"
                             ]
                         },
                         {
@@ -4344,21 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ああ。折角足を運んでくれたのに悪いが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ話し合いの途中でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この分だとあともう少しかかるかも知れない。"
+                                "\\N<Man>Yes, but I'm sorry to say that he's still in the middle of a\ndiscussion. At this rate, it might take a little longer."
                             ]
                         },
                         {
@@ -4382,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判りました。では少しその辺りで時間を潰して来ます。"
+                                "\\N<Segi>Understood. Then I'll kill some time around here for a bit."
                             ]
                         },
                         {
@@ -4406,7 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ああ、すまないがそうしておくれ。"
+                                "\\N<Man>Yes, I'm sorry, but please do that."
                             ]
                         },
                         {
@@ -4817,14 +4761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そこの管理所は以前は文字通り街の中枢とも言える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理機関だった。"
+                                "\\N<Man>That management office used to be quite literally the nerve\ncenter of the city."
                             ]
                         },
                         {
@@ -4841,14 +4778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>まあ……今はすっかりこの街に駐留するリュダの連中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理統治機関になってしまったがな……。"
+                                "\\N<Man>Well... now it's completely turned into the administrative\ngoverning body for the Ryuda troops stationed in this\ntown..."
                             ]
                         },
                         {
@@ -5045,14 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>リュダの連中が通った跡は草木一本残らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "専らの噂です……。"
+                                "\\N<Woman>It's widely rumored that not a single plant remains where\nthe people of Ryuda have passed through..."
                             ]
                         },
                         {
@@ -5069,14 +4992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>勿論尾鰭がついた噂でしょうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも私はこの街の行く末が心配になります……。"
+                                "\\N<Woman>Of course, it must be an exaggerated rumor, but even so, I\nworry about the future of this town..."
                             ]
                         },
                         {

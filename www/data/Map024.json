@@ -3399,14 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>警備任務中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無いなら話しかけないで貰おうか。"
+                                "\\N<Ryuda Soldier>I'm on guard duty. If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -3483,14 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>知っての通り中では練兵会が催されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らの運命を決定付ける戦いだ、心して臨むがいいさ。"
+                                "\\N<Ryuda Soldier>As you know, a training session is being held inside. It's a\nbattle that will determine your fate, so approach it with\nresolve."
                             ]
                         },
                         {
@@ -4043,7 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ただいま。"
+                                "\\N<Yuia>I'm home."
                             ]
                         },
                         {
@@ -4067,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様……お帰りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった……ご無事で何よりでした……。"
+                                "\\N<Segi>Lord Yuia... welcome back. I'm so relieved... that you're\nsafe..."
                             ]
                         },
                         {
@@ -4098,7 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……うん。ただいま、セギ。"
+                                "\\N<Yuia>...Yeah. I'm home, Segi."
                             ]
                         },
                         {
@@ -4122,14 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その……悲しい事や辛い事が色々ありましたが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は素直に御無事を喜んでいいんですよね。"
+                                "\\N<Segi>There have been... many sad and painful things... but now,\nit's okay to be genuinely happy about your safety, right?"
                             ]
                         },
                         {
@@ -4153,7 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……ああ。"
+                                "\\N<Yuia>...Yes."
                             ]
                         },
                         {
@@ -4177,7 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも、この戦いはまだまだ続くのですよね……？"
+                                "\\N<Segi>But, the battle is still ongoing, isn't it...?"
                             ]
                         },
                         {
@@ -4201,7 +4173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -4225,21 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>勿論ユイア様が御無事なのは嬉しいのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏を返せばその分他の誰かが傷付いていると言う事ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのにわたし達だけが喜んでいていいものなのかと……。"
+                                "\\N<Segi>Of course, I'm happy that Lord Yuia is safe, but on the flip\nside, it means that someone else has been hurt. I wonder if\nit's really okay for just us to be happy..."
                             ]
                         },
                         {
@@ -4263,7 +4221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -4287,7 +4245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、す、すみません……そんなつもりじゃ……。"
+                                "\\N<Segi>Ah, I'm sorry... I didn't mean to..."
                             ]
                         },
                         {
@@ -4311,21 +4269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>別に気を悪くした訳じゃないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の言う事も判る、俺が勝ち進めばその分誰かが不幸になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが事実さ。"
+                                "\\N<Yuia>It's not that I took offense. I understand what you're\nsaying; as I advance, someone else becomes unhappy. That's\nthe reality."
                             ]
                         },
                         {
@@ -4349,7 +4293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いつまで……こんな事が続くのでしょうか。"
+                                "\\N<Segi>How long... will things like this continue?"
                             ]
                         },
                         {
@@ -4373,7 +4317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ、その事で少し君に話があるんだ。"
+                                "\\N<Yuia>Segi, there's something I need to talk to you about\nregarding that."
                             ]
                         },
                         {
@@ -4397,7 +4341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -4655,7 +4599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ただいま。"
+                                "\\N<Yuia>I'm home."
                             ]
                         },
                         {
@@ -4672,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>パパっ！"
+                                "\\N<Riia>Daddy!"
                             ]
                         },
                         {
@@ -4689,7 +4633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>リイア、待っててくれたのかい？"
+                                "\\N<Yuia>Riia, were you waiting for me?"
                             ]
                         },
                         {
@@ -4706,7 +4650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>うんっ！だってママが必ず帰って来るって言ってたから！"
+                                "\\N<Riia>Yeah! Because Mommy said you would definitely come back!"
                             ]
                         },
                         {
@@ -4723,14 +4667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様……お帰りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった……ご無事で何よりでした……。"
+                                "\\N<Segi>Lord Yuia... welcome home. I'm so relieved that you're\nsafe..."
                             ]
                         },
                         {
@@ -4747,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……うん。ただいま、セギ。"
+                                "\\N<Yuia>...Yeah. I'm home, Segi."
                             ]
                         },
                         {
@@ -4764,14 +4701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その……悲しい事や辛い事が色々ありましたが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は素直に御無事を喜んでいいんですよね。"
+                                "\\N<Segi>It's just that... there have been many sad and painful\nthings... but now we can genuinely be happy about your\nsafety, right?"
                             ]
                         },
                         {
@@ -4788,7 +4718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……ああ。"
+                                "\\N<Yuia>...Yeah."
                             ]
                         },
                         {
@@ -4805,7 +4735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>次は……二回戦ですよね。"
+                                "\\N<Segi>Next is... the second round, isn't it?"
                             ]
                         },
                         {
@@ -4822,21 +4752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>勿論ユイア様が御無事なのは嬉しいのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏を返せばその分他の誰かが傷付いていると言う事ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに私達だけが喜んでいていいものなのかと……。"
+                                "\\N<Segi>Of course, I'm happy that Lord Yuia is safe, but on the flip\nside, it means that someone else has been hurt. I wonder if\nit's really okay for just us to be happy..."
                             ]
                         },
                         {
@@ -4853,7 +4769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -4870,7 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、す、すみません……私そんなつもりじゃ……。"
+                                "\\N<Segi>Ah, I'm sorry... I didn't mean to..."
                             ]
                         },
                         {
@@ -4887,21 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>別に気を悪くした訳じゃないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の言う事も判る、俺が勝ち進めばその分誰かが不幸になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが事実さ。"
+                                "\\N<Yuia>It's not that I took offense. I understand what you're\nsaying; as I advance, someone else becomes unhappy. That's\nthe reality."
                             ]
                         },
                         {
@@ -4918,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いつまで……こんな事が続くのでしょうか。"
+                                "\\N<Segi>How long... will things like this continue?"
                             ]
                         },
                         {
@@ -4935,7 +4837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ、その事で少し君に話があるんだ。"
+                                "\\N<Yuia>Segi, there's something I need to talk to you about\nregarding that."
                             ]
                         },
                         {
@@ -4952,7 +4854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -5116,21 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会会場か……ここも以前は街の演舞場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その憩いの場が、リュダの奴らが来てからすっかり血生臭い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に変わってしまった……。"
+                                "\\N<Man>The training grounds, huh... This place used to be the\ncity's performance hall. Ever since those Ryuda guys came,\nthis relaxing spot has completely turned into a blood-\nstained place..."
                             ]
                         },
                         {
@@ -5353,21 +5241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会が始まってからと言うもの、既にその勝敗によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天国と地獄を味わう住民が現れています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは街の人心が二分されてしまいます……。"
+                                "\\N<Man>Ever since the training tournament began, there are already\ncitizens who have tasted both heaven and hell depending on\nthe outcomes. If this continues, the town's public sentiment\nwill be split in two..."
                             ]
                         },
                         {

@@ -2089,14 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの育成機関である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無くば無駄な嫌疑がかかる前に立ち去る事だ。"
+                                "\\N<Ryuda Soldier>This is the Ryuda training institution. If you have no\nbusiness here, leave before unnecessary suspicion falls upon\nyou."
                             ]
                         },
                         {
@@ -2245,14 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>見てわかんないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強中なんだ、話しかけないでよ……。"
+                                "\\N<Ryuda Soldier>Can't you see? I'm studying, so don't talk to me..."
                             ]
                         },
                         {
@@ -2329,21 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>わたしのパパは練兵会で戦ってるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまだいいけどさ、もしも負けちゃったりしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやママはどうなるんだろう……。"
+                                "\\N<Ryuda Soldier>My dad is fighting in the training corps... It's fine for\nnow, but I wonder what will happen to me and mom if he ever\nloses..."
                             ]
                         },
                         {
@@ -2420,14 +2392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>僕は何のためにここに通ってるんだろう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイになるため？それとも……。"
+                                "\\N<Ryuda Soldier>What am I even doing here... To become a soldier of Ryuda?\nOr maybe..."
                             ]
                         },
                         {
@@ -2504,14 +2469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だれ……？用が無いなら向こうへ行ってよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイに見られたくないんだ。"
+                                "\\N<Ryuda Soldier>Who's there...? If you have no business, please go that way.\nI don't want to be seen by the Ryuda soldiers."
                             ]
                         },
                         {
@@ -2588,14 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここでは街の子供達が学んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前は純粋な学問所でしたが……。"
+                                "\\N<Man>This is where the children of the town come to learn. It\nused to be a pure place of study, but..."
                             ]
                         },
                         {

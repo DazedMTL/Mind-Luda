@@ -1405,14 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>やあ、セギさん。この診療所に何か御用かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体の変調を感じた時はいつでも相談してくれ給えよ、はは。"
+                                "\\N<Doctor>Hey there, Miss Segi. Do you need anything at this clinic?\nFeel free to consult me anytime you feel something off with\nyour body, haha."
                             ]
                         },
                         {
@@ -1519,14 +1512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>やあ、セギさん。この診療所に何か御用かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体の変調を感じた時はいつでも相談してくれ給えよ、はは。"
+                                "\\N<Doctor>Hey there, Miss Segi. Do you need something from the clinic?\nFeel free to consult me anytime you feel something's off\nwith your body, haha."
                             ]
                         },
                         {
@@ -1550,7 +1536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……少しご相談が有るのですが。"
+                                "\\N<Segi>Um... I have something I'd like to discuss."
                             ]
                         },
                         {
@@ -1583,14 +1569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>相談？セギさんがかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてもう一人おめでたかな？"
+                                "\\N<Doctor>A discussion? What's on your mind, Miss Segi? Don't tell me\nyou're expecting another little one?"
                             ]
                         },
                         {
@@ -1607,7 +1586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>あんな事が遭ったんだ、もしそうだとしたら私も嬉しいよ。"
+                                "\\N<Doctor>After what happened, if that's the case, I'd be delighted."
                             ]
                         },
                         {
@@ -1673,7 +1652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……そうでは無く……。"
+                                "\\N<Segi>N-no... that's not it..."
                             ]
                         },
                         {
@@ -1704,7 +1683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……この本に書かれている事についてなのですが。"
+                                "\\N<Segi>It's about... what's written in this book."
                             ]
                         },
                         {
@@ -1774,7 +1753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>弱性の経皮毒……？その原料だって……？"
+                                "\\N<Doctor>A dermal toxin with a weakness...? And its ingredients...?"
                             ]
                         },
                         {
@@ -1798,14 +1777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。訳有って必要なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしもこちらで管理されている物が有ればと思って……。"
+                                "\\N<Segi>...Yes. I need it for a certain reason. I was hoping you\nmight have it here..."
                             ]
                         },
                         {
@@ -1838,14 +1810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>ふむ……残念だけどここには無いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが原材料の在処なら聞いた事が有る。"
+                                "\\N<Doctor>Hmm... Unfortunately, we don't have it here. But I have\nheard of where the raw materials can be found."
                             ]
                         },
                         {
@@ -1869,7 +1834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ほ、本当ですか！？その場所を教えて頂けませんか！？"
+                                "\\N<Segi>R-really?! Could you tell me where that is?!"
                             ]
                         },
                         {
@@ -1893,14 +1858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>確実とは言えないがね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡の奥地に自生していると聞いた事が有る。"
+                                "\\N<Doctor>I can't guarantee it, but... I've heard it grows deep within\nthe ruins."
                             ]
                         },
                         {
@@ -1917,21 +1875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>とは言え今、遺跡はリュダの管轄地だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由に遺跡に出入り出来る練兵会の参加者でも無ければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "到底採取して来るのは困難だろうさ。"
+                                "\\N<Doctor>However, the ruins are currently under Lyuda's jurisdiction.\nIt would be difficult to collect it unless you're a\nparticipant in the training corps who has free access to the\nruins."
                             ]
                         },
                         {
@@ -1948,14 +1892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>もしも……もしもその原材料の根を5本程持参してくれれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでその弱性の毒を精製する事もやぶさかでは無いが。"
+                                "\\N<Doctor>If you could... if you could bring me about five roots of\nthat material, I wouldn't be averse to refining the toxin\nfor you here."
                             ]
                         },
                         {
@@ -1979,7 +1916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>遺跡の奥地に自生……。"
+                                "\\N<Segi>Grows deep within the ruins..."
                             ]
                         },
                         {
@@ -2116,7 +2053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>やあ、セギさん。調子はどうかな？"
+                                "\\N<Doctor>Hey there, Miss Segi. How are you feeling?"
                             ]
                         },
                         {
@@ -2175,7 +2112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -2208,14 +2145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<医師>ほお……？例の原料を集めて来たのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だが一体どうやって……。"
+                                "\\N<Doctor>Oh...? Have you gathered the ingredients I mentioned? But\nhow on earth did you..."
                             ]
                         },
                         {
@@ -2239,14 +2169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>その……これで自然排出可能な弱性の毒物を精製して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頂けるのでしょうか？"
+                                "\\N<Segi>About that... With these, you can refine a weak poison that\ncan be naturally expelled, right?"
                             ]
                         },
                         {
@@ -2270,14 +2193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<医師>ふむ……判った。セギさんがコイツをどうやって集めたか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "疑問は残るが約束は約束だ。精製してみよう。"
+                                "\\N<Doctor>Hmm... I understand. I'm curious how Miss Segi managed to\ncollect this, but a promise is a promise. Let's try to\nrefine it."
                             ]
                         },
                         {
@@ -2294,7 +2210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<医師>その代わり……手間賃は少々掛かるよ？"
+                                "\\N<Doctor>However... there will be a small fee for my trouble, you\nknow?"
                             ]
                         },
                         {
@@ -2318,7 +2234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>判りました……有難う御座います。"
+                                "\\N<Segi>Understood... Thank you very much."
                             ]
                         },
                         {
@@ -2342,14 +2258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<医師>では暫くたったらまたここへ寄っておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その時までに精製作業を済ませて置くとしようじゃないか。"
+                                "\\N<Doctor>Then, please stop by here again after a while. I should have\nthe refining process completed by then."
                             ]
                         },
                         {
@@ -2504,14 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>では暫くたったらまたここへ寄っておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時までに精製作業を済ませて置くとしようじゃないか。"
+                                "\\N<Doctor>Then, after a while, please drop by here again. By that\ntime, let's have the refining process finished, shall we?"
                             ]
                         },
                         {
@@ -2579,14 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>やあ、セギさん。例のモノは仕上がっているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少々値は張るが必要な物なんだろう？"
+                                "\\N<Doctor>Hey there, Segi-san. The usual item is ready. It's a bit\npricey, but it's something you need, right?"
                             ]
                         },
                         {
@@ -2856,21 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここは街で唯一の診療所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中に色々なモノが奪われたが、まさかここまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪う事は無いと信じたいよ……。"
+                                "\\N<Man>This is the only clinic in town. The Ryuda gang has taken so\nmany things, but I want to believe they wouldn't go as far\nas to take this..."
                             ]
                         },
                         {
@@ -2947,14 +2828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<老婆>……練兵会で多くの人間が傷付いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし誰一人ここで治療を受けた者はいないと言います。"
+                                "\\N<Old Woman>...Many people have been injured at the training grounds.\nYet, they say not a single one has received treatment here."
                             ]
                         },
                         {
@@ -2971,14 +2845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<老婆>ならば一体何処で治療を受けているのでしょうか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、或いは……。"
+                                "\\N<Old Woman>Then where on earth are they getting treated... Could it\npossibly be, or perhaps..."
                             ]
                         },
                         {
@@ -3055,14 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>その……お恥ずかしながら妊娠についての件でここに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通っています。良い結果に繋がれば良いのですけれど……。"
+                                "\\N<Woman>Um... I'm visiting here regarding the matter of pregnancy. I\nhope it leads to a good outcome..."
                             ]
                         },
                         {
@@ -3146,14 +3006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かこの先は処置室だった筈……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無断で立ち入る事は出来ないわ。"
+                                "\\N<Segi>I'm sure the treatment room is just ahead... We can't enter\nwithout permission."
                             ]
                         },
                         {
@@ -3328,14 +3181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "練兵会への準備状態が更新されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メモ帳を開いてみましょう。"
+                                "The preparation status for the Training Assembly has been\nupdated. Let's open the notepad."
                             ]
                         },
                         {

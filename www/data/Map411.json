@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>来た……本当にリュダの兵隊達が来たぞ……！？"
+                                "\\N<Resident>They've come... The Ryuda soldiers are really here...!?"
                             ]
                         },
                         {
@@ -6486,14 +6486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>こ、ここから先は……通せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで引き返してくれ……。"
+                                "\\N<Resident>You can't go any further from here... Please turn back..."
                             ]
                         },
                         {
@@ -6510,14 +6503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>何の真似だ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様ら如きに阻まれる行軍では無い、速やかにそこを退け。"
+                                "\\N<Officer Ryuda>What do you think you're doing? Our march won't be hindered\nby the likes of you, move aside at once."
                             ]
                         },
                         {
@@ -6534,7 +6520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>……出来ない。妻や子供の命が懸かっているんだ。"
+                                "\\N<Resident>...I can't. The lives of my wife and children are at stake."
                             ]
                         },
                         {
@@ -6551,21 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>ふん……成程、ツェダの奴か。奴の考えそうな事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妻子を人質に取り、そしてその後貴様らを自らの盾として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち回らせる、か。だがな、残念ながらそうはいかん。"
+                                "\\N<Officer Ryuda>Hmph... I see, it must be Zeda's doing. It's just like him\nto take wives and children hostage, and then use you all as\nhis shields. But unfortunately for you, that's not going to\nhappen."
                             ]
                         },
                         {
@@ -6582,14 +6554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>こ、こっちだって易々とアンタ達を通す訳にはいかない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んだ……！"
+                                "\\N<Resident>We can't just let you through easily either...!"
                             ]
                         },
                         {
@@ -6622,14 +6587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>（彼等はどう見ても戦闘経験の有る人間じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに僕達リュダの前に立ちはだかっている）"
+                                "\\N<Hebeta>(They don't look like they have any combat experience at\nall. Yet they stand in front of us Ryuda soldiers.)"
                             ]
                         },
                         {
@@ -6646,14 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>（判らないな……奥さんの為とか言ってたけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてこれが愛……なのかな？））"
+                                "\\N<Hebeta>(I don't understand... He said it's for his wife... Could\nthis possibly be what love is...?)"
                             ]
                         },
                         {
@@ -6684,21 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>頼む……このまま帰ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタらがツェダと呼んだ連中の首魁はそうしたら人質を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解放すると約束してくれたんだ。"
+                                "\\N<Resident>Please... Just go back. The ones you call Zeda promised to\nrelease the hostages if we do this."
                             ]
                         },
                         {
@@ -6715,14 +6652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>馬鹿か、貴様らは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴がそんな約束を守る訳が無かろう。退け。"
+                                "\\N<Officer Ryuda>Are you fools? There's no way he would keep such a promise.\nStand aside."
                             ]
                         },
                         {
@@ -6739,21 +6669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>で、出来ない……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例え奴が約束を反故にするかも知れないとしても、俺達には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうするしか無いんだっ！"
+                                "\\N<Resident>I can't...! Even if there's a chance he won't keep his\npromise, this is the only thing we can do!"
                             ]
                         },
                         {
@@ -6793,21 +6709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>あまり勘違いするなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らの任務は飽く迄造反者ツェダの捕縛であり、貴様ら及び"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妻子達の救出では無い。"
+                                "\\N<Officer Ryuda>Don't be so mistaken. Our mission is solely to capture the\nrebel Zeda, not to rescue you or your wives and children."
                             ]
                         },
                         {
@@ -6824,7 +6726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>つまり……貴様らも妻子達もどうなっても構わんのだ。"
+                                "\\N<Officer Ryuda>In other words... It doesn't matter what happens to you or\nyour families."
                             ]
                         },
                         {
@@ -6841,7 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>な……！！？？"
+                                "\\N<Resident>Wha...!!??"
                             ]
                         },
                         {
@@ -6872,7 +6774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>くく、どうしても退かんと言うなら、ここで死ね。"
+                                "\\N<Officer Ryuda>Heh, if you refuse to move, then die right here."
                             ]
                         },
                         {
@@ -7214,7 +7116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>街が騒めいている……何だ……この騒ぎは。"
+                                "\\N<Yuia>The town is in an uproar... What's... this commotion about?"
                             ]
                         },
                         {
@@ -7515,7 +7417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ユイアさん……っ！！"
+                                "\\N<Irime>Yuia-san...!!"
                             ]
                         },
                         {
@@ -7539,7 +7441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>イリメさん……何が遭った？この騒ぎは一体……？"
+                                "\\N<Yuia>Irime-san... What happened? What's all this commotion\nabout...?"
                             ]
                         },
                         {
@@ -7563,14 +7465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あ、あたしも暫く街を離れていて……今戻ったトコなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら……そしたらっ！"
+                                "\\N<Irime>I, I was away from town for a while... and I just got back!\nAnd then... and then!"
                             ]
                         },
                         {
@@ -7594,7 +7489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ユイアさん……いいかい？冷静に聴いておくれ？"
+                                "\\N<Irime>Yuia-san... are you listening? Please stay calm and hear me\nout?"
                             ]
                         },
                         {
@@ -7618,7 +7513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -7642,21 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>アンタの奥さんが……セギが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偶々定期検診で行ってた診療所でリュダの連中の人質に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっていたって……。"
+                                "\\N<Irime>Your wife... Segi... she happened to be at the clinic for a\nregular check-up and has been taken hostage by the Ryuda\ngang..."
                             ]
                         },
                         {
@@ -7680,7 +7561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>な……！！？？"
+                                "\\N<Yuia>Wha...!!??"
                             ]
                         },
                         {

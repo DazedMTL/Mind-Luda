@@ -2673,7 +2673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>おい、無事か！？人を連れて来たぞ！"
+                                "\\N<Man>Hey, are you alright?! I've brought someone with me!"
                             ]
                         },
                         {
@@ -2697,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>大丈夫ですか……？"
+                                "\\N<Segi>Are you okay...?"
                             ]
                         },
                         {
@@ -2721,14 +2721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<怪我をした男>あ、ああ……すまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を怪我した様で動けないんだ。"
+                                "\\N<Injured Man>Ah, yeah... sorry. It seems I've injured my leg and can't\nmove."
                             ]
                         },
                         {
@@ -2752,7 +2745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……立てますか？わたしが安全な場所まで付き添います。"
+                                "\\N<Segi>...Can you stand? I'll accompany you to a safe place."
                             ]
                         },
                         {
@@ -2776,7 +2769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<怪我をした男>ああ……どうやら下手を打っちまった様だ……。"
+                                "\\N<Injured Man>Yeah... seems like I really messed up..."
                             ]
                         },
                         {
@@ -2824,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<怪我をした男>アンタがな。"
+                                "\\N<Injured Man>It's you..."
                             ]
                         },
                         {
@@ -2848,7 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……え？"
+                                "\\N<Segi>...Huh?"
                             ]
                         },
                         {
@@ -3019,7 +3012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあっ！はあっ！いきなり何を……！？"
+                                "\\N<Segi>Haah! Haah! What are you doing all of a sudden...?!"
                             ]
                         },
                         {
@@ -3043,14 +3036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ち……いいカモが引っ掛かったと思ったが、コイツは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とんだ女狐だったって訳かい……！"
+                                "\\N<Ruins Thug>Tch... thought I caught an easy prey, but turns out she's a\ndamn vixen, huh...!"
                             ]
                         },
                         {
@@ -3067,14 +3053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>全くツイてねえぜ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ、いいさ、今日の所はこれで引き退がってやらあ……！"
+                                "\\N<Ruins Thug>Just my luck... Well, fine, I'll back off for today...!"
                             ]
                         },
                         {
@@ -3091,7 +3070,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく……またな、姉ちゃん……！"
+                                "\\N<Ruins Thug>Heh... see you around, sister...!"
                             ]
                         },
                         {
@@ -3115,7 +3094,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……っ。"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -3393,7 +3372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>な……あ……っ！？"
+                                "\\N<Segi>Wha... ah...?!"
                             ]
                         },
                         {
@@ -3429,7 +3408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ……っ！"
+                                "\\N<Ruins Thug>Heheh...!"
                             ]
                         },
                         {
@@ -3510,7 +3489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>やめ……何をっ！？"
+                                "\\N<Segi>Stop... what are you...?!"
                             ]
                         },
                         {
@@ -3564,14 +3543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>何ってそんなの決まってるじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここ迄来てジタバタするんじゃねえよ。"
+                                "\\N<Ruins Thug>What do you mean what? You know exactly what. Don't struggle\nnow that you've come this far."
                             ]
                         },
                         {
@@ -3588,7 +3560,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は、はな……離してっ！駄目っ！！"
+                                "\\N<Segi>Le... let go...! Stop it!!"
                             ]
                         },
                         {
@@ -3605,14 +3577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>おい、しっかり抑えて置けよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何せこの女、随分威勢がイイみてえだからなあ？"
+                                "\\N<Ruins Thug>Hey, hold her down tight, will ya? This chick seems to have\nquite the spirit in her, huh?"
                             ]
                         },
                         {
@@ -3629,14 +3594,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、まさか俺達二人相手に大立ち回りを演じて見せる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とはねえ、大したモンだ。"
+                                "\\N<Ruins Thug>Ah, to think she'd put up such a fight against the two of\nus, quite impressive."
                             ]
                         },
                         {
@@ -3660,14 +3618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男達はセギを組み伏せ、その身を拘束する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強引に拡げられた脚に彼等の下卑た視線が突き刺さった。"
+                                "The men overpowered Segi and restrained her body. Their lewd\ngazes pierced through as they forcibly spread her legs."
                             ]
                         },
                         {
@@ -3691,7 +3642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>離してっ！み、みな……見ないでっ！"
+                                "\\N<Segi>Let go of me! Do... don't look!"
                             ]
                         },
                         {
@@ -3708,21 +3659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、大人しくしなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうすれば悪い様にはしねえさ。いいや、寧ろ可愛がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やろうってんだ、へへ。"
+                                "\\N<Ruins Thug>Heh, just be quiet. If you do, we won't treat you badly. In\nfact, we might even take good care of you, hehe."
                             ]
                         },
                         {
@@ -3739,14 +3676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>そうさ、今更強がろうが大声出そうが一緒さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後はもうなる様にしかならねえってヤツだ。"
+                                "\\N<Ruins Thug>That's right, no matter how much you resist or scream now,\nit's all the same. What's going to happen will happen."
                             ]
                         },
                         {
@@ -3763,14 +3693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ふ、ふざけ……っ！あ、あなた達……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな事をして只で済むと思って……！"
+                                "\\N<Segi>Ridiculous...! You guys...! You think you can do this and\nget away with it...?!"
                             ]
                         },
                         {
@@ -3840,7 +3763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……は……っ！？"
+                                "\\N<Segi>Nn... ha...?!"
                             ]
                         },
                         {
@@ -3857,14 +3780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ、只じゃ済まねえのはアンタの方だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、恨むなら簡単にヒトを信用した自分を恨むんだな。"
+                                "\\N<Ruins Thug>Hehe, the one who won't get away with it is you. If you're\ngoing to blame someone, blame yourself for trusting people\ntoo easily."
                             ]
                         },
                         {
@@ -3881,7 +3797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……ふ……っ！うう……っ！"
+                                "\\N<Segi>Ah... fu...! Ugh...!"
                             ]
                         },
                         {
@@ -3905,14 +3821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男は大きく開かれた足を舐める様に眺めながら、その先に在る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セギの膣口に指を滑らせた。"
+                                "The man gazed lustfully at her widely spread legs and slid\nhis finger towards Segi's pussy."
                             ]
                         },
                         {
@@ -3936,14 +3845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……あ……っ！？だ、駄目……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さ、触らない……で……！"
+                                "\\N<Segi>Ah... ah...! No...! Don't touch... me...!"
                             ]
                         },
                         {
@@ -3960,14 +3862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ……触らないでえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもなあ、肝心の身体の方はそうは言ってねえみてえだぜ？"
+                                "\\N<Ruins Thug>Hehe... don't touch you? But it seems your body isn't saying\nthe same thing, is it?"
                             ]
                         },
                         {
@@ -4037,7 +3932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……あ……ああ……んっ！"
+                                "\\N<Segi>Ah... ah... aah... nn!"
                             ]
                         },
                         {
@@ -4073,14 +3968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "否定の言葉とは裏腹に凌辱者の言う通り、セギの膣内からは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男の指が挿し入れされる度に淫靡な水音が漏れる。"
+                                "Contrary to her words of denial, every time the man's finger\nentered her, lewd squelching sounds leaked from Segi's\npussy."
                             ]
                         },
                         {
@@ -4116,7 +4004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……はあ……っ！あ……んっ！"
+                                "\\N<Segi>Nn... haa...! Ah... nn!"
                             ]
                         },
                         {
@@ -4133,14 +4021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>な？アンタも満更でもねえんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "溜まってんじゃねえのか？だったら俺達と愉しもうぜ？"
+                                "\\N<Ruins Thug>See? You're not entirely against it, are you? Feeling pent\nup? Then let's enjoy ourselves together?"
                             ]
                         },
                         {
@@ -4157,14 +4038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……んん……！はあ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、そんな事……わ、わたし……あ……ああ……んっ！"
+                                "\\N<Segi>Ah... nnn...! Haa...! Such things... I... ah... aah... nn!"
                             ]
                         },
                         {
@@ -4181,7 +4055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく……なあ、おい。やっぱりこの女……。"
+                                "\\N<Ruins Thug>Heh... hey, look. This woman..."
                             ]
                         },
                         {
@@ -4198,7 +4072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、間違い無さそうだな、噂通りってヤツか。"
+                                "\\N<Ruins Thug>Yeah, seems like there's no mistake, just like the rumors\nsaid."
                             ]
                         },
                         {
@@ -4215,7 +4089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……はあ……っ！え……！？"
+                                "\\N<Segi>...Haa...! Eh...?!"
                             ]
                         },
                         {
@@ -4239,14 +4113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セギの肢体に注がれていた凌辱者達の視線が、互いに交わる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは何事かを確信し合った様な目配せだった。"
+                                "The gazes of the assailants poured onto Segi's body met each\nother's eyes as if confirming something with a knowing look."
                             ]
                         },
                         {
@@ -4282,7 +4149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……はあ……！あ……ああ……んっ！"
+                                "\\N<Segi>Ah... haa...! Ah... aah... nn!"
                             ]
                         },
                         {
@@ -4299,14 +4166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>さぁて、じゃあお愉しみの前に早速で悪いが、ご尊顔を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "拝ませて貰おうかな。"
+                                "\\N<Ruins Thug>Well then, before we get to the fun part, sorry to rush\nthis, but let's have a look at that noble face of yours."
                             ]
                         },
                         {
@@ -4323,7 +4183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>っ！？だ、駄目っ！！"
+                                "\\N<Segi>No! Stop it!!"
                             ]
                         },
                         {
@@ -4389,7 +4249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あ……あ……っ！？"
+                                "\\N<Segi>Ah... ah... ah...!?"
                             ]
                         },
                         {
@@ -4413,14 +4273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "顔を覆っていた黒衣が剥がれ、セギの表情が明らかになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その瞬間、男達は満足そうに笑みを浮かべた。"
+                                "As the black cloth covering her face was removed, Segi's\nexpression was revealed. At that moment, the men smiled with\nsatisfaction."
                             ]
                         },
                         {
@@ -4444,14 +4297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、やっぱりセギさんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遺跡に出入りしてるって噂は本当だったんだな。"
+                                "\\N<Ruins Thug>Heh, it really is Segi-san. The rumors about her coming and\ngoing from the ruins were true."
                             ]
                         },
                         {
@@ -4475,14 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だ、騙したのね……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怪我をしただなんて嘘を吐いて……卑怯者っ！"
+                                "\\N<Segi>You deceived me...! Lying about being injured... you\ncowards!"
                             ]
                         },
                         {
@@ -4499,7 +4338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、アンタが生粋の善人で良かったよ。"
+                                "\\N<Ruins Thug>Ah, it's good that you're a genuine good Samaritan."
                             ]
                         },
                         {
@@ -4516,14 +4355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ひ、人の善意につけ込んで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなた達は最低の人間だわっ！"
+                                "\\N<Segi>Taking advantage of someone's kindness...! You are the worst\nkind of people!"
                             ]
                         },
                         {
@@ -4540,14 +4372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>そう言いなさんなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタにしても困ってる人間を見捨てずに良かっただろ？"
+                                "\\N<Ruins Thug>Don't say that. It's good for you too, isn't it? Not\nabandoning someone in trouble?"
                             ]
                         },
                         {
@@ -4564,21 +4389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、そんな事したら寝覚めが悪いモンなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お優しいアンタならきっと引っ掛かってくれると思ったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺の眼に狂いは無かった訳だ。"
+                                "\\N<Ruins Thug>Heh, it would be bad karma to do such a thing, right? I knew\na nice person like you would fall for it. My judgment was\nspot on."
                             ]
                         },
                         {
@@ -4595,7 +4406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>やめて……は、放してっ！"
+                                "\\N<Segi>Stop it... let me go!"
                             ]
                         },
                         {
@@ -4612,21 +4423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>なあに、同じ街の住人同士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして同じ練兵会の参加者同士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょっと仲良くしようとしてるだけじゃねえか。"
+                                "\\N<Ruins Thug>What's the matter? We're just fellow townspeople and\nparticipants of the same training corps. Just trying to get\na little closer, that's all."
                             ]
                         },
                         {
@@ -4643,7 +4440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>な、何故街の人同士が争わなければ……っ！"
+                                "\\N<Segi>Why must people from the same town fight...!?"
                             ]
                         },
                         {
@@ -4660,21 +4457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>勘違いするなよ、セギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達は寧ろ練兵会とリュダの連中に感謝さえしてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この間の何とかって死刑囚の戦いを見て尚の事そう思ったね。"
+                                "\\N<Ruins Thug>Don't get me wrong, Segi-san. We're actually grateful to the\ntraining corps and Lyuda's folks. Even more so after seeing\nthat death row convict fight recently."
                             ]
                         },
                         {
@@ -4691,7 +4474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ゾ、ゾゾイェの事を言っているの……！？"
+                                "\\N<Segi>Are you talking about Zozoie...!?"
                             ]
                         },
                         {
@@ -4708,14 +4491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、そうか。成程ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの時の女戦士はやっぱりアンタだった訳だ？"
+                                "\\N<Ruins Thug>Ah, right. I see. So it was you, the female warrior from\nthat time?"
                             ]
                         },
                         {
@@ -4732,14 +4508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、だよなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんなデカい乳振り回してるのはアンタ位だもんな？"
+                                "\\N<Ruins Thug>Heh, right? Who else swings around such big tits but you?"
                             ]
                         },
                         {
@@ -4756,14 +4525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>なあ、あの後もアイツに散々ヤられたんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だったら俺達にも同じ思いさせてくれよ？"
+                                "\\N<Ruins Thug>Hey, you got screwed over by him plenty afterward, didn't\nyou? Then let us have the same experience?"
                             ]
                         },
                         {
@@ -4780,7 +4542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>い、いや……っ！！"
+                                "\\N<Segi>No...!!"
                             ]
                         },
                         {
@@ -4814,14 +4576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ったく……暴れるんじゃねえよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな恰好で歩き回ってる淫乱がっ！"
+                                "\\N<Ruins Thug>Seriously... stop struggling! Such a slut, walking around\ndressed like that!"
                             ]
                         },
                         {
@@ -4857,7 +4612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>っ！？"
+                                "\\N<Segi>!?"
                             ]
                         },
                         {
@@ -4893,7 +4648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>う、うう……う……。"
+                                "\\N<Segi>Ugh... ugh..."
                             ]
                         },
                         {
@@ -4917,14 +4672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ、気を失ったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ遠慮無く楽しませて貰うとしますかね。"
+                                "\\N<Ruins Thug>Heh, passed out, huh? Then I'll enjoy myself without\nreservation."
                             ]
                         },
                         {
@@ -4941,14 +4689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>やっぱこの奥様、イイ身体してるじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これで襲うなって言う方が無理が有るぜ。"
+                                "\\N<Ruins Thug>This lady here really does have a nice body. It'd be\nunreasonable not to take advantage of it."
                             ]
                         },
                         {
@@ -4965,14 +4706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、こんな場所でセギさんの身体にありつけるとはな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ツイてるぜ。"
+                                "\\N<Ruins Thug>Ah, to think I'd get my hands on Segi-san's body in a place\nlike this, I'm lucky."
                             ]
                         },
                         {
@@ -4989,14 +4723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>噂を信じて良かったってヤツだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さて、じゃあ時間も勿体ねえし早速頂きますか。"
+                                "\\N<Ruins Thug>Believing the rumors paid off. Well then, no point in\nwasting time, let's get started."
                             ]
                         },
                         {
@@ -5039,7 +4766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……あ……。"
+                                "\\N<Segi>...ah..."
                             ]
                         },
                         {
@@ -5082,21 +4809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へ、へへ……何だよ何だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヤケにすんなり挿入りやがったぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コイツはとんだ好きものだぜ。"
+                                "\\N<Ruins Thug>Heh heh... what's this? It slipped in so easily? She's quite\nthe eager one."
                             ]
                         },
                         {
@@ -5113,14 +4826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、アレだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この様子じゃリュダの連中に随分調教されたらしいや。"
+                                "\\N<Ruins Thug>Ah, I see. Looks like Lyuda's folks trained her pretty well."
                             ]
                         },
                         {
@@ -5156,21 +4862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ……いいねえ。中々イイぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子持ち女は触り心地も抜群だな。 しかもこんな可愛い顔して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "派手な身体して……こりゃあ癖になりそうだ。"
+                                "\\N<Ruins Thug>Heh... nice. Feels pretty damn good. A mother with such a\ntouchable body and yet such a cute face... this could become\naddictive."
                             ]
                         },
                         {
@@ -5199,7 +4891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は……あ……。"
+                                "\\N<Segi>Ha... ah..."
                             ]
                         },
                         {
@@ -5216,21 +4908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、見ろよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意識を失ってるってのに気持ち良さそうじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可愛い声上げちゃってよお。"
+                                "\\N<Ruins Thug>Look at that? Even unconscious she seems to be enjoying it.\nMaking such cute noises too."
                             ]
                         },
                         {
@@ -5247,14 +4925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ、旦那にでも抱かれた夢見てんのかねえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ならコッチも張り切っていかなきゃな？"
+                                "\\N<Ruins Thug>Heh, maybe she's dreaming about being held by her husband?\nThen I've got to put in some effort too, right?"
                             ]
                         },
                         {
@@ -5283,7 +4954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………………。"
+                                "..."
                             ]
                         },
                         {
@@ -5300,7 +4971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………。"
+                                "..."
                             ]
                         },
                         {
@@ -5343,7 +5014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……ん……。"
+                                "\\N<Segi>Mm... mm..."
                             ]
                         },
                         {
@@ -5360,14 +5031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>さて、そろそろ俺もイクとするか……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全く堪んねえぜ……この身体……。"
+                                "\\N<Ruins Thug>Well then, guess it's about time for me to finish... Damn,\ncan't get enough of this body..."
                             ]
                         },
                         {
@@ -5384,14 +5048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>よし、じゃあイクぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかり奥で飲み込みやがれっ！"
+                                "\\N<Ruins Thug>Alright, here I go! Make sure to swallow it all deep inside!"
                             ]
                         },
                         {
@@ -5427,7 +5084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>うう！！うぐっ！！！ "
+                                "\\N<Ruins Thug>Ugh!! Ughhh!!!"
                             ]
                         },
                         {
@@ -5463,7 +5120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……ん……。"
+                                "\\N<Segi>...mm..."
                             ]
                         },
                         {
@@ -5556,7 +5213,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>…………。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5573,21 +5230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ふう、すっきりしたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり人妻サマは最高だな。そこらの商売女とは抱き心地"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "が違うわ、へへ。"
+                                "\\N<Ruins Thug>Phew, that was refreshing. Married women really are the\nbest. They feel different from the common whores, heh."
                             ]
                         },
                         {
@@ -5604,14 +5247,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、一回ずつの筈がつい夢中になっちまったな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ははは。"
+                                "\\N<Ruins Thug>Ah, I was only supposed to do it once, but I got carried\naway, hahaha."
                             ]
                         },
                         {
@@ -5628,14 +5264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、それもこれもセギさん、アンタのその身体のお陰さ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一応礼を言って置こうかね。"
+                                "\\N<Ruins Thug>Heh, all thanks to you, Miss Segi, and that body of yours. I\nsuppose I should say thanks."
                             ]
                         },
                         {
@@ -5652,7 +5281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>…………。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5676,21 +5305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>じゃあ俺らは帰るとするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セギさんもこんなトコでのお散歩は程々にしとけよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またこんな目に遭っちまうかも知れねえからな。ははは。"
+                                "\\N<Ruins Thug>Well then, we'll be taking our leave. You should limit your\nstrolls in places like this, Miss Segi. You might end up in\nthis situation again, hahaha."
                             ]
                         },
                         {
@@ -5707,21 +5322,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに何時までもここでおマンコ丸出しで転がってると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また知らねえ男に襲われちまうぜ？"
+                                "\\N<Ruins Thug>Right, right. And if you keep lying here with your pussy\nout, some other guy might come and attack you again?"
                             ]
                         },
                         {
@@ -5738,14 +5339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>尤も……リュダの連中とヤリまくりのセギさんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それはそれで愉しめるのかも知れねえがな、へへ。"
+                                "\\N<Ruins Thug>Although... for Segi-san, who's been screwing around with\nthe Lyuda guys, that might be enjoyable too, heh."
                             ]
                         },
                         {
@@ -5762,21 +5356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>とは言え程々にして置きなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嫁がヤリまくりヤラれまくりじゃ、流石に旦那のユイアさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "が可哀想だからなあ。"
+                                "\\N<Ruins Thug>But still, try to keep it moderate? It'd be too pitiful for\nyour husband Yuia if his wife is getting screwed and doing\nthe screwing all the time."
                             ]
                         },
                         {
@@ -5793,7 +5373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>…………。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5843,14 +5423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>ああ、これは貰ってくぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタにイイ思いさせてやった分の料金だ。イイよな？"
+                                "\\N<Ruins Thug>Ah, I'll be taking this, okay? Consider it payment for\nletting you have a good time."
                             ]
                         },
                         {
@@ -5867,14 +5440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>へへ、貰っとけ、貰っとけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セギさんも欲求不満を解消出来たんだ、正当な取り分さ。"
+                                "\\N<Ruins Thug>Hehe, take it, take it. It's a fair share for relieving your\nfrustration, Miss Segi."
                             ]
                         },
                         {
@@ -5914,7 +5480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>じゃあな、せいぜい風邪ひかねえ様にな、へへ……。"
+                                "\\N<Ruins Thug>See ya, don't catch a cold now, hehe..."
                             ]
                         },
                         {
@@ -5931,14 +5497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<遺跡の暴漢>くく、それと今度からは気を付けろよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "道端で困ってるヤツがいても冷たく無視する事だな、へへ。"
+                                "\\N<Ruins Thug>Heh, and next time be careful, alright? If you see someone\nin trouble on the road, just ignore them coldly, hehe."
                             ]
                         },
                         {
@@ -6043,7 +5602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………。"
+                                "..."
                             ]
                         },
                         {
@@ -6060,7 +5619,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…………。"
+                                "..."
                             ]
                         },
                         {
@@ -6189,7 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うう……っく……！"
+                                "\\N<Segi>Ugh... ah...!"
                             ]
                         },
                         {
@@ -6234,7 +5793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わたしは……わたしは何を……。"
+                                "\\N<Segi>I... what am I doing..."
                             ]
                         },
                         {
@@ -6539,14 +6098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>共に遺跡に入った仲間が怪我をして動けなくなっているんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼を安全な所まで運ぶのを手伝ってくれないか！？"
+                                "\\N<Man>My companion who entered the ruins with me has been injured\nand can't move! Can you help me carry him to a safe place?"
                             ]
                         },
                         {

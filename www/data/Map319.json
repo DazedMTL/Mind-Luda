@@ -2556,7 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ、あの……セギさん、少し聞きたいことがあるんです。"
+                                "\\N<Rame>Um... Miss Segi, there's something I want to ask you."
                             ]
                         },
                         {
@@ -2573,14 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ママ……何かあったんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すごくおもいつめたカオして……。"
+                                "\\N<Rame>Mama... Did something happen? You look so troubled..."
                             ]
                         },
                         {
@@ -2597,7 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2614,14 +2607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさん、何か知らないですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……わたし、心配なんです。"
+                                "\\N<Rame>Miss Segi, do you know anything? I'm... I'm worried."
                             ]
                         },
                         {
@@ -2638,7 +2624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そっか……それは心配だよね。でも大丈夫。"
+                                "\\N<Segi>I see... That is worrying, isn't it. But it's okay."
                             ]
                         },
                         {
@@ -2655,14 +2641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何があったとしても、ママはきっとラメちゃんの為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乗り越えるから。"
+                                "\\N<Segi>No matter what happens, Mama will surely overcome it for\nRame-chan's sake."
                             ]
                         },
                         {
@@ -2753,14 +2732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>セギさん……ウチのヤツから話は聞いたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の相手は……セギさんだそうだね。"
+                                "\\N<Irime's Husband>Miss Segi... I've heard from my partner. The next opponent\nis... you, Miss Segi."
                             ]
                         },
                         {
@@ -2784,7 +2756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -2808,21 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>そんな顔をしないでおくれ。どうか手心など加えず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想いのまま戦って欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私やラメに対する負い目や罪の意識を感じる必要も無い。"
+                                "\\N<Irime's Husband>Please don't make such a face. I want you to fight with all\nyour heart, without holding back. There's no need for you to\nfeel any guilt or sense of debt towards me or Rame."
                             ]
                         },
                         {
@@ -2839,14 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>元はと言えばこの戦いを背負う事が出来なかった私の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罪なのだから……。"
+                                "\\N<Irime's Husband>After all, it's my sin that I couldn't bear the burden of\nthis battle..."
                             ]
                         },
                         {
@@ -2863,14 +2814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>私は……どんな結末でも受け入れよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでも心の準備は出来ているつもりだ。"
+                                "\\N<Irime's Husband>I am... prepared to accept any outcome. I believe I'm ready\nin my heart."
                             ]
                         },
                         {
@@ -2887,21 +2831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>それに……貴女が相手で少し安心もしているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひどく都合の良い、鈍臭いだけの希望的観測に過ぎない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がね……。"
+                                "\\N<Irime's Husband>Besides... having you as the opponent does give me a bit of\nrelief. It's nothing but a convenient and dull hopeful\nspeculation, though..."
                             ]
                         },
                         {
@@ -2925,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3008,14 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>私は……どんな結末でも受け入れよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでも心の準備は出来ているつもりだ。"
+                                "\\N<Irime's Husband>I am... prepared to accept any outcome. I believe I'm ready\nin my heart."
                             ]
                         },
                         {
@@ -3032,21 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメの夫>それに……貴女が相手で少し安心もしているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひどく都合の良い、鈍臭いだけの希望的観測に過ぎない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がね……。"
+                                "\\N<Irime's Husband>Besides... I'm somewhat relieved that you're the one\ninvolved. It's nothing but a convenient, dull-witted hopeful\nspeculation, though..."
                             ]
                         },
                         {

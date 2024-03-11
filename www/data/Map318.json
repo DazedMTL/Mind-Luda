@@ -3028,14 +3028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>お、おい……どうなっているんだ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中では何が起きているんだ！？"
+                                "\\N<Resident>Hey... what's going on!? What's happening inside!?"
                             ]
                         },
                         {
@@ -3052,14 +3045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>あ、ああ……それが医院の関係者と来院していた数人が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人質になっているらしい……。"
+                                "\\N<Resident>Ah, ahh... It seems that some of the clinic staff and a few\npatients have been taken hostage..."
                             ]
                         },
                         {
@@ -3076,7 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>な、何だって……！？"
+                                "\\N<Resident>What...!?"
                             ]
                         },
                         {
@@ -3229,14 +3215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>おいっ！落ち着け！取り乱してもどうにもならん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は様子を見るんだ！"
+                                "\\N<Resident>Hey! Calm down! Panicking won't solve anything! We just have\nto watch and wait!"
                             ]
                         },
                         {
@@ -3253,14 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>ふざけるな！これが落ち着いていられるか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には妻がいるんだ……これ以上我慢出来るかっ！！"
+                                "\\N<Resident>Don't joke with me! How can I stay calm!? My wife is in\nthere... I can't take this anymore!!"
                             ]
                         },
                         {
@@ -3277,7 +3249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>そもそもここに立て籠った連中の要求は何なんだ……？"
+                                "\\N<Resident>First of all, what do those holed up in there even want...?"
                             ]
                         },
                         {
@@ -3400,7 +3372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>俺達の要求はひとつさ。"
+                                "\\N<Tseda>Our demand is simple."
                             ]
                         },
                         {
@@ -3424,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>お、お前は……！！？？"
+                                "\\N<Resident>You are...!!??"
                             ]
                         },
                         {
@@ -3448,14 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>くく、お騒がせして申し訳無いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人質解放の為の俺達の要求はひとつさ。"
+                                "\\N<Tseda>Heh, sorry for causing a commotion. Our demand for releasing\nthe hostages is just one thing."
                             ]
                         },
                         {
@@ -3479,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>……。"
+                                "\\N<Resident>..."
                             ]
                         },
                         {
@@ -3503,14 +3468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>七日後……俺達と共にこの街に俺達を捕えに訪れる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの追手と戦って欲しい。"
+                                "\\N<Tseda>In seven days... we want you to fight alongside us against\nthe pursuers from Ryuda who will come to capture us in this\ntown."
                             ]
                         },
                         {
@@ -3534,7 +3492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>な、何……！？俺達がリュダの兵達達と戦う……！？"
+                                "\\N<Resident>What...!? We have to fight Ryuda's soldiers...!?"
                             ]
                         },
                         {
@@ -3551,14 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>馬鹿を言うなっ！俺達は戦士や兵隊じゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事が出来る訳が無いだろう！？"
+                                "\\N<Resident>Don't be ridiculous! We're not warriors or soldiers! There's\nno way we can do such a thing!?"
                             ]
                         },
                         {
@@ -3582,14 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>あ、そう。じゃあこの話は終わり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺からは他に伝える事は無いよ。"
+                                "\\N<Tseda>Oh, is that so. Then this conversation is over. I have\nnothing else to say."
                             ]
                         },
                         {
@@ -3613,14 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>ま、待て！妻を……俺の妻を返せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女のお腹の中には赤ん坊もいるんだ！！"
+                                "\\N<Resident>W-wait! My wife... give back my wife! She's pregnant with\nour child!!"
                             ]
                         },
                         {
@@ -3644,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>はあ？確かに中には何人かの妊婦さんがいるケド、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタの妻が誰かなんか知らないね。"
+                                "\\N<Tseda>Huh? Sure, there are a few pregnant women inside, but I\ndon't know which one is your wife."
                             ]
                         },
                         {
@@ -3668,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>それに今頃は俺の部下達に可愛がられてる頃さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配要らないよ。"
+                                "\\N<Tseda>Besides, by now my men are probably taking good care of her.\nNo need to worry."
                             ]
                         },
                         {
@@ -3699,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>な、何だ……と……！！？？"
+                                "\\N<Resident>What... the...!!??"
                             ]
                         },
                         {
@@ -3723,14 +3646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>くく、話はそれだけ。愛しの奥様を返して欲しければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張って要求に従ってくれよ、じゃあな。"
+                                "\\N<Tseda>Heh, that's all I have to say. If you want your beloved wife\nback, then do your best to comply with our demand. See ya."
                             ]
                         },
                         {
@@ -3842,7 +3758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>く……うう……うううっ！！"
+                                "\\N<Resident>G... ugh... uuuugh!!"
                             ]
                         },
                         {
@@ -3890,7 +3806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>お、おい……大丈夫か？"
+                                "\\N<Resident>Hey... are you okay?"
                             ]
                         },
                         {
@@ -3907,7 +3823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>大丈夫な訳があるか！！他人事だと思って……！！"
+                                "\\N<Resident>How could I be okay!? You think this is someone else's\nproblem...!!"
                             ]
                         },
                         {
@@ -3924,7 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>……。"
+                                "\\N<Resident>..."
                             ]
                         },
                         {
@@ -3941,14 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>妻と子供が人質だと……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今頃どんな目に遭わされてるか……！！"
+                                "\\N<Resident>My wife and child are hostages...!? What kind of horrors are\nthey being subjected to right now...!!"
                             ]
                         },
                         {
@@ -4044,7 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民>畜生……し、従うしか……無いのか……？"
+                                "\\N<Resident>Damn it... do we really have no choice but to obey...?"
                             ]
                         },
                         {
@@ -4531,7 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>く……！確かこの先が街の自警団の本部だったか……？"
+                                "\\N<Rozaro>Damn...! Is this the headquarters of the town's vigilante\ngroup up ahead...?"
                             ]
                         },
                         {
@@ -4548,7 +4457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>どうする……このままではツェダの手下共に追い付かれる。"
+                                "\\N<Rozaro>What to do... At this rate, Zeda's minions will catch up to\nus."
                             ]
                         },
                         {
@@ -4588,21 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>助力を願うか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし……俺がリュダと判ればタダではすむまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ程までにリュダは悪名を高め過ぎた。"
+                                "\\N<Rozaro>Should I ask for help? But... if they find out I'm Ryuda, it\nwon't end well. Ryuda has made too much of a bad name for\nhimself."
                             ]
                         },
                         {
@@ -4619,7 +4514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>くそ……何処か他に身を隠せる場所は無いのか……？"
+                                "\\N<Rozaro>Damn it... Isn't there anywhere else I can hide...?"
                             ]
                         },
                         {

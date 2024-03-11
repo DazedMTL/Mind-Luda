@@ -4499,7 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>こんにちは。"
+                                "\\N<Woman>Hello."
                             ]
                         },
                         {
@@ -4523,7 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……？"
+                                "\\N<Yuia>...?"
                             ]
                         },
                         {
@@ -4547,14 +4547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>ふふ、突然驚かせてごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが余りにもイイ男だったから。"
+                                "\\N<Woman>Hehe, sorry for surprising you all of a sudden. It's just\nthat you're such a handsome man."
                             ]
                         },
                         {
@@ -4571,14 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>あなたこの土地の方では無いですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうですか、これからこの辺りを案内がてらお食事でも？"
+                                "\\N<Woman>You're not from around here, are you? How about it, would\nyou like me to show you around and maybe grab a bite to eat?"
                             ]
                         },
                         {
@@ -4602,7 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……嬉しい誘いだが、生憎俺には妻がいるんだ。"
+                                "\\N<Yuia>...It's a tempting offer, but unfortunately, I have a wife."
                             ]
                         },
                         {
@@ -4626,14 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>アラ、それはそれは……じゃああなたが奥さんに愛想を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つかされたらもう一度お誘いしても良い？"
+                                "\\N<Woman>Oh my, is that so... Well then, may I invite you again if\nyour wife ever grows tired of you?"
                             ]
                         },
                         {
@@ -4657,7 +4636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それは光栄だが、どうかな……そんな時が来るかどうか。"
+                                "\\N<Yuia>That would be an honor, but who knows... if such a time will\never come."
                             ]
                         },
                         {
@@ -4681,14 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>ふふ、きっと来ますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって女は心変わりする生き物ですもの。"
+                                "\\N<Woman>Hehe, it surely will. After all, women are creatures of\nchangeable hearts."
                             ]
                         },
                         {
@@ -4712,7 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……肝に銘じるとしよう。"
+                                "\\N<Yuia>...I'll keep that in mind."
                             ]
                         },
                         {
@@ -5189,7 +5161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>何者だ……貴様？"
+                                "\\N<Yuia>Who are you...?"
                             ]
                         },
                         {
@@ -5213,14 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>やあ、ユイアさんじゃありませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所でお会いするとは奇遇ですねえ。"
+                                "\\N<???>Ah, isn't that Yuia-san? What a coincidence to meet you in\nsuch a place."
                             ]
                         },
                         {
@@ -5253,14 +5218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>貴様……リュダの手の者か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてここにいる……？"
+                                "\\N<Yuia>You... Are you one of Ryuda's men? Why are you here...?"
                             ]
                         },
                         {
@@ -5284,7 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>いやあ、ご名答。流石ですねえ。"
+                                "\\N<???>Ah, correct guess. As expected."
                             ]
                         },
                         {
@@ -5301,21 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>任務柄色々な場所を巡るものでしてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とは言えこの様な場所でお会い出来たのは運命と言うべき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でしょうかねえ。"
+                                "\\N<???>Due to my duties, I travel to various places. But to meet\nyou here, perhaps it's fate."
                             ]
                         },
                         {
@@ -5339,7 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -5363,14 +5307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>ふふ、難しいカオをしてどうしました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、それより奥様は？セギさんはどちらに？"
+                                "\\N<???>Hehe, why such a stern face? Oh, by the way, where is your\nwife? Where is Segi-san?"
                             ]
                         },
                         {
@@ -5394,7 +5331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……妻に何の用だ？"
+                                "\\N<Yuia>...What do you want with my wife?"
                             ]
                         },
                         {
@@ -5418,14 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>いやあ……ここでお会いしたのも何かの縁。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は奥様に至極大事な話がありまして。"
+                                "\\N<???>Oh... Meeting here must be some kind of destiny. Actually, I\nhave a very important matter to discuss with your wife."
                             ]
                         },
                         {
@@ -5456,14 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>ええ……はい。私達や貴方。そして奥様や息子さんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来にとって、とても大事な話ですよ……。"
+                                "\\N<???>Yes... indeed. It's a very important matter concerning the\nfuture of us, you, your wife, and your son..."
                             ]
                         },
                         {
@@ -5748,21 +5671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>リュダの連中がこの街に駐屯する様になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先行きは不安だけどさ、アンタは安心だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何たってユイアの奴は頼りになるもんな。"
+                                "\\N<Man>Ever since those Ryuda guys started stationing in this town,\nthe future's been uncertain, but you're safe, right? After\nall, Yuia is someone you can rely on."
                             ]
                         },
                         {

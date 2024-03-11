@@ -3298,7 +3298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……？あんな所で何を……。"
+                                "\\N<Segi><Segi>Irime-san...? What are you doing in such a\nplace...?</Segi>"
                             ]
                         },
                         {
@@ -3416,7 +3416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ど、どう言う事なのさ……話が違うじゃないか！"
+                                "\\N<Irime><Irime>What do you mean by that...? This isn't what we\nagreed on!</Irime>"
                             ]
                         },
                         {
@@ -3433,14 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>こんな事にならない様にあたしは……!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしはアンタに……！"
+                                "\\N<Irime><Irime>I did this so that it wouldn't come to this...! I did\nit for you...!</Irime>"
                             ]
                         },
                         {
@@ -3476,21 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうがっつくなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいか？幾ら何でもいつまでもってのには無理がねえか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにこれ迄十分便宜は図ってやっただろ？"
+                                "\\N<Zuuteruka><Zuuteruka>Hehehe, don't be so eager. You get it? No matter\nwhat, isn't it impossible to keep this up forever? Besides,\nI've been quite accommodating to you up until now, haven't\nI?</Zuuteruka>"
                             ]
                         },
                         {
@@ -3514,14 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そんな剣幕で怒鳴り散らす前に少しは感謝の言葉でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "述べて欲しい位だぜ。"
+                                "\\N<Zuuteruka><Zuuteruka>Before you go shouting at me with that fierce\nlook, I'd like to hear a few words of thanks.</Zuuteruka>"
                             ]
                         },
                         {
@@ -3545,7 +3517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>で、でも……でもっ！"
+                                "\\N<Irime><Irime>But... But!</Irime>"
                             ]
                         },
                         {
@@ -3569,14 +3541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>判らねえ女だな。そうやって恨み言吐く前に今迄便宜を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "図ってやった事に感謝しろって言ってるのさ。"
+                                "\\N<Zuuteruka><Zuuteruka>You're a hard woman to understand. Before\nspitting out resentments, why don't you show some gratitude\nfor all the conveniences I've provided you with up until\nnow?</Zuuteruka>"
                             ]
                         },
                         {
@@ -3600,7 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>く……っ！！"
+                                "\\N<Irime><Irime>Guh...!!</Irime>"
                             ]
                         },
                         {
@@ -3624,14 +3589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、まあその話はここまでにしようじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前もココへ楽しみに来たんだろ？"
+                                "\\N<Zuuteruka><Zuuteruka>Hehehe, well, let's leave that talk aside. You\ncame here to have fun too, right?</Zuuteruka>"
                             ]
                         },
                         {
@@ -3655,14 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>誰がっ！馬鹿にするんじゃないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束を守らないなら、誰がアンタ何かに身体を許すモンか！"
+                                "\\N<Irime><Irime>Who did! Don't make fun of me! If you're not going to\nkeep your promise, why would I ever let someone like you\ntouch my body!</Irime>"
                             ]
                         },
                         {
@@ -3686,14 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうかい。俺に飽きちまったワケだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、いいさ。俺も同じだからな。"
+                                "\\N<Zuuteruka><Zuuteruka>Hehehe, is that so. You're tired of me, huh?\nWell, that's fine. I feel the same.</Zuuteruka>"
                             ]
                         },
                         {
@@ -3717,7 +3661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>何だって……！？"
+                                "\\N<Irime><Irime>What did you say...!?</Irime>"
                             ]
                         },
                         {
@@ -3741,14 +3685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、相手してやるのは俺じゃねえってんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早合点すんな。"
+                                "\\N<Zuuteruka><Zuuteruka>Hehehe, I'm not the one who will be entertaining\nyou. Don't jump to conclusions.</Zuuteruka>"
                             ]
                         },
                         {
@@ -3796,7 +3733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>な……！？"
+                                "\\N<Irime><Irime>Wha...!?</Irime>"
                             ]
                         },
                         {
@@ -3813,14 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ま、これから始まる過酷な戦いの前の息抜きさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角だから楽しんでおけよ？ひへへ……。"
+                                "\\N<Zuuteruka><Zuuteruka>Well, consider it a breather before the harsh\nbattle that's about to begin. Since you're here, might as\nwell enjoy yourself, right? Hehehe...</Zuuteruka>"
                             ]
                         },
                         {
@@ -3872,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>く……あっ！？や、やめろ……っ！"
+                                "\\N<Irime><Irime>Guh...ah! Stop...!</Irime>"
                             ]
                         },
                         {
@@ -3956,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>は……あっ！あ……ぐっ！"
+                                "\\N<Irime><Irime>Ha...ah! Ah...ugh!</Irime>"
                             ]
                         },
                         {
@@ -3973,7 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、大人しくしな。じゃねえと痛い目見るぜ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Haha, just behave yourself. Otherwise, you're\ngonna get hurt.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -3997,14 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカの合図で、控えていた兵達が一斉にイリメに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覆い被さった。"
+                                "At Zuuteruka's signal, the waiting soldiers swarmed over\nIrime all at once."
                             ]
                         },
                         {
@@ -4021,14 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケダモノとして解き放たれた彼等は、見る見るうちにイリメの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "着衣を剥ぎ、怒張し切ったモノを彼女に埋没させてゆく。"
+                                "The soldiers, unleashed as beasts, quickly stripped Irime of\nher clothes and buried their fully erect members inside her."
                             ]
                         },
                         {
@@ -4052,7 +3968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>く……あっ！んん……ふっ！"
+                                "\\N<Irime><Irime>Guh...ah! Mmm...huh!</Irime>"
                             ]
                         },
                         {
@@ -4069,14 +3985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>はあ……っ！は、離せっ！ぬ、抜きな……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あたしに……近寄るんじゃないよ……！"
+                                "\\N<Irime><Irime>Haa...! Let go! Take it out...! Don't come any closer\nto me...!</Irime>"
                             ]
                         },
                         {
@@ -4093,14 +4002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、偶にはこう言うのもいいじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なあ、女？心行くまで楽しませてやるぜえ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Heh, sometimes this kind of thing isn't so\nbad, right? Hey, woman? We'll make sure you enjoy it to your\nheart's content.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4117,14 +4019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ん……くっ！ふざけるなっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、誰がお前らみたいな三下なんかに……っ！"
+                                "\\N<Irime><Irime>Mm...guh! Don't mess with me! Who would let lowlifes\nlike you...!</Irime>"
                             ]
                         },
                         {
@@ -4141,14 +4036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今更貞淑ヅラするんじゃねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話は全部聞いてるぜ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Don't start acting all chaste now. We've\nheard everything.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4165,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、てめえの身体を餌にしてズーテルカ様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会での対戦相手の交渉を持ち掛けたらしいじゃねえか。"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Haha, seems like you offered your body as\nbait to negotiate with Lord Zuuteruka for an opponent in the\ntraining matches.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4189,14 +4070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>そ、それがどうしたって言うのさ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタらには無関係だろう！？"
+                                "\\N<Irime><Irime>So what if I did! What's it to you guys!?</Irime>"
                             ]
                         },
                         {
@@ -4213,21 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>勿論お前が何しようと無関係だがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへ、全く大したタマだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな話を持ち掛けるって事は相当な好きモノって事だろ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Of course, whatever you do is none of our\nbusiness. Heh, but really, you're something else. Proposing\nsuch a deal means you must be quite the nympho, huh?</Ryuda\nSoldier>"
                             ]
                         },
                         {
@@ -4244,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>な……何だと……っ！？"
+                                "\\N<Irime><Irime>What did you say...!?</Irime>"
                             ]
                         },
                         {
@@ -4261,21 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ならいいじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達にもイイ思いさせてくれよ？俺達も……そしてアンタも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち良くなれりゃ一挙両得ってヤツじゃねえか。"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Then it's all good. Why don't you let us have\na good time too? If we all feel good, it's a win-win\nsituation.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4292,21 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ん……っく！ふざけるなっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、アンタら何かにそんな思いさせてやる義理なんざ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無いだろうが……！？"
+                                "\\N<Irime><Irime>Mm...guh! Don't mess with me! Why would I owe\nanything to the likes of you...!?</Irime>"
                             ]
                         },
                         {
@@ -4323,14 +4155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>は、はあっ！はあっ！甘く見るんじゃないよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしはそんな安い女じゃ……っ！"
+                                "\\N<Irime><Irime>Haa...haa! Don't underestimate me! I'm not some cheap\nwoman...!</Irime>"
                             ]
                         },
                         {
@@ -4347,7 +4172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……これでもかあ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Heh...how about this then?</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4417,7 +4242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>……ん……っ！？"
+                                "\\N<Irime><Irime>...Mm...!?</Irime>"
                             ]
                         },
                         {
@@ -4441,21 +4266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イリメに腰を打ち付けたリュダ兵は、その動きをより一掃"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "速める。グチュグチュと淫靡な水音が響き、その刺激に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イリメの身体がビクンと跳ねる。"
+                                "The Ryuda soldier thrusting into Irime increased his pace\neven more. Lewd squelching noises echoed as the stimulation\nmade Irime's body jerk."
                             ]
                         },
                         {
@@ -4491,7 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あ……か……っ！？"
+                                "\\N<Irime><Irime>Ah...ka...!</Irime>"
                             ]
                         },
                         {
@@ -4508,21 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、偉そうな口叩く割にはおマンコは随分"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グチュグチュじゃねえか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで安い女じゃねえなんてどの口がほざきやがる？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Heh, for all your high and mighty talk, your\npussy is pretty damn wet, isn't it!? Which mouth is going to\nclaim you're not a cheap woman now?</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4539,7 +4336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>や、やめ……っ！く……ｌくそっ！"
+                                "\\N<Irime><Irime>Stop...! Damn it...!</Irime>"
                             ]
                         },
                         {
@@ -4556,21 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、もしかしてお前、相手は誰でもイイんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえのか？だとしたら好きモノどころじゃねえや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売女だな、売女。"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Haha, maybe you don't care who your partner\nis? If that's the case, nympho doesn't even begin to cover\nit. You're a whore, a straight-up whore.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4587,14 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ふ、ふざけるな……んっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お前等……お前等なんかに……何がっ！"
+                                "\\N<Irime><Irime>Don't joke with me... Mm! You guys... what the hell\ndo you think you're doing to me!</Irime>"
                             ]
                         },
                         {
@@ -4611,21 +4387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ホラホラ、売女呼ばわりされたくなきゃ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと気を入れてマンコ締めろよ？好きモノだもんな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理突っ込まれても感じるんだろ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Hey hey, if you don't want to be called a\nwhore, then tighten up that pussy more, huh? You love it,\ndon't you? You get off even when it's forced in,\nright?</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4642,21 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ふ……っく！んんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、誰がお前ら下衆共の稚拙な遊びで……き、気持ち良く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なれるってのさ！"
+                                "\\N<Irime><Irime>Hah...nngh! Who would get off on the crude play of\nyou lowlifes...!</Irime>"
                             ]
                         },
                         {
@@ -4673,21 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その割には蕩けた顔してるじゃねえか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子じゃ大分ズーテルカ様に仕込まれたらしいなあ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Heh, is that so? But you're making such a\nmelted face. Looks like Zuuteruka-sama has trained you\npretty well, huh?</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4704,14 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>はあ……あっ！っく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "す、好き好んで……誰が……あんな奴に……っ！"
+                                "\\N<Irime><Irime>Haa...ah! Ngh! Who would willingly... with someone\nlike him...!</Irime>"
                             ]
                         },
                         {
@@ -4728,21 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふん、その調子でせいぜいそ頑張って俺達を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "満足させてくれよ？そうすりゃズーテルカ様程じゃなくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多少の便宜は図ってやれるかもなあ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Hmph, keep it up at that rate and try your\nbest to satisfy us. If you do, we might be able to arrange\nsome convenience for you, though not as much as Zuuteruka-\nsama could.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4759,7 +4472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>く、く……くそっ！ち……ちく……畜生……っ！！"
+                                "\\N<Irime><Irime>Damn...it...you...bastards...!</Irime>"
                             ]
                         },
                         {
@@ -4802,7 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>は……あ……はあ……は……あ……。"
+                                "\\N<Irime><Irime>Ha...ah...haa...ha...</Irime>"
                             ]
                         },
                         {
@@ -4819,14 +4532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……ズーテルカ様に捨てられた惨めな売女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "割には中々良かったぜ？"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Heh... Not bad for a miserable whore\ndiscarded by Zuuteruka-sama.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4843,14 +4549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、またおマンコ疼いて来たら連絡しな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでも使ってやるからよ？へへへ……じゃあな。"
+                                "\\N<Ryuda Soldier><Ryuda Soldier>Ah, if your pussy starts aching again, just\nlet us know. We'll use you anytime, okay? Hehehe... See\nya.</Ryuda Soldier>"
                             ]
                         },
                         {
@@ -4867,7 +4566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>う、うう……く……っ！うう……っ！！"
+                                "\\N<Irime><Irime>Ugh...uh...!</Irime>"
                             ]
                         },
                         {
@@ -5225,7 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>セギ……。"
+                                "\\N<Irime><Irime>Segi...</Irime>"
                             ]
                         },
                         {
@@ -5287,7 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>はは……笑っておくれよ、もう何もかもお終いさ。"
+                                "\\N<Irime><Irime>Haha... Laugh at me, it's all over now.</Irime>"
                             ]
                         },
                         {
@@ -5304,14 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>アンタの言う通りだよ。今迄姑息な手段で勝ち上がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来たが、そいつももう通用しない。"
+                                "\\N<Irime><Irime>You're right. I've been climbing up by underhanded\nmeans until now, but that won't work anymore.</Irime>"
                             ]
                         },
                         {
@@ -5328,7 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>今回ばかりは……お手上げさ。"
+                                "\\N<Irime><Irime>This time... I'm at my wit's end.</Irime>"
                             ]
                         },
                         {
@@ -5352,7 +5044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi><Segi>...</Segi>"
                             ]
                         },
                         {
@@ -6023,14 +5715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>やあ、セギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタの家に娘が訪ねて行かなかったかい？"
+                                "\\N<Irime>Hey, Segi. Did my daughter come to visit your house?"
                             ]
                         },
                         {
@@ -6054,14 +5739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、先程。リイアのお見舞いに来てくれたみたいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも何やら元気が無い様子でしたが……。"
+                                "\\N<Segi>Yes, just a while ago. It seems she came to visit Riia. But\nshe looked somewhat dispirited..."
                             ]
                         },
                         {
@@ -6085,21 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>やっぱり……ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのコの事だ、お宅のリイアちゃんと話す事でなけなしの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇気を搾り出そうとしたのかもね。"
+                                "\\N<Irime>I thought so... That child, maybe she tried to muster up all\nthe courage she had to talk with your Riia-chan."
                             ]
                         },
                         {
@@ -6123,7 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>なけなしの勇気って……まさか……。"
+                                "\\N<Segi>All the courage she had... Could it be..."
                             ]
                         },
                         {
@@ -6147,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ああ、これからさ。あたしと娘、二人一緒に例のふざけた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裁断戦とか言うヤツだよ。"
+                                "\\N<Irime>Yeah, that's right. My daughter and I are about to face that\nridiculous trial by combat they call."
                             ]
                         },
                         {
@@ -6171,21 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>よくもまあ次から次へと、反吐の出る様な戯れを思い付く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも相手は今迄の連中とは違う……リュダの正規兵さ。"
+                                "\\N<Irime>How can they keep coming up with such nauseating games one\nafter another? And this time, the opponent is different...\nIt's Lyuda's regular soldiers."
                             ]
                         },
                         {
@@ -6209,7 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6233,21 +5876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ま、勝ち目なんざ無いに等しいかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ、今迄散々相手を便宜して貰ってたあたしが言うのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だけどね。"
+                                "\\N<Irime>Well, there's hardly any chance of winning. Haha, it's funny\nfor me to say this after having been conveniently\naccommodated by our opponents until now."
                             ]
                         },
                         {
@@ -6271,7 +5900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……その、何と言えばいいか……。"
+                                "\\N<Segi>Irime-san... I don't know what to say..."
                             ]
                         },
                         {
@@ -6295,14 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>そんな顔しないでおくれよ、コッチまで暗くなるじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何もあたしは全部を諦めた訳じゃないよ？"
+                                "\\N<Irime>Don't make such a face, it'll bring me down too. It's not\nlike I've given up on everything, you know?"
                             ]
                         },
                         {
@@ -6326,7 +5948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そうですよね。わたしったら……すみません。"
+                                "\\N<Segi>That's right, isn't it? I'm sorry for... my behavior."
                             ]
                         },
                         {
@@ -6357,14 +5979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>……娘だってあの小さな身体に精一杯の勇気を振り絞ろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しているんだ。ここは母親のあたしがしっかりしないとね。"
+                                "\\N<Irime>...My daughter is also trying her best to muster all the\ncourage in her small body. As her mother, I have to be\nstrong."
                             ]
                         },
                         {
@@ -6381,14 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>だったら母親として負けてられないじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう2度とあのこの信頼を失わない為にも……ね。"
+                                "\\N<Irime>As a mother, I can't afford to lose. For the sake of never\nlosing her trust again... you know."
                             ]
                         },
                         {
@@ -6412,7 +6020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>イリメさん……。"
+                                "\\N<Segi>Irime-san..."
                             ]
                         },
                         {
@@ -6834,7 +6442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>うそだ……うそだよそんなの。"
+                                "\\N<Riia>No way... That's a lie."
                             ]
                         },
                         {
@@ -6851,14 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ママが……パパじゃないおとこのひとを好きになった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ししょうを？"
+                                "\\N<Riia>Mom... fell in love with a man who's not dad? With the\nmaster?"
                             ]
                         },
                         {
@@ -6875,14 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>しんじない……しんじないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼくはそんなのしんじないからね……。"
+                                "\\N<Riia>I don't believe it... I won't believe it. I refuse to\nbelieve such a thing..."
                             ]
                         },
                         {
@@ -7173,14 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>どうしたの……リイアちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かかなしそうなカオしてる……。"
+                                "\\N<Rame>What's wrong... Riia-chan. You look so sad..."
                             ]
                         },
                         {
@@ -7204,7 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>どうもしないよ。それにそんなカオなんてしてない。"
+                                "\\N<Riia>Nothing's wrong. And I'm not making such a face."
                             ]
                         },
                         {
@@ -7228,7 +6815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>でも……とってもつらそうなカオしてるよ。"
+                                "\\N<Rame>But... you look like you're in a lot of pain."
                             ]
                         },
                         {
@@ -7252,7 +6839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -7276,14 +6863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ね、わたしに話してみない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたし、リイアちゃんのチカラになるからさ。"
+                                "\\N<Rame>Hey, why don't you talk to me? I can be there for you, Riia-\nchan."
                             ]
                         },
                         {
@@ -7307,14 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>話したってラメちゃんが何をしてくれるって言うのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラメちゃんの方こそ僕には何も話してくれないのに。"
+                                "\\N<Riia>Even if I talk, what are you going to do about it, Rame-\nchan? You never tell me anything yourself."
                             ]
                         },
                         {
@@ -7338,7 +6911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>リイア……ちゃん……。"
+                                "\\N<Rame>Riia... chan..."
                             ]
                         },
                         {
@@ -7438,7 +7011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ひどいコト……言っちゃったかな……？"
+                                "\\N<Riia>Did I... say something terrible...?"
                             ]
                         },
                         {
@@ -7462,21 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>いや……ラメちゃんがわるいんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分は何も話してくれないクセに僕の話は聴きたいなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言うんだから……。"
+                                "\\N<Riia>No... it's Rame-chan's fault... She wants to hear my story\neven though she never tells me anything about herself..."
                             ]
                         },
                         {
@@ -7516,7 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ししょーは……もう帰ったかな……？"
+                                "\\N<Riia>I wonder if the master... has already gone home...?"
                             ]
                         },
                         {
@@ -7731,7 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふざけるんじゃないよ！女狐がっ！"
+                                "\\N<Hojiko's Wife>Don't mess with me! You vixen!"
                             ]
                         },
                         {
@@ -7755,7 +7314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7779,14 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>ふざけちゃいないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アタシはね、もう辟易としてるのさ。愛の無い生活にね。"
+                                "\\N<Hojiko>I'm not messing around. I'm just fed up with a loveless\nlife."
                             ]
                         },
                         {
@@ -7810,14 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>愛だあ？ふん、青臭い事言ってんじゃないよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛で飯が何杯喰えるってんだい？"
+                                "\\N<Hojiko's Wife>Love, huh? Don't spout such naive nonsense. How many bowls\nof rice can you eat with love?"
                             ]
                         },
                         {
@@ -7834,14 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>大体その女がホントにアンタみたいに冴えないオトコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛してくれてるとでも思ってんのかい？"
+                                "\\N<Hojiko's Wife>Besides, do you really think that woman truly loves a dull\nman like you?"
                             ]
                         },
                         {
@@ -7858,14 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>はっ！だとしたらお笑い種だね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の鏡見てから出直して来いってんだ！"
+                                "\\N<Hojiko's Wife>Ha! If that's the case, it's a laughing stock! Go look in\nthe mirror before you come back here!"
                             ]
                         },
                         {
@@ -7889,14 +7420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>馬鹿言っちゃイケナイよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギさんはアタシを愛してくれているさ。"
+                                "\\N<Hojiko>Don't say something so foolish. Segi-san loves me."
                             ]
                         },
                         {
@@ -7913,14 +7437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>セギさんの方がお前よりも何倍も愛と労りが有る。何せ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その身体を売って迄店の借金を肩代わりしてくれたからね。"
+                                "\\N<Hojiko>Segi-san has far more love and care than you. After all, she\neven sold her body to take on the debt of the shop."
                             ]
                         },
                         {
@@ -7944,21 +7461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>はあ？何言ってんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのはただ借金の肩代わりを隠れ蓑にしてオトコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貪りたいだけだろうよ。"
+                                "\\N<Hojiko's Wife>Hah? What are you talking about? That's just an excuse to\nindulge in men under the guise of taking on debt."
                             ]
                         },
                         {
@@ -7982,7 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ち、違います……わたしそんな……。"
+                                "\\N<Segi>No, that's not true... I'm not like that..."
                             ]
                         },
                         {
@@ -8006,14 +7509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>つ、妻への侮辱はお前でも許さないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね、セギさん……違うよね？"
+                                "\\N<Hojiko>I won't allow insults to my wife, even from you. Right,\nSegi-san... It's not true, is it?"
                             ]
                         },
                         {
@@ -8037,7 +7533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -8061,14 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふん……呆れたもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、いいさこれ以上話しても無駄だね。"
+                                "\\N<Hojiko's Wife>Hmph... Ridiculous. Well, it's pointless to talk any more\nthan this."
                             ]
                         },
                         {
@@ -8234,7 +7723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>おい、待てよ。まだ話は……。"
+                                "\\N<Hojiko>Hey, wait. We're not done talking..."
                             ]
                         },
                         {
@@ -8258,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>言って置くケドね、慰謝料はたんまり頂くからね。"
+                                "\\N<Hojiko's Wife>Just so you know, I'll be taking a hefty alimony."
                             ]
                         },
                         {
@@ -8275,14 +7764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふふ、余り金で必死に食い繋ぐ貧乏夫婦にどんな結末が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訪れるか高笑いしながら見ててやるよ。"
+                                "\\N<Hojiko's Wife>Hehe, I'll watch with glee to see what end comes to a poor\ncouple desperately clinging to their leftover money."
                             ]
                         },
                         {
@@ -8444,7 +7926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局、わたしは……ズーテルカとの戦いを避けた。"
+                                "In the end, I... avoided the battle with Zuuteruka."
                             ]
                         },
                         {
@@ -8461,21 +7943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "刃向かわなければユイア様達を害する事は無い……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼の甘言を鵜呑みにした訳でも無かったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この時のわたしにはそうするしか手が無い様に思えたからだ。"
+                                "I didn't take his sweet words at face value that he wouldn't\nharm Lord Yuia and the others if I didn't oppose him, but at\nthat time, it seemed like the only option I had."
                             ]
                         },
                         {
@@ -8499,7 +7967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の選んだ道が……正しかったと言う自負も確証も無い。"
+                                "I have no pride or certainty that the path I chose was the\nright one."
                             ]
                         },
                         {
@@ -8516,21 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは選んだこの道が自ら欲して掴み取ったものでは無く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飽く迄「選ぶしかなかったから」と言う結果だからに相違"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無いからだと思う。"
+                                "I think it's because the path I chose wasn't something I\ndesired and seized for myself, but rather a result of\n'having no other choice.'"
                             ]
                         },
                         {
@@ -8554,7 +8008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自らの背負ったとても重いけど……とても大切なもの。"
+                                "It's something very heavy that I carry on my back... but\nit's also very precious."
                             ]
                         },
                         {
@@ -8571,7 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなものを放り出して……逃げる様に選んだ道。"
+                                "Throwing away such things... I chose a path as if running\naway."
                             ]
                         },
                         {
@@ -8588,14 +8042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしはこれからどんな顔をして生きてゆくのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはこれからどんな想いを抱え悩んでゆくのだろう。"
+                                "What kind of face will I live with from now on? What kind of\nthoughts and worries will I carry with me?"
                             ]
                         },
                         {
@@ -8619,7 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今のわたしには……判らない。"
+                                "Right now... I don't know."
                             ]
                         },
                         {
@@ -8636,7 +8083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただひとつ判る事と言えば……。"
+                                "The only thing I do know..."
                             ]
                         },
                         {
@@ -8653,14 +8100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこにきっと笑顔は無いと言う事だけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んだ心を罪深いこの身に宿して……生きてゆくと言う事だ。"
+                                "Is that there will definitely be no smile there. Living with\na dead heart harbored in this sinful body."
                             ]
                         },
                         {
@@ -8705,7 +8145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも……時は平等に過ぎてゆく。"
+                                "Yet... time passes by equally for everyone."
                             ]
                         },
                         {
@@ -8722,7 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしの心が死のうが生きようが……時は過ぎてゆく。"
+                                "Whether my heart dies or lives... time will pass by."
                             ]
                         },
                         {

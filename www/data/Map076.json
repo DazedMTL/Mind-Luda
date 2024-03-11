@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの管理する施設である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らが自由に立ち入れる場所では無い。"
+                                "\\N<Ryuda Soldier>This is a facility managed by us of Ryuda. It is not a place\nwhere you can freely enter."
                             ]
                         },
                         {
@@ -1977,14 +1970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>待て、貴様何処へ行くつもりだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先の遺跡へは正式な許可が無い限り立ち入る事は出来ん。"
+                                "\\N<Ryuda Soldier>Halt, where do you think you're going? You can't enter the\nruins ahead without official permission."
                             ]
                         },
                         {
@@ -1999,8 +1985,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遺跡内へ入りたい",
-                                    "特に用事は無い"
+                                    "I want to enter the ruins.",
+                                    "I don't have any particular business."
                                 ],
                                 1,
                                 0,
@@ -2053,14 +2039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>遺跡内へ入らせて頂くつもりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "練兵会に出場する人は、皆ここで自身を鍛えると聞きました。"
+                                "\\N<Segi>I intend to enter the ruins. I've heard that all who\nparticipate in the Training Assembly train themselves here."
                             ]
                         },
                         {
@@ -2084,21 +2063,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>貴様、練兵会へ参加する戦士か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ならば当然遺跡に入場する為の規約も心得ているだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事前にズーテルカ様より説明が有った筈だからな。"
+                                "\\N<Ryuda Soldier>You, a warrior participating in the Training Assembly? Then\nyou must be well aware of the regulations for entering the\nruins. You should have been informed by Lord Zuuteruka\nbeforehand."
                             ]
                         },
                         {
@@ -2122,7 +2087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>入場の為の規則……ですか。"
+                                "\\N<Segi>Regulations for entry...?"
                             ]
                         },
                         {
@@ -2146,21 +2111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>その通り。当然の措置だ。遺跡内は危険で獰猛な怪物達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巣窟だ。その中に踏み入ろうと言うんだ、それなりの準備を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しなければな。"
+                                "\\N<Ryuda Soldier>Exactly. It's a necessary measure. The ruins are a den of\ndangerous and ferocious monsters. If you plan to step\ninside, you must be properly prepared."
                             ]
                         },
                         {
@@ -2177,7 +2128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>まして……それが貴様の様な非力な女ならば尚更の事だ。"
+                                "\\N<Ryuda Soldier>Moreover... if it's someone as frail as you, a woman, then\nit's all the more reason."
                             ]
                         },
                         {
@@ -2201,7 +2152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2234,14 +2185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、そうか、貴様が例の女戦士か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "罪人となった夫の恩赦の為に練兵会に参加するとか言う……。"
+                                "\\N<Ryuda Soldier>Ah, I see, you're that female warrior. The one who's\nparticipating in the Training Assembly to obtain a pardon\nfor her husband, who became a criminal..."
                             ]
                         },
                         {
@@ -2265,7 +2209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わたしの主人は……罪人などではありません。"
+                                "\\N<Segi>My husband is... not a criminal."
                             ]
                         },
                         {
@@ -2289,21 +2233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>ふん、ならば尚の事聞いているだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "試合と遺跡内への入場には相応の衣装を身に付け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我らリュダ指定の武具を用意すべしとな。"
+                                "\\N<Ryuda Soldier>Hmph, then all the more you should know, right? For the\nmatches and entry into the ruins, you must wear appropriate\nattire and prepare the designated weapons provided by us\nRyudas."
                             ]
                         },
                         {
@@ -2327,7 +2257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>相応の衣装……。"
+                                "\\N<Segi>Appropriate attire..."
                             ]
                         },
                         {
@@ -2351,7 +2281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>……どうかしたか？やはり入場を諦めるか？"
+                                "\\N<Ryuda Soldier>...Is there a problem? Are you going to give up on entering?"
                             ]
                         },
                         {
@@ -2375,7 +2305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -2399,14 +2329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>遺跡に入場し、自らを鍛えた後に練兵会へ臨むも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "或いは今のまま戦いへ臨むも、貴様次第だ。"
+                                "\\N<Ryuda Soldier>Whether you enter the ruins to train yourself before facing\nthe Training Assembly, or go into battle as you are now,\nit's up to you."
                             ]
                         },
                         {
@@ -2423,21 +2346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>何れの道も、我々は強制しない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だが仮に入場すると言うのならば、詰所へ行き相応の準備を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "して来て貰おうか。"
+                                "\\N<Ryuda Soldier>Whichever path you choose, we will not force you. But if you\ndecide to enter, go to the office and get the appropriate\npreparations done."
                             ]
                         },
                         {
@@ -2461,7 +2370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2613,14 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>湖底遺跡に入場すると言うのならば、詰所へ行き相応の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備をして来て貰おうか。"
+                                "\\N<Ryuda Soldier>If you wish to enter the lakebed ruins, then go to the\nguardhouse and prepare accordingly."
                             ]
                         },
                         {
@@ -2647,14 +2549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……言われた通り装束を着用した様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ならば遺跡内への進入を認めようじゃないか……くく。"
+                                "\\N<Ryuda Soldier>Hmm... It seems you have donned the attire as instructed.\nThen I shall permit your entry into the ruins... heh."
                             ]
                         },
                         {
@@ -2775,14 +2670,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……言われた通り装束を着用した様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ならば遺跡内への進入を認めようじゃないか……くく。"
+                                "\\N<Ryuda Soldier>Hmm... It seems you have donned the attire as instructed.\nThen I shall permit your entry into the ruins... heh."
                             ]
                         },
                         {
@@ -2964,14 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>湖底遺跡に入場すると言うのならば、詰所へ行き相応の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備をして来て貰おうか。"
+                                "\\N<Ryuda Soldier>If you wish to enter the lakebed ruins, then go to the\nguardhouse and prepare accordingly."
                             ]
                         },
                         {
@@ -2998,14 +2879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……言われた通り装束を着用した様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ならば遺跡内への進入を認めようじゃないか……くく。"
+                                "\\N<Ryuda Soldier>Hmm... It seems you have donned the attire as instructed.\nThen I shall permit your entry into the ruins... heh."
                             ]
                         },
                         {
@@ -3108,14 +2982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……言われた通り装束を着用した様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ならば遺跡内への進入を認めようじゃないか……くく。"
+                                "\\N<Ryuda Soldier>Hmm... It seems you have donned the attire as instructed.\nThen I shall permit your entry into the ruins... heh."
                             ]
                         },
                         {
@@ -3339,14 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>査定施設は閉鎖中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡に立ち入るなら正式な許可を得る事だな。"
+                                "\\N<Ryuda Soldier>The appraisal facility is closed. If you wish to enter the\nruins, make sure to obtain official permission."
                             ]
                         },
                         {

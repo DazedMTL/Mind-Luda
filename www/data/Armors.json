@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "盾",
+        "name": "Shield",
         "note": "",
         "params": [
             0,
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "帽子",
+        "name": "Hat",
         "note": "<BPnormal:0z>",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "リュダの技法で編み込まれた戦闘衣。",
+        "description": "Battle attire woven with Ryuda's techniques.",
         "etypeId": 4,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "魔淑女の黒衣",
+        "name": "Witch's Black Garb",
         "note": "<BPnormal:003>\n<BPdying:003>\n<BPmiddying:003>\n<TOESスイッチ対象:996>\nitemMaxNum:1",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "ユイアとセギの銀の結婚指輪。",
+        "description": "Yuia and Segi's silver wedding rings.",
         "etypeId": 5,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "結婚指輪",
+        "name": "Wedding Ring",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "普段着。",
+        "description": "Casual clothes.",
         "etypeId": 4,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "日常着",
+        "name": "Casual Clothes",
         "note": "<BPnormal:002>\n<TOESスイッチ対象:997>",
         "params": [
             0,
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "下着",
+        "name": "Underwear",
         "note": "<BPnormal:001>",
         "params": [
             0,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "服2",
+        "name": "Clothes 2",
         "note": "<BPnormal:ff2>",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "リュダの技法で編み込まれた戦闘衣。",
+        "description": "Battle attire woven with Ryuda's techniques.",
         "etypeId": 4,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "魔淑女の黒衣",
+        "name": "Witch's Black Garb",
         "note": "<BPnormal:003a>\n<BPdying:003a>\n<BPmiddying:003a>\n<TOESスイッチ対象:996>\nitemMaxNum:1",
         "params": [
             0,
@@ -234,7 +234,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "日常着",
+        "name": "Casual Clothes",
         "note": "<BPnormal:002>\n<BPdying:002>\n<BPmiddying:002>\n<TOESスイッチ対象:14>",
         "params": [
             0,
@@ -251,7 +251,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "酒場での接客時に女給が身に着ける衣装。",
+        "description": "The outfit worn by waitresses during their shift at the tavern.",
         "etypeId": 4,
         "traits": [
             {
@@ -261,7 +261,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "給仕衣装",
+        "name": "Waiter's Outfit",
         "note": "<BPnormal:0zb>\n<TOESスイッチ対象:996>",
         "params": [
             0,
@@ -278,7 +278,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "リュダの技法で編み込まれた戦闘衣。",
+        "description": "Battle attire woven with Ryuda's techniques.",
         "etypeId": 4,
         "traits": [
             {
@@ -288,7 +288,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "魔淑女の黒衣",
+        "name": "Witch's Black Garb",
         "note": "<BPnormal:003b>\n<BPdying:003b>\n<BPmiddying:003b>\n<TOESスイッチ対象:996>\nitemMaxNum:1",
         "params": [
             0,
@@ -801,7 +801,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "軽装",
+        "name": "Light Armor",
         "note": "",
         "params": [
             0,

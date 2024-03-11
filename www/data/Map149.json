@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:上層",
+    "displayName": "Lakebed Ruins Myyve: Upper Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2365,14 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>大丈夫……マインド・リュダの力は効いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしの身体に強力な抗毒作用を働かせている。"
+                                "\\N<Segi>It's okay... The power of Mind Lyuda is working. It's giving\nmy body a strong anti-toxin effect."
                             ]
                         },
                         {
@@ -2389,21 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>身体強化と共に催淫の効果を齎すリュダの霊薬……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は何も考えてはいけない……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "利用出来るモノは何だって利用するわ……。"
+                                "\\N<Segi>Lyuda's spiritual medicine that brings both physical\nenhancement and aphrodisiac effects... I mustn't think about\nanything now... I'll use whatever I can..."
                             ]
                         },
                         {
@@ -2420,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それがユイア様をお救いする糧になるのならば……。"
+                                "\\N<Segi>If it becomes the sustenance to save Lord Yuia..."
                             ]
                         },
                         {
@@ -2690,7 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミィベ湖底遺跡について"
+                                "About the Lake Mybe Ruins"
                             ]
                         },
                         {
@@ -2714,21 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遺跡内にはセギの敵となる怪異が闊歩していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接触により傷付いてもゲームオーバーになる事はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スリップダメージを除く）"
+                                "There are strange creatures within the ruins that are\nenemies to Segi, but contact with them will not result in a\ngame over unless you take slip damage."
                             ]
                         },
                         {
@@ -2752,14 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし一部の条件で傷付き、倒れてしまうと彼女の身に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何らかの危険が迫る事が有ります。"
+                                "However, under certain conditions, if she is injured and\ncollapses, some kind of danger may befall her."
                             ]
                         },
                         {
@@ -2783,14 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、闊歩する敵や宝箱の中には特殊な色を持った個体が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存在します。"
+                                "Also, among the roaming enemies and treasure chests, there\nare individuals with special colors."
                             ]
                         },
                         {
@@ -2814,14 +2765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これらは通常色の個体と比べ、ランダム要素を含むものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総じてより良い報酬が期待出来ます。"
+                                "These have a random element but generally offer better\nrewards compared to individuals of normal color."
                             ]
                         },
                         {

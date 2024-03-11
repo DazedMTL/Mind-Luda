@@ -3035,7 +3035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -3483,14 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>よう、さっきの状態でよくここまで辿り着いたもんだなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロザロも久し振り、元気してたかい？"
+                                "\\N<Zeda>Hey, you did well to make it this far in that state. Long\ntime no see, Rozaro. Have you been well?"
                             ]
                         },
                         {
@@ -3514,7 +3507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ツェダ……。"
+                                "\\N<Rozaro>Zeda..."
                             ]
                         },
                         {
@@ -3538,69 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>無駄口を叩かないで……息子は何処にいるの！？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                62
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ツェダ>おお、コワ。散々愛し合った仲じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな眼で睨むなよ。ふふ、安心しなよ、愛しの息子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先で少し眠って貰ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>だったら……早くそこを退きなさい！"
+                                "\\N<Segi>Stop the idle chatter... Where is my son!?"
                             ]
                         },
                         {
@@ -3624,7 +3555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>くく、イヤだと言ったら？"
+                                "\\N<Zeda>Oh, scary. Weren't we once deeply in love? Don't glare at me\nlike that. Hehe, don't worry, your beloved son is just\ntaking a little nap ahead."
                             ]
                         },
                         {
@@ -3648,7 +3579,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>無理矢理にでも通るに決まっているわ……！！"
+                                "\\N<Segi>Then... move aside quickly!"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                62
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Zeda>Heh, what if I said no?"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Segi>I'll force my way through if I have to...!!"
                             ]
                         },
                         {
@@ -3698,21 +3677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>凄むねえ、散々俺や部下共にヤられた後のくせに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母は強しって？さっきの姿からは想像できないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう許して下さいなんて泣いてたのにねえ？"
+                                "\\N<Zeda>You're fierce, huh? Even after being done by me and my men\nover and over. Is it the strength of a mother? Hard to\nimagine from the way you were earlier. Crying and begging\nfor forgiveness, weren't you?"
                             ]
                         },
                         {
@@ -3736,7 +3701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！"
+                                "\\N<Segi>G...h!!"
                             ]
                         },
                         {
@@ -3760,21 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>って言うかさ、どうやって助かったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこのロザロに助けて貰ったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともまたヤられちゃった？あの時みたいにさあ？"
+                                "\\N<Zeda>By the way, how did you survive? Did Rozaro here save you?\nOr were you done again? Like that time, huh?"
                             ]
                         },
                         {
@@ -3798,7 +3749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -3822,14 +3773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>生憎だけど無駄口を叩いてる暇は無いの……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息子がわたしの助けを待っているから……！"
+                                "\\N<Segi>Unfortunately, I don't have time for your nonsense...! My\nson is waiting for my help...!"
                             ]
                         },
                         {
@@ -3853,21 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>助けるって言ってもどうやってさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとでも動けば部下共の精液がアソコから溢れて来ちゃう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んじゃないのか？"
+                                "\\N<Zeda>Even if you say you'll save him, how? Won't my men's semen\noverflow from down there if you move even a little?"
                             ]
                         },
                         {
@@ -3884,14 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>くく……ホント俺達とアンタは縁深いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも俺達に簡単に股を開いてくれる。イイ女だよ。"
+                                "\\N<Zeda>Heh... You and us really are fated. You always spread your\nlegs so easily for us. You're a good woman."
                             ]
                         },
                         {
@@ -3915,7 +3838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>む、無駄口を叩かないでと言っているでしょう……！？"
+                                "\\N<Segi>I told you... not to waste your breath...!?"
                             ]
                         },
                         {
@@ -3939,14 +3862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>まさかこの人数相手に勝つ気？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愚かだなあ、まだ自分の立場が判ってないとかね。"
+                                "\\N<Zeda>You think you can win against this many? Foolish, you still\ndon't understand your position."
                             ]
                         },
                         {
@@ -3970,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -4060,7 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>何の真似だい？ロザロ。"
+                                "\\N<Zeda>What's this act? Rozaro."
                             ]
                         },
                         {
@@ -4084,7 +4000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>手下共は俺が相手しよう、貴女はツェダに集中するといい。"
+                                "\\N<Rozaro>I'll take care of the minions, you focus on Zeda."
                             ]
                         },
                         {
@@ -4101,21 +4017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それに……さほど奴を畏れる必要は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虚勢を張ったところで、永い牢獄暮らしの為にその身体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既にガタガタだろうからな。"
+                                "\\N<Rozaro>Besides... there's no need to be so afraid of him. All his\nbluster aside, his body must be falling apart from the long\nimprisonment."
                             ]
                         },
                         {
@@ -4139,7 +4041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>……。"
+                                "\\N<Zeda>..."
                             ]
                         },
                         {
@@ -4163,7 +4065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……お礼なら言いません。"
+                                "\\N<Segi>I won't thank you."
                             ]
                         },
                         {
@@ -4187,7 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふん……。"
+                                "\\N<Rozaro>Hmph..."
                             ]
                         },
                         {
@@ -4211,21 +4113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>何だい、揉めてるのかい？そんなんで本当に勝てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってるの？俺としては息子の前で母親を傷付けるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のはゴメン被りたいんだけどねえ？"
+                                "\\N<Zeda>What's this, trouble in paradise? Do you really think you\ncan win like this? I'd hate to hurt a mother in front of her\nson, you know?"
                             ]
                         },
                         {
@@ -4249,14 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>勝つ……必ず勝つわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてリイアを連れて帰る……っ！！"
+                                "\\N<Segi>Win... I will win! And I'll take Riia back...!!"
                             ]
                         },
                         {
@@ -4448,7 +4329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあっ！"
+                                "\\N<Segi>Haah... Haah!"
                             ]
                         },
                         {
@@ -4472,14 +4353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ふ、ふん……なかなかやるじゃないか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "油断したみたいだねえ。"
+                                "\\N<Zeda>Huh, huh... Not bad at all... Looks like I underestimated\nyou."
                             ]
                         },
                         {
@@ -4496,14 +4370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>そ、そうさ……俺がアンタに遅れを取る訳が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "永い牢獄暮らしで腕が鈍っただけさ……。"
+                                "\\N<Zeda>So, so that's it... There's no way I'd fall behind you. It's\njust that my skills have dulled from the long\nimprisonment..."
                             ]
                         },
                         {
@@ -4520,14 +4387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>いや、それも違うか……ま、まさか本当に母は強しだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんて言わないよねえ……？"
+                                "\\N<Zeda>No, that's not it either... Maybe, maybe it's true what they\nsay about the strength of a mother, huh...?"
                             ]
                         },
                         {
@@ -4616,7 +4476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>答えなさい……リイアはこの奥ね……！？"
+                                "\\N<Segi>Answer me... Riia is further in, right...!?"
                             ]
                         },
                         {
@@ -4640,14 +4500,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ああ……そうさ。行って助けてやるといいよ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手遅れにならない内にね。"
+                                "\\N<Zeda>Yeah... that's right. Go ahead and save him... before it's\ntoo late."
                             ]
                         },
                         {
@@ -4671,7 +4524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>言われなくても……っ！"
+                                "\\N<Segi>I will...!"
                             ]
                         },
                         {
@@ -4803,7 +4656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は、はあ……あ……あ……っ。"
+                                "\\N<Segi>Ha, haa... ah... ah...!"
                             ]
                         },
                         {
@@ -4820,14 +4673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>動くなよ？妙な真似をしたら可愛い息子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タダんじゃすまねえからな？"
+                                "\\N<Subordinate Of Zeda>Don't move, okay? If you try anything funny, your cute son\nwon't get off so easily."
                             ]
                         },
                         {
@@ -4844,7 +4690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わ、判ったわ……判った……から……。"
+                                "\\N<Segi>I understand... I understand... so..."
                             ]
                         },
                         {
@@ -4873,14 +4719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>オラ、ボウズ。こっちだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかり歩きな、ママが迎えに来てくれたんだぜ？へへ。"
+                                "\\N<Subordinate Of Zeda>Hey, kid. This way. Walk properly now, your mom has come to\npick you up, hehe."
                             ]
                         },
                         {
@@ -4909,7 +4748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>マ、ママ……。"
+                                "\\N<Riia>M-Mom..."
                             ]
                         },
                         {
@@ -4926,14 +4765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そうよリイア……ママよ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、大丈夫……？怪我してない……？"
+                                "\\N<Segi>Yes, Riia... It's mom... Are you okay...? Are you hurt...?"
                             ]
                         },
                         {
@@ -5003,14 +4835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>は、はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "き、来て……くれた……の？"
+                                "\\N<Riia>Haah... haah... you came... for me?"
                             ]
                         },
                         {
@@ -5027,14 +4852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>勿論……ママ、あなたの為なら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ど、どこへだって飛んで行くんだから……。"
+                                "\\N<Segi>Of course... Mom would fly anywhere for you..."
                             ]
                         },
                         {
@@ -5058,14 +4876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "漸くの対面を、考え得る最悪の結末で果たす親子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが今の二人の姿と言えた。"
+                                "The parent and child finally face each other, in what could\nbe considered the worst possible outcome."
                             ]
                         },
                         {
@@ -5082,21 +4893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "傷付き、その身体を男達に組み伏せられた母。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしてその身に纏う見慣れぬ淫靡な黒い衣装。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その異様な母の姿にリイアの眼は釘付けになる。"
+                                "The mother, wounded and pinned down by men, is clad in an\nunfamiliar, lewd black outfit. Riia's eyes are fixated on\nthe bizarre sight of his mother."
                             ]
                         },
                         {
@@ -5120,7 +4917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……で、でも……そ、その……。"
+                                "\\N<Riia>Mom... but... that..."
                             ]
                         },
                         {
@@ -5137,14 +4934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>リイア……だ、大丈夫……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから下を向かない……で？ママなら大丈夫だから……。"
+                                "\\N<Segi>Riia... it's okay... so don't look down, okay? Mom's going\nto be fine..."
                             ]
                         },
                         {
@@ -5161,7 +4951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -5178,14 +4968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>嘘じゃないわ、ほら……ママの顔見て、ね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何とも無いから。だから心配しないで。"
+                                "\\N<Segi>It's not a lie, look... look at Mom's face, see? I'm not\nhurt. So don't worry."
                             ]
                         },
                         {
@@ -5209,14 +4992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>お願い……リイアを離して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その子は何の関係も無いでしょう……？"
+                                "\\N<Segi>Please... let Riia go. He has nothing to do with this,\nright...?"
                             ]
                         },
                         {
@@ -5233,14 +5009,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>どうするかはコッチが決めるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前が指図するんじゃねえよ。"
+                                "\\N<Subordinate Of Zeda>We'll decide what to do. You're not the one giving orders\nhere."
                             ]
                         },
                         {
@@ -5264,14 +5033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "息子には届かぬ様なか細く消え入りそうな声で、セギは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男達に懇願する。"
+                                "In a voice so faint it seemed it might vanish before\nreaching her son, Segi pleaded with the men."
                             ]
                         },
                         {
@@ -5288,14 +5050,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは今彼女に出来る、精一杯の事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "息子を守る為の最大限の努力と言えた。"
+                                "It was the most she could do right now. The greatest effort\nshe could muster to protect her son."
                             ]
                         },
                         {
@@ -5319,14 +5074,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あなた達の狙いはあの子では無いのでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だったらもう……もういいでしょう……？"
+                                "\\N<Segi>You... your target isn't my child, right? So that's\nenough... isn't it...?"
                             ]
                         },
                         {
@@ -5343,14 +5091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>これ以上……あ、あの子を傷付けても……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなた達には何の得も……っ。"
+                                "\\N<Segi>Any more than this... hurting him... won't benefit you at\nall..."
                             ]
                         },
                         {
@@ -5420,7 +5161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>う……っ！？"
+                                "\\N<Segi>Ugh...!?"
                             ]
                         },
                         {
@@ -5437,7 +5178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……ママ……っ。"
+                                "\\N<Riia>...Mom..."
                             ]
                         },
                         {
@@ -5461,14 +5202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セギの懇願を嘲笑うかの様に、男達は彼女の肢体を息子の前"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で弄び始める。"
+                                "As if mocking Segi's pleas, the men begin to toy with her\nbody in front of her son."
                             ]
                         },
                         {
@@ -5492,7 +5226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……う……っくっ！？"
+                                "\\N<Segi>Ahh... ugh... ack!?"
                             ]
                         },
                         {
@@ -5509,21 +5243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>後はもうヤられるだけの存在……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俎板の上の鯉が精一杯の虚勢張るんじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺はそう言うのが1番腹立つんだよ。"
+                                "\\N<Subordinate Of Zeda>All that's left for you is to get screwed... A carp on the\nchopping board shouldn't be puffing itself up. That's what\npisses me off the most."
                             ]
                         },
                         {
@@ -5540,7 +5260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判った、判ったから……。"
+                                "\\N<Segi>...I understand, I understand so..."
                             ]
                         },
                         {
@@ -5557,21 +5277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わ、わたしの事は好きにすればいい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたの言う様に……い、今のわたしにあなた達を排除する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "力なんて……残っていない……もの。"
+                                "\\N<Segi>Do whatever you want with me... as you say... I don't have\nthe strength to fight you off anymore..."
                             ]
                         },
                         {
@@ -5588,14 +5294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>抵抗なんてしない……約束するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、だからお願い……あ、あの子だけは……。"
+                                "\\N<Segi>I won't resist... I promise. So please... just leave my\nchild alone..."
                             ]
                         },
                         {
@@ -5653,7 +5352,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……っ！？"
+                                "\\N<Segi>Nngh...!?"
                             ]
                         },
                         {
@@ -5670,21 +5369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>格好付けんなって。全くこんなもんぶら下げてノコノコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出向いて来て、それで万事窮したら可愛い息子の前でだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "格好付けようなんざ甘いんだよ。"
+                                "\\N<Subordinate Of Zeda>Don't try to act tough. You come here with that thing\nhanging off you, and when things get tough, you try to look\ngood in front of your cute son? That's naive."
                             ]
                         },
                         {
@@ -5701,7 +5386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -5718,7 +5403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>へ、平気よ？ママなら……大丈夫だから。"
+                                "\\N<Segi>It's okay, see? Mom's going to be fine."
                             ]
                         },
                         {
@@ -5735,7 +5420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>で、でも……。"
+                                "\\N<Riia>But..."
                             ]
                         },
                         {
@@ -5771,7 +5456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……っ。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -5795,14 +5480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "母親の元へ歩を進めようとするリイアに対し、男は彼の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "喉元に凶刃を突き付ける。"
+                                "As Riia tries to move towards his mother, one of the men\npresses a wicked blade against his throat."
                             ]
                         },
                         {
@@ -5826,21 +5504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>おっとボウス、動くなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妙な真似したらボウズの大事なママの綺麗な身体が傷だらけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "になっちまうぜえ？"
+                                "\\N<Subordinate Of Zeda>Whoa there, kid, don't move. If you do anything funny, your\nprecious mom's pretty body is going to get all scarred up,\nyou hear?"
                             ]
                         },
                         {
@@ -5857,14 +5521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ま、待って……お願い……お願いだから……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "て、抵抗しないと言っているでしょう……？"
+                                "\\N<Segi>Wait... please... I'm begging you... I said I won't resist,\ndidn't I...?"
                             ]
                         },
                         {
@@ -5881,7 +5538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だ、だからせめて……息子の見えない所で……。"
+                                "\\N<Segi>So at least... do it where my son can't see..."
                             ]
                         },
                         {
@@ -5939,7 +5596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……ん……っ！？"
+                                "\\N<Segi>Ahh... nngh...!?"
                             ]
                         },
                         {
@@ -5956,21 +5613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>駄目だね、お前はこれから息子の前で犯されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番見せたくない痴態を晒すのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが俺達に楯突いたバツって訳だ。"
+                                "\\N<Subordinate Of Zeda>No way. You're going to be violated in front of your son and\nexpose the most shameful display you never wanted him to\nsee. That's the punishment for defying us."
                             ]
                         },
                         {
@@ -5987,14 +5630,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そんな……お願い……あなた達の言う通りにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから……せめて息子の前でだけは……っ。"
+                                "\\N<Segi>Please... I'll do as you say. So at least in front of my\nson..."
                             ]
                         },
                         {
@@ -6011,21 +5647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>駄目だって言ってんだろ？聴こえなかったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いい機会じゃねえか、息子の前だからって気取らずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンポ突っ込まれてみっともなく喘ぐ様を見せてやれよ？"
+                                "\\N<Subordinate Of Zeda>I said no, didn't you hear? This is a good opportunity.\nDon't try to act dignified just because it's in front of\nyour son. Show him how you pathetically moan with a cock\nshoved inside you."
                             ]
                         },
                         {
@@ -6042,21 +5664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "眼の前で母親がこれだけの人数に犯されるトコなんざ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中々お目にかかれねえぞ？将来の為になるかもなあ？"
+                                "\\N<Subordinate Of Zeda>Hehe, that's right. It's not often you get to see your mom\ngetting fucked by this many guys right before your eyes.\nMight be educational for your future, huh?"
                             ]
                         },
                         {
@@ -6073,14 +5681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ぎゃははっ！為になんざなるかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心にそれはそれはふか～い傷が刻まれるだけだわ！"
+                                "\\N<Subordinate Of Zeda>Gyahaha! Educational my ass! It'll only carve a deep, deep\nwound in his heart!"
                             ]
                         },
                         {
@@ -6097,7 +5698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -6114,14 +5715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>へ、平気……ママなら……大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、だから……そ、そんな顔しないで……？"
+                                "\\N<Segi>It's okay... Mom's going to be fine. So... don't make such a\nface, okay...?"
                             ]
                         },
                         {
@@ -6157,7 +5751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でもリイア……せめて……せめて……。"
+                                "\\N<Segi>But Riia... at least... at least..."
                             ]
                         },
                         {
@@ -6181,14 +5775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>マ、ママの姿が見え無い様に……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目を……閉じていてくれる……かな……？"
+                                "\\N<Segi>Could you... close your eyes... so you can't see Mom's\nfigure...?"
                             ]
                         },
                         {
@@ -6338,7 +5925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……はあっ！ん……ああ……！"
+                                "\\N<Segi>Ahh... nngh...!? Ahh...!"
                             ]
                         },
                         {
@@ -6355,14 +5942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ふふ……やっぱイイねえ、こう言う状況は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタもそう思うだろ？息子の前でなんて燃えちゃうよねえ。"
+                                "\\N<Zeda>Hehe... I knew it, situations like this are the best. Don't\nyou think so? It's so arousing to do it in front of your\nson."
                             ]
                         },
                         {
@@ -6386,14 +5966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "息子の前で犯される痴態を晒すセギに対し、ツェダはその"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "光景を満足そうに眺めながらそう宣った。"
+                                "As Segi is violated in front of her son, Zeda looks on with\nsatisfaction and declares this."
                             ]
                         },
                         {
@@ -6429,14 +6002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……っ！だ、だめ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "リイア……み、見ちゃ……ん……ああ……！"
+                                "\\N<Segi>Nn...! No...! Riia... don't look... nn... ahh...!"
                             ]
                         },
                         {
@@ -6453,14 +6019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へ、へへ……！オラ！息子が見てんぞ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりマンコ締めやがれっ！"
+                                "\\N<Subordinate Of Zeda>Heh, heh...! Hey! Your son is watching! Tighten up that\npussy!"
                             ]
                         },
                         {
@@ -6477,7 +6036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -6501,14 +6060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この異常な光景を前にリイアは膝を抱え、顔を埋める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは先程の母の言葉を堅守している様にも見えた。"
+                                "In front of this abnormal scene, Riia hugs his knees and\nburies his face. It seemed like he was abiding by his\nmother's earlier words."
                             ]
                         },
                         {
@@ -6532,7 +6084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -6549,14 +6101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へ、まあそう塞ぎ込むなよ、ボウズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっき母ちゃんも言ってたろ、顔を上げろってよ？"
+                                "\\N<Subordinate Of Zeda>Hey, don't be so down, kid. Your mom told you to lift your\nface, didn't she?"
                             ]
                         },
                         {
@@ -6573,21 +6118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ああ、それと誤解すんなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達は母ちゃんの事虐めてる訳でも、ひでぇ事してる訳でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねえからな？"
+                                "\\N<Subordinate Of Zeda>Ah, and don't get me wrong. We're not bullying your mom or\ndoing anything terrible, okay?"
                             ]
                         },
                         {
@@ -6604,21 +6135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ホレその証拠に見ろよ、お前の母ちゃんの顔。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悦んでるんだぜ、アレ。女はよ、ああされると悦ぶのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勿論お前の母ちゃんも同じさ。"
+                                "\\N<Subordinate Of Zeda>Look, as proof, look at your mom's face. She's enjoying it,\nsee? Women enjoy being treated like that. Of course, your\nmom is no different."
                             ]
                         },
                         {
@@ -6635,7 +6152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -6659,7 +6176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>どう？イイ感じかい？"
+                                "\\N<Zeda>How is it? Feels good?"
                             ]
                         },
                         {
@@ -6676,14 +6193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>は、はいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へへ……お、俺、ツェダ様に付いて来て良かった……！"
+                                "\\N<Subordinate Of Zeda>Yes! Hehe... I'm so glad I followed Lord Zeda...!"
                             ]
                         },
                         {
@@ -6700,7 +6210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>あはは、それは良かった。"
+                                "\\N<Zeda>Ahaha, that's good to hear."
                             ]
                         },
                         {
@@ -6729,7 +6239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あんっ！あっ！ん……ああ……！"
+                                "\\N<Segi>Ahn! Ah! Nn... ahh...!"
                             ]
                         },
                         {
@@ -6746,21 +6256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ねえ、セギちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今思えば俺達はこうなる運命だったのかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "情熱的に愛し合ったもんねえ？"
+                                "\\N<Zeda>Hey, Segi-chan? Looking back now, maybe it was fate that we\nended up like this. We made passionate love, didn't we?"
                             ]
                         },
                         {
@@ -6818,7 +6314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ふ……あっ！？"
+                                "\\N<Segi>Fu... Ah!?"
                             ]
                         },
                         {
@@ -6835,14 +6331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>でもまあ……心残りと言えばアンタを孕ませられなかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事かな。それに一緒に居られたのも僅か数日だったしね。"
+                                "\\N<Zeda>But if there's one regret, it's that I couldn't impregnate\nyou. And we were only together for a few days."
                             ]
                         },
                         {
@@ -6859,14 +6348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>でも……今度は違う。時間は山程有る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心ゆくまで愛し合えるねえ？"
+                                "\\N<Zeda>But... this time it's different. We have all the time in the\nworld. We can love each other to our heart's content, right?"
                             ]
                         },
                         {
@@ -6895,7 +6377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……ううっ！"
+                                "\\N<Segi>Haa... ah... ugh!"
                             ]
                         },
                         {
@@ -6912,14 +6394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>そうだ、ゆくゆくはここにいる全員の子供産んでみるとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "面白そうじゃない？正に仲間は全員家族の様な繋がりってね。"
+                                "\\N<Zeda>That's right, maybe it would be fun to try having children\nwith everyone here eventually? It's like all the comrades\nare connected like a family."
                             ]
                         },
                         {
@@ -6948,14 +6423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あんっ！は……ああ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたしは……どうなってもいい……から……！"
+                                "\\N<Segi>Ahn! Ha... ahh...! I... it doesn't matter what happens to\nme... but...!"
                             ]
                         },
                         {
@@ -6972,14 +6440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あの……あの子だけは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、それが……わ、わたしとユイア様とのや、約束……！"
+                                "\\N<Segi>Please... just that child...! That's... the promise I made\nwith Lord Yuia...!"
                             ]
                         },
                         {
@@ -6996,21 +6457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>やだよ、そんな義理無いものねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ユイアサマとか約束とか知らないし、それに下手に助けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後々母の無念とか言って復讐とかされてもイヤだしね。"
+                                "\\N<Zeda>No way, I don't owe you any favors. I don't know anything\nabout Lord Yuia or any promise, and besides, I don't want to\nbe blamed for your regrets later or have him seek revenge."
                             ]
                         },
                         {
@@ -7027,7 +6474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>お、お願い……あの子だけは……ぁぁ……！"
+                                "\\N<Segi>Please... just spare that child... ahh...!"
                             ]
                         },
                         {
@@ -7044,21 +6491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>うーん……全く母親ってのは凄いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "判った判った、そこまで言うならその意思に免じてあの子に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手出しはしないと誓うよ。"
+                                "\\N<Zeda>Hmm... mothers are amazing, aren't they? Alright, alright,\nsince you insist so much, I swear I won't lay a hand on that\nchild."
                             ]
                         },
                         {
@@ -7087,7 +6520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は……ん……あ……ううっ！"
+                                "\\N<Segi>Ha... nn... ah... ugh!"
                             ]
                         },
                         {
@@ -7121,7 +6554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……んっ！は……ああ……っ！"
+                                "\\N<Segi>Ahh... nn! Ha... ahh...!"
                             ]
                         },
                         {
@@ -7138,21 +6571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>にしてもアレだな、お前の母ちゃんいい身体してんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレじゃさぞ色んな男とヤリまくりだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へへ、俺もその一人だけどな。"
+                                "\\N<Subordinate Of Zeda>But man, your mom has a nice body. With that figure, she\nmust've been screwing around with lots of men, right? Hehe,\nI'm one of them though."
                             ]
                         },
                         {
@@ -7169,7 +6588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -7186,14 +6605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ああ、俺は今順番待ちしてんのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "順番待ち、判るか？"
+                                "\\N<Subordinate Of Zeda>Ah, I'm waiting for my turn right now. Waiting in line, you\nget it?"
                             ]
                         },
                         {
@@ -7210,14 +6622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>にしても惜しいなあ、ボウズも他人だったらあの身体で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愉しめたのに。残念だな、母親じゃなあ？"
+                                "\\N<Subordinate Of Zeda>It's a shame though, if you weren't her son, you could've\nenjoyed that body too. Too bad she's your mom, huh?"
                             ]
                         },
                         {
@@ -7234,21 +6639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>それかボウズが女だったらなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしたらもっと愉しめたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生憎俺にはソッチの趣味はねえからな、へへ。"
+                                "\\N<Subordinate Of Zeda>Or if you were a girl. Then we could've had even more fun.\nUnfortunately, I'm not into that sort of thing, hehe."
                             ]
                         },
                         {
@@ -7265,7 +6656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -7282,14 +6673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>っと、俺の番が来たらしいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ行って来るわ、もうチンコはち切れそうなんだよ。"
+                                "\\N<Subordinate Of Zeda>Oh, looks like it's my turn. I'll be going then; my dick is\nabout to burst."
                             ]
                         },
                         {
@@ -7347,14 +6731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>おいおい、何だよ？まだ突っ込んでんのかよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうイったんだろ、早く代われよな。"
+                                "\\N<Subordinate Of Zeda>Hey hey, what's this? You're still going at it? You've\nalready come, right? Hurry up and switch with me."
                             ]
                         },
                         {
@@ -7371,7 +6748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ま、待てよ……まだ……まだもう少し……っ！"
+                                "\\N<Subordinate Of Zeda>Wait... just a little longer...!"
                             ]
                         },
                         {
@@ -7388,14 +6765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、何もそんなに必死に最後の一滴迄出し尽くさなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もイイだろうに。"
+                                "\\N<Subordinate Of Zeda>Hehe, you don't have to be so desperate to squeeze out every\nlast drop."
                             ]
                         },
                         {
@@ -7412,7 +6782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は……ああ……っ！うう……ぁぁ……っ！"
+                                "\\N<Segi>Ha... ahh...! Ugh... ahh...!"
                             ]
                         },
                         {
@@ -7515,14 +6885,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ほら……こっち、こっち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呆けてねえでしっかりしな、母親なんだろ？"
+                                "\\N<Zeda>Hey... over here, over here. Don't space out, get a grip,\nyou're her mother, right?"
                             ]
                         },
                         {
@@ -7539,7 +6902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……ぁぁ……あ……。"
+                                "\\N<Segi>Ah... ahh... ah..."
                             ]
                         },
                         {
@@ -7667,7 +7030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……うう……あ……。"
+                                "\\N<Segi>Ah... ugh... ah..."
                             ]
                         },
                         {
@@ -7684,14 +7047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>へへ、どうだボウズ？ママ綺麗だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この中の誰の赤ん坊孕んだか、ボウスも賭けるか？"
+                                "\\N<Zeda>Hehe, how about it, kid? Your mom's beautiful, isn't she?\nWanna bet on whose baby she'll get pregnant with?"
                             ]
                         },
                         {
@@ -7708,7 +7064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>う……う………。"
+                                "\\N<Segi>Ugh... uh..."
                             ]
                         },
                         {
@@ -7725,7 +7081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -7742,21 +7098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>へへ、じゃあ最後のお別れ言いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今生の別れになるかも知れないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お互い悔いの無い様にな？"
+                                "\\N<Zeda>Hehe, then say your last goodbyes. It might be the final\nfarewell in this life. Let's make sure we have no regrets,\nright?"
                             ]
                         },
                         {
@@ -7773,7 +7115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>リ、リイ……ア……。"
+                                "\\N<Segi>Ri... Riia..."
                             ]
                         },
                         {
@@ -7790,7 +7132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>マ、ママ……。"
+                                "\\N<Riia>Ma... Mama..."
                             ]
                         },
                         {
@@ -7807,14 +7149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ご、ごめん……ごめんね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、駄目なママで……ご、ごめん……ね……？"
+                                "\\N<Segi>I'm sorry... I'm so sorry... for being such a... useless\nmom... I'm sorry... okay?"
                             ]
                         },
                         {
@@ -7831,21 +7166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ママ……あ、あなたを守れたかし……ら……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じ、自信も無いし……わ、判らないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はそう信じるしか……な、無いの……。"
+                                "\\N<Segi>Mama... did I manage to protect you... I'm not sure... I\ndon't know, but... now I can only believe that I did..."
                             ]
                         },
                         {
@@ -7862,14 +7183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だ、だって……もうママが……あ、あなたにしてあげられる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事は無さそうだから……。"
+                                "\\N<Segi>Because... it seems like there's nothing more mama can do\nfor you now..."
                             ]
                         },
                         {
@@ -7886,7 +7200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -7956,7 +7270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あ……ひ……ぃぃ……っ。"
+                                "\\N<Segi>Ah... ah... hi... iiii...!"
                             ]
                         },
                         {
@@ -7973,21 +7287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、聞いたかよ、今の情けねえ声。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オラ、ボウズ。ママが精子垂れ流しながら謝ってんぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か応えてやれよ？"
+                                "\\N<Subordinate Of Zeda>Hehe, did you hear that pathetic voice? Hey, kid. Your mom's\napologizing while dripping with cum. Got anything to say\nback?"
                             ]
                         },
                         {
@@ -8004,7 +7304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -8021,14 +7321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ごめんね……リイア、ごめんね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな……こんなママを……ゆ、許して……。"
+                                "\\N<Segi>I'm sorry... Riia, I'm so sorry... for being such a... such\na mom... please, forgive me..."
                             ]
                         },
                         {
@@ -8045,14 +7338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あや……謝って……も……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆ、許して貰える……なんて……お、思っていない……わ。"
+                                "\\N<Segi>I'm not... expecting... forgiveness just because I\napologize..."
                             ]
                         },
                         {
@@ -8069,14 +7355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……もう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今のママに……は……こ、これ……し……か……。"
+                                "\\N<Segi>But... now... this is all... that mom can do..."
                             ]
                         },
                         {
@@ -8093,7 +7372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -8110,7 +7389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ご、ごめ……ごめ……リイ……ア……。"
+                                "\\N<Segi>I'm sorry... so sorry... Riia..."
                             ]
                         },
                         {
@@ -8146,7 +7425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ツェダ様、アイツ本当に連れて行くんですか？"
+                                "\\N<Subordinate Of Zeda>Lord Zeda, are you really going to take that one with us?"
                             ]
                         },
                         {
@@ -8163,14 +7442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>まさか、手出ししないって言っただけさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の子供の生死なんかどうでもいいよ。"
+                                "\\N<Zeda>Of course not, I only said I wouldn't lay a hand on him. The\nlife or death of someone else's child doesn't matter to me."
                             ]
                         },
                         {
@@ -8187,21 +7459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>成程、そう言う事ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし……ここへ置き去りにしたと知ったらあの女が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激昂しませんか？"
+                                "\\N<Subordinate Of Zeda>I see, is that so. But won't that woman rage if she finds\nout we left him here?"
                             ]
                         },
                         {
@@ -8218,14 +7476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>平気さ、多分その前に壊れるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうなる迄可愛がってやるんだろ？"
+                                "\\N<Zeda>No worries, she'll probably break before that happens.\nYou're going to pamper her until then, right?"
                             ]
                         },
                         {
@@ -8242,7 +7493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ……それはもう。"
+                                "\\N<Subordinate Of Zeda>Hehe... you bet."
                             ]
                         },
                         {
@@ -8259,21 +7510,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>せいぜい試してみようぜ、子を思う母の愛ってのをさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ怒るなら怒るでそれも楽しそうじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう言う女を屈服させるのもさ。"
+                                "\\N<Zeda>Let's test it out to the fullest, the love of a mother for\nher child. If she gets angry, that'll be fun too, right?\nSubduing such a woman is also something."
                             ]
                         },
                         {
@@ -8290,7 +7527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、仰る通りで。"
+                                "\\N<Subordinate Of Zeda>Hehe, as you say."
                             ]
                         },
                         {
@@ -8702,14 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>よう、よくここまで辿り着いたもんだなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロザロも久し振り、元気してたかい？"
+                                "\\N<Zeda>Hey, you've done well to make it this far. It's been a\nwhile, Rozaro. Have you been well?"
                             ]
                         },
                         {
@@ -8733,7 +7963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ツェダ……。"
+                                "\\N<Rozaro>Zeda..."
                             ]
                         },
                         {
@@ -8757,62 +7987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>無駄口を叩かないで……息子は何処にいるの！？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                62
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ツェダ>おお、コワ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時、散々愛し合った仲じゃないか、そんな眼で睨むなよ。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>っ……。"
+                                "\\N<Segi>Stop with the idle chatter... Where is my son!?"
                             ]
                         },
                         {
@@ -8836,14 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>ふふ、安心しなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛しの息子はこの先で少し眠って貰ってるよ。"
+                                "\\N<Zeda>Oh, scary. Weren't we deeply in love once? Don't glare at me\nlike that."
                             ]
                         },
                         {
@@ -8867,7 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だったら……早くそこを退きなさい！"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8891,7 +8059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>くく、イヤだと言ったら？"
+                                "\\N<Zeda>Hehe, relax. Your beloved son is just ahead, taking a little\nnap."
                             ]
                         },
                         {
@@ -8915,7 +8083,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>無理矢理にでも通るに決まっているわ……！！"
+                                "\\N<Segi>Then... move aside quickly!"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                62
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Zeda>Heh, what if I said no?"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Segi>I'll force my way through if I have to...!!"
                             ]
                         },
                         {
@@ -8965,21 +8181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>凄むねえ、母は強しって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの時の姿からは想像出来ないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう許して下さいなんて泣いてたのにねえ？"
+                                "\\N<Zeda>You're fierce, aren't you? 'A mother's strength,' they say?\nI can't imagine it from the way you were back then. Crying\nand begging for forgiveness, weren't you?"
                             ]
                         },
                         {
@@ -9003,7 +8205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！"
+                                "\\N<Segi>G...!!"
                             ]
                         },
                         {
@@ -9027,21 +8229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>って言うかさ、どうやってここ迄来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこのロザロに助けて貰ったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともまたヤられちゃった？あの時みたいにさあ？"
+                                "\\N<Zeda>By the way, how did you even get here? Did Rozaro help you?\nOr did you get done in again? Just like that time, huh?"
                             ]
                         },
                         {
@@ -9065,7 +8253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -9089,14 +8277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>生憎だけど無駄口を叩いてる暇は無いの……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息子がわたしの助けを待っているから……！"
+                                "\\N<Segi>Unfortunately, I don't have time for your nonsense...! My\nson is waiting for my help...!"
                             ]
                         },
                         {
@@ -9120,14 +8301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>まさかこの人数相手に勝つ気？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愚かだなあ、まだ自分の立場が判ってないとかね。"
+                                "\\N<Zeda>You think you can win against this many? Foolish, you still\ndon't understand your place."
                             ]
                         },
                         {
@@ -9151,7 +8325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -9241,7 +8415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>何の真似だい？ロザロ。"
+                                "\\N<Zeda>What's this act for, Rozaro?"
                             ]
                         },
                         {
@@ -9265,7 +8439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>手下共は俺が相手しよう、貴女はツェダに集中するといい。"
+                                "\\N<Rozaro>I'll take care of the minions. You focus on Zeda."
                             ]
                         },
                         {
@@ -9282,21 +8456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それに……さほど奴を畏れる必要は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虚勢を張ったところで、永い牢獄暮らしの為にその身体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既にガタガタだろうからな。"
+                                "\\N<Rozaro>Besides... there's no need to fear him that much. All his\nbluster aside, his body must be falling apart after such a\nlong time in prison."
                             ]
                         },
                         {
@@ -9320,7 +8480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>……。"
+                                "\\N<Zeda>..."
                             ]
                         },
                         {
@@ -9344,7 +8504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……お礼なら言いません。"
+                                "\\N<Segi>I won't say thank you."
                             ]
                         },
                         {
@@ -9368,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふん……。"
+                                "\\N<Rozaro>Hmph..."
                             ]
                         },
                         {
@@ -9392,21 +8552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>何だい、揉めてるのかい？そんなんで本当に勝てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってるの？俺としては息子の前で母親を傷付けるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のはゴメン被りたいんだけどねえ？"
+                                "\\N<Zeda>What's this, trouble in paradise? Do you really think you\ncan win like this? I'd hate to hurt a mother in front of her\nson, you know?"
                             ]
                         },
                         {
@@ -9430,14 +8576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>勝つ……必ず勝つわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてリイアを連れて帰る……っ！！"
+                                "\\N<Segi>I will win... I must win! And I'll take Riia back...!!"
                             ]
                         },
                         {
@@ -9629,7 +8768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあっ！"
+                                "\\N<Segi>Haah... Haah!"
                             ]
                         },
                         {
@@ -9653,14 +8792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ふ、ふん……なかなかやるじゃないか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "油断したみたいだねえ。"
+                                "\\N<Zeda>Huh, huh... not bad at all... Looks like I underestimated\nyou."
                             ]
                         },
                         {
@@ -9677,14 +8809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>そ、そうさ……俺がアンタに遅れを取る訳が無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "永い牢獄暮らしで腕が鈍っただけさ……。"
+                                "\\N<Zeda>So, so that's right... There's no way I'd fall behind you.\nIt's just that my skills have dulled from being in prison\nfor so long..."
                             ]
                         },
                         {
@@ -9701,14 +8826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>いや、それも違うか……ま、まさか本当に母は強しだ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんて言わないよねえ……？"
+                                "\\N<Zeda>No, that's not it either... Maybe, maybe it's true what they\nsay about a mother's strength...?"
                             ]
                         },
                         {
@@ -9797,7 +8915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>答えなさい……リイアはこの奥ね……！？"
+                                "\\N<Segi>Answer me... Riia is further inside, isn't he...!?"
                             ]
                         },
                         {
@@ -9821,14 +8939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ああ……そうさ。行って助けてやるといいよ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手遅れにならない内にね。"
+                                "\\N<Zeda>Yeah... that's right. Go ahead and save him... before it's\ntoo late."
                             ]
                         },
                         {
@@ -9852,7 +8963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>言われなくても……っ！"
+                                "\\N<Segi>I will...!"
                             ]
                         },
                         {
@@ -9984,7 +9095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は、はあ……あ……あ……っ。"
+                                "\\N<Segi>Ha, haa... ah... ah...!"
                             ]
                         },
                         {
@@ -10001,14 +9112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>動くなよ？妙な真似をしたら可愛い息子は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タダんじゃすまねえからな？"
+                                "\\N<Subordinate Of Zeda>Don't move, alright? If you try anything funny, your pretty\nson won't get off so easily."
                             ]
                         },
                         {
@@ -10025,7 +9129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わ、判ったわ……判った……から……。"
+                                "\\N<Segi>I, I understand... I understand... so..."
                             ]
                         },
                         {
@@ -10054,14 +9158,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>オラ、ボウズ。こっちだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかり歩きな、ママが迎えに来てくれたんだぜ？へへ。"
+                                "\\N<Subordinate Of Zeda>Hey, kid. This way. Walk properly now, your mom has come to\npick you up, heh heh."
                             ]
                         },
                         {
@@ -10090,7 +9187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>マ、ママ……。"
+                                "\\N<Riia>M-Mom..."
                             ]
                         },
                         {
@@ -10107,14 +9204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そうよリイア……ママよ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、大丈夫……？怪我してない……？"
+                                "\\N<Segi>Th-that's right Riia... It's Mom... Are you okay...? Are you\nhurt...?"
                             ]
                         },
                         {
@@ -10184,14 +9274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>は、はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "き、来て……くれた……の？"
+                                "\\N<Riia>Ha, haa... haah... you came... for me?"
                             ]
                         },
                         {
@@ -10208,14 +9291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>勿論……ママ、あなたの為なら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ど、どこへだって飛んで行くんだから……。"
+                                "\\N<Segi>Of course... Mom would fly anywhere for you..."
                             ]
                         },
                         {
@@ -10239,14 +9315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "漸くの対面を、考え得る最悪の結末で果たす親子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが今の二人の姿と言えた。"
+                                "The long-awaited reunion of parent and child was met with\nthe worst possible outcome. That was the sight of the two of\nthem now."
                             ]
                         },
                         {
@@ -10263,21 +9332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "傷付き、その身体を男達に組み伏せられた母。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしてその身に纏う見慣れぬ淫靡な黒い衣装。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その異様な母の姿にリイアの眼は釘付けになる。"
+                                "The mother, wounded and pinned down by the men, and the\nunfamiliar lewd black outfit she was clad in. Riia's eyes\nwere fixated on the bizarre sight of his mother."
                             ]
                         },
                         {
@@ -10301,7 +9356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……で、でも……そ、その……。"
+                                "\\N<Riia>Mom... but... that..."
                             ]
                         },
                         {
@@ -10318,14 +9373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>リイア……だ、大丈夫……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから下を向かない……で？ママなら大丈夫だから……。"
+                                "\\N<Segi>Riia... it's okay... so don't look down, okay? Mom's fine..."
                             ]
                         },
                         {
@@ -10342,7 +9390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -10359,14 +9407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>嘘じゃないわ、ほら……ママの顔見て、ね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何とも無いから。だから心配しないで。"
+                                "\\N<Segi>It's not a lie, look... at Mom's face, see? I'm not hurt. So\ndon't worry."
                             ]
                         },
                         {
@@ -10390,14 +9431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>お願い……リイアを離して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その子は何の関係も無いでしょう……？"
+                                "\\N<Segi>Please... let Riia go. He has nothing to do with this,\nright...?"
                             ]
                         },
                         {
@@ -10414,14 +9448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>どうするかはコッチが決めるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前が指図するんじゃねえよ。"
+                                "\\N<Subordinate Of Zeda>We'll decide what to do. It's not for you to tell us."
                             ]
                         },
                         {
@@ -10445,14 +9472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "息子には届かぬ様なか細く消え入りそうな声で、セギは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男達に懇願する。"
+                                "In a voice so faint it seemed it wouldn't reach her son,\nSegi pleaded with the men."
                             ]
                         },
                         {
@@ -10469,14 +9489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは今彼女に出来る、精一杯の事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "息子を守る為の最大限の努力と言えた。"
+                                "It was the most she could do right now. The greatest effort\nto protect her son."
                             ]
                         },
                         {
@@ -10500,14 +9513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あなた達の狙いはあの子では無いのでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だったらもう……もういいでしょう……？"
+                                "\\N<Segi>Your target isn't that child, is it? So then... that's\nenough, isn't it...?"
                             ]
                         },
                         {
@@ -10524,14 +9530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>これ以上……あ、あの子を傷付けても……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなた達には何の得も……っ。"
+                                "\\N<Segi>Any more than this... hurting that child won't... give you\nany benefit..."
                             ]
                         },
                         {
@@ -10601,7 +9600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>う……っ！？"
+                                "\\N<Segi>Uh...!?"
                             ]
                         },
                         {
@@ -10618,7 +9617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……ママ……っ。"
+                                "\\N<Riia>...Mom..."
                             ]
                         },
                         {
@@ -10642,14 +9641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セギの懇願を嘲笑うかの様に、男達は彼女の肢体を息子の前"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で弄び始める。"
+                                "As if mocking Segi's pleas, the men began to toy with her\nbody in front of her son."
                             ]
                         },
                         {
@@ -10673,7 +9665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……う……っくっ！？"
+                                "\\N<Segi>Ahh... uh... ack!?"
                             ]
                         },
                         {
@@ -10690,21 +9682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>後はもうヤられるだけの存在……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俎板の上の鯉が精一杯の虚勢張るんじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺はそう言うのが1番腹立つんだよ。"
+                                "\\N<Subordinate Of Zeda>You're just a thing to be screwed now, like a carp on a\nchopping board trying to bluff. That pisses me off the most."
                             ]
                         },
                         {
@@ -10721,7 +9699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判った、判ったから……。"
+                                "\\N<Segi>...Understood, I understand so..."
                             ]
                         },
                         {
@@ -10738,21 +9716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わ、わたしの事は好きにすればいい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたの言う様に……い、今のわたしにあなた達を排除する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "力なんて……残っていない……もの。"
+                                "\\N<Segi>Do as you like with me... as you say... I don't have the\nstrength to fight you off anymore..."
                             ]
                         },
                         {
@@ -10769,14 +9733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>抵抗なんてしない……約束するわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、だからお願い……あ、あの子だけは……。"
+                                "\\N<Segi>I won't resist... I promise. So please... just leave that\nchild alone..."
                             ]
                         },
                         {
@@ -10834,7 +9791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……っ！？"
+                                "\\N<Segi>Nngh...!?"
                             ]
                         },
                         {
@@ -10851,21 +9808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>格好付けんなって。全くこんなもんぶら下げてノコノコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出向いて来て、それで万事窮したら可愛い息子の前でだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "格好付けようなんざ甘いんだよ。"
+                                "\\N<Subordinate Of Zeda>Don't try to act tough. You come here with that thing\nhanging from you and when things get tough, you try to look\ngood in front of your cute son? That's naive."
                             ]
                         },
                         {
@@ -10882,7 +9825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -10899,7 +9842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>へ、平気よ？ママなら……大丈夫だから。"
+                                "\\N<Segi>It's okay, right? Mom's fine..."
                             ]
                         },
                         {
@@ -10916,7 +9859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>で、でも……。"
+                                "\\N<Riia>But..."
                             ]
                         },
                         {
@@ -10952,7 +9895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……っ。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -10976,14 +9919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "母親の元へ歩を進めようとするリイアに対し、男は彼の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "喉元に凶刃を突き付ける。"
+                                "As Riia tried to walk towards his mother, the man pressed a\nwicked blade to his throat."
                             ]
                         },
                         {
@@ -11007,21 +9943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>おっとボウス、動くなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妙な真似したらボウズの大事なママの綺麗な身体が傷だらけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "になっちまうぜえ？"
+                                "\\N<Subordinate Of Zeda>Whoa there, kid, don't move. If you try anything funny, your\nprecious mom's pretty body will be covered in wounds, got\nit?"
                             ]
                         },
                         {
@@ -11038,14 +9960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ま、待って……お願い……お願いだから……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "て、抵抗しないと言っているでしょう……？"
+                                "\\N<Segi>Wait... please... I'm begging you... I said I won't resist,\ndidn't I...?"
                             ]
                         },
                         {
@@ -11062,7 +9977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だ、だからせめて……息子の見えない所で……。"
+                                "\\N<Segi>So at least... do it where my son can't see..."
                             ]
                         },
                         {
@@ -11120,7 +10035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……ん……っ！？"
+                                "\\N<Segi>Ahh... nngh...!?"
                             ]
                         },
                         {
@@ -11137,21 +10052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>駄目だね、お前はこれから息子の前で犯されて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番見せたくない痴態を晒すのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが俺達に楯突いたバツって訳だ。"
+                                "\\N<Subordinate Of Zeda>No way. You're going to be violated in front of your son and\nshow him the shameful sight you never wanted him to see.\nThat's the punishment for defying us."
                             ]
                         },
                         {
@@ -11168,14 +10069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そんな……お願い……あなた達の言う通りにするわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから……せめて息子の前でだけは……っ。"
+                                "\\N<Segi>Please... I'll do as you say. So at least in front of my\nson..."
                             ]
                         },
                         {
@@ -11192,21 +10086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>駄目だって言ってんだろ？聴こえなかったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いい機会じゃねえか、息子の前だからって気取らずに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンポ突っ込まれてみっともなく喘ぐ様を見せてやれよ？"
+                                "\\N<Subordinate Of Zeda>I said no, didn't you hear? This is a good opportunity.\nDon't put on airs just because it's in front of your son,\nshow him how you gasp pathetically with a cock inside you."
                             ]
                         },
                         {
@@ -11223,21 +10103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "眼の前で母親がこれだけの人数に犯されるトコなんざ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中々お目にかかれねえぞ？将来の為になるかもなあ？"
+                                "\\N<Subordinate Of Zeda>Hehe, that's right. It's not often you get to see your\nmother being fucked by this many men right before your eyes.\nMight be educational for your future, huh?"
                             ]
                         },
                         {
@@ -11254,14 +10120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ぎゃははっ！為になんざなるかよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心にそれはそれはふか～い傷が刻まれるだけだわ！"
+                                "\\N<Subordinate Of Zeda>Gyahaha! Educational my ass! It'll only carve a deep, deep\nwound in his heart!"
                             ]
                         },
                         {
@@ -11278,7 +10137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -11295,14 +10154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>へ、平気……ママなら……大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、だから……そ、そんな顔しないで……？"
+                                "\\N<Segi>It's okay... Mom's fine. So... don't make such a face..."
                             ]
                         },
                         {
@@ -11338,7 +10190,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でもリイア……せめて……せめて……。"
+                                "\\N<Segi>But Riia... at least... at least..."
                             ]
                         },
                         {
@@ -11362,14 +10214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>マ、ママの姿が見え無い様に……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目を……閉じていてくれる……かな……？"
+                                "\\N<Segi>Make sure you can't see Mom's figure... close your eyes for\nme, will you...?"
                             ]
                         },
                         {
@@ -11519,7 +10364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……はあっ！ん……ああ……！"
+                                "\\N<Segi>Ahh... hah! Nngh... ah...!"
                             ]
                         },
                         {
@@ -11536,14 +10381,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ふふ……やっぱイイねえ、こう言う状況は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンタもそう思うだろ？息子の前でなんて燃えちゃうよねえ。"
+                                "\\N<Zeda>Heh heh... I gotta say, situations like this are the best.\nDon't you think so? Getting all fired up because it's in\nfront of your son."
                             ]
                         },
                         {
@@ -11567,14 +10405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "息子の前で犯される痴態を晒すセギに対し、ツェダはその"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "光景を満足そうに眺めながらそう宣った。"
+                                "As Segi was exposed being violated in front of her son, Zeda\nlooked on with satisfaction and declared as much."
                             ]
                         },
                         {
@@ -11610,14 +10441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……っ！だ、だめ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "リイア……み、見ちゃ……ん……ああ……！"
+                                "\\N<Segi>Nn...! No...! Riia... don't look... ah...!"
                             ]
                         },
                         {
@@ -11634,14 +10458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へ、へへ……！オラ！息子が見てんぞ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりマンコ締めやがれっ！"
+                                "\\N<Subordinate Of Zeda>Heh, heh...! Hey! Your son's watching! Tighten up that\npussy!"
                             ]
                         },
                         {
@@ -11658,7 +10475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -11682,14 +10499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この異常な光景を前にリイアは膝を抱え、顔を埋める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは先程の母の言葉を堅守している様にも見えた。"
+                                "In front of this abnormal scene, Riia hugged his knees and\nburied his face. It seemed like he was firmly adhering to\nhis mother's earlier words."
                             ]
                         },
                         {
@@ -11713,7 +10523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -11730,14 +10540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へ、まあそう塞ぎ込むなよ、ボウズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっき母ちゃんも言ってたろ、顔を上げろってよ？"
+                                "\\N<Subordinate Of Zeda>Hey, don't be so down, kid. Didn't your mom tell you to lift\nyour face up?"
                             ]
                         },
                         {
@@ -11754,21 +10557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ああ、それと誤解すんなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達は母ちゃんの事虐めてる訳でも、ひでぇ事してる訳でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ねえからな？"
+                                "\\N<Subordinate Of Zeda>Ah, and don't get me wrong, okay? We're not bullying your\nmom or doing anything terrible to her."
                             ]
                         },
                         {
@@ -11785,21 +10574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ホレその証拠に見ろよ、お前の母ちゃんの顔。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悦んでるんだぜ、アレ。女はよ、ああされると悦ぶのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勿論お前の母ちゃんも同じさ。"
+                                "\\N<Subordinate Of Zeda>Look, as proof, take a look at your mom's face. She's\nenjoying it, see? Women get pleasure from this kind of\nthing. Of course, your mom's no different."
                             ]
                         },
                         {
@@ -11816,7 +10591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -11840,7 +10615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>どう？イイ感じかい？"
+                                "\\N<Zeda>How is it? Feeling good?"
                             ]
                         },
                         {
@@ -11857,14 +10632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>は、はいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へへ……お、俺、ツェダ様に付いて来て良かった……！"
+                                "\\N<Subordinate Of Zeda>Yes, sir! Heh heh... I'm so glad I followed Lord Zeda...!"
                             ]
                         },
                         {
@@ -11881,7 +10649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>あはは、それは良かった。"
+                                "\\N<Zeda>Ahaha, that's good to hear."
                             ]
                         },
                         {
@@ -11910,7 +10678,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あんっ！あっ！ん……ああ……！"
+                                "\\N<Segi>Ahn! Ah! Nn... ah..."
                             ]
                         },
                         {
@@ -11927,21 +10695,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ねえ、セギちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今思えば俺達はこうなる運命だったのかもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "情熱的に愛し合ったもんねえ？"
+                                "\\N<Zeda>Hey, Segi-chan? Looking back now, maybe it was fate that we\nended up like this. We did make passionate love, didn't we?"
                             ]
                         },
                         {
@@ -11999,7 +10753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ふ……あっ！？"
+                                "\\N<Segi>Fu... Ah!?"
                             ]
                         },
                         {
@@ -12016,14 +10770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>でもまあ……心残りと言えばアンタを孕ませられなかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事かな。それに一緒に居られたのも僅か数日だったしね。"
+                                "\\N<Zeda>But if there's one thing I regret... it's that I couldn't\nimpregnate you. And that we could only be together for a few\ndays."
                             ]
                         },
                         {
@@ -12040,14 +10787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>でも……今度は違う。時間は山程有る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心ゆくまで愛し合えるねえ？"
+                                "\\N<Zeda>But... this time it's different. We have all the time in the\nworld. We can love each other to our heart's content, right?"
                             ]
                         },
                         {
@@ -12076,7 +10816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……ううっ！"
+                                "\\N<Segi>Haa... ah... ugh!"
                             ]
                         },
                         {
@@ -12093,14 +10833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>そうだ、ゆくゆくはここにいる全員の子供産んでみるとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "面白そうじゃない？正に仲間は全員家族の様な繋がりってね。"
+                                "\\N<Zeda>Right, how about this for an idea? Eventually, you could try\nbearing children for everyone here. It would be like we're\nall one big family."
                             ]
                         },
                         {
@@ -12129,14 +10862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あんっ！は……ああ……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたしは……どうなってもいい……から……！"
+                                "\\N<Segi>Ahn! Ha... ah...! I... I don't care what happens to me...\nbut...!"
                             ]
                         },
                         {
@@ -12153,14 +10879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あの……あの子だけは……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、それが……わ、わたしとユイア様とのや、約束……！"
+                                "\\N<Segi>Please... that child alone...! That's... the promise between\nme and Lord Yuia...!"
                             ]
                         },
                         {
@@ -12177,21 +10896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>やだよ、そんな義理無いものねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ユイアサマとか約束とか知らないし、それに下手に助けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後々母の無念とか言って復讐とかされてもイヤだしね。"
+                                "\\N<Zeda>Nah, I don't owe you any favors. I don't know anything about\nLord Yuia or any promises, and besides, I wouldn't want to\nsave him now only to have him seek revenge later for his\nmother's grievances."
                             ]
                         },
                         {
@@ -12208,7 +10913,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>お、お願い……あの子だけは……ぁぁ……！"
+                                "\\N<Segi>Please... just spare that child alone... ah...!"
                             ]
                         },
                         {
@@ -12225,21 +10930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>うーん……全く母親ってのは凄いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "判った判った、そこまで言うならその意思に免じてあの子に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手出しはしないと誓うよ。"
+                                "\\N<Zeda>Hmm... mothers really are amazing. Alright, alright, since\nyou insist so much, I swear I won't lay a hand on that kid\nin honor of your wishes."
                             ]
                         },
                         {
@@ -12268,7 +10959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は……ん……あ……ううっ！"
+                                "\\N<Segi>Ha... nn... ah... ugh!"
                             ]
                         },
                         {
@@ -12302,7 +10993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……んっ！は……ああ……っ！"
+                                "\\N<Segi>Ah... nn! Ha... ah...!"
                             ]
                         },
                         {
@@ -12319,21 +11010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>にしてもアレだな、お前の母ちゃんいい身体してんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレじゃさぞ色んな男とヤリまくりだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へへ、俺もその一人だけどな。"
+                                "\\N<Subordinate Of Zeda>But seriously, your mom's got a nice body. With that figure,\nshe must've been screwing all sorts of men, right? Heh heh,\nI'm one of them now too."
                             ]
                         },
                         {
@@ -12350,7 +11027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -12367,14 +11044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ああ、俺は今順番待ちしてんのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "順番待ち、判るか？"
+                                "\\N<Subordinate Of Zeda>Ah, I'm just waiting my turn right now. Waiting my turn, you\nget it?"
                             ]
                         },
                         {
@@ -12391,14 +11061,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>にしても惜しいなあ、ボウズも他人だったらあの身体で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愉しめたのに。残念だな、母親じゃなあ？"
+                                "\\N<Subordinate Of Zeda>It's a shame though, if you weren't her son, you could've\nenjoyed that body too. Too bad she's your mom, huh?"
                             ]
                         },
                         {
@@ -12415,21 +11078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>それかボウズが女だったらなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしたらもっと愉しめたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生憎俺にはソッチの趣味はねえからな、へへ。"
+                                "\\N<Subordinate Of Zeda>Or if you were a girl. Then it would've been even more fun.\nUnfortunately for me, I'm not into that sort of thing, heh\nheh."
                             ]
                         },
                         {
@@ -12446,7 +11095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -12463,14 +11112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>っと、俺の番が来たらしいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ行って来るわ、もうチンコはち切れそうなんだよ。"
+                                "\\N<Subordinate Of Zeda>Oh, looks like it's my turn. I'll be going then; my dick is\nabout to burst."
                             ]
                         },
                         {
@@ -12528,14 +11170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>おいおい、何だよ？まだ突っ込んでんのかよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうイったんだろ、早く代われよな。"
+                                "\\N<Subordinate Of Zeda>Hey hey, what's this? You're still going at it? You've\nalready come, right? Hurry up and switch with me."
                             ]
                         },
                         {
@@ -12552,7 +11187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ま、待てよ……まだ……まだもう少し……っ！"
+                                "\\N<Subordinate Of Zeda>Wait... just a little longer...!"
                             ]
                         },
                         {
@@ -12569,14 +11204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、何もそんなに必死に最後の一滴迄出し尽くさなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もイイだろうに。"
+                                "\\N<Subordinate Of Zeda>Heh heh, you don't have to be so desperate to squeeze out\nevery last drop."
                             ]
                         },
                         {
@@ -12593,7 +11221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は……ああ……っ！うう……ぁぁ……っ！"
+                                "\\N<Segi>Ha... ah...! Ugh... ah...!"
                             ]
                         },
                         {
@@ -12696,14 +11324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>ほら……こっち、こっち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呆けてねえでしっかりしな、母親なんだろ？"
+                                "\\N<Zeda>Hey... over here, over here. Don't space out on me now;\nyou're a mother, aren't you?"
                             ]
                         },
                         {
@@ -12720,7 +11341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……ぁぁ……あ……。"
+                                "\\N<Segi>Ah... ah... ah..."
                             ]
                         },
                         {
@@ -12848,7 +11469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……うう……あ……。"
+                                "\\N<Segi>Ah... ugh... ah..."
                             ]
                         },
                         {
@@ -12865,14 +11486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>へへ、どうだボウズ？ママ綺麗だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この中の誰の赤ん坊孕んだか、ボウスも賭けるか？"
+                                "\\N<Zeda>Hehe, how about it, boy? Your mom's beautiful, isn't she?\nWanna bet on whose baby she's carrying?"
                             ]
                         },
                         {
@@ -12889,7 +11503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>う……う………。"
+                                "\\N<Segi>Ugh... ugh..."
                             ]
                         },
                         {
@@ -12906,7 +11520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -12923,21 +11537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>へへ、じゃあ最後のお別れ言いな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今生の別れになるかも知れないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お互い悔いの無い様にな？"
+                                "\\N<Zeda>Hehe, then say your last goodbyes. It might be the final\nfarewell in this life. Let's make sure we have no regrets,\nshall we?"
                             ]
                         },
                         {
@@ -12954,7 +11554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>リ、リイ……ア……。"
+                                "\\N<Segi>Ri... Riia..."
                             ]
                         },
                         {
@@ -12971,7 +11571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>マ、ママ……。"
+                                "\\N<Riia>Ma... Mama..."
                             ]
                         },
                         {
@@ -12988,14 +11588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ご、ごめん……ごめんね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、駄目なママで……ご、ごめん……ね……？"
+                                "\\N<Segi>I'm sorry... I'm so sorry... for being such a failure as a\nmother... I'm sorry... okay?"
                             ]
                         },
                         {
@@ -13012,21 +11605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ママ……あ、あなたを守れたかし……ら……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じ、自信も無いし……わ、判らないけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はそう信じるしか……な、無いの……。"
+                                "\\N<Segi>Mama... did I manage to protect you... I'm not sure... I\ndon't know, but... now I can only believe that I did..."
                             ]
                         },
                         {
@@ -13043,14 +11622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だ、だって……もうママが……あ、あなたにしてあげられる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事は無さそうだから……。"
+                                "\\N<Segi>Because... it seems like there's nothing more mama can do\nfor you now..."
                             ]
                         },
                         {
@@ -13067,7 +11639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -13137,7 +11709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あ……ひ……ぃぃ……っ。"
+                                "\\N<Segi>Ah, ah... hi... iiii...!"
                             ]
                         },
                         {
@@ -13154,21 +11726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、聞いたかよ、今の情けねえ声。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オラ、ボウズ。ママが精子垂れ流しながら謝ってんぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か応えてやれよ？"
+                                "\\N<Subordinate Of Zeda>Hehe, did you hear that pathetic voice? Hey, boy. Your mama\nis apologizing while dripping with cum. Why don't you say\nsomething back?"
                             ]
                         },
                         {
@@ -13185,7 +11743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -13202,14 +11760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ごめんね……リイア、ごめんね……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな……こんなママを……ゆ、許して……。"
+                                "\\N<Segi>I'm sorry... Riia, I'm so sorry... for being such a... such\na mother... please, forgive me..."
                             ]
                         },
                         {
@@ -13226,14 +11777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ、あや……謝って……も……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆ、許して貰える……なんて……お、思っていない……わ。"
+                                "\\N<Segi>I'm apologizing... but... I don't expect you to forgive\nme... for this."
                             ]
                         },
                         {
@@ -13250,14 +11794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……もう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今のママに……は……こ、これ……し……か……。"
+                                "\\N<Segi>But... now... this is all that mama can do..."
                             ]
                         },
                         {
@@ -13274,7 +11811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -13291,7 +11828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ご、ごめ……ごめ……リイ……ア……。"
+                                "\\N<Segi>I'm sorry... so sorry... Riia..."
                             ]
                         },
                         {
@@ -13327,7 +11864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>ツェダ様、アイツ本当に連れて行くんですか？"
+                                "\\N<Subordinate Of Zeda>Lord Zeda, are you really going to take that one with us?"
                             ]
                         },
                         {
@@ -13344,14 +11881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>まさか、手出ししないって言っただけさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他人の子供の生死なんかどうでもいいよ。"
+                                "\\N<Zeda>Of course, I only said I wouldn't lay a hand on him. The\nlife or death of someone else's child is none of my concern."
                             ]
                         },
                         {
@@ -13368,21 +11898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>成程、そう言う事ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし……ここへ置き去りにしたと知ったらあの女が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激昂しませんか？"
+                                "\\N<Subordinate Of Zeda>I see, so that's how it is. But won't that woman rage if she\nfinds out we left him here?"
                             ]
                         },
                         {
@@ -13399,14 +11915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>平気さ、多分その前に壊れるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうなる迄可愛がってやるんだろ？"
+                                "\\N<Zeda>No worries, she'll probably break before that happens.\nYou're going to pamper her until then, right?"
                             ]
                         },
                         {
@@ -13423,7 +11932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ……それはもう。"
+                                "\\N<Subordinate Of Zeda>Hehe... you bet."
                             ]
                         },
                         {
@@ -13440,21 +11949,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダ>せいぜい試してみようぜ、子を思う母の愛ってのをさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ怒るなら怒るでそれも楽しそうじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう言う女を屈服させるのもさ。"
+                                "\\N<Zeda>Let's test the extent of a mother's love for her child. If\nshe gets angry, that could be fun too, right? Subduing such\na woman is also part of it."
                             ]
                         },
                         {
@@ -13471,7 +11966,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ツェダの配下>へへ、仰る通りで。"
+                                "\\N<Subordinate Of Zeda>Hehe, as you say."
                             ]
                         },
                         {
@@ -13688,7 +12183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダ>行って助けてやるといいよ……手遅れにならない内にね。"
+                                "\\N<Zeda>Go and help them... before it's too late."
                             ]
                         },
                         {
@@ -14127,14 +12622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイアは奥の部屋だわ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "グズグズしている暇なんて無い……っ！"
+                                "\\N<Segi>Riia is in the back room...! There's no time to dawdle...!"
                             ]
                         },
                         {

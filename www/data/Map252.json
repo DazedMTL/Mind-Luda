@@ -2089,14 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの育成機関である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無くば無駄な嫌疑がかかる前に立ち去る事だ。"
+                                "\\N<Ryuda Soldier>This is the training institution of Ryuda. If you have no\nbusiness here, leave before unnecessary suspicion falls upon\nyou."
                             ]
                         },
                         {
@@ -2245,14 +2238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>見てわかんないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強中なんだ、話しかけないでよ……。"
+                                "\\N<Ryuda Soldier>Can't you see? I'm studying right now, don't talk to me..."
                             ]
                         },
                         {
@@ -2329,21 +2315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>わたしのパパは練兵会で戦ってるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまだいいけどさ、もしも負けちゃったりしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやママはどうなるんだろう……。"
+                                "\\N<Ryuda Soldier>My dad is fighting in the training troops... It's still okay\nfor now, but I wonder what will happen to me and mom if he\never loses..."
                             ]
                         },
                         {
@@ -2420,14 +2392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>僕は何のためにここに通ってるんだろう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイになるため？それとも……。"
+                                "\\N<Ryuda Soldier>What am I even doing here... Is it to become a Ryuda\nsoldier? Or maybe..."
                             ]
                         },
                         {
@@ -2504,14 +2469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だれ……？用が無いなら向こうへ行ってよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイに見られたくないんだ。"
+                                "\\N<Ryuda Soldier>Who...? If you have no business, please go over there. I\ndon't want to be seen by the Ryuda soldiers."
                             ]
                         },
                         {
@@ -2588,14 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここでは街の子供達が学んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前は純粋な学問所でしたが……。"
+                                "\\N<Man>Here is where the children of the town learn. It used to be\na pure place of study, but..."
                             ]
                         },
                         {
@@ -2693,7 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>どうしたの、ママ。こんな所に……。"
+                                "\\N<Riia>What's wrong, Mom? Why are you here in a place like this..."
                             ]
                         },
                         {
@@ -2717,14 +2668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>お迎えに来たの。偶にはいいでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともやっぱり恥ずかしい？"
+                                "\\N<Segi>I came to pick you up. It's fine once in a while, isn't it?\nOr are you perhaps embarrassed?"
                             ]
                         },
                         {
@@ -2748,14 +2692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>べ、別にそんなコトないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラメちゃんに見られたらとか思ってないし……。"
+                                "\\N<Riia>No, it's not like that. I just wasn't thinking about being\nseen by Rame-chan or anything..."
                             ]
                         },
                         {
@@ -2779,7 +2716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふふ、じゃあ帰りましょう？"
+                                "\\N<Segi>Hehe, then shall we go home?"
                             ]
                         },
                         {
@@ -2827,7 +2764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ダメだよ、おばさん。ここから先は通行禁止だよ。"
+                                "\\N<Fubii>No can do, lady. This area is off-limits from here on."
                             ]
                         },
                         {
@@ -2844,7 +2781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>フービィ……。"
+                                "\\N<Segi>Fubii..."
                             ]
                         },
                         {
@@ -2901,7 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……何の真似なの？そこを退いて頂戴。"
+                                "\\N<Segi>...What are you imitating? Please move aside."
                             ]
                         },
                         {
@@ -2925,21 +2862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フービィと取り巻き達がセギとリイアの行く手を阻む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リーダーであるフービィをはじめ、取り巻き全員が年齢に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そぐわぬ不敵な笑みを浮かべていた。"
+                                "Fubii and his entourage block the way for Segi and Riia.\nFubii, the leader, along with all his followers, wore\nunnervingly mischievous smiles that didn't suit their ages."
                             ]
                         },
                         {
@@ -2963,14 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>何ってそりゃあさ、態々おばさんを迎えに来てあげたに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決まってんじゃん。"
+                                "\\N<Fubii>What do you mean 'what'? Obviously, I came all this way to\npick you up."
                             ]
                         },
                         {
@@ -2987,14 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あなたに迎えられる謂れは無いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度言うわ……そこを退いて。"
+                                "\\N<Segi>I have no reason to be picked up by you. I'll say it\nagain... move aside."
                             ]
                         },
                         {
@@ -3011,7 +2920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そんな薄情な事言わないでさ、一緒に行こうよ。"
+                                "\\N<Fubii>Don't say such cold things. Let's go together."
                             ]
                         },
                         {
@@ -3028,14 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あなた達と一緒に何処へ行くと言うの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体こんな事して何のつもりか知らないけれど……お断りよ。"
+                                "\\N<Segi>Go together where with you guys? I don't know what you're\ntrying to do with all this... but I refuse."
                             ]
                         },
                         {
@@ -3052,14 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>フービィ！な、何のマネさ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何のことだかわからないケドしつこいよっ！"
+                                "\\N<Riia>Fubii! Wha-what are you imitating?! I don't know what you're\ntalking about, but you're being persistent!"
                             ]
                         },
                         {
@@ -3083,7 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見かねたリイアがセギとフービィの間に割って入る。"
+                                "An exasperated Riia steps in between Segi and Fubii."
                             ]
                         },
                         {
@@ -3107,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>何の事だかわからなけりゃ黙ってろよ、リイア。"
+                                "\\N<Fubii>If you don't know what I'm talking about, then shut up,\nRiia."
                             ]
                         },
                         {
@@ -3124,7 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>っ……！！"
+                                "\\N<Riia>...!!"
                             ]
                         },
                         {
@@ -3141,14 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>それに……いいんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさん……お前のママとボクは付き合ってるんだから。"
+                                "\\N<Fubii>Besides... it's okay. Lady... your mom and I are dating."
                             ]
                         },
                         {
@@ -3165,7 +3053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ！！？？"
+                                "\\N<Segi>...!!??"
                             ]
                         },
                         {
@@ -3182,7 +3070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>え……！？"
+                                "\\N<Riia>Eh...!?"
                             ]
                         },
                         {
@@ -3199,14 +3087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>わかる？恋人同士って事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好き同士っ言った方がお前にはわかりやすいかな？"
+                                "\\N<Fubii>You get it? We're lovers. Maybe 'in love with each other' is\neasier for you to understand?"
                             ]
                         },
                         {
@@ -3223,14 +3104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>す、好き同士……？な、何言ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな筈ないよね？だってママはパパが好きなんだもんね？"
+                                "\\N<Riia>In love with each other...? What are you talking about? That\ncan't be right, right? Because Mom loves Dad, right?"
                             ]
                         },
                         {
@@ -3247,7 +3121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……勿論よ、恋人同士なんて冗談に決まってるわ。"
+                                "\\N<Segi>...Of course. The lovers thing is obviously a joke."
                             ]
                         },
                         {
@@ -3264,14 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ええ？違ったの？じゃあおばさんは付き合ってもいない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に跨って腰振る淫乱って事になるケド？"
+                                "\\N<Fubii>Eh? That's not it? So, lady, are you saying you're a nympho\nwho straddles and grinds on a man you're not even dating?"
                             ]
                         },
                         {
@@ -3288,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ……！！"
+                                "\\N<Segi>...!!"
                             ]
                         },
                         {
@@ -3305,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>インラン……？ど、どう言う……コト……？"
+                                "\\N<Riia>Nympho...? What do you mean...?"
                             ]
                         },
                         {
@@ -3329,21 +3196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フービィの言わんとする事がセギの頭を過る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瞬間、僅かな動揺を感じリイアの小さな手を握る自身の手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力が籠った。"
+                                "What Fubii was implying passed through Segi's mind. In an\ninstant, she felt a slight disturbance and gripped Riia's\nsmall hand tighter."
                             ]
                         },
                         {
@@ -3367,7 +3220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3384,14 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>あはは、フービィの行った事は本当さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって俺たちこの目で見たんだもん。"
+                                "\\N<Boy>Ahaha, what Fubii did was true. After all, we saw it with\nour own eyes."
                             ]
                         },
                         {
@@ -3408,21 +3254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>なあ、リイア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前のママはフービィの事が好きなんだってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからさ、お前も早く認めて親ばなれしろよな？"
+                                "\\N<Boy>Right, Riia? Your mom likes Fubii. So come on, accept it and\ngrow up already, will ya?"
                             ]
                         },
                         {
@@ -3439,14 +3271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いい加減にして頂戴……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息子の前でタチの悪い嘘を吐かないで……っ！"
+                                "\\N<Segi>Enough already...! Don't tell such nasty lies in front of my\nson...!"
                             ]
                         },
                         {
@@ -3505,7 +3330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……っ！！？？"
+                                "\\N<Segi>Eh...!!??"
                             ]
                         },
                         {
@@ -3522,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>マ、ママっ！！"
+                                "\\N<Riia>Mom...!!"
                             ]
                         },
                         {
@@ -3539,7 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……やめなさいっ！手を離してっ！"
+                                "\\N<Segi>Stop... stop it! Let go of me!"
                             ]
                         },
                         {
@@ -3563,21 +3388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取り巻きの内の一人がセギの背後からそっと近付き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その着衣を捲り上げる。露わになった下着を見詰めて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "取り巻きの少年ははしゃぐ様に叫んだ。"
+                                "One of the followers quietly approached Segi from behind and\nlifted her clothes. Staring at the exposed underwear, the\nboy shouted excitedly as if he was having fun."
                             ]
                         },
                         {
@@ -3601,14 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>あはは、あの時見たまんまだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フービィの前でパンツ脱いでたもんね、おばさん。"
+                                "\\N<Boy>Ahaha, just like when we saw it before. You were taking off\nyour panties in front of Fubii, lady."
                             ]
                         },
                         {
@@ -3625,7 +3429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんな事……っ！"
+                                "\\N<Segi>That's not...!"
                             ]
                         },
                         {
@@ -3642,7 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ウソつかないでよお？ね？ボク見たんだよ？"
+                                "\\N<Boy>Don't lie, okay? Right? I saw it!"
                             ]
                         },
                         {
@@ -3659,7 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！？？"
+                                "\\N<Segi>Ugh...!!??"
                             ]
                         },
                         {
@@ -3676,14 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ねえ、フービィ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんのパンツもらってもイイ？"
+                                "\\N<Boy>Hey, Fubii. Can I have the lady's panties?"
                             ]
                         },
                         {
@@ -3700,21 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、そんなモノどうする気さ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持ち帰って飾ったりするつもり？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、いいさ。やるよ、持って行きな。"
+                                "\\N<Fubii>Ahaha, what are you going to do with them? Take them home\nand display them? Well, sure. Go ahead, take them."
                             ]
                         },
                         {
@@ -3731,7 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>へへ……やった！"
+                                "\\N<Boy>Hehe... I did it!"
                             ]
                         },
                         {
@@ -3801,7 +3584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>きや……っ！？"
+                                "\\N<Segi>No...!"
                             ]
                         },
                         {
@@ -3825,21 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フービィの許可と同時に少年はセギの下着を引き摺り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "降ろそうと力任せに引っ張る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギはそれを止めようと必死に下着を握る手に力を込めた。"
+                                "As soon as Fubii gave permission, the boy forcefully pulled\ndown Segi's underwear. Segi desperately gripped her panties,\ntrying to stop him."
                             ]
                         },
                         {
@@ -3863,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何を……ち、ちょっと……ま、待ちなさいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "離しなさい……離してっ！"
+                                "\\N<Segi>What are you... wait... wait a minute! Let go... let go of\nme!"
                             ]
                         },
                         {
@@ -3887,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ヤダよ、僕コレ持って帰るんだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへ、フービィがイイって言ったからね。"
+                                "\\N<Boy>No way, I'm taking these home with me. Hehe, Fubii said it's\nokay."
                             ]
                         },
                         {
@@ -3911,7 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いい筈が無いでしょう……！？早く離してっ！"
+                                "\\N<Segi>There's no way that's okay...! Let go of me now!"
                             ]
                         },
                         {
@@ -3928,14 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>おばさんこそ手はなせよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないとこのパンツ持って帰れないじゃないか。"
+                                "\\N<Boy>You should let go, lady. Otherwise, I can't take these\npanties home, can I?"
                             ]
                         },
                         {
@@ -3952,7 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～っ！！"
+                                "\\N<Segi>~~~!!"
                             ]
                         },
                         {
@@ -3969,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>や、やめろよっ！さ、さっきから何を……っ！"
+                                "\\N<Riia>Stop it! What have you been doing since a while ago...!"
                             ]
                         },
                         {
@@ -3986,21 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だからイイんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクとおばさんは恋人なんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう言うのは恋人同士のトッケンってヤツさ。"
+                                "\\N<Fubii>That's why it's fine. The lady and I are lovers. This is\nwhat lovers do, it's a token of our affection."
                             ]
                         },
                         {
@@ -4017,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何を言って……！"
+                                "\\N<Segi>What are you talking about...!"
                             ]
                         },
                         {
@@ -4041,14 +3775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは下着を抑えたまま、目を瞑り歯を食いしばった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして何事か決意したかの様に口を開いた。"
+                                "Segi, still holding onto her underwear, closed her eyes and\nclenched her teeth. Then, as if she had made up her mind\nabout something, she opened her mouth."
                             ]
                         },
                         {
@@ -4072,14 +3799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>やめ……お、お願い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな所で変な事言うのはやめて……っ。"
+                                "\\N<Segi>Stop... please. Stop saying weird things in a place like\nthis..."
                             ]
                         },
                         {
@@ -4096,7 +3816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>んん？ならココじゃなきゃいいって事？"
+                                "\\N<Fubii>Hmm? So it's okay if it's not here?"
                             ]
                         },
                         {
@@ -4113,14 +3833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、判った……判ったから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何のつもりか知らないけれど、話だけは聴くから……。"
+                                "\\N<Segi>I understand... I get it. I don't know what you're planning,\nbut I'll at least listen to what you have to say..."
                             ]
                         },
                         {
@@ -4137,7 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、じゃあちょっと付き合ってよ。"
+                                "\\N<Fubii>Ahaha, then come with me for a bit."
                             ]
                         },
                         {
@@ -4154,7 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -4171,14 +3884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>リイアも聴いただろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうする？一緒に来るかい？それとも……。"
+                                "\\N<Fubii>Riia heard too, right? What will you do? Will you come with\nus? Or..."
                             ]
                         },
                         {
@@ -4195,14 +3901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待って！息子は関係ないでしょう！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしが行くって言っているんだから！"
+                                "\\N<Segi>Wait! My son has nothing to do with this! I said I would go!"
                             ]
                         },
                         {
@@ -4245,14 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイア……さ、先におウチに帰っていてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママなら大丈夫、すぐに彼とのお話を終わらせて帰るから。"
+                                "\\N<Segi>Riia... can you go home first? Mommy will be fine, I'll\nfinish talking to him quickly and come back."
                             ]
                         },
                         {
@@ -4269,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ママ……。"
+                                "\\N<Riia>Mom..."
                             ]
                         },
                         {
@@ -4286,14 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、じゃあ行こうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お話だけで終わるとイイねえ、おばさん。"
+                                "\\N<Fubii>Ahaha, then let's go. I hope the talk is all we need to do,\nlady."
                             ]
                         },
                         {
@@ -4336,7 +4021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>一体……ど、何処に行く気なの……？"
+                                "\\N<Segi>What on earth... where are you planning to take me...?"
                             ]
                         },
                         {
@@ -4353,14 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>黙ってついて来なって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう息子もいないんだしさ。恰好付けなくてもイイって。"
+                                "\\N<Fubii>Just follow me without talking. Your son isn't here anymore.\nYou don't need to put on airs."
                             ]
                         },
                         {
@@ -4377,7 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4401,7 +4079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>さ、着いたよ？そこに座って。"
+                                "\\N<Fubii>Here we are. Sit down over there."
                             ]
                         },
                         {
@@ -4476,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こんな所に連れて来て……一体、何の用なの……？"
+                                "\\N<Segi>Bringing me to a place like this... what do you want...?"
                             ]
                         },
                         {
@@ -4546,14 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイアの前であんな事までして……あなた達は一体何を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えているの……？"
+                                "\\N<Segi>Doing such things in front of Riia... what on earth are you\nall thinking...?"
                             ]
                         },
                         {
@@ -4570,14 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ここは教練所の中でも特に誰も来ない場所だからね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ココならイイでしょ？"
+                                "\\N<Fubii>This is a place inside the training grounds where no one\ncomes, so it's fine here, right?"
                             ]
                         },
                         {
@@ -4594,7 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いいって……何が……？"
+                                "\\N<Segi>Fine... what do you mean by fine...?"
                             ]
                         },
                         {
@@ -4611,14 +4275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だからぁ、判るでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆女の人の身体に興味津々な年頃なんだ。"
+                                "\\N<Fubii>Come on, you get it, right? Everyone is at the age where\nthey're extremely curious about a woman's body."
                             ]
                         },
                         {
@@ -4635,14 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だからおばさんに頼みって言ったら一つしか無いじゃんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆におばさんのオッパイでも見せてあげてってコトさ。"
+                                "\\N<Fubii>So when I asked them what they wanted from the lady, there\nwas only one thing they could say. They want you to show\nthem your breasts."
                             ]
                         },
                         {
@@ -4659,7 +4309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！？"
+                                "\\N<Segi>Eh...!?"
                             ]
                         },
                         {
@@ -4676,7 +4326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>へ、へへ……！！"
+                                "\\N<Boy>Heh, hehe...!!"
                             ]
                         },
                         {
@@ -4700,14 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フービィの取り巻き達が期待に満ちた目でセギの肢体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舐め回す様に見詰め、下品な笑い声を上げる。"
+                                "Fubii's followers stared at Segi's body with eyes full of\nexpectation and lust, laughing vulgarly."
                             ]
                         },
                         {
@@ -4724,21 +4367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その眼は期待と欲望で血走り、濁り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても息子であるリイアとそうそう歳も変わらぬ様には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見えなかった。"
+                                "Their eyes were bloodshot with anticipation and desire,\nlooking nothing like those of Riia or boys of his age."
                             ]
                         },
                         {
@@ -4762,21 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ホラ、やっぱ皆年頃だからねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の人のカラダへの興味は尽きないんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男だもん、仕方ないよね？"
+                                "\\N<Fubii>See, they're all at that age. Their interest in a woman's\nbody never ends. They're boys, after all; it can't be\nhelped, right?"
                             ]
                         },
                         {
@@ -4793,14 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何言ってるの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬鹿言わないで！そんな事出来る訳無いでしょう！？"
+                                "\\N<Segi>What are you saying?! Don't talk nonsense! There's no way I\ncan do that!"
                             ]
                         },
                         {
@@ -4817,14 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>何で？減るモンじゃないしイイじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってかボクの頼みでもダメ？"
+                                "\\N<Fubii>Why not? It's not like you lose anything. Or is it that even\nif I ask, it's no good?"
                             ]
                         },
                         {
@@ -4841,14 +4442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>み、妙な言い方をしないで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰の頼みでも同じ事よ……！"
+                                "\\N<Segi>Don't talk like that...! It doesn't matter who asks, it's\nthe same thing...!"
                             ]
                         },
                         {
@@ -4865,7 +4459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そっかあ……じゃあ彼らが暴れても同じ？"
+                                "\\N<Fubii>I see... So it's the same if they go wild?"
                             ]
                         },
                         {
@@ -4882,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、暴れるって……。"
+                                "\\N<Segi>Go wild...?"
                             ]
                         },
                         {
@@ -4899,21 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>いやあ、やっぱりこの教練所での勉強って疲れが溜まるん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だよねえ。彼等もワルイ奴らじゃないんだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ疲れてるだけなんだ。"
+                                "\\N<Fubii>Yeah, you know, studying at this training facility really\nbuilds up fatigue. They're not bad guys, you know? They're\njust tired."
                             ]
                         },
                         {
@@ -4930,21 +4510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>今日はその彼等の疲れをいやす為におばさんに協力して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貰おうと思っただけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ僕のカノジョだからね、言う事聞いてくれると思って。"
+                                "\\N<Fubii>I was just thinking of asking you to help relieve their\nfatigue today. After all, you're my girlfriend, so I thought\nyou'd listen to me."
                             ]
                         },
                         {
@@ -4961,14 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待ちなさい……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、あなた達……まさかリイアに危害を……。"
+                                "\\N<Segi>Wait... don't tell me, you guys... you wouldn't harm Riia..."
                             ]
                         },
                         {
@@ -4985,21 +4544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、心配しないでよ。まだ何もしてないからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただあんまり疲れがたまっちゃうとさ、そう言うコトもある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなって。"
+                                "\\N<Fubii>Haha, don't worry. We haven't done anything yet. But if we\nget too tired, well, things might happen."
                             ]
                         },
                         {
@@ -5023,21 +4568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼等の脅迫めいた言動は只の脅し文句では無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際に息子に危害を加えるのを厭わない連中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギはそれを本能で理解していた。"
+                                "Their threatening behavior was not just an empty threat.\nThey were the type who wouldn't hesitate to harm her son.\nSegi understood this instinctively."
                             ]
                         },
                         {
@@ -5061,14 +4592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>やめなさい……息子には手出ししないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事をしたら許さないから……。"
+                                "\\N<Segi>Stop it... Don't lay a hand on my son. If you do something\nlike that, I won't forgive you..."
                             ]
                         },
                         {
@@ -5085,21 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そう？おばさんがそう言うならソレでもイイよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ……そんな彼等を癒す1番イイ方法があるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ソレは何？"
+                                "\\N<Fubii>Is that so? If that's what you say, then that's fine. So...\nthere must be a better way to soothe them, right? What is\nit?"
                             ]
                         },
                         {
@@ -5116,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5133,7 +4643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>は、早く……早く脱げよ、おばさん……っ！！"
+                                "\\N<Boy>Hurry up... hurry up and strip, lady...!!"
                             ]
                         },
                         {
@@ -5150,7 +4660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ぐ……く……っ！"
+                                "\\N<Segi>G-guh...!"
                             ]
                         },
                         {
@@ -5174,21 +4684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取り巻き達が期待に満ちた目でセギを囃し立てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼等にまるで退路を奪われたかの様に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギは強く歯噛みをした。"
+                                "The followers egged Segi on with eyes full of expectation.\nAs if she had no escape, Segi clenched her teeth hard."
                             ]
                         },
                         {
@@ -5212,14 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こ、こんなの……いけない事なのよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた達判っているの……？"
+                                "\\N<Segi>This is... wrong, isn't it? Do you guys understand...?"
                             ]
                         },
                         {
@@ -5236,14 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>勿論。なあ、皆んな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この事は内緒に出来るよね？"
+                                "\\N<Fubii>Of course. Right, everyone? We can keep this a secret, can't\nwe?"
                             ]
                         },
                         {
@@ -5260,7 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ああ……だ、だから早く……早くっ！"
+                                "\\N<Boy>Yeah... so hurry up... hurry!"
                             ]
                         },
                         {
@@ -5277,7 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！"
+                                "\\N<Segi>G-guh...!"
                             ]
                         },
                         {
@@ -5294,7 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>早く……早くっ！早くっ！"
+                                "\\N<Boy>Hurry up... hurry! Hurry!"
                             ]
                         },
                         {
@@ -5311,7 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -5381,7 +4863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5398,14 +4880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>へ、へへ……おばさんのパンツ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人の女のパンツだ……。"
+                                "\\N<Boy>Heh, hehe... lady's panties... the panties of an adult\nwoman..."
                             ]
                         },
                         {
@@ -5429,14 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは息子と早々歳も変わらぬフービィの取り巻き達の前で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とうとう自らの着衣に手を掛けた。"
+                                "In front of her son and Fubii's followers, who were not much\ndifferent in age from him, Segi finally reached for her own\nclothes."
                             ]
                         },
                         {
@@ -5453,14 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先程迄煩わしい程に騒ぎ立てていた彼等は一様に押し黙り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギの下腹部に視線を集中させている。"
+                                "The followers, who had been noisily clamoring until now,\nsuddenly fell silent and focused their gaze on Segi's lower\nabdomen."
                             ]
                         },
                         {
@@ -5484,7 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>へ、へへ……。"
+                                "\\N<Boy>Heh, hehe..."
                             ]
                         },
                         {
@@ -5501,7 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>これで……いい？満足したでしょう……？"
+                                "\\N<Segi>Is this... okay? Are you satisfied now...?"
                             ]
                         },
                         {
@@ -5518,14 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、馬鹿にしないでよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たったそれだけで満足するわけないじゃん。"
+                                "\\N<Fubii>Haha, don't make fun of me. There's no way they'd be\nsatisfied with just that."
                             ]
                         },
                         {
@@ -5542,7 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でもこれ以上は……。"
+                                "\\N<Segi>But I can't do any more than this..."
                             ]
                         },
                         {
@@ -5559,21 +5013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ええ？約束破るの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあおばさんの息子がどうなっても知らないよお？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なあ、皆？そうだよねえ？"
+                                "\\N<Fubii>What? Are you going to break your promise? If you do that, I\ndon't care what happens to your son, okay? Right, everyone?"
                             ]
                         },
                         {
@@ -5590,14 +5030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ああ……っ！おばさんがオッパイ見せてくれたらリイアと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はこれからも友達でいるよ……っ！"
+                                "\\N<Boy>Yeah...! If the lady shows us her breasts, then we'll\ncontinue to be friends with Riia...!"
                             ]
                         },
                         {
@@ -5614,7 +5047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何を……あなた達は何を言っているの……？"
+                                "\\N<Segi>What are you... what are you saying...?"
                             ]
                         },
                         {
@@ -5638,21 +5071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "取り巻き達は再び口々にセギに迫り、騒ぎ立て始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その欲望に塗れた姿は、既に盛りの付いた雄そのものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言動と言えた。"
+                                "The followers once again began to press Segi and make a\ncommotion. Their behavior was smeared with desire and was\nakin to that of males in heat."
                             ]
                         },
                         {
@@ -5669,21 +5088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな彼等を前にセギは再び俯き、強く歯噛みをする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等にはもう何を言っても無駄だ、と。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息子へ危害を加えさせない為にすべき事はひとつだ、と。"
+                                "Facing them, Segi once again bowed her head and clenched her\nteeth hard. She realized that anything she said would be\nfutile. There was only one thing she could do to prevent\nharm to her son."
                             ]
                         },
                         {
@@ -5707,7 +5112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5724,7 +5129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>どうしたの、おばさん。ホラ、早く早く。"
+                                "\\N<Fubii>What's wrong, lady? Come on, hurry up."
                             ]
                         },
                         {
@@ -5741,7 +5146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……本当に……これだけだから。"
+                                "\\N<Segi>...Really... this is all I'll do."
                             ]
                         },
                         {
@@ -5758,14 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それにこの事は絶対に誰にも話さないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしも誰かに話したら……絶対に許さないから。"
+                                "\\N<Segi>And don't talk about this to anyone. If anyone finds out...\nI'll never forgive them."
                             ]
                         },
                         {
@@ -5782,14 +5180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>わかった、わかった。しつこいなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいから早くしなよ。皆、待ってるよ？"
+                                "\\N<Fubii>Alright, alright. You're so persistent. Just hurry up.\nEveryone's waiting, right?"
                             ]
                         },
                         {
@@ -5806,7 +5197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5876,7 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>お、おお……！？"
+                                "\\N<Boy>Oh, oh...!?"
                             ]
                         },
                         {
@@ -5946,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5963,14 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>お、大人の女のオッパイ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、でけぇ……リイアの母ちゃんのオッパイすげえ……！"
+                                "\\N<Boy>Oh, an adult woman's breasts...! They're so big... Riia's\nmom has amazing tits...!"
                             ]
                         },
                         {
@@ -5987,14 +5371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>な、なあ？アイツの全然ふくらんでないオッパイとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "比べものになんないよなあ！？"
+                                "\\N<Boy>Hey, hey? They're nothing like hers that aren't even swollen\nyet, right?!"
                             ]
                         },
                         {
@@ -6011,7 +5388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -6028,7 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ああ……す、すげえ興奮して来た……。"
+                                "\\N<Boy>Ah... I'm getting so excited..."
                             ]
                         },
                         {
@@ -6052,21 +5429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年達の前にセギの豊満な乳房が晒される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼等は初めて目の辺りにする「大人の女性」の身体に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興味と興奮を隠せない。"
+                                "Segi's ample breasts were exposed in front of the boys. They\ncould not hide their interest and excitement at the sight of\nan \"adult woman's\" body for the first time."
                             ]
                         },
                         {
@@ -6090,7 +5453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6107,14 +5470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>さあ、次は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかこれで終わりとか思ってないよね？"
+                                "\\N<Fubii>Now, what's next? You're not thinking this is the end, are\nyou?"
                             ]
                         },
                         {
@@ -6131,7 +5487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>これ以上はダメ……本当に無理だから……。"
+                                "\\N<Segi>No more... I really can't do any more..."
                             ]
                         },
                         {
@@ -6148,14 +5504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>おばさんの感想は聴いてないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼らはそれじゃ収まらないって。"
+                                "\\N<Fubii>I'm not asking for your opinion, lady. They won't be\nsatisfied with just that."
                             ]
                         },
                         {
@@ -6172,14 +5521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そしたらボクのコケン？に関わって来るでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいの？大切な彼氏が友達から信頼を失っても。"
+                                "\\N<Fubii>Then it'll affect my reputation, right? Is that okay? Even\nif your precious boyfriend loses trust from his friends."
                             ]
                         },
                         {
@@ -6196,7 +5538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わたしとあなたは……そんな関係じゃないわ。"
+                                "\\N<Segi>You and I... we don't have that kind of relationship."
                             ]
                         },
                         {
@@ -6213,14 +5555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、まだ言ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまでしておいてソレはないでしょ。"
+                                "\\N<Fubii>Ahaha, still saying that. After all this, you can't say\nthat."
                             ]
                         },
                         {
@@ -6237,21 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ってかこの場にいる全員そうは思ってないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんは彼氏でも無い男の頼みを聴いてここまでして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれんの？"
+                                "\\N<Fubii>Besides, does everyone here think the same? That you'd go\nthis far for a man who isn't even your boyfriend?"
                             ]
                         },
                         {
@@ -6268,7 +5589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6285,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>はあ……はあ……そうだよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさん、もっと……っ！ぜ、全部……見せろよ……！"
+                                "\\N<Boy>Haah... haah... That's right! Lady, show us more...! Show us\neverything...!"
                             ]
                         },
                         {
@@ -6309,7 +5623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>おばさん、早く……っ！早く……早く見せて……！"
+                                "\\N<Boy>Lady, hurry up...! Hurry... hurry and show us...!"
                             ]
                         },
                         {
@@ -6326,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6343,7 +5657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……約束して、本当にこれで……。"
+                                "\\N<Segi>...Promise me, this is really it..."
                             ]
                         },
                         {
@@ -6360,14 +5674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>わかったわかった、今日のところはソレで引き上げるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論リイアにも手を出さない。皆んなもいいかい？"
+                                "\\N<Fubii>Alright, alright, we'll call it quits for today. Of course,\nI won't touch Riia either. Everyone okay with that?"
                             ]
                         },
                         {
@@ -6384,7 +5691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ああ……何でもイイよ！だから早く……っ！"
+                                "\\N<Boy>Yeah... anything's fine! So hurry up...!"
                             ]
                         },
                         {
@@ -6401,7 +5708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6471,7 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>あ……あ……！？"
+                                "\\N<Boy>Ah... ah...!?"
                             ]
                         },
                         {
@@ -6541,14 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>これがおばさんのマンコ……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人の女のマンコだあ……！？"
+                                "\\N<Boy>This is the lady's pussy...!? An adult woman's pussy...!"
                             ]
                         },
                         {
@@ -6565,7 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6589,21 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギはついに彼等の前に一糸纏わぬ姿を晒した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めての経験に彼等は唾を飲み込み、手を叩き、その昂りは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最高潮に達した。"
+                                "Finally, Segi exposed her naked body in front of them. It\nwas their first experience, and they swallowed their saliva,\nclapped their hands, and their arousal reached its peak."
                             ]
                         },
                         {
@@ -6627,14 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>マンコ……おばさんのマンコ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアの母ちゃん……すげえキレイだよな……っ！？"
+                                "\\N<Boy>Pussy... the lady's pussy...! Riia's mom... it's so\npretty...!"
                             ]
                         },
                         {
@@ -6651,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あまり……見詰めないで……。"
+                                "\\N<Segi>Don't stare... too much..."
                             ]
                         },
                         {
@@ -6668,7 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>はあ……はあっ！"
+                                "\\N<Boy>Haah... haah!"
                             ]
                         },
                         {
@@ -6685,14 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、どうだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて見る大人の女の身体は。アイツのとは違うだろ？"
+                                "\\N<Fubii>Ahaha, how is it? Seeing an adult woman's body for the first\ntime. It's different from hers, right?"
                             ]
                         },
                         {
@@ -6709,14 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>ああ！フービィはいつもココに突っ込んでるんだろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "や、やっぱり気持ちイイの！？"
+                                "\\N<Boy>Yeah! Fubii always sticks it in here, right?! It must feel\nreally good, huh?!"
                             ]
                         },
                         {
@@ -6733,21 +5998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>うん、最高さ。とろけちゃう程にね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼べば直ぐに来てくれるしヤラせてくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆んなも早くこんな女を見付ける事だね。"
+                                "\\N<Fubii>Yeah, it's the best. It melts you away. She comes right over\nwhen I call and lets me do it. You guys should find a woman\nlike this soon too."
                             ]
                         },
                         {
@@ -6764,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6781,14 +6032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>やっぱりフービィはすごいなあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ソンケーしちゃうよね！"
+                                "\\N<Boy>Fubii is really amazing! I respect him so much!"
                             ]
                         },
                         {
@@ -6805,7 +6049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>はは、それはどうも。おだてても何も出ないよ？"
+                                "\\N<Fubii>Haha, thanks for that. But flattery won't get you anything."
                             ]
                         },
                         {
@@ -6822,14 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>はあ……はあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、俺……チンチンたってきちゃったよ……！"
+                                "\\N<Boy>Haah... haah! My... my dick is getting hard...!"
                             ]
                         },
                         {
@@ -6846,14 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>お、俺も！ねえフービィ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このおばさん、このままヤラせてくれたりとか……！？"
+                                "\\N<Boy>Me too! Hey Fubii! Will this lady let us do it with her just\nlike that...?!"
                             ]
                         },
                         {
@@ -6870,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！！？？"
+                                "\\N<Segi>Eh...!!??"
                             ]
                         },
                         {
@@ -6887,14 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>い、いいかな！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたら俺、一生フービィに付いて行くよっ！"
+                                "\\N<Boy>Is it okay?! If so, I'll follow Fubii for life!"
                             ]
                         },
                         {
@@ -6911,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>うーん……どうしようかなあ？"
+                                "\\N<Fubii>Hmm... what should I do?"
                             ]
                         },
                         {
@@ -6928,21 +6151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何を考えてるの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはあなた達の同級生の母親なのよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "第一それじゃ約束が……！！"
+                                "\\N<Segi>What are you thinking?! I'm your classmate's mother!\nBesides, that would break our promise...!!"
                             ]
                         },
                         {
@@ -6959,7 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、だってさ。悪いけどここはガマンだね。"
+                                "\\N<Fubii>Ahaha, sorry, but you'll have to hold back here."
                             ]
                         },
                         {
@@ -6976,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>そんなぁ……！！"
+                                "\\N<Boy>No way...!!"
                             ]
                         },
                         {
@@ -6993,14 +6202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>落ち込まなくてイイよ、きっとまたイイ目に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遭わせてあげるから。俺に付いてくれば……ね？"
+                                "\\N<Fubii>Don't be so down, I'll make sure you get a good experience\nnext time. If you stick with me... right?"
                             ]
                         },
                         {
@@ -7017,14 +6219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>あ、ああ……ついて行くよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからきっとだよ！？約束だよフービィ！"
+                                "\\N<Boy>Oh, yeah... I'll follow you! So it's a promise, right\nFubii?!"
                             ]
                         },
                         {

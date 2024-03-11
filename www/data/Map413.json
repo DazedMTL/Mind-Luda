@@ -3068,7 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……お怪我の具合は如何ですか？"
+                                "\\N<Segi>...How are your injuries?"
                             ]
                         },
                         {
@@ -3092,21 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>右眼の怪我の事か……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女に庇って貰った御蔭で致命傷には至らなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが視力は回復しないかも知れないな。"
+                                "\\N<Rozaro>Are you referring to the injury to my right eye...? Thanks\nto your protection, it wasn't fatal. But I might not recover\nmy vision."
                             ]
                         },
                         {
@@ -3157,7 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3181,7 +3167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>貴女の方こそ……お腹の子は？"
+                                "\\N<Rozaro>What about you...? How's the child in your belly?"
                             ]
                         },
                         {
@@ -3232,7 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……大丈夫だそうです。"
+                                "\\N<Segi>...It seems to be okay."
                             ]
                         },
                         {
@@ -3289,7 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>そうか……それは良かった。せめてもの不幸中の幸いだ。"
+                                "\\N<Rozaro>I see... that's good. It's a small piece of good fortune\namidst the misfortune."
                             ]
                         },
                         {
@@ -3340,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3391,14 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……それより何故ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはリュダに服隊せず、この街に留まると聞きました。"
+                                "\\N<Segi>Um... more importantly, why? I heard you didn't join the\nLudan forces and chose to stay in this town instead."
                             ]
                         },
                         {
@@ -3422,21 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ……今度の事で色々と思う所があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほとほとリュダの連中には嫌気が差した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論長年そんな組織に身を置いて来た自分自身にも。"
+                                "\\N<Rozaro>Ah... I've had a lot to think about after this incident.\nI've grown thoroughly sick of the Ludan lot. Of course, that\nincludes myself for having been part of such an organization\nfor so long."
                             ]
                         },
                         {
@@ -3487,7 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3511,21 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>だが……それも方便なのかも知れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当の所はこの街に貴女の様な優しく清純な女性がいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "から……かも知れないな。"
+                                "\\N<Rozaro>But... that might just be an excuse. The real reason might\nbe because there's a kind and pure woman like you in this\ntown... perhaps."
                             ]
                         },
                         {
@@ -3576,7 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Huh...?"
                             ]
                         },
                         {
@@ -3600,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、勘違いしないでくれ。決して他意は無いんだ。"
+                                "\\N<Rozaro>Ah, don't misunderstand me. I mean no ulterior motive."
                             ]
                         },
                         {
@@ -3617,14 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>貴女の様な女性に触れて、リュダの如き殺戮と欺瞞に満ちた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界に嫌気が差した……それだけの事さ。"
+                                "\\N<Rozaro>Being touched by a woman like you made me sick of a world\nfilled with slaughter and deceit like Ludan's... that's all\nthere is to it."
                             ]
                         },
                         {
@@ -3641,14 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>とは言え、貴女は俺を見る度あの日々が甦る事だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全ては俺の力不足故の事……せめて罪滅ぼしさせて欲しい。"
+                                "\\N<Rozaro>That said, every time you look at me, you're probably\nreminded of those days. It's all due to my inadequacy... at\nleast let me make amends."
                             ]
                         },
                         {
@@ -3665,14 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>そして……あの時の事は、お互い生涯決して口外しないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誓おうじゃないか。"
+                                "\\N<Rozaro>And... let's swear never to speak of that time to anyone for\nas long as we live."
                             ]
                         },
                         {
@@ -3723,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3761,7 +3691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それと……あの時ツェダ達が言った事は本当だ。"
+                                "\\N<Rozaro>Also... what Tseda and the others said at that time was\ntrue."
                             ]
                         },
                         {
@@ -3812,7 +3742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -3836,14 +3766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>俺は……リュダに籍を置きながら、今迄連中の如きケダモノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の行為には一切手を染めて来なかった。"
+                                "\\N<Rozaro>I was... while being part of Ludan, I never once indulged in\nthe beastly acts they did."
                             ]
                         },
                         {
@@ -3894,7 +3817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3918,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>本当だ。欲望に身を任せるのは未熟な証拠だと考えていたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何よりソレが自身の成長には無関係だと思ったからだ。"
+                                "\\N<Rozaro>It's true. I thought giving in to desires was a sign of\nimmaturity and above all, I believed it had nothing to do\nwith my own growth."
                             ]
                         },
                         {
@@ -3963,7 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……どうやらそれは違ったらしい。"
+                                "\\N<Rozaro>However... it seems I was mistaken."
                             ]
                         },
                         {
@@ -4014,7 +3930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -4038,14 +3954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>その意味では……初めてが貴女の様な女性で良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女にとってはひどく災難だったとしても。"
+                                "\\N<Rozaro>In that sense... it was good that my first time was with a\nwoman like you. Even if it was a terrible misfortune for\nyou."
                             ]
                         },
                         {
@@ -4096,14 +4005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>今の言葉は……聴かなかった事にします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから二度とそんな事は言わないで。"
+                                "\\N<Segi>I will pretend I didn't hear what you just said. So please,\nnever say such things again."
                             ]
                         },
                         {
@@ -4127,14 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理由は判らんが、貴女が望むならばそうしよう。"
+                                "\\N<Rozaro>...I see. I don't understand why, but if that's what you\nwish, I'll comply."
                             ]
                         },
                         {
@@ -4151,7 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>俺は永くリュダにこの身を置き過ぎた様だ。"
+                                "\\N<Rozaro>It seems I've been with Ludan for far too long."
                             ]
                         },
                         {
@@ -4168,14 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>信じて欲しい。俺は……変わりたいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからも至らぬ点が有れば遠慮なく指摘して欲しい。"
+                                "\\N<Rozaro>Believe me. I want to change. If there are any shortcomings\nin me from now on, please point them out without hesitation."
                             ]
                         },
                         {
@@ -4226,7 +4114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4482,14 +4370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>貴様……そこで何をしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元リュダの兵士だな？妻に何の用だ。"
+                                "\\N<Yuia>You... what are you doing here. A former Ludan soldier,\nright? What do you want with my wife?"
                             ]
                         },
                         {
@@ -4540,7 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様……。"
+                                "\\N<Segi>Lord Yuia..."
                             ]
                         },
                         {
@@ -4564,21 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>誓って何もしてはいない。だが言い訳もしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回この街や君の奥方に起きた事……全てが俺の所為だ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして俺の力不足故だ。"
+                                "\\N<Rozaro>I swear I haven't done anything. But I won't make excuses.\nEverything that happened to this town and your wife... it's\nall my fault, due to my inadequacy."
                             ]
                         },
                         {
@@ -4727,7 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それを判っていながら……何故貴様は……っ！"
+                                "\\N<Yuia>Knowing that... why would you...!"
                             ]
                         },
                         {
@@ -4874,7 +4741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>っ！"
+                                "\\N<Rozaro>!"
                             ]
                         },
                         {
@@ -4925,7 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様！落ち着いて下さい！"
+                                "\\N<Segi>Lord Yuia! Please calm down!"
                             ]
                         },
                         {
@@ -4942,14 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かにこの方は元リュダの兵士……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし何もありませんでした！ですから……どうかっ！"
+                                "\\N<Segi>Indeed, this man is a former Ludan soldier...! But nothing\nhas happened! So please...!"
                             ]
                         },
                         {
@@ -4973,7 +4833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -4997,14 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>仮に君に何も無かったとしても、彼等リュダの兵達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この街に何をしたか……そして過去俺達に何をしたか！"
+                                "\\N<Yuia>Even if nothing happened to you, think about what those\nLudan soldiers did to this town... and what they did to us\nin the past!"
                             ]
                         },
                         {
@@ -5021,14 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それを考えたら許せる筈が無い……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許せる筈が無いんだ！！"
+                                "\\N<Yuia>Considering that, there's no way I can forgive them...!\nThere's no way I can forgive them!!"
                             ]
                         },
                         {
@@ -5052,21 +4898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>除隊して謝罪すれば全てが無かった事になる訳じゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな簡単に恨みが消えてしまう位ならば初めから奴らを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恨んでなどいない！"
+                                "\\N<Yuia>Just because you've left the army and apologized doesn't\nmean everything is forgotten! If resentment could disappear\nso easily, we would never have hated them in the first\nplace!"
                             ]
                         },
                         {
@@ -5083,7 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>連中は……俺や君にとってそう言う存在な筈だろう！？"
+                                "\\N<Yuia>They are... supposed to be that kind of existence to both\nyou and me, aren't they!?"
                             ]
                         },
                         {
@@ -5134,7 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かに仰る通りです。勿論わたしだって……。"
+                                "\\N<Segi>You're absolutely right. Of course, I too..."
                             ]
                         },
                         {
@@ -5158,7 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -5216,14 +5048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……だからと言って、今わたし達に叛意を示していない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無抵抗な人を傷付けるユイア様は……見たくありません。"
+                                "\\N<Segi>But... even so, I don't want to see Lord Yuia hurt an\nunarmed person who is not showing any hostility towards us."
                             ]
                         },
                         {
@@ -5240,7 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>例えそれが……わたしやお腹の赤ちゃんの為であっても。"
+                                "\\N<Segi>Even if it's for the sake of me and the baby in my belly."
                             ]
                         },
                         {
@@ -5302,7 +5127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ……。"
+                                "\\N<Yuia>Segi..."
                             ]
                         },
                         {
@@ -5353,7 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ごめんなさい……偉そうな事を言ってしまって。"
+                                "\\N<Segi>I'm sorry... for speaking so presumptuously."
                             ]
                         },
                         {
@@ -5370,14 +5195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも本音を言えば……もう忘れさせて欲しいんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蒸し返して欲しく無いだけなのかも知れません。"
+                                "\\N<Segi>But to be honest... I just want to forget. Maybe I just\ndon't want it to be brought up again."
                             ]
                         },
                         {
@@ -5401,7 +5219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -5452,14 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それに……この子の誕生を血塗れの手で祝いたくは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありませんから。"
+                                "\\N<Segi>Besides... I don't want to celebrate the birth of this child\nwith bloodstained hands."
                             ]
                         },
                         {
@@ -5528,21 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……重ね重ね済まなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平身低頭頭を垂れてそれで万事許して貰えるとは思わないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は心からの謝罪をする以外に他の術を知らない。"
+                                "\\N<Rozaro>I'm deeply sorry once again. I don't expect everything to be\nforgiven just by bowing my head in submission, but\napologizing from the bottom of my heart is the only way I\nknow how."
                             ]
                         },
                         {
@@ -5559,14 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>だからせめて……残りの俺の人生は君達二人、そして産まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "て来る赤ん坊に捧げると誓わせては貰えないか。"
+                                "\\N<Rozaro>So at least... let me dedicate the rest of my life to you\ntwo, and to the baby that will be born."
                             ]
                         },
                         {
@@ -5617,7 +5407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -5641,7 +5431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5693,14 +5483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を許し……何を憎むのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを正しく自分の心に課すのは余りに難しかった。"
+                                "It was incredibly difficult to properly impose on one's\nheart what to forgive and what to hate."
                             ]
                         },
                         {
@@ -5717,14 +5500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時のわたしは……或る意味で他人の言葉や行動に流されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いただけなのかも知れない。"
+                                "At that time, I might have been simply swayed by the words\nand actions of others, in a sense."
                             ]
                         },
                         {
@@ -5748,14 +5524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたしの言葉を容れて、その心の内に抱えた憎しみを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "溶かそうとして下さるユイア様。"
+                                "Lord Yuia, who took my words to heart and tried to melt away\nthe hatred within him."
                             ]
                         },
                         {
@@ -5772,7 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして過去を悔い、変わりたいと口にしたロザロさん。"
+                                "And Rozaro-san, who regretted the past and expressed a\ndesire to change."
                             ]
                         },
                         {
@@ -5803,14 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、この時のわたしは……ただ、他者の決意や行動を横目に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ているだけで……その実自分では何も手に入れていない。"
+                                "Yes, at that time, I was just watching the determination and\nactions of others... in reality, I hadn't gained anything\nmyself."
                             ]
                         },
                         {
@@ -5827,7 +5589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな……ひどく矮小な存在だった。"
+                                "I was such a terribly diminutive being."
                             ]
                         },
                         {

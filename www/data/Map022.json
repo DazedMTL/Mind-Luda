@@ -4079,14 +4079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん、何処へ行く気だい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかと思うがこの先の遺跡に行く気なら止した方がいい。"
+                                "\\N<Man>Segi-san, where do you think you're going? I have a bad\nfeeling about this, but if you're planning to go to the\nruins ahead, I'd advise against it."
                             ]
                         },
                         {
@@ -4103,14 +4096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>この街に古くから在る遺跡の入場管理さえも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はリュダの兵隊達が担っているからね……。"
+                                "\\N<Man>Even the entrance management of the ruins that have been in\nthis town for ages is now being handled by Ryuda's\nsoldiers..."
                             ]
                         },
                         {
@@ -4530,14 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>身を守る防具は最低限の備えと言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡内を探索するにも練兵会での戦いでもな。"
+                                "\\N<Man>Protective armor can be considered the bare minimum of\npreparation, whether you're exploring ruins or fighting in\nthe training grounds."
                             ]
                         },
                         {
@@ -4614,21 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>街の中には未だにリュダの兵士達に対して反抗を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試みる層がいますが、迷惑な話ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無駄な争いは避けるべきだと言うのに……。"
+                                "\\N<Man>There are still those in the city who attempt to resist the\nsoldiers of Ryuda, but it's such a nuisance. I keep saying\nwe should avoid pointless conflicts..."
                             ]
                         },
                         {
@@ -4728,14 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そろそろ会議も終わったかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理所へ向かってみよう……。"
+                                "\\N<Segi>...I wonder if the meeting is over by now. Let's head to the\nmanagement office..."
                             ]
                         },
                         {
@@ -4952,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさん。"
+                                "\\N<Segi>Rozaro-san."
                             ]
                         },
                         {
@@ -4976,21 +4934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、こんな所で一体どうしたんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先には今はリュダの管理下に置かれている湖底遺跡と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その入口である連中の詰所しか無いが……。"
+                                "\\N<Rozaro>Segi-san, what are you doing in a place like this? Beyond\nhere is only the lakebed ruins under Ryuda's control and\ntheir outpost..."
                             ]
                         },
                         {
@@ -5014,7 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それは……その……。"
+                                "\\N<Segi>That is... well..."
                             ]
                         },
                         {
@@ -5054,14 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……もしや遺跡へ入ろうと言うのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとしてもどうして貴女が……。"
+                                "\\N<Rozaro>...Could it be that you're trying to enter the ruins? Even\nso, why would you..."
                             ]
                         },
                         {
@@ -5078,14 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>まさか……先程の話の所為なのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の所為で貴女はそう思い立ったと言うのか？"
+                                "\\N<Rozaro>Don't tell me... it's because of our earlier conversation?\nAre you saying that you've come to this decision because of\nme?"
                             ]
                         },
                         {
@@ -5102,14 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ユイアやリイアを守る為、リュダに立ち向かう為に自分も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強くあるべきだと……？"
+                                "\\N<Rozaro>To protect Yuia and Riia, to stand up against Ryuda, you\nbelieve you must also be strong...?"
                             ]
                         },
                         {
@@ -5149,14 +5072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かに……それもあるかも知れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですがそれだけではありません……。"
+                                "\\N<Segi>Certainly... that might be part of it. But that's not the\nonly reason..."
                             ]
                         },
                         {
@@ -5180,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……どう言う事か聞かせてくれるかな？"
+                                "\\N<Rozaro>...Can you tell me what you mean?"
                             ]
                         },
                         {
@@ -5218,14 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>昔、わたしは……とても大切な事を他人任せにした結果、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その全部を失いました。"
+                                "\\N<Segi>In the past, I... entrusted something very important to\nsomeone else, and as a result, I lost everything."
                             ]
                         },
                         {
@@ -5242,14 +5151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>大切な事を大切な人達に背負わせた結果……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てを失ったんです。"
+                                "\\N<Segi>By leaving important matters to important people... I lost\neverything."
                             ]
                         },
                         {
@@ -5273,7 +5175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん……。"
+                                "\\N<Rozaro>Segi-san..."
                             ]
                         },
                         {
@@ -5297,14 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……今度はそうなりたくは無い。ユイア様に全てを背負わ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せた結果、彼を失いたくはないんです。"
+                                "\\N<Segi>...This time, I don't want it to end up like that. I don't\nwant to lose him by making Yuia-sama bear everything."
                             ]
                         },
                         {
@@ -5321,21 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>独り善がりの我儘かも知れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てユイア様に託して、わたし個人の感傷なんて諦めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しまえば良いとも思います。"
+                                "\\N<Segi>It might be selfish of me. I think it would be better to\nentrust everything to Yuia-sama and give up on my personal\nsentiments."
                             ]
                         },
                         {
@@ -5352,14 +5233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ですが……わたしにだって出来る事があると信じる事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、諦めたくは無いんです。"
+                                "\\N<Segi>But... I also don't want to give up on believing that there\nare things I can do."
                             ]
                         },
                         {
@@ -5399,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>おかしい……でしょうか？"
+                                "\\N<Segi>Is that... strange?"
                             ]
                         },
                         {
@@ -5439,14 +5313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>いや……そんな事は無いさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の言う事は実に立派さ。賞賛に値すると言ってもいい。"
+                                "\\N<Rozaro>No... there's nothing strange about it. What you're saying\nis very noble. It's worthy of praise."
                             ]
                         },
                         {
@@ -5463,14 +5330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……貴女のその決断をユイアやリイアは知っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のかい？"
+                                "\\N<Rozaro>However... do Yuia and Riia know about your decision?"
                             ]
                         },
                         {
@@ -5494,7 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……いいえ。"
+                                "\\N<Segi>...No."
                             ]
                         },
                         {
@@ -5518,7 +5378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -5542,7 +5402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5566,21 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……判った、ここで貴女と話した事は二人だけの秘密"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にして置こう。そもそも元から俺の様な他人が立ち入れる話"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも無いしな。"
+                                "\\N<Rozaro>...Understood, let's keep what you and I discussed here a\nsecret between us. After all, it's not really a matter for\nan outsider like me to interfere with."
                             ]
                         },
                         {
@@ -5604,7 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……有難う御座います。"
+                                "\\N<Segi>...Thank you very much."
                             ]
                         },
                         {
@@ -5628,14 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……このまま貴女を黙って行かせる訳にも行くまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてこれを受け取ってはくれないか？"
+                                "\\N<Rozaro>However... I can't just let you go without saying anything.\nWould you at least accept this?"
                             ]
                         },
                         {
@@ -5709,7 +5548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>これは……？"
+                                "\\N<Segi>What is this...?"
                             ]
                         },
                         {
@@ -5733,21 +5572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>恐らくこの先のリュダの詰め所へ向かっても素直に遺跡へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は進入出来まい。先ずは貴女の適性と実力を測る為の査定"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "施設へ赴く事を提示されるだろう。"
+                                "\\N<Rozaro>You probably won't be able to enter the ruins directly even\nif you go to Ryuda's outpost. First, they will suggest that\nyou go to an assessment facility to measure your aptitude\nand strength."
                             ]
                         },
                         {
@@ -5771,7 +5596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>査定施設……ですか。"
+                                "\\N<Segi>An assessment facility...?"
                             ]
                         },
                         {
@@ -5795,21 +5620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>これはその時に必ず貴女の役に立ってくれる筈だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからどうか受け取って欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死地へと向かう貴女への、せめてもの手向けだと思って。"
+                                "\\N<Rozaro>This will surely be of use to you then. So please, take it.\nConsider it a modest parting gift for someone heading into\ndanger."
                             ]
                         },
                         {
@@ -5833,14 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そう言う事でしたら、有難くお受け取り致します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有難う、ロザロさん。"
+                                "\\N<Segi>...If that's the case, I gratefully accept. Thank you,\nRozaro-san."
                             ]
                         },
                         {
@@ -5878,21 +5682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……いいか、セギさん。くれぐれも慎重にな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡の中を闊歩する化け物共の中には、自己の身を守る為、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特殊な自衛本能を備えている個体もいる。"
+                                "\\N<Rozaro>...Listen, Segi-san. Be very careful. Among the monsters\nroaming inside the ruins are those with special self-defense\ninstincts to protect themselves."
                             ]
                         },
                         {
@@ -5916,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判りました。ご忠告、感謝致します。"
+                                "\\N<Segi>Understood. I appreciate your advice."
                             ]
                         },
                         {
@@ -5940,21 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それと……リュダの兵士に何か咎められる様なら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分は練兵会に参加する戦士だと言えばいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その為に遺跡へ入るのだとな。"
+                                "\\N<Rozaro>And... if Ryuda's soldiers question you, just say you're a\nwarrior participating in the training assembly. That's why\nyou're entering the ruins."
                             ]
                         },
                         {
@@ -5978,7 +5754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判りました。何から何まで有難う御座います。"
+                                "\\N<Segi>Understood. Thank you for everything."
                             ]
                         },
                         {
@@ -6002,14 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>いいさ……俺に出来るのはこの程度だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて貴女の無事を祈っている……。"
+                                "\\N<Rozaro>It's fine... This is all I can do. At least I'll be praying\nfor your safety..."
                             ]
                         },
                         {
@@ -6100,14 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各種スキルは一部を除き、対応する技法書を読むことで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて使用可能になります。"
+                                "Most skills can only be used after reading the corresponding\ntechnique book."
                             ]
                         },
                         {
@@ -6131,14 +5893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、スキルを習得した際はステータス画面から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使用するスキルをセットする必要が有ります。"
+                                "Also, when you acquire a skill, you need to set it from the\nstatus screen before using it."
                             ]
                         },
                         {
@@ -6284,14 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん、何処へ行く気だい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかと思うがこの先の遺跡に行く気なら止した方がいい。"
+                                "\\N<Man>Segi-san, where do you think you're going? I hate to say it,\nbut if you're planning to go to the ruins ahead, you should\nstop."
                             ]
                         },
                         {
@@ -6308,14 +6056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>この街に古くから在る遺跡の入場管理さえも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はリュダの兵隊達が担っているからね……。"
+                                "\\N<Man>The entrance management of the ruins that have been in this\ntown for a long time is now being handled by Ryuda's\nsoldiers..."
                             ]
                         },
                         {

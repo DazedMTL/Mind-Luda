@@ -4641,14 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>練兵会の開催中、貴様ら住民共の出入りは制限されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "従って、許可の無い者を外へ出す事は出来ん。"
+                                "\\N<Ryuda Soldier>During the Training Soldiers' Assembly, the comings and\ngoings of you residents are restricted. Consequently, we\ncannot let anyone without permission out."
                             ]
                         },
                         {
@@ -5610,14 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>リイア、どうしたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな時間に何処へ行くんだい？"
+                                "\\N<Hojiko's Wife>Riia, what's the matter? Where are you going at this hour?"
                             ]
                         },
                         {
@@ -5641,7 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>おばさん……。"
+                                "\\N<Riia>Auntie..."
                             ]
                         },
                         {
@@ -5665,14 +5651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>そう言やあ随分前にアンタのママを見たよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何だか辛気臭いカオして何処かへ向かったみたいだねえ。"
+                                "\\N<Hojiko's Wife>Oh, that reminds me, I saw your mom a while ago. She had a\ngloomy look on her face and seemed to be heading somewhere."
                             ]
                         },
                         {
@@ -5689,21 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふふ、私には判るよ、アレは男との逢引だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判るかい、逢引。男といやらしい事をするって事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全くモテるママがいると大変だねえ、ははは。"
+                                "\\N<Hojiko's Wife>Hehe, I can tell, that was a rendezvous with a man. You know\nwhat a rendezvous is, right? It means doing naughty things\nwith a man. It's really something to have such a popular\nmom, hahaha."
                             ]
                         },
                         {
@@ -5887,21 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>リュダの連中がこの街に駐屯する様になって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先行きは不安だけどさ、アンタは安心だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何たってユイアの奴は頼りになるもんな。"
+                                "\\N<Man>Ever since those Ryuda guys started stationing in this town,\nthe future's been uncertain, but you can rest easy. After\nall, Yuia is someone you can rely on."
                             ]
                         },
                         {

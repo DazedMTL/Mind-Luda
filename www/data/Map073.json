@@ -1616,7 +1616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……イリメさんが気になる。様子を見てみましょう。"
+                                "\\N<Segi>...I'm concerned about Irime-san. Let's go check on her."
                             ]
                         },
                         {
@@ -1820,7 +1820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……イリメさんが気になる。様子を見てみましょう。"
+                                "\\N<Segi>...I'm concerned about Irime-san. Let's go check on her."
                             ]
                         },
                         {
@@ -2348,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさん……こんにちは。"
+                                "\\N<Segi>Rozaro-san... good afternoon."
                             ]
                         },
                         {
@@ -2372,7 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>やあ、セギさん。"
+                                "\\N<Rozaro>Hey there, Segi-san."
                             ]
                         },
                         {
@@ -2396,7 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2420,7 +2420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……不安かい？やはり次の対戦相手の事かな？"
+                                "\\N<Rozaro>...Feeling anxious? Is it about your next opponent by any\nchance?"
                             ]
                         },
                         {
@@ -2444,21 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい、不安を感じていないと言えば嘘になります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回の戦いホジコさんはわたしと同じく、街に暮らす普通の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性でした。"
+                                "\\N<Segi>...Yes, I'd be lying if I said I wasn't anxious. In the last\nfight, Mr. Hojiko was just an ordinary man living in town,\nlike me."
                             ]
                         },
                         {
@@ -2475,14 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かに男女差はあったでしょうが、それでもその意味では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしと同じ条件であったと思います。"
+                                "\\N<Segi>There might have been a difference between men and women,\nbut even so, I believe we were on the same terms in that\nsense."
                             ]
                         },
                         {
@@ -2499,14 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>しかし……次の相手は違います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼はリュダも認める戦闘技術を身に付けています。"
+                                "\\N<Segi>However... my next opponent is different. He has combat\nskills that even Ryuda acknowledges."
                             ]
                         },
                         {
@@ -2523,14 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>一部ではロザロさんと並んで今回の練兵会の優勝者候補に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "推す声もある様ですし……。"
+                                "\\N<Segi>Some even say he's a candidate for the champion of this\ntraining session, alongside you, Rozaro-san..."
                             ]
                         },
                         {
@@ -2547,14 +2512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな相手にわたしが……そう考えると少しだけ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不安になるんです。"
+                                "\\N<Segi>Facing such an opponent... when I think about it, I can't\nhelp but feel a little anxious."
                             ]
                         },
                         {
@@ -2578,14 +2536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふむ……確かに貴女の言う通りフービィは天才と言えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同年代であった当時の俺など彼の足元にも及ぶまい。"
+                                "\\N<Rozaro>Hmm... Indeed, as you say, Fubii could be called a genius.\nEven I at his age wouldn't have come close to his level."
                             ]
                         },
                         {
@@ -2609,7 +2560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2633,7 +2584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……幼い。能力は有れど、経験の少ない若年だ。"
+                                "\\N<Rozaro>However... he's young. He has the ability, but he lacks\nexperience due to his youth."
                             ]
                         },
                         {
@@ -2650,14 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>本人はそれを強みと考えているやも知れんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆にそこにこそ貴女が付け込む余地があるのかも知れん。"
+                                "\\N<Rozaro>He may consider that to be his strength, but conversely,\nthat might be exactly where you can find an opening to\nexploit."
                             ]
                         },
                         {
@@ -2681,7 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>経験の少ない若年故の弱さ……と言う事ですか。"
+                                "\\N<Segi>A weakness due to the lack of experience of youth... is that\nwhat you mean?"
                             ]
                         },
                         {
@@ -2705,14 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、尤もそれが何なのか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは今の俺にも判らんがな。"
+                                "\\N<Rozaro>Yes, although what that weakness is... even I don't know at\nthis point."
                             ]
                         },
                         {
@@ -2811,14 +2748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふむ……確かに貴女の言う通りフービィは天才と言えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同年代であった当時の俺など彼の足元にも及ぶまい。"
+                                "\\N<Rozaro>Hmm... Indeed, as you say, Fubii could be called a genius.\nEven I, at the same age, might not have held a candle to\nhim."
                             ]
                         },
                         {
@@ -2842,7 +2772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2866,7 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……幼い。能力は有れど、経験の少ない若年だ。"
+                                "\\N<Rozaro>However... he's young. He has the ability, but lacks\nexperience due to his youth."
                             ]
                         },
                         {
@@ -2883,14 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>本人はそれを強みと考えているやも知れんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆にそこにこそ貴女が付け込む余地があるのかも知れん。"
+                                "\\N<Rozaro>He may consider that to be his strength, but conversely,\nthat might be exactly where you can find an opening to\nexploit."
                             ]
                         },
                         {
@@ -2914,7 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>経験の少ない若年故の弱さ……と言う事ですか。"
+                                "\\N<Segi>You mean the weakness that comes with the inexperience of\nyouth..."
                             ]
                         },
                         {
@@ -2938,14 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、尤もそれが何なのか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは今の俺にも判らんがな。"
+                                "\\N<Rozaro>Yes, although what that might be... even I don't know at\nthis point."
                             ]
                         },
                         {
@@ -3034,7 +2950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、少しいいかい？"
+                                "\\N<Rozaro>Miss Segi, may I have a moment?"
                             ]
                         },
                         {
@@ -3058,7 +2974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、何か御用でしょうか……？"
+                                "\\N<Segi>Yes, do you need something...?"
                             ]
                         },
                         {
@@ -3082,14 +2998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>いや、先日の話だがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の次の貴女の相手、フービィの弱みについてだが……。"
+                                "\\N<Rozaro>No, it's about the other day's conversation. It's regarding\nFubii's weakness, the next opponent you're facing..."
                             ]
                         },
                         {
@@ -3113,7 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -3137,21 +3046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>結論から言うと未だ俺にはそれが何なのか判らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし思い付いたんだ。彼の過去を知る人物に話を聞く事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来れば或いはとね。"
+                                "\\N<Rozaro>To put it simply, I still don't know what it is. However,\nI've had an idea. If we could talk to someone who knows his\npast, perhaps we might find something."
                             ]
                         },
                         {
@@ -3175,7 +3070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>彼の過去を知る人物……ですか。"
+                                "\\N<Segi>Someone who knows his past...?"
                             ]
                         },
                         {
@@ -3199,21 +3094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、不透明な話で済まない。しかしそれ位しか彼の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事を知る術は無いとではと思えてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな話では却って貴女を混乱させてしまうだろうか？"
+                                "\\N<Rozaro>Yes, I apologize for the vague details. But that might be\nthe only way to learn anything about him. I wonder if\nbringing this up has only confused you more?"
                             ]
                         },
                         {
@@ -3237,14 +3118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ、とんでもありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴重なお話を有難う御座いました。"
+                                "\\N<Segi>No, not at all. Thank you very much for the valuable\ninformation."
                             ]
                         },
                         {
@@ -3362,14 +3236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>いや、先日の話だがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の次の貴女の相手、フービィの弱みについてだが……。"
+                                "\\N<Rozaro>No, it's about the other day's conversation. It's regarding\nthe weakness of your next partner, Fubii..."
                             ]
                         },
                         {
@@ -3393,7 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -3417,21 +3284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>結論から言うと未だ俺にはそれが何なのか判らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし思い付いたんだ。彼の過去を知る人物に話を聞く事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来れば或いはとね。"
+                                "\\N<Rozaro>To put it bluntly, I still don't know what it is. However,\nI've had a thought. If we could speak to someone who knows\nhis past, perhaps we might find something."
                             ]
                         },
                         {
@@ -3455,7 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>彼の過去を知る人物……ですか。"
+                                "\\N<Segi>Someone who knows his past...?"
                             ]
                         },
                         {
@@ -3479,21 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、不透明な話で済まない。しかしそれ位しか彼の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事を知る術は無いとではと思えてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな話では却って貴女を混乱させてしまうだろうか？"
+                                "\\N<Rozaro>Yes, I apologize for the opaque nature of this matter. But\nthat seems to be the only way to learn about him. I wonder\nif this conversation has only served to confuse you more?"
                             ]
                         },
                         {
@@ -3517,14 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ、とんでもありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴重なお話を有難う御座いました。"
+                                "\\N<Segi>No, not at all. Thank you for sharing such valuable\ninformation."
                             ]
                         },
                         {
@@ -3608,21 +3440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>用が無いなら話しかけないでくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺にはここで酒を飲む以外にこの辛い現実を忘れられる術が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無いんだからさ……。"
+                                "\\N<Man>If you don't need anything, please don't talk to me.\nDrinking here is the only way I can forget this harsh\nreality..."
                             ]
                         },
                         {
@@ -3759,21 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会で住民同士が争う様になり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆心が荒んで来ている……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしやリュダの連中はそれが狙いの一端なのかも知れんな。"
+                                "\\N<Man>The residents have started fighting each other at the\ntraining sessions, and everyone's becoming more\naggressive... Perhaps it's part of Ryuda's group's aim."
                             ]
                         },
                         {
@@ -3850,21 +3654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>近頃じゃこんな所にまでリュダの兵士達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔を出す様になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて酒くらい静かに飲ませて欲しいもんだぜ……。"
+                                "\\N<Man>These days, even the soldiers of Ryuda are showing their\nfaces around here. I just want to drink my booze in peace..."
                             ]
                         },
                         {
@@ -3941,21 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>試合を勝ち抜く力も無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かと言って遺跡で化け物相手に自らを鍛える力も無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな俺はこのまま死んでゆく運命なんだろうか……。"
+                                "\\N<Man>I don't have the strength to win matches, nor do I have the\npower to train myself against monsters in the ruins. Is it\nmy fate to just die like this..."
                             ]
                         },
                         {
@@ -4032,14 +3808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>恥ずかしい話ですが、妻も私も互いに心は冷め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に夫婦としての形を成してはいません。"
+                                "\\N<Man>It's embarrassing to admit, but my wife and I have grown\napart emotionally, and we no longer function as a couple."
                             ]
                         },
                         {
@@ -4056,14 +3825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>なのに何故私が彼女の為に命を懸けてまで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会に出場しなきゃならないのか……。"
+                                "\\N<Man>And yet, why must I risk my life for her by participating in\nthe training soldiers' tournament..."
                             ]
                         },
                         {
@@ -4226,14 +3988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>やあ、ウチの旦那に負けたセギじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か用かい？旦那なら見て判るだろうがここにはいないよ？"
+                                "\\N<Hojiko's Wife>Oh, if it isn't Segi, the one who lost to my husband. What\ndo you need? As you can see, my husband isn't here, is he?"
                             ]
                         },
                         {
@@ -4257,7 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わたしは……。"
+                                "\\N<Segi>I, I am..."
                             ]
                         },
                         {
@@ -4281,21 +4036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふふ、安心おしよ。アンタが例の練兵会に参加してる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事は誰にも言っちゃいないさ。同じ女だものね、そこ迄鬼畜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないさ。"
+                                "\\N<Hojiko's Wife>Hehe, relax. I haven't told anyone that you're participating\nin that military training meeting. We're both women, after\nall; I'm not that cruel."
                             ]
                         },
                         {
@@ -4312,21 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>だけどねえ……これからのアンタの態度次第じゃ私の気も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わっちまうかも知れないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい気を付ける事だねえ、ふふ。"
+                                "\\N<Hojiko's Wife>But you know... depending on your attitude from now on, my\nfeelings might change. You'd better be careful, hehe."
                             ]
                         },
                         {
@@ -4409,14 +4136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>やあ、ウチの旦那を叩きのめしてくれたセギじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か用かい？旦那なら見て判るだろうがここにはいないよ？"
+                                "\\N<Hojiko's Wife>Oh, if it isn't Segi, the one who beat up my husband. What\ndo you need? As you can see, my husband isn't here, right?"
                             ]
                         },
                         {
@@ -4440,7 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わたしは……。"
+                                "\\N<Segi>I, I am..."
                             ]
                         },
                         {
@@ -4464,21 +4184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふふ、安心おしよ。アンタが例の練兵会に参加してる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事は誰にも言っちゃいないさ。同じ女だものね、そこ迄鬼畜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないさ。"
+                                "\\N<Hojiko's Wife>Hehe, relax. I haven't told anyone that you're participating\nin that military training meeting. We're both women, after\nall; I'm not that cruel."
                             ]
                         },
                         {
@@ -4495,21 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>だけどねえ……これからのアンタの態度次第じゃ私の気も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わっちまうかも知れないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい気を付ける事だねえ、ふふ。"
+                                "\\N<Hojiko's Wife>But you know... depending on your attitude from now on, my\nfeelings might change. You'd better be careful, hehe."
                             ]
                         },
                         {
@@ -4585,21 +4277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>ふふ、安心おしよ。アンタが例の練兵会に参加してる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事は誰にも言っちゃいないさ。同じ女だものね、そこ迄鬼畜"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないさ。"
+                                "\\N<Hojiko's Wife>Hehe, don't worry. I haven't told anyone about your\nparticipation in that training session. We're both women,\nafter all; I'm not that cruel."
                             ]
                         },
                         {
@@ -4616,21 +4294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコの妻>だけどねえ……これからのアンタの態度次第じゃ私の気も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わっちまうかも知れないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい気を付ける事だねえ、ふふ。"
+                                "\\N<Hojiko's Wife>But you know... depending on how you behave from now on, my\nfeelings might change. You'd better be careful, hehe."
                             ]
                         },
                         {
@@ -4767,14 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>リュダの奴らだろうと客は客だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここじゃ銭さえ貰えればそれなりのもてなしをするよ。"
+                                "\\N<Shopkeeper>Whether they're from Ryuda or not, a customer is a customer.\nAs long as I get paid, I'll provide the proper hospitality\nhere."
                             ]
                         },
                         {
@@ -4791,14 +4448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>おかしな意地を張っても仕方ないって事さ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せこっちも生きていかなけりゃならないんでな。"
+                                "\\N<Shopkeeper>There's no point in being stubborn about it, after all, I've\ngot to make a living too."
                             ]
                         },
                         {
@@ -4909,7 +4559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4933,14 +4583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>どうしたんだい、そんなトコに突っ立って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここに足を運んだ言う事は働きに来てくれたって事だろう？"
+                                "\\N<Shopkeeper>What's the matter, standing there like that? If you've come\nhere, does that mean you've come to work?"
                             ]
                         },
                         {
@@ -4957,21 +4600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>来てくれると思っていたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに奥さんにとっては色々災難続きだったかも知れないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その分の報酬は出して来た筈だからね。"
+                                "\\N<Shopkeeper>I was hoping you'd come. It might have been a series of\nmisfortunes for you, madam, but I've made sure to provide a\nfair compensation for it."
                             ]
                         },
                         {
@@ -4995,14 +4624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>わたしは……報酬目当てに心までお売りしたつもりは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "有りません。"
+                                "\\N<Segi>I... did not intend to sell my heart along with my labor for\na reward."
                             ]
                         },
                         {
@@ -5026,14 +4648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>判っているよ、ウチと奥さんとはもう一蓮托生みたいな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モンだからね。だからこそ奥さんの為に協力したいのさ。"
+                                "\\N<Shopkeeper>I understand, you and our shop are in the same boat, so to\nspeak. That's why I want to help you out for your sake."
                             ]
                         },
                         {
@@ -5050,14 +4665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>ま、そう言う事さ。納得してくれたかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "例によって二階に着替えを用意してあるからね、頼んだよ？"
+                                "\\N<Shopkeeper>Well, that's how it is. Are you convinced? As usual, I've\nprepared a change of clothes upstairs, so I'm counting on\nyou, okay?"
                             ]
                         },
                         {
@@ -5111,7 +4719,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5135,14 +4743,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>どうしたんだい、そんなトコに突っ立って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここに足を運んだ言う事は働きに来てくれたって事だろう？"
+                                "\\N<Shopkeeper>What's the matter, standing there like that? If you've come\nhere, does that mean you've come to work?"
                             ]
                         },
                         {
@@ -5166,7 +4767,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -5190,14 +4791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ああ、前回の事かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そりゃあこう言う商売だもの、酒の席じゃ色々な事が有るさ。"
+                                "\\N<Shopkeeper>Ah, are you talking about last time? Well, in this kind of\nbusiness, various things can happen at a drinking party."
                             ]
                         },
                         {
@@ -5214,21 +4808,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>でもねえ、ソレを差っ引いてもアンタはここへ来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ソレが答えじゃないのかい？他でも無いアンタ自身がここで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "稼ぐ事を必要としているからだろう？"
+                                "\\N<Shopkeeper>But still, you came here despite that. Isn't that the\nanswer? It's none other than yourself who needs to earn\nmoney here, right?"
                             ]
                         },
                         {
@@ -5252,7 +4832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -5276,14 +4856,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>俺はアンタの事情には関与しないと言ったよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無論、ここで給仕する事も強制なんかじゃない。"
+                                "\\N<Shopkeeper>I said I wouldn't get involved in your personal\ncircumstances. Of course, serving here isn't something I'd\nforce on you."
                             ]
                         },
                         {
@@ -5300,14 +4873,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ま、そう言う事さ。納得してくれたかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "例によって二階に着替えを用意してあるからね、頼んだよ？"
+                                "\\N<Shopkeeper>Well, that's how it is. Are you convinced? As usual, I've\nprepared a change of clothes upstairs, so I'm counting on\nyou, okay?"
                             ]
                         },
                         {
@@ -5361,7 +4927,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5385,14 +4951,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>やあ、来てくれたんだね、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また来てくれると思っていたよ。"
+                                "\\N<Shopkeeper>Hey, glad you came, madam. I was hoping you'd come again."
                             ]
                         },
                         {
@@ -5416,7 +4975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5440,14 +4999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ふふ、そんな暗いカオしていちゃあ客は湧かないよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "人前に出るならもっと明るくいかなきゃね？"
+                                "\\N<Shopkeeper>Heh, you won't attract customers with such a gloomy face.\nYou need to be brighter if you're going to be out in front\nof people, right?"
                             ]
                         },
                         {
@@ -5464,21 +5016,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>勿論俺は奥さんの事情には関与しない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "余計なクビを突っ込むつもりも無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺達は飽く迄商売としての関係と言う訳さ。"
+                                "\\N<Shopkeeper>Of course, I won't get involved in your personal\ncircumstances. I have no intention of sticking my nose into\nunnecessary matters. Our relationship is strictly business."
                             ]
                         },
                         {
@@ -5495,14 +5033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ふふ、安心したかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "例によって二階に着替えを用意してあるからね、頼んだよ？"
+                                "\\N<Shopkeeper>Heh, feeling relieved? As usual, I've prepared a change of\nclothes upstairs, so I'm counting on you, okay?"
                             ]
                         },
                         {
@@ -5563,7 +5094,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>あ、あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -5587,14 +5118,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>また来てくれたんだね、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここだけの話だけどね、実は来てくれると思っていたのさ。"
+                                "\\N<Shopkeeper>Glad you came again, madam. Just between us, I actually\nthought you would come."
                             ]
                         },
                         {
@@ -5618,7 +5142,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5642,14 +5166,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>ああ、安心して欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "俺は奥さんの事情自体には興味が無いからね。"
+                                "\\N<Shopkeeper>Ah, rest assured. I'm not interested in your personal\ncircumstances."
                             ]
                         },
                         {
@@ -5666,21 +5183,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>問題なのは奥さんは客を集める事が出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そして俺はその対価に報いる事が出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それこそが重要な事なんだ。"
+                                "\\N<Shopkeeper>The issue is that you can attract customers. And I can\ncompensate you for that. That's what's important."
                             ]
                         },
                         {
@@ -5704,7 +5207,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5728,21 +5231,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>早速、仕事の話移ってもいいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "と言っても今回は原料集めに向かって貰う必要は無いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お願いしたいのは接客だけさ。勿論報酬は弾む。"
+                                "\\N<Shopkeeper>Shall we move on to the job at hand? Though this time\nthere's no need for you to go gathering materials. What I\nneed from you is just your service. Of course, the reward\nwill be generous."
                             ]
                         },
                         {
@@ -5766,14 +5255,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>ま、待って下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "わたしはまだお仕事を受けるとお伝えした訳では……。"
+                                "\\N<Segi>Wait, please. I haven't yet said that I would take the\njob..."
                             ]
                         },
                         {
@@ -5797,7 +5279,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>……そうなの？"
+                                "\\N<Shopkeeper>...Is that so?"
                             ]
                         },
                         {
@@ -5821,7 +5303,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -5863,7 +5345,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>ははは、この際お互い面倒な事は忘れようよ。"
+                                "\\N<Shopkeeper>Hahaha, let's forget about the troublesome stuff for now."
                             ]
                         },
                         {
@@ -5880,14 +5362,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>さっきも言っただろ、俺は奥さんの働きに応える事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "出来るって。しかもあなたが最も望む形で……さ？"
+                                "\\N<Shopkeeper>As I said before, I can compensate for your work. And in the\nform that you desire most... right?"
                             ]
                         },
                         {
@@ -5911,7 +5386,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5935,14 +5410,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>ま、そう言う事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "例によって二階に着替えを用意してあるからね、頼んだよ？"
+                                "\\N<Shopkeeper>Well, that's how it is. As usual, I've prepared a change of\nclothes upstairs, so I'm counting on you, okay?"
                             ]
                         },
                         {
@@ -5996,7 +5464,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -6020,7 +5488,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>ん？どうしたい、奥さん。"
+                                "\\N<Shopkeeper>Hm? What is it, madam?"
                             ]
                         },
                         {
@@ -6044,14 +5512,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>その、依頼板を拝見しました。もし宜しければわたしで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "お力になれないかなと思いまして……。"
+                                "\\N<Segi>That is... I saw the request board. If it's alright with\nyou, I thought maybe I could be of some help..."
                             ]
                         },
                         {
@@ -6075,7 +5536,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>依頼板を？奥さんが引き受けてくれるのかい？"
+                                "\\N<Shopkeeper>The request board? You're going to take on a request?"
                             ]
                         },
                         {
@@ -6099,7 +5560,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はい、わたしで良ければお手伝い致します。"
+                                "\\N<Segi>Yes, if it's alright with you, I would like to help."
                             ]
                         },
                         {
@@ -6123,7 +5584,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>それは助かるよ。奥さんなら願ったりだ。"
+                                "\\N<Shopkeeper>That would be a great help. If it's you, madam, it's just\nwhat I wished for."
                             ]
                         },
                         {
@@ -6147,7 +5608,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -6171,7 +5632,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>じゃあ早速改めて依頼内容について説明させて貰うよ。"
+                                "\\N<Shopkeeper>Then, let me explain the details of the request right away."
                             ]
                         },
                         {
@@ -6195,7 +5656,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はい、お願い致します。"
+                                "\\N<Segi>Yes, please do."
                             ]
                         },
                         {
@@ -6219,14 +5680,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>とは言っても単純な話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "奥さんに頼みたいのは簡単な接客補助かな。"
+                                "\\N<Shopkeeper>Although it's a simple matter. What I want to ask of you,\nmadam, is some help with customer service."
                             ]
                         },
                         {
@@ -6250,14 +5704,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>接客の補助……判りました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ではわたしは何をすれば……？"
+                                "\\N<Segi>Assistance with customer service... Understood. So what\nshould I do...?"
                             ]
                         },
                         {
@@ -6281,14 +5728,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>うん、じゃあちょっと二階に行って貰おうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そこで準備があるからね。"
+                                "\\N<Shopkeeper>Yeah, could you go upstairs for a bit? There are\npreparations there."
                             ]
                         },
                         {
@@ -6312,7 +5752,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -6336,14 +5776,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>まあ、その辺の詳しい事は後から話すよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "じゃあ頼んだぜ？"
+                                "\\N<Shopkeeper>Well, I'll talk about the specifics later. So I'm counting\non you, okay?"
                             ]
                         },
                         {
@@ -6470,21 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>この際お互い面倒な事は忘れようよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきも言っただろ、俺は奥さんの働きに応える事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るって。しかもあなたが最も望む形で……さ？"
+                                "\\N<Shopkeeper>Let's forget about the troublesome stuff for now. Like I\nsaid before, I can compensate for your hard work, and in the\nway you desire most... right?"
                             ]
                         },
                         {
@@ -6508,7 +5927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6532,14 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ま、そう言う事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例によって二階に着替えを用意してあるからね、頼んだよ？"
+                                "\\N<Shopkeeper>Well, that's how it is. As usual, I've prepared a change of\nclothes upstairs, so I'm counting on you, okay?"
                             ]
                         },
                         {
@@ -6607,14 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>リュダの奴らだろうと客は客だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここじゃ銭さえ貰えればそれなりのもてなしをするよ。"
+                                "\\N<Shopkeeper>Whether they're from Ryuda or not, a customer is a customer.\nAs long as I get paid, I'll provide the appropriate\nhospitality."
                             ]
                         },
                         {
@@ -6631,14 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>おかしな意地を張っても仕方ないって事さ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せこっちも生きていかなけりゃならないんでな。"
+                                "\\N<Shopkeeper>There's no point in being stubborn about it, after all, I've\ngot to make a living too."
                             ]
                         },
                         {

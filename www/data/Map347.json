@@ -2018,14 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの育成機関である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無くば無駄な嫌疑がかかる前に立ち去る事だ。"
+                                "\\N<Ryuda Soldier>This is the training institution of Ryuda. If you have no\nbusiness here, leave before unnecessary suspicion falls upon\nyou."
                             ]
                         },
                         {
@@ -2103,14 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>見てわかんないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強中なんだ、話しかけないでよ……。"
+                                "\\N<Ryuda Soldier>Can't you see? I'm studying right now, don't talk to me..."
                             ]
                         },
                         {
@@ -2187,21 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>わたしのパパは練兵会で戦ってるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまだいいけどさ、もしも負けちゃったりしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやママはどうなるんだろう……。"
+                                "\\N<Ryuda Soldier>My dad is fighting in the training troops... It's still okay\nfor now, but I wonder what will happen to me and mom if he\never loses..."
                             ]
                         },
                         {
@@ -2278,14 +2250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>僕は何のためにここに通ってるんだろう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイになるため？それとも……。"
+                                "\\N<Ryuda Soldier>What am I even doing here... To become a soldier of Ryuda?\nOr maybe..."
                             ]
                         },
                         {
@@ -2362,14 +2327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だれ……？用が無いなら向こうへ行ってよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイに見られたくないんだ。"
+                                "\\N<Ryuda Soldier>Who...? If you have no business, please go over there. I\ndon't want to be seen by the Ryuda soldiers."
                             ]
                         },
                         {
@@ -2446,14 +2404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここでは街の子供達が学んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前は純粋な学問所でしたが……。"
+                                "\\N<Man>Here is where the children of the town learn. It used to be\na pure place of study, but..."
                             ]
                         },
                         {
@@ -2824,7 +2775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>やあ、リイアくんにラメちゃん……こ、こんにちは。"
+                                "\\N<Red Cap Boy>Hey, Riia-kun and Rame-chan... h-hello."
                             ]
                         },
                         {
@@ -2848,7 +2799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>こんにちは。どう？少しはここにも慣れた？"
+                                "\\N<Riia>Hello. How is it? Have you gotten a bit used to this place?"
                             ]
                         },
                         {
@@ -2872,14 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>うん……ち、ちょっとだけね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この間は……アイツらから助けてくれて本当にありがとう。"
+                                "\\N<Red Cap Boy>Yeah... j-just a little. Thanks a lot for saving me from\nthem the other day."
                             ]
                         },
                         {
@@ -2903,14 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>別にいいよ。困ってる人は助けないとダメだって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パパから言われてるもの。"
+                                "\\N<Riia>It's nothing. My dad always says we have to help people in\ntrouble."
                             ]
                         },
                         {
@@ -2934,7 +2871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>そうなんだ……君のパパは立派な人なんだね。"
+                                "\\N<Red Cap Boy>I see... Your dad must be a great man."
                             ]
                         },
                         {
@@ -2958,14 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>うん、ぼくは大きくなったら必ずパパみたいな男に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるんだ。"
+                                "\\N<Riia>Yeah, when I grow up, I'm definitely going to be a man like\nmy dad."
                             ]
                         },
                         {
@@ -3027,14 +2957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ユイアさんみたいに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアちゃんには無理そうだけどなあ。"
+                                "\\N<Rame>Like Yuia-san? It seems impossible for Riia-chan though."
                             ]
                         },
                         {
@@ -3089,14 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>何だよ、それ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事ないよ、必ずパパのみたいな強い男になるんだ。"
+                                "\\N<Riia>What's that supposed to mean? That's not true, I'll\ndefinitely become a strong man like my dad."
                             ]
                         },
                         {
@@ -3120,14 +3036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>強くなる？最近リイちゃんいつもそう言うけどさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何のために強くなるの……？"
+                                "\\N<Rame>Become strong? Lately, Riia-chan always says that, but what\nfor...?"
                             ]
                         },
                         {
@@ -3151,14 +3060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>そんなの……決まってるじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん……大切な人を守るためさ。"
+                                "\\N<Riia>That's obvious, isn't it? Of course... it's to protect the\npeople important to me."
                             ]
                         },
                         {
@@ -3182,7 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……そうなんだ、強くなって誰を守るの……？"
+                                "\\N<Rame>...I see, who are you going to protect by becoming\nstrong...?"
                             ]
                         },
                         {
@@ -3206,14 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>そ、そんなのラメちゃんには関係ないじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でそんな事きくの？"
+                                "\\N<Riia>Th-that's none of Rame-chan's business. Why are you asking\nthat?"
                             ]
                         },
                         {
@@ -3237,7 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……関係なくないもん。"
+                                "\\N<Rame>...It's not unrelated."
                             ]
                         },
                         {
@@ -3261,7 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>え……？"
+                                "\\N<Riia>Huh...?"
                             ]
                         },
                         {
@@ -3294,14 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>あ、あのさ……その……二人はいつも一緒なんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それって……な、仲良しだから……なのかな？"
+                                "\\N<Red Cap Boy>Uh, um... you two... are always together. Does that mean...\nyou're good friends... or something?"
                             ]
                         },
                         {
@@ -3387,14 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>そんな事ないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラメちゃんが勝手に僕について来るだけさ。"
+                                "\\N<Riia>That's not it. Rame-chan just follows me around on her own."
                             ]
                         },
                         {
@@ -3418,14 +3299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>そうだよね、仲良しなんかじゃないよね。いつも勝手に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアちゃんがわたしについて来るだけだもんね。"
+                                "\\N<Rame>That's right, we're not friends or anything. It's always\nRiia-chan who follows me around on his own."
                             ]
                         },
                         {
@@ -3449,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>何言ってるの？そんな事あるワケないじゃん。"
+                                "\\N<Riia>What are you talking about? That's not true at all."
                             ]
                         },
                         {
@@ -3473,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>そう？わたしにはそう見えるけど。"
+                                "\\N<Rame>Really? That's how it looks to me."
                             ]
                         },
                         {
@@ -3506,21 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>あ、あのさ……って言うかさ、ひとつ聞いてイイ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアくんはさ、パパみたいに……って言うケドさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、なんだかパパがもういないみたいな口振りじゃない？"
+                                "\\N<Red Cap Boy>Uh, um... can I ask something? Riia-kun, you say you want to\nbe like your dad... but it sounds like your dad is no longer\naround?"
                             ]
                         },
                         {
@@ -3553,7 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ユ、ユイアさん……リイアちゃんのパパは……！"
+                                "\\N<Rame>Y-Yuia-san... Riia-chan's dad is...!"
                             ]
                         },
                         {
@@ -3577,7 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……イイよ、ラメちゃん。パパは必ず帰ってくるもの……。"
+                                "\\N<Riia>...It's okay, Rame-chan. Dad will definitely come back..."
                             ]
                         },
                         {
@@ -3610,21 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>そ、そっか！帰って来るってコトは今はいないんだね！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じ、じゃあさ……あのキレイな君のママって今、こいびととか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるのかな……！？"
+                                "\\N<Red Cap Boy>I see! So if he's coming back, that means he's not here now,\nright?! Then... does your beautiful mom have a boyfriend or\nsomething now...!?"
                             ]
                         },
                         {
@@ -3648,7 +3494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>な、何言ってるの……？"
+                                "\\N<Rame>Wh-what are you saying...?"
                             ]
                         },
                         {
@@ -3895,14 +3741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>あ、あれ……？どうしたのかな、リイア君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕何かヘンな事言っちゃったかな……？"
+                                "\\N<Red Cap Boy>Oh, uh...? What's wrong, Riia-kun? Did I say something\nweird...?"
                             ]
                         },
                         {
@@ -3926,7 +3765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>リイアちゃん……。"
+                                "\\N<Rame>Riia-chan..."
                             ]
                         },
                         {
@@ -3990,21 +3829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>へ、へへ……でもイイや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せ、せっかく二人っきりになれたんだからさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕とお話ししようよ……ラメちゃん。"
+                                "\\N<Red Cap Boy>Heh, hehe... but it's okay. Since we're alone together,\nlet's talk... Rame-chan."
                             ]
                         },
                         {
@@ -4021,14 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>ぼ、僕……ウリポって言うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからよろしくね……へへ……。"
+                                "\\N<Red Cap Boy>I-I'm called Uripo. Please take care of me from now on...\nhehe..."
                             ]
                         },
                         {
@@ -4052,7 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……。"
+                                "\\N<Rame>..."
                             ]
                         },
                         {

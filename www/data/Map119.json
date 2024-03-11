@@ -2482,14 +2482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……この昇降機が湖底遺跡の上層部に通じているのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以前探索した査定用施設とは違う、本物の遺跡内部に……。"
+                                "\\N<Segi>...This elevator leads to the upper levels of the lakebed\nruins. It's different from the assessment facility we\nexplored before, this is the real interior of the ruins..."
                             ]
                         },
                         {
@@ -2504,8 +2497,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "準備は出来た",
-                                    "準備を整える"
+                                    "I'm ready.",
+                                    "Let's get ready."
                                 ],
                                 -2,
                                 0,
@@ -2551,7 +2544,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……行かなきゃ。もう決めたんだから……。"
+                                "\\N<Segi>...We have to go. I've already decided..."
                             ]
                         },
                         {
@@ -2727,7 +2720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's come back after we've prepared..."
                             ]
                         },
                         {
@@ -2854,8 +2847,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "遺跡へ進入する",
-                                    "準備を整える"
+                                    "Enter the ruins",
+                                    "Prepare for the expedition"
                                 ],
                                 -2,
                                 0,
@@ -3030,7 +3023,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's come back again after we get ready..."
                             ]
                         },
                         {

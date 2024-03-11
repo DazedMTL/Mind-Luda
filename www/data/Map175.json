@@ -4695,21 +4695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この街の連中は運が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には有無を言わさず虐殺の憂目に遭った街もある程だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズーテルカ様に感謝するんだな。"
+                                "\\N<Ryuda Soldier>The people of this town are lucky. There are places that\nhave been massacred without question. Be thankful to Lord\nZuuteruka."
                             ]
                         },
                         {
@@ -5280,14 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、管理所に行っていたのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしやとは思うが次の相手の事か？"
+                                "\\N<Rozaro>Segi-san, were you at the management office? Could it be\nabout your next opponent?"
                             ]
                         },
                         {
@@ -5311,7 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。ご推察の通りです。"
+                                "\\N<Segi>...Yes. As you surmised."
                             ]
                         },
                         {
@@ -5335,14 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふむ……良ければまた対戦相手の事を教えてくれるかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "微力だが力になろう。"
+                                "\\N<Rozaro>Hmm... If it's alright with you, could you tell me more\nabout your opponent? I'd like to offer whatever little help\nI can."
                             ]
                         },
                         {
@@ -5366,7 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、喜んで。"
+                                "\\N<Segi>Yes, I'd be glad to."
                             ]
                         },
                         {
@@ -5423,14 +5395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>死刑囚ゾゾイェ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成程、奴が次のセギさんの相手と言う訳か。"
+                                "\\N<Rozaro>The death row inmate Zozoie... I see, so he's the next one\nto face Segi-san."
                             ]
                         },
                         {
@@ -5454,7 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……やはり御存知なのですか？"
+                                "\\N<Segi>Yes... You already knew about him?"
                             ]
                         },
                         {
@@ -5478,21 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、その筋では随分と悪名を馳せた男さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か元野盗の頭目だとか何とか……目的の為には手段を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "択ばないケダモノの様な男だと聞いた。"
+                                "\\N<Rozaro>Ah, he's quite infamous in certain circles. I heard he was\nonce the leader of a band of bandits... A man who wouldn't\nchoose means for his ends, like a beast."
                             ]
                         },
                         {
@@ -5509,14 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>その上、滅法腕も立つらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の刃にかかった者は数知れずと言う噂だ。"
+                                "\\N<Rozaro>Moreover, he's said to be extremely skilled. Rumor has it\nthat countless have fallen to his blade."
                             ]
                         },
                         {
@@ -5540,7 +5484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5564,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……すまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女を不安がらせるつもりで言った訳じゃないんだ。"
+                                "\\N<Rozaro>...I apologize. I didn't mean to make you anxious with what\nI said."
                             ]
                         },
                         {
@@ -5595,14 +5532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふふ、平気です。練兵会に参加すると決めた時から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな事も覚悟していましたから。"
+                                "\\N<Segi>Hehe, it's okay. I was prepared for this when I decided to\njoin the training soldiers' meeting."
                             ]
                         },
                         {
@@ -5626,14 +5556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……そうか。とは言え、流石に無策で戦いに臨むのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "適当じゃない。何かしらの対応策を準備しておかなければな。"
+                                "\\N<Rozaro>...I see. Still, it's not wise to go into battle without a\nplan. We must prepare some sort of countermeasure."
                             ]
                         },
                         {
@@ -5833,14 +5756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>リュダの連中が通った跡は草木一本残らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "専らの噂です……。"
+                                "\\N<Woman>It's widely rumored that not a single plant remains where\nthe people of Ryuda have passed..."
                             ]
                         },
                         {
@@ -5857,14 +5773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>勿論尾鰭がついた噂でしょうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも私はこの街の行く末が心配になります……。"
+                                "\\N<Woman>Of course, it's probably a rumor that's been exaggerated,\nbut even so, I worry about the future of this town..."
                             ]
                         },
                         {
@@ -5992,14 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そこの管理所は以前は文字通り街の中枢とも言える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理機関だった。"
+                                "\\N<Man>The management office over there used to be quite literally\nthe nerve center of the city."
                             ]
                         },
                         {
@@ -6016,14 +5918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>まあ……今はすっかりこの街に駐留するリュダの連中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理統治機関になってしまったがな……。"
+                                "\\N<Man>Well... now it's completely turned into the administrative\ngoverning body for the Ryuda troops stationed in this\ntown..."
                             ]
                         },
                         {
@@ -6151,14 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>中には街の駐屯管理者ズーテルカ様がおられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも口の利き方には気を付ける事だ。"
+                                "\\N<Ryuda Soldier>Inside, you'll find the town's garrison commander, Lord\nZuuteruka. Be very careful about how you speak."
                             ]
                         },
                         {
@@ -6465,14 +6353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>へ、へへ……楽しかったなあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきはいっぱいラメちゃんとしゃべっちゃった……。"
+                                "\\N<Red Cap Ulipo>Heh, heh... that was fun... I talked a lot with Rame-chan\njust now..."
                             ]
                         },
                         {
@@ -6637,7 +6518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>やあ。こんにちは。ここで何をしているんだい？"
+                                "\\N<Fubii>Hey there. Good afternoon. What are you doing here?"
                             ]
                         },
                         {
@@ -6661,7 +6542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>あ……！？"
+                                "\\N<Red Cap Ulipo>Ah...!?"
                             ]
                         },
                         {
@@ -6685,14 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、そう怖がらないでよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボク達は友達……仲間じゃないか。"
+                                "\\N<Fubii>Ahaha, don't be so scared. We're friends... comrades, aren't\nwe?"
                             ]
                         },
                         {
@@ -6716,7 +6590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>な、仲間……？き、きみらと僕が……？"
+                                "\\N<Red Cap Ulipo>C-comrades...? You and me...?"
                             ]
                         },
                         {
@@ -6740,7 +6614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そう。違う？同じ教練所に通う仲間だよね？"
+                                "\\N<Fubii>That's right. Isn't that so? We're comrades who attend the\nsame training school, right?"
                             ]
                         },
                         {
@@ -6773,7 +6647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>う……うん。"
+                                "\\N<Red Cap Ulipo>U... yeah."
                             ]
                         },
                         {
@@ -6797,7 +6671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>でしょ？なら君を仲間と見込んで大事な話があるんだ。"
+                                "\\N<Fubii>See? So, as a comrade, I have something important to discuss\nwith you."
                             ]
                         },
                         {
@@ -6821,14 +6695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>大事な話……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何それ……ぼ、僕に……何の用なの……？"
+                                "\\N<Red Cap Ulipo>Something important...? What is it... what do you want with\nme...?"
                             ]
                         },
                         {
@@ -6852,14 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>キミさ、最近……リイアやラメと仲いいよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして？"
+                                "\\N<Fubii>You see, lately... you've been getting along well with Riia\nand Rame. Why is that?"
                             ]
                         },
                         {
@@ -6883,14 +6743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>ど、どうしてって……二人は僕を君達から助けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれたし……あ……！？"
+                                "\\N<Red Cap Ulipo>Why you ask... they helped me from you guys... ah...!?"
                             ]
                         },
                         {
@@ -6914,21 +6767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、いいよいいよ、気にしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せボクらはもう友達だからね。でも友達って言ってもさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それって無限に持ってていいものじゃないでしょ？"
+                                "\\N<Fubii>Ahaha, it's okay, don't worry about it. After all, we're\nfriends now. But even if we say friends? That's not\nsomething you can have infinitely, right?"
                             ]
                         },
                         {
@@ -6945,14 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だから……さ？リイアやラメ、そしてボク。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちと友達になった方が得かは考えるまでも無いよね？"
+                                "\\N<Fubii>So... right? Riia and Rame, and then me. It's obvious who\nwould be more beneficial to be friends with, isn't it?"
                             ]
                         },
                         {
@@ -6976,7 +6808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>え……！？"
+                                "\\N<Red Cap Ulipo>Eh...!?"
                             ]
                         },
                         {
@@ -7000,21 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ボクのところへおいでよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすればもう教練所の誰にも手出しはさせない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクがキミを守ってあげるからさ。"
+                                "\\N<Fubii>Come to my side. If you do, I won't let anyone from the\ntraining school lay a finger on you. I'll protect you."
                             ]
                         },
                         {
@@ -7038,7 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>で、でも……。"
+                                "\\N<Red Cap Ulipo>But..."
                             ]
                         },
                         {
@@ -7062,7 +6880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>キミさ、ラメが好きなんだろ？"
+                                "\\N<Fubii>You like Rame, don't you?"
                             ]
                         },
                         {
@@ -7086,7 +6904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>そ、そんな事……っ！"
+                                "\\N<Red Cap Ulipo>That's not...!"
                             ]
                         },
                         {
@@ -7110,14 +6928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>いいよ、隠さなくても。彼女かわいいもんねえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクの友達になったら彼女をモノにさせてやるよ。"
+                                "\\N<Fubii>It's okay, no need to hide it. She's cute, isn't she? If you\nbecome my friend, I'll let you have her."
                             ]
                         },
                         {
@@ -7141,7 +6952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>も、モノに……って……え……？"
+                                "\\N<Red Cap Ulipo>Have her... like... eh...?"
                             ]
                         },
                         {
@@ -7165,14 +6976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>キミの好きにさせてやるって事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モチロン彼女の身体の隅々まで……ね？"
+                                "\\N<Fubii>I mean I'll let you do as you please with her. Of course,\nevery inch of her body... you know?"
                             ]
                         },
                         {
@@ -7196,7 +7000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>ラ、ラメちゃんの……身体……。"
+                                "\\N<Red Cap Ulipo>Rame-chan's... body..."
                             ]
                         },
                         {
@@ -7220,21 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ま、タダでとはいかないケドね。その代わりキミには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアのおばさんの弱みを握って来て欲しいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女がボクに逆らう事が出来なくなる位のモノをね。"
+                                "\\N<Fubii>Well, it won't be for free though. In exchange, I want you\nto find some dirt on Riia's aunt. Something that will make\nit impossible for her to oppose me."
                             ]
                         },
                         {
@@ -7258,7 +7048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>リイアのママの……？そ、そんな……どうやって……？"
+                                "\\N<Red Cap Ulipo>Riia's mom's...? How am I supposed to...?"
                             ]
                         },
                         {
@@ -7282,21 +7072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>それはキミに任せるよ。リイアを裏切る事になるだろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケド、そしたらおばさんもボクの言いなりになるかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それってキミにとっても丁度イイんじゃないの？"
+                                "\\N<Fubii>I'll leave that up to you. It will mean betraying Riia, but\nthen her aunt might become obedient to me too. That would be\njust perfect for you, wouldn't it?"
                             ]
                         },
                         {
@@ -7320,7 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽のウリポ>そ、それは……。"
+                                "\\N<Red Cap Ulipo>That is..."
                             ]
                         },
                         {
@@ -7344,14 +7120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、話はまとまったみたいだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、楽しみにしてるよ？"
+                                "\\N<Fubii>Ahaha, looks like we've come to an agreement. I'm looking\nforward to it, okay?"
                             ]
                         },
                         {

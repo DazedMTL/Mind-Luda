@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの管理する施設である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らが自由に立ち入れる場所では無い。"
+                                "\\N<Ryuda Soldier>This is a facility managed by us Ryuda. It is not a place\nwhere you can freely enter."
                             ]
                         },
                         {
@@ -2014,7 +2007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -2038,7 +2031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ん？何だ？お前の様な女がここへ何の用だ？"
+                                "\\N<Ryuda Soldier>Hm? What do you want? What's a woman like you doing here?"
                             ]
                         },
                         {
@@ -2062,14 +2055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その……この先の訓練施設への入場を許可して頂きたく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思い、足を運びました。"
+                                "\\N<Segi>Well... I came here to request permission to enter the\ntraining facility ahead."
                             ]
                         },
                         {
@@ -2093,7 +2079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>訓練施設だと？お前が？"
+                                "\\N<Ryuda Soldier>The training facility? You?"
                             ]
                         },
                         {
@@ -2117,7 +2103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -2141,21 +2127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くくく、おいおい冗談だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の様な女が易々と立ち入る様な場所じゃないぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判ってて言っているのか？ええ？お姉ちゃん。"
+                                "\\N<Ryuda Soldier>Hahaha, come on, you're joking, right? A place like this\nisn't for a woman like you to just waltz into. Do you\nunderstand what you're asking? Huh, missy?"
                             ]
                         },
                         {
@@ -2179,14 +2151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……勿論です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冗談や酔狂でお願いしている訳ではありません。"
+                                "\\N<Segi>...Of course. I'm not asking as a joke or on a whim."
                             ]
                         },
                         {
@@ -2210,7 +2175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ほう……？"
+                                "\\N<Ryuda Soldier>Oh...?"
                             ]
                         },
                         {
@@ -2234,7 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2258,21 +2223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふん……成程ね、一応は本気って訳かい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがな、残念だがこの先へは正式な許可無く立ち入る事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ないのさ。"
+                                "\\N<Ryuda Soldier>Hmph... I see, so you're serious after all. But\nunfortunately, without official permission, you can't\nproceed any further."
                             ]
                         },
                         {
@@ -2289,14 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>それにその為の許可が降りるのは、飽く迄練兵会に参加の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦士に限られる。ま、諦めて引き返す事だな。"
+                                "\\N<Ryuda Soldier>Besides, such permission is only granted to warriors\nparticipating in the training assembly. You might as well\ngive up and turn back."
                             ]
                         },
                         {
@@ -2336,14 +2280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わたしはその練兵会出場の戦士候補です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入場の為の権利ならあるかと思いますが。"
+                                "\\N<Segi>I am a warrior candidate for that training assembly. I\nbelieve I have the right to enter."
                             ]
                         },
                         {
@@ -2367,7 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>練兵会の戦士候補だ？お前が？"
+                                "\\N<Ryuda Soldier>A warrior candidate for the training assembly? You?"
                             ]
                         },
                         {
@@ -2391,14 +2328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、何か不審が御有りでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしの様な女が参加する例もあると聞いていますが。"
+                                "\\N<Segi>Yes, is there something suspicious about that? I've heard of\nwomen participating before."
                             ]
                         },
                         {
@@ -2422,21 +2352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それに……ここは飽く迄査定用の訓練施設だと伺いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならばわたしの様な者でも、何とか対応出来るのではと思い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ます。"
+                                "\\N<Segi>Besides... I was informed that this is merely an assessment\ntraining facility. Therefore, I thought even someone like me\ncould manage it."
                             ]
                         },
                         {
@@ -2460,7 +2376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -2484,7 +2400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2508,14 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく……判った、いいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その代わりせいぜい後悔しねえようにな。"
+                                "\\N<Ryuda Soldier>Heh... Alright, fine. But make sure you don't end up\nregretting it."
                             ]
                         },
                         {
@@ -2539,7 +2448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……御忠告有難う御座います。"
+                                "\\N<Segi>...Thank you for your advice."
                             ]
                         },
                         {
@@ -2570,14 +2479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>入場前にひとつ確認だ。アンタこの先の訓練施設へ入る為"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の保護措置については知ってるかい？"
+                                "\\N<Ryuda Soldier>One thing before you enter. Are you aware of the protective\nmeasures required to enter the training facility ahead?"
                             ]
                         },
                         {
@@ -2601,7 +2503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>保護措置……ですか？"
+                                "\\N<Segi>Protective measures...?"
                             ]
                         },
                         {
@@ -2625,14 +2527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうだ。遺跡内には人体に有害な毒気が蔓延している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのままではとても分け入れたモンじゃねえ。"
+                                "\\N<Ryuda Soldier>That's right. There's a toxic miasma inside the ruins that's\nharmful to the human body. You can't just waltz in there\nunprotected."
                             ]
                         },
                         {
@@ -2672,21 +2567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>（ロザロさんも仰っていた……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡の毒気を彼等リュダの技術で回避する方法があるって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは恐らくその事だわ）"
+                                "\\N<Segi>(Rozaro mentioned... there's a way to avoid the ruins' toxic\nmiasma using Ryuda technology. This must be what he was\ntalking about.)"
                             ]
                         },
                         {
@@ -2710,21 +2591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先は確かに飽く迄査定用の訓練施設だが、それでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡の一部だ。つまりそれなりの毒気が蔓延する危険な場所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わりはねえって訳だ。"
+                                "\\N<Ryuda Soldier>The place ahead is indeed an assessment training facility,\nbut it's still part of the ruins. In other words, it's a\ndangerous place filled with toxic miasma."
                             ]
                         },
                         {
@@ -2741,14 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>つまり……その為の処置として、アンタにも他の連中と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ様にコイツを服用して貰う事になる。"
+                                "\\N<Ryuda Soldier>So... as a measure against that, you'll need to take this\njust like everyone else."
                             ]
                         },
                         {
@@ -2818,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>これは……。"
+                                "\\N<Segi>This is..."
                             ]
                         },
                         {
@@ -2835,14 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>言っただろう？毒気による汚染を防ぐ為の抗毒剤さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつを服用するのが保護措置って訳だ。"
+                                "\\N<Ryuda Soldier>Didn't I tell you? It's an antidote to prevent contamination\nfrom the toxic miasma. That's the protective measure."
                             ]
                         },
                         {
@@ -2859,7 +2712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2876,21 +2729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？何か不審でもあるのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疑うのは勝手だが、コイツを服用しないまま遺跡内部に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏み入れば、その毒気で確実にあの世行きだぜ？"
+                                "\\N<Ryuda Soldier>What's wrong? Something bothering you? You're free to doubt,\nbut if you step inside the ruins without taking this, you'll\ndefinitely be on your way to the next world because of the\nmiasma."
                             ]
                         },
                         {
@@ -2907,21 +2746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>勿論、飲む飲まないはお前さんの自由だがな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の措置も講じない人間を遺跡内部に進入させる訳には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかねえ。当然だろう？"
+                                "\\N<Ryuda Soldier>Of course, whether you drink it or not is up to you, but we\ncan't let anyone who hasn't taken precautions enter the\nruins. Makes sense, right?"
                             ]
                         },
                         {
@@ -2938,7 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2955,7 +2780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……判りました。頂きます。"
+                                "\\N<Segi>...Understood. I'll take it."
                             ]
                         },
                         {
@@ -2972,14 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、まあ当然の選択だと思うぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、中に進んで見りゃ俺の言葉の意味も、身を以て判るさ。"
+                                "\\N<Ryuda Soldier>Heh, well that's the obvious choice, isn't it? Once you go\ninside, you'll understand what I mean firsthand."
                             ]
                         },
                         {
@@ -3085,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……これで良いでしょうか？"
+                                "\\N<Segi>...Is this alright?"
                             ]
                         },
                         {
@@ -3109,14 +2927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、言って置くが保護剤を服用したからって中は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全って訳じゃねえぞ？"
+                                "\\N<Ryuda Soldier>Yeah, but just because you've taken the antidote doesn't\nmean it's safe inside, got it?"
                             ]
                         },
                         {
@@ -3140,7 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……心得ているつもりです。"
+                                "\\N<Segi>...I intend to be cautious."
                             ]
                         },
                         {
@@ -3164,14 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうかい、奥の昇降機を使えば遺跡はすぐだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい気を付けてな。"
+                                "\\N<Ryuda Soldier>Is that so? Use the elevator at the back and you'll reach\nthe ruins right away. Take care now."
                             ]
                         },
                         {
@@ -3325,14 +3129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おっと、ここから先は立ち入り禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "湖底遺跡に入るには特別な許可が必要なのさ。"
+                                "\\N<Ryuda Soldier>Whoa there, this area is off-limits. You need special\npermission to enter the underwater ruins."
                             ]
                         },
                         {
@@ -3410,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>遺跡内部には未だ未到達な個所も多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隈なく探索すれば有用な物品を発見する事もあるかもな。"
+                                "\\N<Man>There are still many areas within the ruins that remain\nunexplored. If we search every nook and cranny, we might\ndiscover some useful items."
                             ]
                         },
                         {

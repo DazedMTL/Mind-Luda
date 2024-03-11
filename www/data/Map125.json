@@ -2131,21 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先を進めばズーテルカ様の執務室だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この駐留地の指揮官でもある方だ……せいぜい言動に留意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "する事だな。"
+                                "\\N<Ryuda Soldier>Beyond here is Lord Zuuteruka's office. He's also the\ncommander of this garrison... Make sure to watch your words\nand actions carefully."
                             ]
                         },
                         {
@@ -2229,28 +2215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:戦闘訓練"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:ロザロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]練兵会に向けての戦闘訓練。対人訓練を想定しており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相手を募集。"
+                                "\\C[1]■Request Details: Combat Training■Requester:\nRozaro\\C[0]Combat training in preparation for the Training\nCorps. Looking for a sparring partner for mock battles."
                             ]
                         },
                         {
@@ -2258,8 +2223,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -2466,28 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:戦闘訓練"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:ロザロ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]練兵会に向けての戦闘訓練。対人訓練を想定しており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相手を募集。"
+                                "\\C[1]■Request Details: Combat Training■Requester:\nRozaro\\C[0]Combat training in preparation for the Training\nCorps. Looking for a sparring partner for mock battles."
                             ]
                         },
                         {
@@ -2773,21 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:業務補佐"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:酒場店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]酒場運営に於いての簡素な業務補佐。"
+                                "\\C[1]■Request Details: Business Assistance■Requester: Tavern\nMaster\\C[0]Simple business assistance in the operation of\nthe tavern."
                             ]
                         },
                         {
@@ -2795,8 +2725,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -3003,21 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:業務補佐"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:酒場店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]酒場運営に於いての簡素な業務補佐。"
+                                "\\C[1]■Request Details: Business Assistance■Requester: Tavern\nMaster\\C[0]Simple business assistance in the operation of\nthe tavern."
                             ]
                         },
                         {
@@ -3153,14 +3069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここには住民達や我らリュダの兵よりの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼委託掲示板が設置されている。"
+                                "\\N<Ryuda Soldier>Here, we have a request board set up by the residents and\nour Ryuda soldiers."
                             ]
                         },
                         {
@@ -3177,21 +3086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>依頼案件は同時に複数受託する事は出来ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また、受託した依頼を達成し、その上で日付を跨ん限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他案件の受託も出来ん。"
+                                "\\N<Ryuda Soldier>You cannot undertake multiple requests at the same time.\nAlso, you cannot accept other requests until you complete\nthe one you've undertaken and the date changes."
                             ]
                         },
                         {
@@ -3275,28 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:その他"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:逗留画家"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]創作物制作についての助力、酒場2階に逗留中の依頼者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで申告の事。"
+                                "\\C[1]■Request Details: Other■Requester: The Sojourning\nPainter\\C[0] Assistance with creative works, report to the\nrequester staying on the second floor of the tavern."
                             ]
                         },
                         {
@@ -3304,8 +3178,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "この依頼を受託",
-                                    "保留する"
+                                    "Accept this request",
+                                    "Put on hold"
                                 ],
                                 1,
                                 0,
@@ -3512,28 +3386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]■依頼内容:その他"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[1]■依頼者:逗留画家"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]創作物制作についての助力、酒場2階に逗留中の依頼者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まで申告の事。"
+                                "\\C[1]■Request Details: Miscellaneous■Requester: The Sojourning\nPainter\\C[0]Assistance with creative work, report to the\nrequester staying on the second floor of the tavern."
                             ]
                         },
                         {
@@ -3682,7 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>何だ？この先に何の用だ？"
+                                "\\N<Ryuda Soldier>What's this? What business do you have beyond here?"
                             ]
                         },
                         {
@@ -3706,14 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ズーテルカに尋ねたい事があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを通して下さい。"
+                                "\\N<Segi>...I have something to ask Zuuteruka. Please let me through."
                             ]
                         },
                         {
@@ -3737,7 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -3768,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ズーテルカ様、宜しいでしょうか。"
+                                "\\N<Ryuda Soldier>Lord Zuuteruka, may I allow her passage?"
                             ]
                         },
                         {
@@ -3785,7 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ？今取り込み中なんだがな。何の用だあ？"
+                                "\\N<Zuuteruka>Huh? I'm a bit tied up right now. What do you want?"
                             ]
                         },
                         {
@@ -3802,7 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……例の女が来ております。如何致しますか？"
+                                "\\N<Ryuda Soldier>...The woman in question has arrived. What should we do?"
                             ]
                         },
                         {
@@ -3819,14 +3665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ふん、セギの奴か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいぜ、通してやりな。その代わり手短にな。"
+                                "\\N<Zuuteruka>Hmph, Segi, huh? Fine, let her in. But make it quick."
                             ]
                         },
                         {
@@ -3869,7 +3708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わたしよ……入るわ。"
+                                "\\N<Segi>It's me... I'm coming in."
                             ]
                         },
                         {
@@ -3886,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……好きにしな。"
+                                "\\N<Zuuteruka>Hehehe... Do as you like."
                             ]
                         },
                         {
@@ -4000,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ……！？"
+                                "\\N<Segi>...!?"
                             ]
                         },
                         {
@@ -4036,14 +3875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "室内へ足を踏み入れたセギの眼に飛び込んできたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "到底予想だにしていなかった光景だった。"
+                                "As Segi stepped into the room, she was met with a scene she\nhad never anticipated."
                             ]
                         },
                         {
@@ -4060,21 +3892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入り口の傍らには泣きべそをかきながら蹲る少年。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして寝台の上には少年の母親がズーテルカによって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凌辱されていた。"
+                                "By the entrance, a young boy was crouching and sobbing,\nwhile on the bed, his mother was being violated by\nZuuteruka."
                             ]
                         },
                         {
@@ -4098,7 +3916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あなた何をしてっ……！？"
+                                "\\N<Segi>Wh-What are you doing...!?"
                             ]
                         },
                         {
@@ -4115,14 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、だから取り込み中だって言ったろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く愛の営み中に踊り込んで来るとは無粋な女だぜ。"
+                                "\\N<Zuuteruka>Hehehe, didn't I tell you I was busy? It's quite rude to\nbarge in on people making love."
                             ]
                         },
                         {
@@ -4139,21 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、愛の営みですって！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこの誰が見たらそう見えると言うの！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐその女の人を解放しないさいっ！"
+                                "\\N<Segi>Making love, you say?! Who in their right mind would see it\nthat way?! Release that woman immediately!"
                             ]
                         },
                         {
@@ -4170,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>馬鹿言うなよ、誰がどう見ても愛の営みだろうが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なあ？そうだよなあ？"
+                                "\\N<Zuuteruka>Don't be ridiculous, anyone can see this is an act of love.\nRight?"
                             ]
                         },
                         {
@@ -4194,14 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年の母親>は、は……いっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、これは……愛……愛のいとな……っ！"
+                                "\\N<Boy's Mother>Ye-Yes...! This is... love... making...!"
                             ]
                         },
                         {
@@ -4218,7 +4001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>うう……うう……うっ！"
+                                "\\N<Boy>Uuu... uuu... ugh!"
                             ]
                         },
                         {
@@ -4235,21 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、聞いたか？愛の営みだとよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この母子は俺が拾った俺のモノだ。誰に文句言われる筋合いも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえよ。"
+                                "\\N<Zuuteruka>Hehehe, you hear that? She says it's making love. This\nmother and child are mine; I picked them up. No one has the\nright to complain."
                             ]
                         },
                         {
@@ -4266,7 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……！？"
+                                "\\N<Segi>Gah...!?"
                             ]
                         },
                         {
@@ -4283,14 +4052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、それで？俺に話ってな何だ？　"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかこの光景を見物しに来た訳じゃねえんだろ？"
+                                "\\N<Zuuteruka>Hehehe, so? What did you want to talk about? Surely you\ndidn't come just to watch this scene?"
                             ]
                         },
                         {
@@ -4307,7 +4069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -4331,14 +4093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは眼前に広がる凄惨な光景に際し、何も出来ない自分に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歯噛みする。"
+                                "Faced with the horrific scene before her, Segi gritted her\nteeth in frustration at her own powerlessness."
                             ]
                         },
                         {
@@ -4355,14 +4110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてゆっくりと呼吸を落ち着けると、何事か決意したかの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "様に口を開き始めた。"
+                                "Then, calming her breathing slowly, she began to speak as if\nshe had made some kind of decision."
                             ]
                         },
                         {
@@ -4386,14 +4134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……大袈裟な話じゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしの個人的な興味の話よ。"
+                                "\\N<Segi>...It's nothing grand. Just a matter of personal curiosity."
                             ]
                         },
                         {
@@ -4431,14 +4172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何故……何故あなた達リュダの兵隊達は侵略の様な事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繰り返すの……？"
+                                "\\N<Segi>Why... Why do you Ryuda soldiers keep repeating acts of\naggression...?"
                             ]
                         },
                         {
@@ -4455,7 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ？今更それを聞くかあ？"
+                                "\\N<Zuuteruka>Huh? You're asking that now?"
                             ]
                         },
                         {
@@ -4472,7 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4489,14 +4223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、どう言う風の吹き回しか知らねえが、まあいいさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "答えてやらあ。"
+                                "\\N<Zuuteruka>Hehehe, I don't know what's gotten into you, but fine. I'll\nanswer."
                             ]
                         },
                         {
@@ -4520,21 +4247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>表向きは改宗からの軍備増強……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何れはドコぞの大国の国盗りってハナシらしいがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もホントの所は知らねえよ。"
+                                "\\N<Zuuteruka>Officially, it's about military expansion following\nreligious conversion... supposedly aiming to take over some\nbig country eventually. But I don't really know the truth."
                             ]
                         },
                         {
@@ -4551,14 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>本当の所は知らない……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら何故あなたはそんな組織に付き従っているの？"
+                                "\\N<Segi>You don't know the truth...? Then why do you follow such an\norganization?"
                             ]
                         },
                         {
@@ -4575,21 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そりゃ単純なハナシさ。リュダの中枢にいりゃあ選択肢が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "増える。自分の夢や欲望や、それ以外にふとある日頭に浮か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んだ願いさえも叶える為の選択肢が増える。"
+                                "\\N<Zuuteruka>That's simple. Being at the core of Ryuda gives me more\noptions. Options to fulfill my dreams and desires, and even\nwhims that come to mind one day."
                             ]
                         },
                         {
@@ -4606,7 +4298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……どうだ？セギ、お前に判るか？"
+                                "\\N<Zuuteruka>Hehehe... How about it, Segi? Do you understand?"
                             ]
                         },
                         {
@@ -4623,14 +4315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>夢や欲望……あなたの場合は、どうせ他者を傷付ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "碌でも無いものばかりでしょう……判りたくも無いわ。"
+                                "\\N<Segi>Dreams and desires... In your case, they're probably nothing\nbut harmful things that hurt others... I don't want to\nunderstand."
                             ]
                         },
                         {
@@ -4647,21 +4332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうかい、そりゃあ残念。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前やユイアはさぞかし日々のささやかな幸せで満足して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらっしゃるんだろうなあ？"
+                                "\\N<Zuuteruka>Is that so? That's too bad. You and Yuia must be quite\nsatisfied with your modest daily happiness, huh?"
                             ]
                         },
                         {
@@ -4678,7 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それはわたしやユイア様を侮辱しているつもり？"
+                                "\\N<Segi>Are you trying to insult me and Lord Yuia?"
                             ]
                         },
                         {
@@ -4695,7 +4366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、何とでも受け取りな。"
+                                "\\N<Zuuteruka>Hehehe, take it however you want."
                             ]
                         },
                         {
@@ -4719,7 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……もうひとつ聞かせて。"
+                                "\\N<Segi>...Let me ask you one more thing."
                             ]
                         },
                         {
@@ -4736,14 +4407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>侵略を繰り返す中であなた達は色々な敵と戦って来た筈。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には優れた武器や装備を持っていた街や国もあった筈よね。"
+                                "\\N<Segi>In your repeated invasions, you must have fought various\nenemies. Some of them must have had superior weapons and\nequipment."
                             ]
                         },
                         {
@@ -4760,14 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>例えば……そうね、とても硬い鎧や装甲を持った相手がいた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場合一体どうしていたの？"
+                                "\\N<Segi>For example... say there was an opponent with very tough\narmor or shields. What did you do then?"
                             ]
                         },
                         {
@@ -4784,7 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ？何だそりゃ？"
+                                "\\N<Zuuteruka>Huh? What's that supposed to mean?"
                             ]
                         },
                         {
@@ -4801,14 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>興味よ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしの個人的な興味の話と言ったでしょう？"
+                                "\\N<Segi>It's about interest... I told you, it's a matter of my\npersonal interest."
                             ]
                         },
                         {
@@ -4825,14 +4475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会を勝ち抜く為の涙ぐましい努力ってヤツか？"
+                                "\\N<Zuuteruka>Hehehe, is that so? The arduous effort to win through the\ntraining sessions, huh?"
                             ]
                         },
                         {
@@ -4849,7 +4492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4866,28 +4509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>固い装甲や鎧の対処法ねえ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言やあ、リュダの練兵方法に何とかって技法があった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "らしいぜ？とは言え俺はこう見えても新参だからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しくは知らねえ。"
+                                "\\N<Zuuteruka>Dealing with tough armor and shields... Oh yeah, there was\nsome technique or other in Ryuda's training methods, I\nheard. But as you can see, I'm a newcomer, so I don't know\nthe details."
                             ]
                         },
                         {
@@ -4904,7 +4526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そう。"
+                                "\\N<Segi>...I see."
                             ]
                         },
                         {
@@ -4928,14 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>話はそれだけか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひへへ、ならどうだ？お前も混ざってくか？"
+                                "\\N<Zuuteruka>Is that all you wanted to talk about? Hehehe, then how about\nit? Why don't you join us?"
                             ]
                         },
                         {
@@ -4952,14 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……馬鹿にしないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして直ぐにそんな事は止めなさい……！"
+                                "\\N<Segi>Don't make fun of me! And stop this nonsense at once...!"
                             ]
                         },
                         {
@@ -4976,14 +4584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、そうかい。でもコイツが欲しくなったら何時でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声かけてくれよ？ひへへ……。"
+                                "\\N<Zuuteruka>Oh, is that so. But if you ever want this guy, just let me\nknow, okay? Hehehe..."
                             ]
                         },
                         {
@@ -5144,7 +4745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おい……待ちな。"
+                                "\\N<Ryuda Soldier>Hey... wait a minute."
                             ]
                         },
                         {
@@ -5208,7 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……さっきの話、聞かせて貰ったぜ？"
+                                "\\N<Ryuda Soldier>...I overheard your conversation just now."
                             ]
                         },
                         {
@@ -5232,7 +4833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……それが何か？"
+                                "\\N<Segi>...And what of it?"
                             ]
                         },
                         {
@@ -5256,14 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ズーテルカ様の話していた技法……アンタになら特別に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてやってもいい。"
+                                "\\N<Ryuda Soldier>The technique Lord Zuuteruka was talking about... I could\nteach it to you, as a special case."
                             ]
                         },
                         {
@@ -5287,7 +4881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5311,14 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だがここじゃダメだ。俺にも立場ってモンがあるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだな……適当に時間を置いた後、詰所に来な。"
+                                "\\N<Ryuda Soldier>But not here. I have my own position to consider. Let's\nsee... come to the barracks after some time has passed."
                             ]
                         },
                         {
@@ -5342,14 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……何が望み？わたしにリュダの技法を流してあなたに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の得が有るの？"
+                                "\\N<Segi>...What do you want in return? What do you gain by leaking\nRyuda's techniques to me?"
                             ]
                         },
                         {
@@ -5373,14 +4953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、当然タダでとは言わねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタにもそれなりのモノを用意して貰わねえとな。"
+                                "\\N<Ryuda Soldier>Heh, naturally, I won't tell you for free. You'll have to\nprepare something of equal value in exchange."
                             ]
                         },
                         {
@@ -5404,7 +4977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {

@@ -7359,7 +7359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こ、これって……。"
+                                "\\N<Segi>Th-This is..."
                             ]
                         },
                         {
@@ -7383,14 +7383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>通風孔の様な物だろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壁に僅かに穴が空いているだろう、あそこを通れそうだ。"
+                                "\\N<Rozaro>It seems to be something like a ventilation shaft. There's a\nsmall hole in the wall, we might be able to get through\nthere."
                             ]
                         },
                         {
@@ -7414,14 +7407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かに……で、でも待って下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを通るんですか……？"
+                                "\\N<Segi>Indeed... But wait, please. Are we going through here...?"
                             ]
                         },
                         {
@@ -7445,7 +7431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>仕方あるまい、道はここだけなのだからな。"
+                                "\\N<Rozaro>We have no choice, this is the only path available to us."
                             ]
                         },
                         {
@@ -7469,69 +7455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でもここじゃ身を屈めて進むしか……。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                33
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ロザロ>そうだな、この狭さでは到底2人同時には進めまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とは言え何が待ち受けているか判らん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは俺が殿を勤めよう。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>わ、わたしが先に……？でも……。"
+                                "\\N<Segi>But we can only move forward by crouching down in this\nplace..."
                             ]
                         },
                         {
@@ -7555,21 +7479,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>どうした？早くするんだ、事態は一刻を争うのだろう？"
+                                "\\N<Rozaro>True, it's too narrow for two people to pass through at the\nsame time. And we don't know what awaits us ahead. I'll take\nup the rear."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでどちらが後先などとそんな事を議論していても仕方"
+                                "\\N<Segi>M-Me go first...? But..."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                33
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あるまい。"
+                                "\\N<Rozaro>What's wrong? Hurry up, time is of the essence, isn't it?\nThere's no point in debating who goes first or last here."
                             ]
                         },
                         {
@@ -7609,7 +7567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、判りました……でもその代わり……。"
+                                "\\N<Segi>I-I understand... but in exchange..."
                             ]
                         },
                         {
@@ -7654,7 +7612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……。"
+                                "\\N<Segi>U-Um..."
                             ]
                         },
                         {
@@ -7688,7 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>どうした、セギさん。何か遭ったのか？"
+                                "\\N<Rozaro>What's wrong, Miss Segi? Did something happen?"
                             ]
                         },
                         {
@@ -7705,7 +7663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……その……。"
+                                "\\N<Segi>N-No... it's just..."
                             ]
                         },
                         {
@@ -7722,21 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>大丈夫だ、安心するといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束通り顔を上げてなどいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺には何も見えてはいないさ。"
+                                "\\N<Rozaro>It's alright, you can relax. I promise I'm not looking up. I\ncan't see anything."
                             ]
                         },
                         {
@@ -7753,7 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はい……でも……。"
+                                "\\N<Segi>Y-Yes... but..."
                             ]
                         },
                         {
@@ -7770,14 +7714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>第一この暗さでは目の前の自分の手すら見えん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計な事は考えずに前へ進むんだ、何が遭るか判らんぞ？"
+                                "\\N<Rozaro>Besides, it's so dark in here I can't even see my own hands\nin front of me. Don't worry about unnecessary things and\nkeep moving forward, we don't know what might happen."
                             ]
                         },
                         {
@@ -7794,7 +7731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……。"
+                                "\\N<Segi>Yes..."
                             ]
                         },
                         {
@@ -7871,7 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -7929,7 +7866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！？"
+                                "\\N<Segi>Eh...!?"
                             ]
                         },
                         {
@@ -7946,7 +7883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -8004,7 +7941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……っ。"
+                                "\\N<Segi>U-Um...!"
                             ]
                         },
                         {
@@ -8021,7 +7958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……どうした？"
+                                "\\N<Rozaro>...What's wrong?"
                             ]
                         },
                         {
@@ -8038,7 +7975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、灯りが……何をしているんですか……！？"
+                                "\\N<Segi>The light... what are you doing...!?"
                             ]
                         },
                         {
@@ -8055,14 +7992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……用心の為だ。こう暗くては壁や床の何処かに仕掛けが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "施されていても判らんからな。"
+                                "\\N<Rozaro>...It's just a precaution. It's so dark that we wouldn't\nnotice if there were traps on the walls or floor."
                             ]
                         },
                         {
@@ -8079,14 +8009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……これ位は許容してくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この暗さでは自分の手さえも見えんと言っただろう。"
+                                "\\N<Rozaro>...Allow me this much. I told you it's so dark I can't even\nsee my own hands."
                             ]
                         },
                         {
@@ -8103,7 +8026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……こ、これじゃ見え……っ。"
+                                "\\N<Segi>But... th-this means you can see...!"
                             ]
                         },
                         {
@@ -8120,14 +8043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、言いたくは無いが余りに自意識過剰だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は用心の為だと言っている。他意など無いんだ。"
+                                "\\N<Rozaro>Miss Segi, I don't want to say this, but you're being overly\nself-conscious. I'm doing this as a precaution. There's no\nulterior motive."
                             ]
                         },
                         {
@@ -8144,7 +8060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ですがこれでは……っ。"
+                                "\\N<Segi>But with this...!"
                             ]
                         },
                         {
@@ -8161,14 +8077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>さあ進むんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうしている間に時間はドンドン過ぎてゆくぞ？"
+                                "\\N<Rozaro>Let's move on. Time is slipping away while we're standing\nhere."
                             ]
                         },
                         {
@@ -8185,14 +8094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それに俺は背後を警戒していると言った筈だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前を見ている訳では無い。何も心配する必要は無いさ。"
+                                "\\N<Rozaro>Besides, I said I was watching our back. I'm not looking\nforward. There's no need to worry about anything."
                             ]
                         },
                         {
@@ -8209,7 +8111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～……っ。"
+                                "\\N<Segi>~...!"
                             ]
                         },
                         {
@@ -8346,7 +8248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……あっ……。はあ……っ。"
+                                "\\N<Segi>Ha... Ahh... Haa...!"
                             ]
                         },
                         {
@@ -8404,7 +8306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～……っ。"
+                                "\\N<Segi>~...!"
                             ]
                         },
                         {
@@ -8421,14 +8323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……どうした？歩みが遅いぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場所とて安全と言う訳でも無いんだ。急いでくれ。"
+                                "\\N<Rozaro>...What's wrong? You're moving slowly? This place isn't\nnecessarily safe either. Please hurry."
                             ]
                         },
                         {
@@ -8445,7 +8340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わか……判っていま……。"
+                                "\\N<Segi>I-I know... I understand..."
                             ]
                         },
                         {
@@ -8462,7 +8357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でも……その……と、吐息……が……。"
+                                "\\N<Segi>But... that... your breathing... is..."
                             ]
                         },
                         {
@@ -8479,7 +8374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……俺の吐息がどうかしたか？"
+                                "\\N<Rozaro>...Is there something wrong with my breathing?"
                             ]
                         },
                         {
@@ -8537,14 +8432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……あっ……。だ、駄目……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、それ……以上は……。"
+                                "\\N<Segi>Ha... Ahh... No, that's not good... any more than that..."
                             ]
                         },
                         {
@@ -8561,21 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……セギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も言いたくは無いがそれは自意識過剰だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女は俺を信用出来ないのか？"
+                                "\\N<Rozaro>...Miss Segi. I don't want to repeat myself, but you're\nbeing overly self-conscious. Don't you trust me?"
                             ]
                         },
                         {
@@ -8592,7 +8466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でも……み、見え……見えて……。"
+                                "\\N<Segi>But... I can see... it's visible..."
                             ]
                         },
                         {
@@ -8609,14 +8483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……周囲は暗く、何も見えんと言っているだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮に灯りが有ったとしても、一体俺が何を見ていると？"
+                                "\\N<Rozaro>...It's dark around us, and I've said nothing is visible.\nEven if there was light, what exactly do you think I'm\nlooking at?"
                             ]
                         },
                         {
@@ -8633,7 +8500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それ……それは……っ。"
+                                "\\N<Segi>Th-that... that is...!"
                             ]
                         },
                         {
@@ -8650,14 +8517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>さあ、セギさん。急ごう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こうしている間も貴女の息子は俺達の助けを待っているんだ。"
+                                "\\N<Rozaro>Come now, Miss Segi. Let's hurry. While we're here, your son\nis waiting for our help."
                             ]
                         },
                         {
@@ -8674,7 +8534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～……っ！"
+                                "\\N<Segi>~...!"
                             ]
                         },
                         {
@@ -8830,7 +8690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……。"
+                                "\\N<Segi>Ha... Haa... Haa..."
                             ]
                         },
                         {
@@ -8854,7 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {

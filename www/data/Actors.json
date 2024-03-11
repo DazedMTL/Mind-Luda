@@ -24,10 +24,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "セギ",
+        "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:aa>\n<初期CP:10>\n<初期スキルセット数:2>",
-        "profile": "夜警国家『暁の穂』王城の侍従。\n自警団長オルギと同副団長セノの娘。"
+        "profile": "A valet at the royal castle of the Night Watch nation \"Dawn's Ear\".\nDaughter of Orugi, the head of the self-defense force, and his deputy,\nSeno."
     },
     {
         "id": 2,
@@ -47,10 +47,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ユイア",
+        "name": "Yuia",
         "nickname": "",
         "note": "<BPnormal:bb>",
-        "profile": "元『暁の穂』王侯戦士。セギの夫であり、リイアの父親。\n正義感の強い実直な青年。"
+        "profile": "A former \"Dawn's Ear\" royal warrior. Husband to Segi and father to\nRiia. A young man with a strong sense of justice and integrity."
     },
     {
         "id": 3,
@@ -70,7 +70,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ズーテルカ",
+        "name": "Zuuteruka",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -93,10 +93,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リイア",
+        "name": "Riia",
         "nickname": "",
         "note": "",
-        "profile": "ユイアとセギの息子。街の戦士であり、父の友でもある\nロザロに師事している。"
+        "profile": "Yuia and Segi's son. A city warrior under the tutelage of Rozaro, a\nfriend of his father's."
     },
     {
         "id": 5,
@@ -116,7 +116,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セノ",
+        "name": "Seno",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -139,7 +139,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "オルギ",
+        "name": "Orugi",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -162,7 +162,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "イリメ",
+        "name": "Irime",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -185,7 +185,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ラメ",
+        "name": "Rame",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -208,10 +208,10 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 99,
-        "name": "ロザロ",
+        "name": "Rozaro",
         "nickname": "",
         "note": "",
-        "profile": "屈強な戦士。その右目は故合って負傷して以降義眼であり、\n殆ど見えていない。"
+        "profile": "A formidable warrior. His right eye, injured in an accident, has been\nreplaced with a prosthetic and hardly sees anything."
     },
     {
         "id": 10,
@@ -231,7 +231,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リュダ兵",
+        "name": "Ryuda Soldier",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -254,7 +254,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "男",
+        "name": "Man",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -277,7 +277,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "武器屋店主",
+        "name": "Weapon Shop Owner",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -300,7 +300,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "少年",
+        "name": "Boy",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -323,7 +323,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ホジコ",
+        "name": "Hojiko",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -346,7 +346,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "店主",
+        "name": "Shopkeeper",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -369,7 +369,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "公妃スーイア",
+        "name": "Princess Consort Suia",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -398,10 +398,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "セギ",
+        "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:000>\n<初期CP:10>\n<初期スキルセット数:3>\n<CS_下限HP:1,30>  # 現在のHPが40%を下回るとステート[5]を付与\n",
-        "profile": "ユイアの妻であり、リイアの母親。リュダに故郷『暁の穂』を\n追われ、ユイアと共にこの地に流れ着いた。"
+        "profile": "Yuia's wife and Riia's mother. Driven from her homeland \"Dawn's Ear\"\nby Lyuda, she drifted to this land with Yuia."
     },
     {
         "id": 18,
@@ -421,7 +421,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ホジコの妻",
+        "name": "Hojiko's Wife",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -444,7 +444,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "女",
+        "name": "Woman",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -467,7 +467,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "イリメの夫",
+        "name": "Irime's Husband",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -490,7 +490,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "生徒",
+        "name": "Student",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -513,7 +513,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "住民",
+        "name": "Resident",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -536,7 +536,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "周囲の客",
+        "name": "Surrounding Customers",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -559,7 +559,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "フービィ",
+        "name": "Fubii",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -582,7 +582,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ヘベタ",
+        "name": "Hebeta",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -605,7 +605,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゾゾイェ",
+        "name": "Zozoye",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -628,7 +628,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "画家",
+        "name": "Painter",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -651,7 +651,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "老婆",
+        "name": "Old Woman",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -674,7 +674,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "医師",
+        "name": "Doctor",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -697,7 +697,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "客",
+        "name": "Customer",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -720,7 +720,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "赤帽の少年",
+        "name": "Red-hatted Boy",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -743,7 +743,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "イリメの夫",
+        "name": "Irime's Husband",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -766,7 +766,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ツェダ",
+        "name": "Tzeda",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -789,7 +789,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "元公国兵",
+        "name": "Former Duchy Soldier",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -812,7 +812,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ツェダの配下",
+        "name": "Tzeda's Subordinate",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -835,7 +835,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "練兵会受付",
+        "name": "Training Corps Receptionist",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -858,7 +858,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "赤帽のウリポ",
+        "name": "Red-hatted Urupo",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -881,7 +881,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "遺跡の暴漢",
+        "name": "Ruins Thug",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -904,7 +904,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "リュダ新兵",
+        "name": "Ryuda Recruit",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -927,7 +927,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "セギ",
+        "name": "Segi",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -950,10 +950,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "暁の穂兵士",
+        "name": "Soldier of Dawn's Ear",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "A valet of the \"Dawn's Ear\" royal castle in the Night Watch nation.\nDaughter of Orugi, the leader of the self-defense force, and his\ndeputy, Seno."
     },
     {
         "id": 42,
@@ -1002,10 +1002,10 @@
         ],
         "initialLevel": 1,
         "maxLevel": 1,
-        "name": "セギ",
+        "name": "Segi",
         "nickname": "",
         "note": "<BPnormal:000>\n<初期CP:10>\n<初期スキルセット数:3>\n<CS_下限HP:1,30>  # 現在のHPが40%を下回るとステート[5]を付与\n",
-        "profile": "ユイアの妻であり、リイアの母親。リュダに故郷『暁の穂』を\n追われ、ユイアと共にこの地に流れ着いた。"
+        "profile": "Valet of the \"Dawn's Ear\" royal castle in the Night Watch nation.\nDaughter of the self-defense force leader Orugi and his deputy leader\nSeno."
     },
     {
         "id": 44,
@@ -1140,10 +1140,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "デリ",
+        "name": "Delhi",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "A valet at the royal castle of the Night Watch nation \"Dawn's Ear\".\nDaughter of the self-defense force leader Orugi and his deputy leader\nSeno."
     },
     {
         "id": 50,
@@ -1163,9 +1163,9 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "妊婦",
+        "name": "Pregnant woman",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "The royal attendant of the Night Watch nation \"Dawn's Ear\". Daughter\nof the self-defense force leader Orugi and his deputy leader Seno."
     }
 ]

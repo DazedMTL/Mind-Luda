@@ -3339,21 +3339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この街の連中は運が良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には有無を言わさず虐殺の憂目に遭った街もある程だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズーテルカ様に感謝するんだな。"
+                                "\\N<Ryuda Soldier>The people of this town are lucky. Some towns have been\nmassacred without question. Be thankful to Lord Zuuteruka."
                             ]
                         },
                         {
@@ -4244,7 +4230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさん。"
+                                "\\N<Segi>Mr. Rozaro."
                             ]
                         },
                         {
@@ -4268,7 +4254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん……ユイアの件聞いたぞ。"
+                                "\\N<Rozaro>Miss Segi... I've heard about Yuia."
                             ]
                         },
                         {
@@ -4292,7 +4278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4316,14 +4302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>さぞ心配だろう、心を痛めている事だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女の気持ちは痛い程理解出来る。"
+                                "\\N<Rozaro>You must be worried, it must be painful for you. I can\npainfully understand your feelings."
                             ]
                         },
                         {
@@ -4340,14 +4319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>だが……それより本当なのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギさんがユイアの代わりに練兵会に出ると言うのは。"
+                                "\\N<Rozaro>But... more importantly, is it true that you will be\nparticipating in the training soldiers' assembly in place of\nYuia?"
                             ]
                         },
                         {
@@ -4371,7 +4343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何故それを……。"
+                                "\\N<Segi>Why do you know that..."
                             ]
                         },
                         {
@@ -4411,14 +4383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>通常、練兵会の出場者はみだりに公開はされない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然、今回の貴女の件も街の住人達の知るところでは無い。"
+                                "\\N<Rozaro>Normally, the participants of the training soldiers'\nassembly are not publicly disclosed. Naturally, the matter\nconcerning you has not been known to the townspeople."
                             ]
                         },
                         {
@@ -4435,14 +4400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>しかし……貴女の参加が余程珍しかったのだろう、酒場で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの兵共が吹聴していたのを耳にしたんだ。"
+                                "\\N<Rozaro>However... your participation must have been quite unusual,\nas I overheard the soldiers from Ryuda bragging about it in\nthe tavern."
                             ]
                         },
                         {
@@ -4459,14 +4417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>そのまま連中の一人を締め上げた……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうしたらそのリュダ兵がその情報をくれたと言う訳さ。"
+                                "\\N<Rozaro>I cornered one of those men... and after a bit of pressure,\nthat Ryuda soldier gave me the information."
                             ]
                         },
                         {
@@ -4483,7 +4434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>その様子だと、やはり……本当なのか？"
+                                "\\N<Rozaro>From the looks of it... is it really true?"
                             ]
                         },
                         {
@@ -4521,14 +4472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……そのつもりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それしかユイア様やリイアを救う道はありませんから。"
+                                "\\N<Segi>Yes... I intend to do so. It's the only way to save Lord\nYuia and Riia."
                             ]
                         },
                         {
@@ -4568,21 +4512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>そうか……余程の決意で臨むのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判った、事ここに至って止めはすまい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて貴女の無事を祈らせて欲しい。"
+                                "\\N<Rozaro>I see... You must be resolved to face this with all your\nmight. Understood, I won't try to stop you now. At least\nallow me to pray for your safety."
                             ]
                         },
                         {
@@ -4599,14 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>それと……リイアは知っているのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴女のその決意を……。"
+                                "\\N<Rozaro>And... does Riia know about your decision?"
                             ]
                         },
                         {
@@ -4630,21 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ……息子には知らせていません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例え事の次第は理解出来なくても、それでも知らせれば余計"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な不安を与えてしまうでしょうから。"
+                                "\\N<Segi>No... I haven't informed my son. Even if he can't understand\nthe situation, telling him would only cause unnecessary\nanxiety."
                             ]
                         },
                         {
@@ -4668,14 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>うむ……その方がいいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もこの事はあの子には黙って置こう。"
+                                "\\N<Rozaro>Hmm... that's probably for the best. I'll also keep this\nmatter from the boy."
                             ]
                         },
                         {
@@ -4699,14 +4601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そうして頂けると助かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロザロさん、これからもリイアの事を宜しくお願いします。"
+                                "\\N<Segi>I appreciate that. Mr. Rozaro, please continue to look after\nRiia for me."
                             ]
                         },
                         {
@@ -4730,21 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……ああ。俺で出来る事なら、どんな事でも力になろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は暫く酒場に宿を取っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからも何時でも尋ねて来て欲しい。"
+                                "\\N<Rozaro>...Yes. Whatever I can do, I'll lend my strength. I'll be\nstaying at the tavern for a while. Feel free to come and ask\nfor me anytime."
                             ]
                         },
                         {
@@ -5165,7 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……っ。"
+                                "\\N<Segi>Ah...!"
                             ]
                         },
                         {
@@ -5189,7 +5070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>き、気を付けてよ！おばさんっ！"
+                                "\\N<Red Cap Boy>Be careful, lady!"
                             ]
                         },
                         {
@@ -5277,7 +5158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何だろう……今のコ。凄く急いでいた様子だけど……。"
+                                "\\N<Segi>I wonder... That kid just now. He seemed to be in quite a\nhurry..."
                             ]
                         },
                         {
@@ -5429,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>リュダの連中が通った跡は草木一本残らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "専らの噂です……。"
+                                "\\N<Woman>It's widely rumored that not a single plant remains where\nthe people of Ryuda have passed..."
                             ]
                         },
                         {
@@ -5453,14 +5327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>勿論尾鰭がついた噂でしょうが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも私はこの街の行く末が心配になります……。"
+                                "\\N<Woman>Of course, it must be an exaggerated rumor, but even so, I\nworry about the future of this town..."
                             ]
                         },
                         {
@@ -5588,14 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そこの管理所は以前は文字通り街の中枢とも言える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理機関だった。"
+                                "\\N<Man>That management office used to be quite literally the nerve\ncenter of the city."
                             ]
                         },
                         {
@@ -5612,14 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>まあ……今はすっかりこの街に駐留するリュダの連中の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理統治機関になってしまったがな……。"
+                                "\\N<Man>Well... now it's completely turned into the administrative\ngoverning body for the Ryuda troops stationed in this\ntown..."
                             ]
                         },
                         {
@@ -5747,14 +5600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>中には街の駐屯管理者ズーテルカ様がおられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれぐれも口の利き方には気を付ける事だ。"
+                                "\\N<Ryuda Soldier>Inside is Lord Zuuteruka, the town's garrison manager. Be\nvery careful about how you speak."
                             ]
                         },
                         {

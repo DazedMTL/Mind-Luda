@@ -1704,14 +1704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>やあ、何しに来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんの方から会いに来るなんて珍しいじゃないか。"
+                                "\\N<Fubii>Hey, what brings you here? It's rare for you to come visit\nfrom Auntie's place."
                             ]
                         },
                         {
@@ -1735,7 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……あなたに話が有るの。ラメちゃんの事よ。"
+                                "\\N<Segi>...I have something to discuss with you. It's about Rame-\nchan."
                             ]
                         },
                         {
@@ -1759,14 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>なぁんだ、そんな事か。神妙なカオして乗り込んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来るんだもの、何かと思っちゃったよ。"
+                                "\\N<Fubii>Oh, is that all? You came storming in with such a serious\nface, I thought it was something major."
                             ]
                         },
                         {
@@ -1783,14 +1769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ホント、ガッカリだなあ。アソコが疼いて仕方ないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抱いてくれって話じゃないんだ？"
+                                "\\N<Fubii>Really, what a letdown. I thought you were going to say\nyou're so horny you can't stand it and ask me to hold you."
                             ]
                         },
                         {
@@ -1814,14 +1793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>茶化さないで。イリメさん……ラメちゃんのお母さんから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いたの、このところ彼女が鬱ぎ込んでいるって。"
+                                "\\N<Segi>Don't joke around. I heard from Irime-san... Rame-chan's\nmother, that she's been feeling depressed lately."
                             ]
                         },
                         {
@@ -1845,7 +1817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ふぅん、で？それが何かボクに関係あるの？"
+                                "\\N<Fubii>Huh, and? What's that got to do with me?"
                             ]
                         },
                         {
@@ -1869,62 +1841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……あなたにも何か心当たりが有るんじゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                42
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<フービィ>心当たりねえ……。"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>はぐらかそうとしても無駄よ。教えなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それまでここを一歩も動かないから。"
+                                "\\N<Segi>...Don't you have any idea why that might be?"
                             ]
                         },
                         {
@@ -1948,7 +1865,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、はぐらかしたりなんてするモンか。"
+                                "\\N<Fubii>Any idea, huh..."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Segi>It's no use trying to dodge the question. Tell me. I won't\nmove from here until you do."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                42
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Fubii>Ahaha, who said anything about dodging?"
                             ]
                         },
                         {
@@ -1986,7 +1951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あるよ、心当たりなら吐いて捨てる程ね。"
+                                "\\N<Fubii>Sure, if it's ideas you want, I've got them to spare."
                             ]
                         },
                         {
@@ -2010,76 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……何ですって？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                42
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<フービィ>大方アイツのママにでも頼まれたんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアにでも様子を聞いておいてくれってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでボクの所に来た、違うかな？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>その通りよ。判っているなら話は早いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か知っている事が有るのなら早く言いなさい。"
+                                "\\N<Segi>...What do you mean?"
                             ]
                         },
                         {
@@ -2103,14 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>う～ん、イイけどタダじゃ話せないなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってボクの方には得が無いもの。"
+                                "\\N<Fubii>You were probably asked by her mom, right? To ask Riia about\nhow she's doing and then come to me. Am I wrong?"
                             ]
                         },
                         {
@@ -2134,38 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>物事の損得について話しているんじゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く言いなさい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>それに……もしもあなたに心当たりが有るのなら、彼女に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "関わるのを今すぐ止めなさい。"
+                                "\\N<Segi>That's right. If you know that much, this will be quick. If\nyou know something, speak up already."
                             ]
                         },
                         {
@@ -2189,14 +2047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>いやいや、おばさんに何の権利があってそんな事を言うのさ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクが彼女に何しようとおばさんには関係なくない？"
+                                "\\N<Fubii>Hmm, I could tell you, but it wouldn't be free. After all,\nthere's nothing in it for me."
                             ]
                         },
                         {
@@ -2220,14 +2071,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>言ったでしょう？彼女のお母さんに聞いたって。"
+                                "\\N<Segi>We're not talking about profit and loss here. Just speak up\nalready."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは頼まれたのと同じ事よ。"
+                                "\\N<Segi>Besides... if you do have any idea what's going on, stop\ninvolving yourself with her immediately."
                             ]
                         },
                         {
@@ -2251,14 +2112,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だからさあ、それはボクがおばさんの言う事を聞かなきゃ"
+                                "\\N<Fubii>No, no, what right does Auntie have to say such things? What\nI do with her is none of Auntie's business, right?"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけない理由にはならないでしょ。"
+                                "\\N<Segi>Didn't I tell you? I heard it from her mother. It's as good\nas if she asked me herself."
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                42
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Fubii>But still, that doesn't mean I have to listen to what Auntie\nsays."
                             ]
                         },
                         {
@@ -2298,7 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>なら……どうすればいいの？"
+                                "\\N<Segi>Then... what should we do?"
                             ]
                         },
                         {
@@ -2322,14 +2224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そうだなあ、じゃあ話す代わりにボクとデートしてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらボクにも得があるでしょ？"
+                                "\\N<Fubii>Well then, how about you go on a date with me in exchange\nfor the story? That way, there's something in it for me too,\nright?"
                             ]
                         },
                         {
@@ -2353,7 +2248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……馬鹿な事を言わないで、何故わたしがあなたと……。"
+                                "\\N<Segi>...Don't be ridiculous, why would I go on a date with you..."
                             ]
                         },
                         {
@@ -2377,21 +2272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ボクから話を聞く為。そう割り切ればいいじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "約束は守るよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんにとって損な話じゃないと思うけどなあ？"
+                                "\\N<Fubii>To get the story from me. Just think of it as a simple\nexchange. I'll keep my promise. It's not a bad deal for\nAuntie, I think?"
                             ]
                         },
                         {
@@ -2415,7 +2296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2525,7 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>やあ、おばさん。まだ何か用なの？"
+                                "\\N<Fubii>Hey, ma'am. Do you still need something?"
                             ]
                         },
                         {
@@ -2542,14 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あ、もしかしてもう一回させてくれるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはは、あばさんって案外簡単に股開くんだねえ。"
+                                "\\N<Fubii>Oh, are you going to let me do it again? Ahaha, you sure\nspread your legs easily for an old lady."
                             ]
                         },
                         {
@@ -2573,7 +2447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {

@@ -3131,7 +3131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ！？"
+                                "\\N<Segi>Ah!?"
                             ]
                         },
                         {
@@ -3155,7 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>た、助けてくれっ！手を貸してくれっ！"
+                                "\\N<Man>P-Please help me! Lend me a hand!"
                             ]
                         },
                         {
@@ -3179,7 +3179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>落ち着いて下さい……な、何があったんですか？"
+                                "\\N<Segi>Calm down... What happened?"
                             ]
                         },
                         {
@@ -3203,14 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>共に遺跡に入った仲間が怪我をして動けなくなっているんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼を安全な所まで運ぶのを手伝ってくれないか！？"
+                                "\\N<Man>A comrade who entered the ruins with me has been injured and\ncan't move! Can you help me carry him to safety?"
                             ]
                         },
                         {
@@ -3225,8 +3218,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "断る",
-                                    "手を貸す"
+                                    "Refuse",
+                                    "Lend a hand"
                                 ],
                                 -1,
                                 0,
@@ -3263,7 +3256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>な、何！？そんなっ！"
+                                "\\N<Man>W-What!? That's...!"
                             ]
                         },
                         {
@@ -3280,7 +3273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>困っている人間を見捨てるのか！？この人でなしめっ！"
+                                "\\N<Man>Are you going to abandon a person in need!? You heartless\nfiend!"
                             ]
                         },
                         {
@@ -3380,7 +3373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判りました。その人方の所へ案内して下さい。"
+                                "\\N<Segi>...Understood. Please lead the way to this person."
                             ]
                         },
                         {
@@ -3404,7 +3397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<男>助かるよ！さあこっちだ、急いでくれ！"
+                                "\\N<Man>You're a lifesaver! This way, hurry!"
                             ]
                         },
                         {
@@ -3716,8 +3709,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遺跡の鍵を使う",
-                                    "使わない"
+                                    "Use the Ruins Key",
+                                    "Do not use"
                                 ],
                                 1,
                                 0,
@@ -4277,8 +4270,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遺跡の鍵を使う",
-                                    "使わない"
+                                    "Use the Ruins Key",
+                                    "Do not use"
                                 ],
                                 1,
                                 0,
@@ -4898,7 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>経皮毒の為の毒草……これの事かしら。"
+                                "\\N<Segi>A poisonous plant for transdermal toxins... I wonder if this\nis it."
                             ]
                         },
                         {

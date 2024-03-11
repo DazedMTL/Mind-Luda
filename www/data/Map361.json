@@ -12385,14 +12385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>何だ？何が始まるんだ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "看守共はここで大人しくしていろの一点張りだったが……。"
+                                "\\N<Former Duchy Soldier>What's this? What's starting...? The guards were insistent\nthat we stay put here..."
                             ]
                         },
                         {
@@ -12409,14 +12402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>まさか刑の執行じゃないだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中、ついに業を煮やして……。"
+                                "\\N<Former Duchy Soldier>Don't tell me it's the execution of our sentence? Have the\nRyuda finally lost their patience..."
                             ]
                         },
                         {
@@ -12440,7 +12426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -12457,21 +12443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>（ここに収監されているのは……元『暁の穂』の敗残兵達。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……よくよく見渡してみればそれ以外のリュダに滅ぼされた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都市国家の者達もいる）"
+                                "\\N<Yuia>(The ones imprisoned here are... the remnants of the \"Dawn's\nEar\" soldiers... Looking around, there are also those from\ncity-states destroyed by Ryuda.)"
                             ]
                         },
                         {
@@ -12488,14 +12460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>（だとすれば……俺の顔を見知った者もいるかも知れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場は大人しくしているのが得策だろう……）"
+                                "\\N<Yuia>(If that's the case... there might be someone who recognizes\nmy face. It would be wise to keep a low profile here...)"
                             ]
                         },
                         {
@@ -12946,7 +12911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>よう、待たせたなあ？"
+                                "\\N<Zuuteruka>Hey, kept you waiting, huh?"
                             ]
                         },
                         {
@@ -12970,7 +12935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ズーテルカ……。"
+                                "\\N<Yuia>Zuuteruka..."
                             ]
                         },
                         {
@@ -12994,14 +12959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>全く、ここにいるお前らはいつも俺の頭を悩ませてくれるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せリュダに靡かねえ石頭の犯罪者共だからなあ。"
+                                "\\N<Zuuteruka>Seriously, you guys here always give me a headache. After\nall, you're stubborn criminals who won't bow to Ryuda."
                             ]
                         },
                         {
@@ -13025,7 +12983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>当然だ……何故俺達がお前の如き裏切り者に……！"
+                                "\\N<Former Duchy Soldier>Naturally... Why would we ever follow a traitor like you...!"
                             ]
                         },
                         {
@@ -13049,21 +13007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、今更何に忠義立てしてんのか知らねえが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもお前らが訓練を受けた正規兵に変わりはねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして貴重なリュダの戦力になる事もな。"
+                                "\\N<Zuuteruka>Hehehe, I don't know what loyalties you're clinging to now,\nbut you're still trained regular soldiers. And you're not\ngoing to become valuable Ryuda forces either."
                             ]
                         },
                         {
@@ -13087,7 +13031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -13111,14 +13055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>とは言え、こう反抗的じゃ使い物にならねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しは素直になって、自ら進んで同志になってくれなきゃな。"
+                                "\\N<Zuuteruka>That said, you're no use to us if you're this defiant. You\nneed to become more compliant and join us willingly."
                             ]
                         },
                         {
@@ -13142,7 +13079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>何度も言わせるな……誰がお前らリュダに与するか！"
+                                "\\N<Former Duchy Soldier>Don't make me say it again... Who would join you Ryuda scum!"
                             ]
                         },
                         {
@@ -13166,21 +13103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そんな強情で時流の読めねえお前らに最後の機会を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "与えてやる。それも破格の条件でだ。有難く思えよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは俺からの温情ってヤツだからなあ？"
+                                "\\N<Zuuteruka>Hehehe, for such stubborn folks who can't read the times,\nI'll give you one last chance. And it's an exceptional\noffer. Be grateful, will you? This is my mercy."
                             ]
                         },
                         {
@@ -13232,7 +13155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>おい……連れて来い。"
+                                "\\N<Zuuteruka>Hey... bring her here."
                             ]
                         },
                         {
@@ -13249,7 +13172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……は。"
+                                "\\N<Ryuda Soldier>...Yes."
                             ]
                         },
                         {
@@ -13285,7 +13208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>（何だ……何の真似だ……？）"
+                                "\\N<Yuia>(What's this... what are they doing...?)"
                             ]
                         },
                         {
@@ -13314,7 +13237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>っ！！？？"
+                                "\\N<Yuia>What!??"
                             ]
                         },
                         {
@@ -13364,7 +13287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リュダ兵に連行されて、独りの女が囚人達の眼前に配された。"
+                                "A woman was brought before the prisoners' eyes by the Ryuda\nsoldiers."
                             ]
                         },
                         {
@@ -13381,21 +13304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の顔はリュダの仮面で覆われ、その素顔を窺い知る事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない。同時にその華奢な肢体にはリュダの淫飾が刻まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ている事から女は彼等の情婦である事が判る。"
+                                "The woman's face was covered with a Ryuda mask, making it\nimpossible to glimpse her true features. At the same time,\nit was clear she was one of their mistresses from the lewd\ndecorations carved into her delicate body."
                             ]
                         },
                         {
@@ -13419,7 +13328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>……。"
+                                "\\N<Masked Woman>..."
                             ]
                         },
                         {
@@ -13443,21 +13352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の身振りからして、視界は仮面に遮られ、こちらの様子を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "窺い知る事は出来ない様だった。その所為か、不安気に自身"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の震える肩を抱いている様にも見えた。"
+                                "From the woman's gestures, it seemed she couldn't see\nthrough the mask and was unaware of her surroundings.\nPerhaps because of this, she appeared anxious and was\nholding her trembling shoulders."
                             ]
                         },
                         {
@@ -13481,7 +13376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>お、おい……何の真似だ……？"
+                                "\\N<Former Duchy Soldier>Hey, what's the meaning of this...?"
                             ]
                         },
                         {
@@ -13498,14 +13393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>いいか？これは温情と同時に最後の警告だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの軍門に降るか、この場で死ぬか……だ。"
+                                "\\N<Zuuteruka>Listen up? This is both an act of mercy and a final warning.\nSubmit to Ryuda's forces or die here..."
                             ]
                         },
                         {
@@ -13522,7 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>わ、我々の覚悟は決まっていると何度も……。"
+                                "\\N<Former Duchy Soldier>We've already decided our resolve countless times..."
                             ]
                         },
                         {
@@ -13539,14 +13427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そりゃあ聞いてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから時流の読めねえ石頭だって言ってんだ。"
+                                "\\N<Zuuteruka>Hehehe, I've heard that. That's why I'm calling you hard-\nheaded fools who can't read the times."
                             ]
                         },
                         {
@@ -13563,7 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -13580,21 +13461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>いいか？高尚な忠義を貫いてらっしゃるお前達だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タダで軍門に降れとは言わねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今リュダに降るならこの女をくれてやってもいい。"
+                                "\\N<Zuuteruka>Listen up? You guys are so noble in your loyalty. I won't\nask you to submit for nothing. If you surrender to Ryuda\nnow, I'll even give you this woman."
                             ]
                         },
                         {
@@ -13611,7 +13478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>な、何だと……！？"
+                                "\\N<Former Duchy Soldier>What did you say...!?"
                             ]
                         },
                         {
@@ -13628,21 +13495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>思えば忠義の士たる皆サマ相手に今迄の俺達の交渉は無礼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったのかもなあ？だから今、こうして反省の上で最大限の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礼を尽くさせて貰ってるのさ。"
+                                "\\N<Zuuteruka>Maybe all our negotiations up till now have been\ndisrespectful to such loyal warriors like yourselves? So\nnow, I'm showing my utmost respect as a sign of my\nreflection."
                             ]
                         },
                         {
@@ -13659,7 +13512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>そ、その女が俺達への礼だと言うのか……！？"
+                                "\\N<Former Duchy Soldier>Are you saying this woman is your gesture of respect to\nus...!?"
                             ]
                         },
                         {
@@ -13676,21 +13529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、そうだ。この女は俺のお気に入りの情婦の一人でな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その愛妾をお前らにくれてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで俺の誠意ってもんが少しは伝わるんじゃねえか？"
+                                "\\N<Zuuteruka>Yes, that's right. This woman is one of my favorite\nmistresses. I'm willing to give her to you guys. Maybe this\nwill convey some of my sincerity?"
                             ]
                         },
                         {
@@ -13707,7 +13546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>裏切り者のお前の口から誠意と言う言葉を聞くとはな……。"
+                                "\\N<Former Duchy Soldier>To hear words of sincerity from a traitor like you..."
                             ]
                         },
                         {
@@ -13724,14 +13563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、断腸の思いで他人にお気に入りの女を預けるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んだぜ？これが誠意でなくて何だって言うんだ？"
+                                "\\N<Zuuteruka>Hehehe, it's heart-wrenching for me to entrust my favorite\nwoman to someone else. If this isn't sincerity, then what\nis?"
                             ]
                         },
                         {
@@ -13748,7 +13580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -13866,7 +13698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>な……っ！？"
+                                "\\N<Former Duchy Soldier>Wha...!?"
                             ]
                         },
                         {
@@ -13895,7 +13727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、どうだあ？いい女だろ？"
+                                "\\N<Zuuteruka>Hehehe, how about it? She's a fine woman, isn't she?"
                             ]
                         },
                         {
@@ -13912,7 +13744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -13936,21 +13768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人達の眼が女の肢体に集中する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも無理からぬ事、彼等禁欲の者達にとって目の前の女は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "劇薬も同然だった。"
+                                "The prisoners' eyes were focused on the woman's body. It was\nno wonder; for these men deprived of indulgence, the woman\nbefore them was like a potent drug."
                             ]
                         },
                         {
@@ -13974,7 +13792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>ん……ふ……っ。"
+                                "\\N<Masked Woman>Mmm... Ah...!"
                             ]
                         },
                         {
@@ -13998,14 +13816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな獣の様な視線に晒されながらの凌辱を受けても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女は抵抗や拒絶の姿勢を見せない。"
+                                "Even as she's exposed to such beastly gazes and violated,\nthe woman shows no sign of resistance or rejection."
                             ]
                         },
                         {
@@ -14022,14 +13833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女は仮面の下から細工された様なくぐもった嬌声を上げ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "只ズーテルカに抱かれながら彼等の出方を待っている。"
+                                "From beneath her mask, the woman lets out muffled, alluring\nmoans, simply being embraced by Zuuteruka while waiting for\ntheir next move."
                             ]
                         },
                         {
@@ -14053,7 +13857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>ああ……んん……っ。"
+                                "\\N<Masked Woman>Ah... mmm...!"
                             ]
                         },
                         {
@@ -14070,7 +13874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……っ。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -14087,14 +13891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それに本来ならこの女、お前らにとっちゃ雲の上の存在……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対に手が届かない程の上玉なんだぜ？"
+                                "\\N<Zuuteruka>Besides, this woman would normally be out of your league...\na top-notch beauty far beyond your reach, right?"
                             ]
                         },
                         {
@@ -14111,21 +13908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それがどうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、そんな女が乳もアソコも丸出しでお前等の目の前で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股濡らしてやがる。"
+                                "\\N<Zuuteruka>And now? Here she is, with her breasts and pussy fully\nexposed, right before your eyes, soaking wet."
                             ]
                         },
                         {
@@ -14142,7 +13925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -14159,14 +13942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>幾ら石頭でも判るだろ？お前等の事を待っているのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今ならお前らの好きにし放題って事だ。"
+                                "\\N<Zuuteruka>Even a blockhead can understand, right? She's waiting for\nyou guys. It means you can do whatever you like with her\nright now."
                             ]
                         },
                         {
@@ -14183,14 +13959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>どうだあ？コレを見りゃ石頭のお前らでも少しは気が変わっ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たんじゃねえか？"
+                                "\\N<Zuuteruka>So? Seeing this must have changed your minds a bit, even for\nyou hardheads, huh?"
                             ]
                         },
                         {
@@ -14207,14 +13976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>み、見くびるな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達がそんな……女などで……。"
+                                "\\N<Former Duchy Soldier>Don't underestimate us... We wouldn't be swayed by... such a\nwoman..."
                             ]
                         },
                         {
@@ -14231,7 +13993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>タダの女じゃねえって言ったろ？いいのかあ？"
+                                "\\N<Zuuteruka>I told you she's not just any woman, right? Are you sure\nabout this?"
                             ]
                         },
                         {
@@ -14248,14 +14010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、てめえのモノにする前に味見してえってんなら仕方"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえ、少し位なら触ってもイイんだぜ？"
+                                "\\N<Zuuteruka>Hehehe, if you're saying you want to taste her before making\nher yours, I can't help it. You can touch her a little if\nyou want."
                             ]
                         },
                         {
@@ -14272,7 +14027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>何だと……？"
+                                "\\N<Former Duchy Soldier>What did you say...?"
                             ]
                         },
                         {
@@ -14289,14 +14044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>遠慮するなよ。なぁに、ちょっとコイツの触ったからって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ハイお前は今から同志だ、なんて言いやしねえ。"
+                                "\\N<Zuuteruka>Don't be shy. Hey, just because you touch her a bit doesn't\nmean I'll say 'Hi, you're a comrade now.'"
                             ]
                         },
                         {
@@ -14313,14 +14061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>これは飽く迄俺からお前らへの供物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尊敬を込めた未来の同志への、な。"
+                                "\\N<Zuuteruka>This is strictly an offering from me to you guys. A token of\nrespect for my future comrades."
                             ]
                         },
                         {
@@ -14337,7 +14078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -14354,7 +14095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>う、う………っ！？"
+                                "\\N<Former Duchy Soldier>Ugh... uh...!?"
                             ]
                         },
                         {
@@ -14412,7 +14153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>あ……ん……っ。"
+                                "\\N<Masked Woman>Ah... mmm...!"
                             ]
                         },
                         {
@@ -14429,7 +14170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ああ……く……っ！？"
+                                "\\N<Former Duchy Soldier>Ahh... ugh...!?"
                             ]
                         },
                         {
@@ -14453,14 +14194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉄格子越しに男達の手が仮面の女の肢体に延びる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼らの手がその身に触れた途端、女は甘い吐息を上げた。"
+                                "The men's hands reached through the bars towards the masked\nwoman's body. As soon as their hands touched her, she let\nout a sweet sigh."
                             ]
                         },
                         {
@@ -14484,7 +14218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>はあ……あ……っ。"
+                                "\\N<Masked Woman>Haa... ah...!"
                             ]
                         },
                         {
@@ -14501,7 +14235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>うう……うう……っ！"
+                                "\\N<Former Duchy Soldier>Ugh... ugh...!"
                             ]
                         },
                         {
@@ -14525,21 +14259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の手は女から離れない。契機はズーテルカの甘言による物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かも知れなかったが、今の彼等にとっては無理からぬ事でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有った。"
+                                "The men's hands did not leave the woman. Perhaps it was\nZuuteruka's sweet talk that triggered them, but for them at\nthat moment, it was an irresistible act."
                             ]
                         },
                         {
@@ -14563,14 +14283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>今を逃したらこいつをモノに出来る機会はそうそうねえぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コイツはお前らにとっちゃそう言う女だ。"
+                                "\\N<Zuuteruka>If you miss this chance, you won't get another opportunity\nto have her. She's that kind of woman to you guys."
                             ]
                         },
                         {
@@ -14628,7 +14341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>……ん……っ。"
+                                "\\N<Masked Woman>...mmm...!"
                             ]
                         },
                         {
@@ -14645,7 +14358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>はあ……はあ……っ！"
+                                "\\N<Former Duchy Soldier>Haah... haah...!"
                             ]
                         },
                         {
@@ -14662,7 +14375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>く、くどい……くどいぞ、ズーテルカ……！"
+                                "\\N<Former Duchy Soldier>Enough... enough already, Zuuteruka...!"
                             ]
                         },
                         {
@@ -14679,14 +14392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>頑なだねえ、まあ確かにそう結論急ぐ事もねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "折角忠孝の士ってのを検分出来るまたとねえ機会だからなあ。"
+                                "\\N<Zuuteruka>You're stubborn, huh? Well, there's no need to rush to\nconclusions. It's a rare opportunity to see just how loyal\nand honorable you soldiers are."
                             ]
                         },
                         {
@@ -14703,7 +14409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>何だと……？我らを愚弄する気か……！？"
+                                "\\N<Former Duchy Soldier>What are you saying...? Are you mocking us...!?"
                             ]
                         },
                         {
@@ -14720,14 +14426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうじゃねえよ。これは誠意だ。そして譲歩だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理力づくでリュダの軍門に降りてえか？"
+                                "\\N<Zuuteruka>That's not it. This is sincerity. And a concession. Would\nyou rather be forced to surrender to Lyuda's army by force?"
                             ]
                         },
                         {
@@ -14744,14 +14443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それよりは礼を尽くされ……女を宛がわれ、遜って同門に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迎え入れられえだろ？"
+                                "\\N<Zuuteruka>Wouldn't it be better to be treated with respect... given a\nwoman and humbly welcomed into the same fold?"
                             ]
                         },
                         {
@@ -14768,14 +14460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうすればこそ、元兵士のお前らの誇りってのも保たれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んじゃねえのか？"
+                                "\\N<Zuuteruka>That way, even the pride of you former soldiers can be\npreserved, right?"
                             ]
                         },
                         {
@@ -14792,7 +14477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>っ……！？"
+                                "\\N<Former Duchy Soldier>...!?"
                             ]
                         },
                         {
@@ -14809,14 +14494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>だからこれは誠意、そして譲歩だってんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ程リュダはお前ら強者を迎え入れてえった事さ。"
+                                "\\N<Zuuteruka>So this is sincerity, and a concession. That's how much\nLyuda wants to welcome you strong ones."
                             ]
                         },
                         {
@@ -14833,7 +14511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -14871,21 +14549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、また明日来てやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時までに、その汚ねえ檻の中でてめえの身の振り方を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく相談して置けよ？"
+                                "\\N<Zuuteruka>Hehehe, I'll come again tomorrow. By then, discuss well\namong yourselves in that filthy cage about what you'll do\nwith yourselves, okay?"
                             ]
                         },
                         {
@@ -14902,7 +14566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -15577,7 +15241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>どうだ？身の振り方の相談は終わったかあ？"
+                                "\\N<Zuuteruka>How about it? Have you finished discussing your next move?"
                             ]
                         },
                         {
@@ -15610,7 +15274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ズーテルカ……貴様……。"
+                                "\\N<Former Duchy Soldier>Zuuteruka... you bastard..."
                             ]
                         },
                         {
@@ -15634,7 +15298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -15658,14 +15322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、ご機嫌は如何かねえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一晩経って少しは気も変わったか？"
+                                "\\N<Zuuteruka>Hehehe, how are you feeling? Has a night's time changed your\nmind a bit?"
                             ]
                         },
                         {
@@ -15682,21 +15339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>全くお前らの高望みには恐れ入るぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ昨日の女が気に入らねえってんだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く贅沢にも程が有るってヤツだ。"
+                                "\\N<Zuuteruka>I'm truly amazed by your high expectations. Complaining\nabout not liking last night's woman. Talk about being\nextravagantly picky."
                             ]
                         },
                         {
@@ -15809,14 +15452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、見ろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜は違う女を連れて来てやったぜ？"
+                                "\\N<Zuuteruka>Hehehe, look here. Tonight I've brought a different woman\nfor you."
                             ]
                         },
                         {
@@ -15833,7 +15469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -15857,21 +15493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言葉の通り、ズーテルカは昨晩とは違う女を侍らせている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とは言え昨晩の女同様、眼前の女もリュダの仮面を被り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その肢体にリュダの淫飾が刻まれていた。"
+                                "True to his word, Zuuteruka had a different woman in\nattendance than the previous night. However, like last\nnight's woman, the one before them was wearing a Lyuda mask,\nand her body was engraved with Lyuda's lewd decorations."
                             ]
                         },
                         {
@@ -15895,7 +15517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……っ！"
+                                "\\N<Former Duchy Soldier>...!"
                             ]
                         },
                         {
@@ -15912,14 +15534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>今度のはどうだ？たまらねーだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イイ身体してるだろ？"
+                                "\\N<Zuuteruka>How about this one? Irresistible, isn't she? She's got a\nnice body, right?"
                             ]
                         },
                         {
@@ -15936,14 +15551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>昨日の女同様少しばかり薹は立ってやがるが、それでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ女盛りだ。"
+                                "\\N<Zuuteruka>Like yesterday's woman, she's a bit on the mature side, but\nshe's still in her prime."
                             ]
                         },
                         {
@@ -15960,14 +15568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>アッチの方も格別だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこらの商売女とは比べものにならねえ位具合イイぜ？"
+                                "\\N<Zuuteruka>And the other part is exceptional. She feels way better than\nany common whore you could find around here."
                             ]
                         },
                         {
@@ -15984,21 +15585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それに見ろよ、この戦と修練で仕上がった身体……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無駄な肉はこのデカい乳位のモンさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだあ？こいつを自分のモノにしてえとは思わねえか？"
+                                "\\N<Zuuteruka>Plus, look at this body, honed by battle and training... The\nonly excess flesh is on these big breasts. How about it?\nDon't you want to make her yours?"
                             ]
                         },
                         {
@@ -16015,7 +15602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>うう……く……っ！"
+                                "\\N<Former Duchy Soldier>Ugh... ah...!"
                             ]
                         },
                         {
@@ -16032,7 +15619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -16056,14 +15643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカの言う通り、眼前の女の肉付きが良く豊満な肢体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男達の視線と意識を集中させるのに十分過ぎた。"
+                                "As Zuuteruka said, the woman's well-endowed and voluptuous\nbody was more than enough to concentrate the men's gazes and\nattention."
                             ]
                         },
                         {
@@ -16080,14 +15660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その証拠に幾人かの男達は既に膨れ上がった股間を抑え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自らの劣情を必死に鎮めようとしていた。"
+                                "Proof of that was several men already holding their swollen\ncrotches, desperately trying to suppress their base desires."
                             ]
                         },
                         {
@@ -16111,14 +15684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>昨日の女とは違うがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつもお前らじゃ中々手に入らねえ程の女だぞ？"
+                                "\\N<Zuuteruka>She's different from yesterday's woman. But she's still a\ncatch that you guys wouldn't normally be able to get your\nhands on, right?"
                             ]
                         },
                         {
@@ -16135,7 +15701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -16152,14 +15718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……特に『暁の穂』自警団に所属していた連中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっちゃたまらねーだろうなあ……？"
+                                "\\N<Zuuteruka>Hehehe... especially for those who were part of the \"Dawn's\nEar\" vigilante group... must be irresistible, huh...?"
                             ]
                         },
                         {
@@ -16176,7 +15735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……っ！？"
+                                "\\N<Yuia>...!?"
                             ]
                         },
                         {
@@ -16193,14 +15752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ど、どう言う事だ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々の所属とその貴様の情婦の女と何の関係が有る……！？"
+                                "\\N<Former Duchy Soldier>What do you mean...? What does our affiliation have to do\nwith your mistress...!?"
                             ]
                         },
                         {
@@ -16217,21 +15769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そりゃあ、色好い返事を聞かせてくれる迄の秘密って奴さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同志になればこの女の素性だろうが性癖だろうが、何だって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてやるよ。"
+                                "\\N<Zuuteruka>Well, that's a secret until I hear the answer I like. Become\ncomrades with us and I'll tell you everything about this\nwoman, from her identity to her sexual preferences."
                             ]
                         },
                         {
@@ -16301,7 +15839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>あ……っく……！？"
+                                "\\N<Masked Woman>Ah... ah...!?"
                             ]
                         },
                         {
@@ -16371,7 +15909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>うう……ぐ……！？"
+                                "\\N<Masked Woman>Ugh... ah...!?"
                             ]
                         },
                         {
@@ -16395,21 +15933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカに貫かれ、仮面の女が嬌声を上げ始めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昨晩の女と同様に仮面には細工が施され、女の声はくぐもり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元の声色とはかけ離れている様に感じる。"
+                                "Pierced by Zuuteruka, the masked woman began to let out\nmoans. Like last night's woman, the mask was designed to\nmuffle her voice, making it sound quite different from her\noriginal tone."
                             ]
                         },
                         {
@@ -16433,7 +15957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<仮面の女>はあ……あ……うう……！"
+                                "\\N<Masked Woman>Haa... ah... ugh...!"
                             ]
                         },
                         {
@@ -16450,14 +15974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それよりどうだ？今度こそ気が変わったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの軍門に降る気になったか？"
+                                "\\N<Zuuteruka>Anyway, how about it? Have you changed your mind this time?\nAre you ready to surrender to Lyuda's forces?"
                             ]
                         },
                         {
@@ -16474,7 +15991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>く……っ！"
+                                "\\N<Former Duchy Soldier>Gah...!"
                             ]
                         },
                         {
@@ -16491,14 +16008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……粘るねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く石頭もここ迄来ると却って面白えじゃねえか。"
+                                "\\N<Zuuteruka>Hehehe... you're persistent. But being so hard-headed is\nactually kind of amusing."
                             ]
                         },
                         {
@@ -16522,7 +16032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ひ、ひとつだけ……教えろ……。"
+                                "\\N<Former Duchy Soldier>Just one thing... tell me..."
                             ]
                         },
                         {
@@ -16539,14 +16049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何だ？この女の弱いトコか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだなあ……ブチ込んでやりながら首筋を……。"
+                                "\\N<Zuuteruka>What is it? This woman's weak spot? Well, if I had to say...\nwhile I'm thrusting into her, it would be the nape of her\nneck..."
                             ]
                         },
                         {
@@ -16563,7 +16066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ち、違う！そんな事では無い……っ！"
+                                "\\N<Former Duchy Soldier>No, not that! That's not what I'm asking...!"
                             ]
                         },
                         {
@@ -16580,14 +16083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうかい。じゃあ何だ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "未来の同志の為なら大抵の事は答えてやるぜ？"
+                                "\\N<Zuuteruka>Hehehe, is that so. Then what is it? I'll answer most things\nfor the sake of a future comrade."
                             ]
                         },
                         {
@@ -16604,14 +16100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ズーテルカ、貴様……何故俺達を執拗に同志へと誘う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの兵力増強だけが目的なのか……？"
+                                "\\N<Former Duchy Soldier>Zuuteruka, you bastard... why are you so insistent on\nrecruiting us as comrades? Is increasing Lyuda's military\nstrength your only goal...?"
                             ]
                         },
                         {
@@ -16628,7 +16117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ふぅん？それが、そんなに不思議かい？"
+                                "\\N<Zuuteruka>Hmm? Is that so curious to you?"
                             ]
                         },
                         {
@@ -16645,14 +16134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>と、当然だ……兵力増強だけなら近隣の町や村……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居住地を襲い、適齢の男子を徴募すれば済む話だろう……？"
+                                "\\N<Former Duchy Soldier>Of course it is... If it's just about increasing military\nstrength, you could simply raid nearby towns or villages...\nresidential areas and conscript able-bodied men..."
                             ]
                         },
                         {
@@ -16669,14 +16151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>それが何故我々死を待つだけの敗残兵を……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかもそうやって態々自分の愛妾を差し出して迄、だ。"
+                                "\\N<Former Duchy Soldier>Why then go out of your way to recruit us, soldiers waiting\nfor death... and even offer up your own mistress to do so."
                             ]
                         },
                         {
@@ -16693,14 +16168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……別に他意は無えよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強いて言うならお前らに見所が有るから……かねえ？"
+                                "\\N<Zuuteruka>Hehehe... there's no ulterior motive. If I had to say\nsomething, it's because I see potential in you guys..."
                             ]
                         },
                         {
@@ -16717,14 +16185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>このままこんな穴倉で死を待つだけじゃ勿体ねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思ったからさ、それじゃ不満かい？"
+                                "\\N<Zuuteruka>It would be a waste for you to just wait for death in a hole\nlike this. That's what I thought, so I made my move. Are you\ndissatisfied with that?"
                             ]
                         },
                         {
@@ -16741,7 +16202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -16786,14 +16247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>いいぜ、決意がつかねえなら、また明日来てやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時までせいぜいその無意味な意地を貫くといいや。"
+                                "\\N<Zuuteruka>Fine by me. If you can't make up your mind, I'll come again\ntomorrow. Until then, cling to that meaningless pride of\nyours as much as you like."
                             ]
                         },
                         {
@@ -16810,7 +16264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -17237,7 +16691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こ、ここは……？"
+                                "\\N<Segi>Where is this...?"
                             ]
                         },
                         {
@@ -17313,7 +16767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>この先は大部屋だ。大量の犯罪者共を収監して置く為のな。"
+                                "\\N<Zuuteruka>Beyond here lies the large chamber. It's for incarcerating a\nlarge number of criminals."
                             ]
                         },
                         {
@@ -17337,14 +16791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな場所に用事など無いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはユイア様に会わせてと言ったのよ……？"
+                                "\\N<Segi>I have no business in such a place. I asked to be taken to\nLord Yuia...?"
                             ]
                         },
                         {
@@ -17368,14 +16815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>判ってるって。だがな、この先に収監されてる連中は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前にとっても無関係じゃねえんだぜ？"
+                                "\\N<Zuuteruka>I know that. But, the guys locked up ahead aren't irrelevant\nto you either."
                             ]
                         },
                         {
@@ -17399,7 +16839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>どう言う事……？"
+                                "\\N<Segi>What do you mean...?"
                             ]
                         },
                         {
@@ -17468,7 +16908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、元暁の穂の連中さ。お前やユイアの元お仲間だよ。"
+                                "\\N<Zuuteruka>Hehehe, they're from the Dawn's Ear group. Your former\ncomrades, as well as Yuia's."
                             ]
                         },
                         {
@@ -17492,7 +16932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！？"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -17516,21 +16956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>戦の後、大方は俺達リュダの軍門に降ったが、未だに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一部亡国に意味の無え忠誠を誓っている連中もいてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ソイツらをここへ連れて来ているって訳だ。"
+                                "\\N<Zuuteruka>After the war, most of them surrendered to our Ryuda forces,\nbut there are still some who swear futile loyalty to their\nfallen country. We've brought those guys here."
                             ]
                         },
                         {
@@ -17547,21 +16973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、温情的な処置って訳さ。皆殺しなんざ野蛮人のやる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事だからな。ゆっくりと時間をかけて説得してやってるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワケよ。リュダに降るのが得策だってな。"
+                                "\\N<Zuuteruka>Hehehe, it's a merciful treatment. Massacres are for\nbarbarians, after all. We're taking our time trying to\npersuade them that surrendering to Ryuda is the smart move."
                             ]
                         },
                         {
@@ -17578,21 +16990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>とは言え無期限にってワケにもいかねえ、連中が俺達の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説得に耳を貸さなきゃここにいる全員の処刑だってそう遠く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねえかも知れねえんだ。"
+                                "\\N<Zuuteruka>That being said, we can't wait indefinitely. If they don't\nlisten to our persuasion, the execution of everyone here\nmight not be so far off."
                             ]
                         },
                         {
@@ -17616,7 +17014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -17640,21 +17038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ま、そういう事だ。連中はいつ死ぬかも判らない死刑囚共だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい絶望で明日も見えない哀れな男共に一縷の光を与え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てやれよ。同じ土地の仲間……且つての同胞としてな。"
+                                "\\N<Zuuteruka>Well, that's the situation. These guys are death row inmates\nwho don't know when they'll die. Do your best to give these\npitiful men, who can't see tomorrow out of despair, a\nglimmer of hope. As fellow countrymen... and former\nbrethren."
                             ]
                         },
                         {
@@ -17678,7 +17062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……何を言っているの？話が見えないわ。"
+                                "\\N<Segi>...What are you saying? I can't see the point of this\nconversation."
                             ]
                         },
                         {
@@ -17702,7 +17086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、旦那に会う前に連中を楽しませてやれって事さ。"
+                                "\\N<Zuuteruka>Hehehe, I'm saying entertain those guys before you meet the\nboss."
                             ]
                         },
                         {
@@ -17719,21 +17103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>悲しい連中は希望を預かり、お前は快楽を得る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その上ユイアに会う前の発散にもなるって寸法だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正に一挙両得ってヤツじゃねえか、え？"
+                                "\\N<Zuuteruka>The sad lot will hold onto hope, and you'll gain pleasure.\nPlus, it'll be a release before meeting Yuia. It's killing\ntwo birds with one stone, eh?"
                             ]
                         },
                         {
@@ -17757,7 +17127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>じ、冗談じゃないわ……！どうしてわたしがそんな……！"
+                                "\\N<Segi>Don't joke with me...! Why should I have to do such a\nthing...!"
                             ]
                         },
                         {
@@ -17781,21 +17151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうは言っても身体の方は限界なんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま旦那に会って、散々に発情した顔を晒す気なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもいいがなあ？"
+                                "\\N<Zuuteruka>Even so, your body is at its limit, right? If you want to\nmeet the boss with a face flushed from arousal, that's fine\ntoo."
                             ]
                         },
                         {
@@ -17819,7 +17175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -17843,21 +17199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、ユイアの奴、さぞ戸惑うだろうなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして嫁に何が起きたか察するだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはそれでイイ見世物になるかもなあ……ひへへ。"
+                                "\\N<Zuuteruka>Hehehe, Yuia will surely be puzzled. And then he'll guess\nwhat happened to his bride. That might be quite a\nspectacle... hehehe."
                             ]
                         },
                         {
@@ -17881,7 +17223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -17905,21 +17247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>な？大した事じゃねえだろ？何も連中の為に死ねって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってるワケじゃねえんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもみたいに軽い気持ちでハッサンさせりゃいいだけだ。"
+                                "\\N<Zuuteruka>See? It's not a big deal, right? I'm not saying you should\ndie for them. Just let loose like you always do."
                             ]
                         },
                         {
@@ -17943,7 +17271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か、軽い気持ちなんかじゃ……。"
+                                "\\N<Segi>It's not like I can just take it lightly..."
                             ]
                         },
                         {
@@ -17967,7 +17295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>判った判った、いいからこっちに来な。"
+                                "\\N<Zuuteruka>Alright, alright, just come over here."
                             ]
                         },
                         {
@@ -18064,7 +17392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>よう、元気にしてたか？そろそろ覚悟は決まったか？"
+                                "\\N<Zuuteruka>Hey there, been keeping well? Have you made up your mind\nyet?"
                             ]
                         },
                         {
@@ -18088,7 +17416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>何の……覚悟だ？"
+                                "\\N<Former Duchy Soldier>What kind of... resolve?"
                             ]
                         },
                         {
@@ -18105,14 +17433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そりゃあ決まってるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "石頭極まるお前等が漸く折れて、俺の同志になる覚悟さ。"
+                                "\\N<Zuuteruka>It's obvious. That you stubborn fools will finally break and\nbecome my comrades."
                             ]
                         },
                         {
@@ -18129,7 +17450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -18146,14 +17467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、今夜はそんなお前らの為に取って置きの女を連れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てやったぜ？"
+                                "\\N<Zuuteruka>Hehehe, tonight I've brought a special woman just for you\nguys."
                             ]
                         },
                         {
@@ -18194,14 +17508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカは牢屋の中の囚人達に淫靡な衣装を着させ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傍に侍らせたセギを見せ付けた。"
+                                "Zuuteruka dressed the prisoners in lewd outfits and showed\noff Segi, who was made to stand by his side."
                             ]
                         },
                         {
@@ -18218,21 +17525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギの仮面には細工が施され、彼女の側から外を見る事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない。その所為か、彼女は背後のズーテルカにその身を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "預けざるを得なかった。"
+                                "A mechanism was fitted to Segi's mask, preventing her from\nseeing outside from her position. Because of this, she had\nno choice but to entrust her body to Zuuteruka behind her."
                             ]
                         },
                         {
@@ -18256,7 +17549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -18273,14 +17566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>俺の目下一番のお気に入りさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ？この女とヤりてえか？"
+                                "\\N<Zuuteruka>She's my current favorite. How about it? Want to fuck this\nwoman?"
                             ]
                         },
                         {
@@ -18297,7 +17583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>うう……！"
+                                "\\N<Former Duchy Soldier>Ugh...!"
                             ]
                         },
                         {
@@ -18314,21 +17600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ？聞こえねえなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女を滅茶苦茶に犯してやりてえのか、ヤりたくねえのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちなんだよ？"
+                                "\\N<Zuuteruka>What? I can't hear you. Do you want to fuck this woman\nsenseless or not? Which is it?"
                             ]
                         },
                         {
@@ -18352,7 +17624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカがそう言うと囚人達の顔が一斉に曇り始める。"
+                                "As Zuuteruka said this, the faces of the prisoners began to\ncloud over all at once."
                             ]
                         },
                         {
@@ -18369,14 +17641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカによる連夜の甘美な誘いに、彼等の忍耐は限界に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近付きつつある。それは誰の眼にも明らかだった。"
+                                "Night after night of Zuuteruka's sweet temptations were\npushing their endurance to the limit. It was clear to\nanyone's eyes."
                             ]
                         },
                         {
@@ -18400,7 +17665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……っ！"
+                                "\\N<Former Duchy Soldier>...!"
                             ]
                         },
                         {
@@ -18417,14 +17682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ！どうした、男だろ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめえの口でしっかり答えてくれよ！？"
+                                "\\N<Zuuteruka>Hehehe! What's wrong, you're a man, aren't you?! Answer me\nclearly with your own mouth!"
                             ]
                         },
                         {
@@ -18474,21 +17732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカは彼等を焚き付ける様に鉄格子を蹴飛ばす。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その音に反応するかの様に、牢屋の中からは苦渋の歯噛み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "が聞こえて来る。"
+                                "Zuuteruka kicked the iron bars as if to incite them further.\nAs if responding to the sound, bitter teeth-grinding could\nbe heard from within the cell."
                             ]
                         },
                         {
@@ -18512,14 +17756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>黙れっ！そりゃあ欲しいに決まってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場にその女が欲しくない男など居はしないだろうさ！"
+                                "\\N<Former Duchy Soldier>Shut up! Of course I want her! There isn't a man here who\nwouldn't want that woman in this place!"
                             ]
                         },
                         {
@@ -18536,7 +17773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ほお……？それで……？"
+                                "\\N<Zuuteruka>Oh...? And...?"
                             ]
                         },
                         {
@@ -18553,14 +17790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>だがそんな……嫌がる女を無理矢理手籠めになどしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前と同じになってしまう……！"
+                                "\\N<Former Duchy Soldier>But that... If I were to force myself on a woman who is\nunwilling, I'd become just like you...!"
                             ]
                         },
                         {
@@ -18577,14 +17807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>私利私欲の為に国を裏切り……そして今は仇敵リュダの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幹部に収まっている厚顔無恥なお前と一緒にな！"
+                                "\\N<Former Duchy Soldier>Betraying the country for personal greed... And now you're\nshamelessly settled as an executive of the enemy, Lyuda!"
                             ]
                         },
                         {
@@ -18601,14 +17824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから喉から手が出る程欲しい物でも手を伸ばせねえってか。"
+                                "\\N<Zuuteruka>Hehehe, is that so? So you're saying you can't reach out for\nsomething you want so badly that you're practically drooling\nfor it."
                             ]
                         },
                         {
@@ -18625,14 +17841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>だがどうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮にこの女がお前らとヤリてえって言ってもかあ？"
+                                "\\N<Zuuteruka>But what if? What if this woman said she wanted to fuck you\nguys?"
                             ]
                         },
                         {
@@ -18649,7 +17858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>な、何……！？ "
+                                "\\N<Former Duchy Soldier>Wha... What...!?"
                             ]
                         },
                         {
@@ -18666,14 +17875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、そうだ。無理矢理なんかじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女がお前等にどうぞ抱いて下さいませって口上なら？"
+                                "\\N<Zuuteruka>Yeah, that's right. It's not by force. What if this woman\nsaid, 'Please embrace me'?"
                             ]
                         },
                         {
@@ -18690,14 +17892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それならどうだ？それでも同じ気持ちか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この女の身体を味わってみたくならねえのか？"
+                                "\\N<Zuuteruka>How about it then? Would you still feel the same? Don't you\nwant to taste this woman's body?"
                             ]
                         },
                         {
@@ -18714,7 +17909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>そ、それ……は……！"
+                                "\\N<Former Duchy Soldier>That... is...!"
                             ]
                         },
                         {
@@ -18731,7 +17926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そこのお前。お前はどうしたいんだよ？"
+                                "\\N<Zuuteruka>You there, what do you want to do?"
                             ]
                         },
                         {
@@ -18748,7 +17943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>うう……俺は俺は……っ！"
+                                "\\N<Former Duchy Soldier>Ugh... I... I...!"
                             ]
                         },
                         {
@@ -18765,7 +17960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへっ！焦れってえなあ！？早く決めろよ！"
+                                "\\N<Zuuteruka>Hehehe! Getting impatient, aren't we?! Hurry up and decide!"
                             ]
                         },
                         {
@@ -18789,7 +17984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカはそう言うと、囚人達に更にセギの身を近付ける。"
+                                "Zuuteruka then brings Segi even closer to the prisoners."
                             ]
                         },
                         {
@@ -18813,7 +18008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -18830,14 +18025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ホレ、見ろよ？こんなにも無抵抗なんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌がってる様に見えるか？"
+                                "\\N<Zuuteruka>Look, see? She's so defenseless. Does she look like she's\nresisting?"
                             ]
                         },
                         {
@@ -18854,14 +18042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>股からは愛液垂れ流してお前等の決断を待ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男としての覚悟を魅せて欲しいってよお？"
+                                "\\N<Zuuteruka>Her crotch is dripping with love juice, waiting for your\ndecision. She wants you to show your resolve as men, huh?"
                             ]
                         },
                         {
@@ -18878,7 +18059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -18895,14 +18076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それでも信じられねえってんなら証拠を見せてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せこの女は俺の言う事は何でも聞くからな。"
+                                "\\N<Zuuteruka>If you still can't believe it, I'll show you proof. After\nall, this woman listens to everything I say."
                             ]
                         },
                         {
@@ -18926,14 +18100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>女……こいつらに向かって股開きな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてよぉく拝んで貰えよ。"
+                                "\\N<Zuuteruka>Woman... spread your legs towards them. And let them have a\ngood look."
                             ]
                         },
                         {
@@ -18950,7 +18117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -19008,7 +18175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>あ……あ……っ！？"
+                                "\\N<Former Duchy Soldier>Ah... ah...!"
                             ]
                         },
                         {
@@ -19032,14 +18199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは促されるまま、囚人達に自らの性器が良く見える様、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を大きく広げて見せる。"
+                                "As prompted, Segi spreads her legs wide for the prisoners to\nget a clear view of her genitals."
                             ]
                         },
                         {
@@ -19063,14 +18223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ほらな？これで理解したか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌がる女が進んでこんな真似が出来ると思うか？"
+                                "\\N<Zuuteruka>See? Do you understand now? Do you think a woman who is\nunwilling would willingly do such a thing?"
                             ]
                         },
                         {
@@ -19094,21 +18247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人達は唖然としながらもセギの股間から目を離す事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない。そして彼女もまた、目立った抵抗をせず卑猥に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男達に秘部を晒し続ける。"
+                                "The prisoners were dumbfounded but couldn't take their eyes\noff Segi's crotch. And she too continued to expose her\ngenitals indecently to the men without significant\nresistance."
                             ]
                         },
                         {
@@ -19132,7 +18271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ううっ……うう……！"
+                                "\\N<Former Duchy Soldier>Ugh... ugh...!"
                             ]
                         },
                         {
@@ -19149,7 +18288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -19166,7 +18305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>面倒くせぇ忠節の題目も無駄な我慢もここじゃ要らねえ。"
+                                "\\N<Zuuteruka>There's no need for annoying loyalty or pointless endurance\nhere."
                             ]
                         },
                         {
@@ -19183,21 +18322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>お前らもこの女とヤりてえならいい加減ハラ決めな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その上その臭え穴倉から出て同志の席に加えるってんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体何を迷う事が有るってんだあ？ええ？"
+                                "\\N<Zuuteruka>If you guys want to fuck this woman, make up your minds\nalready. On top of that, come out of that stinking hole and\njoin the ranks of comrades. What is there to hesitate about,\nhuh?"
                             ]
                         },
                         {
@@ -19214,7 +18339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -19238,14 +18363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……どうしても手が出ねえってんなら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場で俺が先に頂いちまうぞ？"
+                                "\\N<Zuuteruka>Hehehe... If you really can't bring yourself to do it...\nI'll take my turn with her right here and now."
                             ]
                         },
                         {
@@ -19295,7 +18413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……ん……う……んん……っ！"
+                                "\\N<Segi>Ah... mm... uh... mmm...!"
                             ]
                         },
                         {
@@ -19428,7 +18546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>んん……ん……ーっ！！"
+                                "\\N<Segi>Mmm... mm...-!"
                             ]
                         },
                         {
@@ -19445,21 +18563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、どうだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう見えてもこいつは少し前迄、旦那一筋の貞淑な人妻"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったんだ。"
+                                "\\N<Zuuteruka>Hehehe, how about it? Despite appearances, this one was a\nchaste wife devoted only to her husband until just a little\nwhile ago."
                             ]
                         },
                         {
@@ -19476,14 +18580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それが今やこの通りさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "声にならねえ善がり声を上げながら喜んで腰振ってやがる。"
+                                "\\N<Zuuteruka>And now look at her. She's happily shaking her hips while\nletting out moans that aren't quite words."
                             ]
                         },
                         {
@@ -19500,7 +18597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>んふ……うう……うっ！"
+                                "\\N<Segi>Nfu... ugh... ugh!"
                             ]
                         },
                         {
@@ -19517,7 +18614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>う……うう……っ！"
+                                "\\N<Former Duchy Soldier>Ugh... ugh...!"
                             ]
                         },
                         {
@@ -19534,14 +18631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>見ろよ、旦那以外のチンポをこうも簡単に受け入れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり股濡らしてやがる。"
+                                "\\N<Zuuteruka>Look at her, easily accepting a dick other than her\nhusband's and getting her crotch wet."
                             ]
                         },
                         {
@@ -19558,14 +18648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>いや、違うな……受け入れてなんてモンじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迎え入れていやがるのさ。"
+                                "\\N<Zuuteruka>No, that's not it... It's not just acceptance. She's\nwelcoming it."
                             ]
                         },
                         {
@@ -19582,14 +18665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>なあ？どうだ？これを見てどう思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもまだそのクセぇ檻の中で過ごしてえか？"
+                                "\\N<Zuuteruka>Well? What do you think after seeing this? Do you still want\nto spend your time in that stinking cage?"
                             ]
                         },
                         {
@@ -19606,7 +18682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>そ、それ……それは……！"
+                                "\\N<Former Duchy Soldier>That... that is...!"
                             ]
                         },
                         {
@@ -19664,7 +18740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……んん……うっ！"
+                                "\\N<Segi>Ah... mmm... ugh!"
                             ]
                         },
                         {
@@ -19681,14 +18757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何も難しく考える必要は無えさ。俺の……リュダの仲間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なれば、こんなにも美味しい思いが出来るって事さ。"
+                                "\\N<Zuuteruka>There's no need to think too hard about it. If you become\none of my... Ryuda's comrades, you can have such delightful\nexperiences."
                             ]
                         },
                         {
@@ -19705,7 +18774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>お、俺は……俺は……。"
+                                "\\N<Former Duchy Soldier>I... I am..."
                             ]
                         },
                         {
@@ -19722,7 +18791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>お、おい、お前まさか……。"
+                                "\\N<Former Duchy Soldier>Hey, you... you can't possibly..."
                             ]
                         },
                         {
@@ -19739,14 +18808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>だ、だって仕方無いだろう！？このままここにいても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日の命さえ判らない生活が続くだけだ！"
+                                "\\N<Former Duchy Soldier>But, but it can't be helped, right?! If we stay here, we'll\njust continue living not knowing if we'll see tomorrow!"
                             ]
                         },
                         {
@@ -19763,14 +18825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>このまま亡国に想いを馳せていても、その頭ごと切り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落とされて終いだっ！"
+                                "\\N<Former Duchy Soldier>Even if we keep our thoughts on the fallen nation, we'll\njust end up getting our heads chopped off!"
                             ]
                         },
                         {
@@ -19787,7 +18842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>し、しかし……それじゃあ……！！"
+                                "\\N<Former Duchy Soldier>But... then...!!"
                             ]
                         },
                         {
@@ -19845,14 +18900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、イイねえ。賢明な選択だと思うぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "損を捨てて得を選ぶ、ソイツを誰が否定出来るってんだ？"
+                                "\\N<Zuuteruka>Hehehe, nice. I think it's a wise choice. Who could blame\nyou for abandoning loss and choosing gain?"
                             ]
                         },
                         {
@@ -19869,14 +18917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>少なくとも俺はその鞍替えを歓迎してやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "判るか？行き場もねえお前らを認め、肯定してやるってんだ。"
+                                "\\N<Zuuteruka>At least I welcome your change of allegiance. You get it?\nI'm acknowledging and affirming you lot who have nowhere\nelse to go."
                             ]
                         },
                         {
@@ -19893,7 +18934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>ズーテルカ……。"
+                                "\\N<Former Duchy Soldier>Zuuteruka..."
                             ]
                         },
                         {
@@ -19917,14 +18958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、話は纏まった様だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前らは今日から仲間……俺の家族って訳だ。"
+                                "\\N<Zuuteruka>Hehehe, looks like we've come to an agreement. From today\non, you're comrades... part of my family, that is."
                             ]
                         },
                         {
@@ -19941,7 +18975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>……。"
+                                "\\N<Former Duchy Soldier>..."
                             ]
                         },
                         {
@@ -19958,14 +18992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>こう見えて俺は寛大な男でねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家族には感謝の証を贈らなきゃなあ？"
+                                "\\N<Zuuteruka>Despite appearances, I'm a generous man. I have to give a\ntoken of gratitude to my family, right?"
                             ]
                         },
                         {
@@ -19982,7 +19009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>……受け取りな、お前等の新しい門出を祝して。"
+                                "\\N<Zuuteruka>...Take it, as a celebration of your new beginning."
                             ]
                         },
                         {
@@ -20048,7 +19075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ！！？？"
+                                "\\N<Segi>!!??"
                             ]
                         },
                         {
@@ -20065,7 +19092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<元公国兵>な……っ！！？？"
+                                "\\N<Former Duchy Soldier>Wha...!!??"
                             ]
                         },
                         {
@@ -20129,7 +19156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……ん……う……んん……っ！"
+                                "\\N<Segi>Ah... mmm... uh... mmm...!"
                             ]
                         },
                         {
@@ -20153,14 +19180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……浅ましいねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、ソレも仕方ねえか。禁欲生活が限界だったんだろうねえ。"
+                                "\\N<Zuuteruka>Hehehe... how shameful. Well, it can't be helped. Your\nabstinence must have reached its limit."
                             ]
                         },
                         {
@@ -20177,7 +19197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -20194,14 +19214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>なあユイア、お前はいいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参加しなくてもいいのかい？ひへへ。"
+                                "\\N<Zuuteruka>Hey Yuia, are you okay with this? It's fine if you don't\nparticipate, hehehe."
                             ]
                         },
                         {
@@ -20218,14 +19231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>俺を貴様の様なケダモノと一緒にするな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く俺の視界から消えろ。"
+                                "\\N<Yuia>Don't lump me in with beasts like you... Get out of my sight\nalready."
                             ]
                         },
                         {
@@ -20242,14 +19248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>そうかい？そうやって強がってねえで、お前の男と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しての黒い欲望を遠慮無くこの女で発散してもイイんだぜ？"
+                                "\\N<Zuuteruka>Is that so? Instead of pretending to be tough, why not\nindulge your dark male desires with this woman without\nrestraint?"
                             ]
                         },
                         {
@@ -20266,7 +19265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……消えろと言っている。"
+                                "\\N<Yuia>...Disappear, I said."
                             ]
                         },
                         {
@@ -20283,21 +19282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>何せこいつは俺の情婦の中でも一際好きモノだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ろよ。名前も判らなねえケダモノ共にブチ込まれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌がるどころか善がってやがる。"
+                                "\\N<Zuuteruka>After all, this one is particularly fond of pleasure among\nmy mistresses. Look at her. She's being penetrated by beasts\nwhose names she doesn't even know, and far from disliking\nit, she's enjoying it."
                             ]
                         },
                         {
@@ -20314,7 +19299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>あの女ならきっとお前も優しく受け入れてくれるぜえ？"
+                                "\\N<Zuuteruka>That woman would surely accept you kindly as well?"
                             ]
                         },
                         {
@@ -20331,14 +19316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>聞こえなかったか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前と一緒にするなと言っているだろう。"
+                                "\\N<Yuia>Didn't you hear me? I said don't compare me to you."
                             ]
                         },
                         {
@@ -20355,21 +19333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の寛大さってのも何時までも続く訳じゃねえぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時になって精々後悔しねえようにな？"
+                                "\\N<Zuuteruka>Hehehe... is that so. My generosity won't last forever, you\nknow? Just make sure you don't regret it when the time\ncomes."
                             ]
                         },
                         {
@@ -20386,7 +19350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -20403,21 +19367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、また明日来てやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時までに、その汚ねえ檻の中でてめえの身の振り方を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく考えて置けよ？"
+                                "\\N<Zuuteruka>Hehehe, I'll come again tomorrow. By then, you better think\ncarefully about what you're going to do inside that filthy\ncage."
                             ]
                         },
                         {
@@ -20434,7 +19384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -20562,14 +19512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、幾ら明日の戦いの為とは言え……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしは……何て……事を……。"
+                                "\\N<Segi>No matter that it's for tomorrow's battle... I... what have\nI..."
                             ]
                         },
                         {
@@ -20600,14 +19543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かに……症状は幾分治まったかも知れない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして……わたしは戦う事が出来る様にもなった。"
+                                "\\N<Segi>Certainly... the symptoms may have subsided somewhat. And\nnow... I am able to fight."
                             ]
                         },
                         {
@@ -20624,7 +19560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でもその分わたしは……何か大切なものを……。"
+                                "\\N<Segi>But in exchange, I feel like I've lost something\nimportant..."
                             ]
                         },
                         {

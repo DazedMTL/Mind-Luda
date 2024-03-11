@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>お目当てのモンは奥の部屋の箱の中に入っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由に着替えるといいさ……へへ。"
+                                "\\N<Ryuda Soldier>The thing you're looking for is in the box in the back room.\nFeel free to change into it... hehe."
                             ]
                         },
                         {
@@ -1684,14 +1677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした、奥さん。遺跡に行くんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行きなよ、その恰好は眼に毒だからな……へへ。"
+                                "\\N<Ryuda Soldier>What's the matter, ma'am? You're heading to the ruins,\nright? You should hurry on, that outfit is quite the sight\nfor sore eyes... hehe."
                             ]
                         },
                         {
@@ -2037,7 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -2112,7 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>よう、奥さん。"
+                                "\\N<Ryuda Soldier>Hey there, ma'am."
                             ]
                         },
                         {
@@ -2136,7 +2122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2160,21 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>アンタの話は聞いてるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の練兵会はアンタみてえな色っぽい奥サマにはさぞ酷な事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だろうな。"
+                                "\\N<Ryuda Soldier>I've heard about you. That training session must have been\npretty harsh for a sexy lady like you."
                             ]
                         },
                         {
@@ -2198,21 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だとしたらそれが何だと言うんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えどんなに酷な道だろうとわたしは自分の成すべき事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "成すだけです。"
+                                "\\N<Segi>And what of it? No matter how harsh the path may be, I will\nsimply do what I must."
                             ]
                         },
                         {
@@ -2236,14 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、そりゃご立派な事で。アンタさえ良ければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また持ちつ持たれつでいこうと思うんだがな。"
+                                "\\N<Ryuda Soldier>Heh, that's quite noble of you. If you're up for it, I was\nthinking we could have a give-and-take relationship."
                             ]
                         },
                         {
@@ -2267,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2291,21 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>簡単な事さ、俺達と遊んでくれれば練兵会での便宜を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "図ってやる。いざ本番の戦いでのアンタの負担を軽減して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やろうってのさ。"
+                                "\\N<Ryuda Soldier>It's simple, if you play with us, we'll make things easier\nfor you at the training session. We'll reduce your burden\nwhen the real battle comes."
                             ]
                         },
                         {
@@ -2329,7 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……あなた達にそんな芸当が可能とは思えませんが。"
+                                "\\N<Segi>...I find it hard to believe that you have the ability to do\nsuch tricks."
                             ]
                         },
                         {
@@ -2353,14 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、見縊って貰っちゃ困るぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達にだってその程度の権限位有らあな。"
+                                "\\N<Ryuda Soldier>Heh, don't underestimate us. We have at least that much\nauthority."
                             ]
                         },
                         {
@@ -2384,7 +2314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2408,21 +2338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>アンタにしても顔見知り相手はヤリづれえだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後腐れも有るしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その点俺達にならどうだい？何が遭ってもココだけの秘密さ。"
+                                "\\N<Ryuda Soldier>It must be tiring dealing with people you know, right?\nThere's always strings attached. But with us, how about it?\nWhatever happens, it stays our little secret."
                             ]
                         },
                         {
@@ -2439,14 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく……ま、考えて置いてくれよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色良い返事を期待してるぜ？"
+                                "\\N<Ryuda Soldier>Heh... Well, think it over, will ya? I'm looking forward to\na favorable response."
                             ]
                         },
                         {
@@ -2531,21 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>アンタにしても顔見知り相手はヤリづれえだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後腐れも有るしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その点俺達にならどうだい？何が遭ってもココだけの秘密さ。"
+                                "\\N<Ryuda Soldier>Even for you, it must be tiresome to deal with someone you\nknow, right? There are strings attached after all. In that\ncase, how about us? Whatever happens, it stays our little\nsecret."
                             ]
                         },
                         {
@@ -2562,14 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく……ま、考えて置いてくれよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色良い返事を期待してるぜ？"
+                                "\\N<Ryuda Soldier>Heh heh... Well, think it over, will you? I'm looking\nforward to a favorable response."
                             ]
                         },
                         {
@@ -2637,14 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした、奥さん。遺跡に行くんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行きなよ、その恰好は眼に毒だからな……へへ。"
+                                "\\N<Ryuda Soldier>What's the matter, ma'am? You're heading to the ruins,\nright? Better get going, that outfit is quite the sight for\nsore eyes... hehe."
                             ]
                         },
                         {
@@ -2988,14 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>よう、アンタか。話は聞いてるぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも旦那の為の金子の用意に難儀してるって話じゃねえか。"
+                                "\\N<Ryuda Soldier>Hey, you're the one, huh? I've heard the story. You're\nhaving trouble gathering money for your husband, aren't you?"
                             ]
                         },
                         {
@@ -3012,21 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、そう言う事なら喜んで協力してやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売りたい私物が在ったらここへ持って来な。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこらの店じゃ買い取ってくれねえモノも買ってやるよ。"
+                                "\\N<Ryuda Soldier>Heh, if that's the case, I'd be happy to help out. If you\nhave any personal belongings you want to sell, bring them\nhere. I'll buy things that other shops won't even take off\nyour hands."
                             ]
                         },
                         {
@@ -3050,7 +2910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3141,14 +3001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>よう、どうした？何を売りたいんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタの私物なら幾らでも引き取ってやるぜ？"
+                                "\\N<Ryuda Soldier>Hey, what's up? What do you want to sell? I'll take anything\nthat's your personal property for a good price."
                             ]
                         },
                         {
@@ -3203,14 +3056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつは好きモノに高く売れるかもな。ご苦労さん。"
+                                "\\N<Ryuda Soldier>Heh... indeed. This might fetch a high price from those who\nlike it. Thanks for your hard work."
                             ]
                         },
                         {
@@ -3234,7 +3080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3333,14 +3179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こいつは好きモノに高く売れるかもな。ご苦労さん。"
+                                "\\N<Ryuda Soldier>Heh... indeed. This might fetch a high price from those who\nlike it. Thanks for your hard work."
                             ]
                         },
                         {
@@ -3364,7 +3203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3482,7 +3321,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3532,7 +3371,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<リュダ兵>おやおや、こんなモノまで売ってくれるのかい？"
+                                "\\N<Ryuda Soldier>Oh my, are you even willing to sell this?"
                             ]
                         },
                         {
@@ -3583,14 +3422,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、こりゃあイイねえ。こりゃ奥さんのだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "随分と可愛い下着穿いてるじゃねえか。"
+                                "\\N<Ryuda Soldier>Heh, this is nice. This belongs to your wife, doesn't it?\nShe's wearing some pretty cute panties."
                             ]
                         },
                         {
@@ -3607,7 +3439,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>や、やめて下さい……そんな風に……っ。"
+                                "\\N<Segi>Please stop... don't look at it like that..."
                             ]
                         },
                         {
@@ -3624,14 +3456,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<リュダ兵>いいじゃねえか。売って貰ったモノは俺のモノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだからよお。どうしようと勝手だろ？"
+                                "\\N<Ryuda Soldier>What's the problem? Once sold, it's mine to do as I please,\nright?"
                             ]
                         },
                         {
@@ -3648,14 +3473,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>で、でも……その……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あまり見ないで下さい……。"
+                                "\\N<Segi>But... please... don't look too much..."
                             ]
                         },
                         {
@@ -3672,14 +3490,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、奥さんの匂いが沁みついてるみてえだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "こりゃあ高く売れるぜ？良かったなあ？"
+                                "\\N<Ryuda Soldier>Heh, it seems like your wife's scent has soaked into it.\nThis will sell for a lot, won't it? Aren't you lucky?"
                             ]
                         },
                         {
@@ -3696,7 +3507,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>～っ！"
+                                "\\N<Segi>~!"
                             ]
                         },
                         {
@@ -3713,14 +3524,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<リュダ兵>恥ずかしがってないでまた持って来なよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "奥さんの下着だったら幾らでも買い取ってやるからよ。"
+                                "\\N<Ryuda Soldier>Don't be shy and bring more next time. If it's your wife's\nunderwear, I'll buy as much as you've got."
                             ]
                         },
                         {
@@ -3851,7 +3655,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3901,7 +3705,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>おやおや、こんなモノまで売ってくれるのかい？"
+                                "\\N<Ryuda Soldier>Oh my, are you even willing to sell this?"
                             ]
                         },
                         {
@@ -3952,14 +3756,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、こりゃあイイねえ。こりゃ奥さんのだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "随分と可愛い下着穿いてるじゃねえか。"
+                                "\\N<Ryuda Soldier>Heh, this is nice. This belongs to your wife, doesn't it?\nShe's wearing some pretty cute panties."
                             ]
                         },
                         {
@@ -3976,7 +3773,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>や、やめて下さい……そんな風に……っ。"
+                                "\\N<Segi>Please stop... don't talk about it like that..."
                             ]
                         },
                         {
@@ -3993,14 +3790,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>いいじゃねえか。売って貰ったモノは俺のモノ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "なんだからよお。どうしようと勝手だろ？"
+                                "\\N<Ryuda Soldier>What's the problem? Once sold, it's mine to do as I please,\nright?"
                             ]
                         },
                         {
@@ -4017,14 +3807,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>で、でも……その……っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あまり見ないで下さい……。"
+                                "\\N<Segi>But... please... don't look too much..."
                             ]
                         },
                         {
@@ -4041,14 +3824,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、奥さんの匂いが沁みついてるみてえだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "こりゃあ高く売れるぜ？良かったなあ？"
+                                "\\N<Ryuda Soldier>Heh, it seems like your wife's scent has soaked into it.\nThis will sell for a lot, won't it? Aren't you lucky?"
                             ]
                         },
                         {
@@ -4065,7 +3841,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>～っ！"
+                                "\\N<Segi>~!"
                             ]
                         },
                         {
@@ -4082,14 +3858,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>恥ずかしがってないでまた持って来なよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "奥さんの下着だったら幾らでも買い取ってやるからよ。"
+                                "\\N<Ryuda Soldier>Don't be shy and bring more next time. If it's your wife's\nunderwear, I'll buy as much as you've got."
                             ]
                         },
                         {
@@ -4113,7 +3882,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>それはそうと奥さん、この下着何回穿いたんだい？"
+                                "\\N<Ryuda Soldier>By the way, madam, how many times have you worn this\nunderwear?"
                             ]
                         },
                         {
@@ -4130,7 +3899,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>そ、そんな事……覚えてません。"
+                                "\\N<Segi>I... I don't remember such things."
                             ]
                         },
                         {
@@ -4147,21 +3916,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<リュダ兵>ホントかい？そりゃ残念、大事な事なんだけどなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "こう言うのを買う奴はソイツを重要視するのさ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "覚えて置いてくれよな？"
+                                "\\N<Ryuda Soldier>Really? That's a shame; it's an important detail. The people\nwho buy these things place great importance on that, so try\nto remember, okay?"
                             ]
                         },
                         {
@@ -4178,7 +3933,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4309,7 +4064,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4359,7 +4114,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>おやおや、こんなモノまで売ってくれるのかい？"
+                                "\\N<Ryuda Soldier>Oh my, are you even willing to sell this?"
                             ]
                         },
                         {
@@ -4410,14 +4165,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>ほお……へへ、こりゃまた随分と男を惑わす代物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "じゃねえか。"
+                                "\\N<Ryuda Soldier>Ho... heh, this is quite the item to bewitch men with."
                             ]
                         },
                         {
@@ -4434,7 +4182,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>や、やめ……そんな風に言わないで下さい……っ。"
+                                "\\N<Segi>Stop... don't say things like that..."
                             ]
                         },
                         {
@@ -4451,14 +4199,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>誰が見てもそう見えるさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "奥さん、アンタ大人しそうな顔してとんだ好きモノだねえ。"
+                                "\\N<Ryuda Soldier>Anyone can see that. Madam, you have such an innocent face\nbut you're quite the seductress."
                             ]
                         },
                         {
@@ -4475,7 +4216,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>ち、違います。わたしそんなんじゃ……。"
+                                "\\N<Segi>That's not true. I'm not like that..."
                             ]
                         },
                         {
@@ -4492,14 +4233,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>違わねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "現に見ろよコレ、マンコ丸出しじゃねえか、へへ。"
+                                "\\N<Ryuda Soldier>No denying it. Just look at this; it's practically exposing\nyour pussy, heh."
                             ]
                         },
                         {
@@ -4516,7 +4250,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>～っ！"
+                                "\\N<Segi>~!"
                             ]
                         },
                         {
@@ -4533,21 +4267,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>こりゃあ旦那の趣味かい？これを穿いて毎晩"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "旦那を誘惑してたのかい？へへ、まさか旦那以外の男の為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "穿いてたとかじゃねえよな？"
+                                "\\N<Ryuda Soldier>Is this your husband's preference? Wearing this every night\nto tempt him? Heh, don't tell me you wore this for other men\nbesides your husband?"
                             ]
                         },
                         {
@@ -4564,7 +4284,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>ば、馬鹿な事を言わないで……っ！"
+                                "\\N<Segi>Don't say such foolish things...!"
                             ]
                         },
                         {
@@ -4581,14 +4301,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>何なら今ここで穿いてみせてくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "こんなのを身に着けてる位だ、好きなんだろ見られるのが。"
+                                "\\N<Ryuda Soldier>Why not try them on right here? You must like being seen in\nthem if you wear something like this."
                             ]
                         },
                         {
@@ -4605,14 +4318,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>そんな筈ありません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "こ、これ以上侮辱するつもりなら……！"
+                                "\\N<Segi>That's not true at all! If you intend to insult me\nfurther...!"
                             ]
                         },
                         {
@@ -4629,14 +4335,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<リュダ兵>判った判った。大人しく買い取らせて貰うよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "この奥さんのとって置きをなあ？"
+                                "\\N<Ryuda Soldier>Alright, alright. I'll buy them off you quietly, these\nspecial keepsakes of yours, okay?"
                             ]
                         },
                         {
@@ -4828,7 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -4896,14 +4595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした、奥さん。遺跡に行くんだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行きなよ、その恰好は眼に毒だからな……へへ。"
+                                "\\N<Ryuda Soldier>What's the matter, ma'am? You're heading to the ruins,\nright? Better get going, that outfit is quite the sight for\nsore eyes... heh."
                             ]
                         },
                         {

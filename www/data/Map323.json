@@ -6557,7 +6557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ここか……或いはここに母上とセノが……。"
+                                "\\N<Yuia>Is this the place... where my mother and Seno might be..."
                             ]
                         },
                         {
@@ -6723,7 +6723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>すみません、兵隊様。少し宜しいですか？"
+                                "\\N<Yuia>Excuse me, soldier sir. May I have a moment of your time?"
                             ]
                         },
                         {
@@ -6747,7 +6747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>何だ、手短にな。"
+                                "\\N<Ryuda Soldier>What is it? Make it quick."
                             ]
                         },
                         {
@@ -6771,14 +6771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>あの……最近ここに連れて来られた女が2人いませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙齢の見目の良い女なんですが……。"
+                                "\\N<Yuia>Um... have two women been brought here recently? They are of\nmarriageable age and quite attractive..."
                             ]
                         },
                         {
@@ -6802,7 +6795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ？何故そんな事を聞く？"
+                                "\\N<Ryuda Soldier>Huh? Why do you ask such a thing?"
                             ]
                         },
                         {
@@ -6826,7 +6819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ご不審には及びません、実はその……。"
+                                "\\N<Yuia>Please don't be suspicious, the truth is that..."
                             ]
                         },
                         {
@@ -6850,14 +6843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……まさかその女がお前の縁者だとでも？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを取り戻しに来たのか？"
+                                "\\N<Ryuda Soldier>...don't tell me those women are your relatives? You've come\nto take them back?"
                             ]
                         },
                         {
@@ -6890,21 +6876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>まさか、まさか。実は申し上げるのも恥ずかしいのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数日前私の仲間からこちらでそんな女を見かけたと伝え聞き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まして。"
+                                "\\N<Yuia>No, no. It's rather embarrassing to say, but a few days ago,\nI heard from my companions that they saw such women here."
                             ]
                         },
                         {
@@ -6921,14 +6893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>そんなに美しい女なら……私もここへ来れば兵隊様のお零れ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に預かれるのでは無いかと期待しまして。"
+                                "\\N<Yuia>If they are as beautiful as they say... I was hoping I might\nbe fortunate enough to receive some of your leftovers by\ncoming here."
                             ]
                         },
                         {
@@ -6952,7 +6917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふん、そう言う事か、下衆め。"
+                                "\\N<Ryuda Soldier>Hmph, so that's what it is, you scoundrel."
                             ]
                         },
                         {
@@ -6976,7 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -7000,21 +6965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>確かにそんな女がいたらしいがな、詳しくは俺も知らん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "差し詰め上級士官の情婦ってとこじゃないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の様な下士官には預かり知らん事さ。"
+                                "\\N<Ryuda Soldier>Indeed, there seem to have been such women, but I don't know\nthe details. Perhaps they're mistresses of a high-ranking\nofficer? That's not something a non-commissioned officer\nlike me would know."
                             ]
                         },
                         {
@@ -7038,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>そうですか……それは残念。"
+                                "\\N<Yuia>Is that so... That's unfortunate."
                             ]
                         },
                         {
@@ -7062,7 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>さあ、判ったらとっとと引き上げるんだな。"
+                                "\\N<Ryuda Soldier>Now that you know, get out of here quickly."
                             ]
                         },
                         {
@@ -7086,7 +7037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>……だっ！……ってるんだよ！"
+                                "\\N<??>...damn! ...ing around!"
                             ]
                         },
                         {
@@ -7172,7 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ん……？"
+                                "\\N<Yuia>Hm...?"
                             ]
                         },
                         {
@@ -7196,7 +7147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ち……またか、懲りない連中だぜ。"
+                                "\\N<Ryuda Soldier>Tch... not again, these guys never learn."
                             ]
                         },
                         {
@@ -7220,7 +7171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>何だ……？兵士同士の諍い事か……？"
+                                "\\N<Yuia>What's going on...? Is it a quarrel between soldiers...?"
                             ]
                         },
                         {
@@ -7618,7 +7569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>もし、差し出がましい様ですがお怪我はありませんか？"
+                                "\\N<Yuia>If I may be so bold, are you hurt?"
                             ]
                         },
                         {
@@ -7680,7 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>大丈夫……いつもの事さ、慣れてるよ。"
+                                "\\N<Hebeta>I'm fine... it's the usual, I'm used to it."
                             ]
                         },
                         {
@@ -7720,14 +7671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>その……何故リュダのお仲間同士で先程の様な無体な事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なさるんで？"
+                                "\\N<Yuia>Why... why do your fellow Ryuda soldiers do such terrible\nthings to each other?"
                             ]
                         },
                         {
@@ -7751,7 +7695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>って言うか……あなたは誰なの？"
+                                "\\N<Hebeta>More importantly... who are you?"
                             ]
                         },
                         {
@@ -7775,14 +7719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>これは失礼、私は近隣の村の者です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの兵隊様に上納にあがりました。"
+                                "\\N<Yuia>My apologies, I am from a nearby village. I came here to\ndeliver tributes to the Ryuda soldiers."
                             ]
                         },
                         {
@@ -7806,7 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>ふぅん……。"
+                                "\\N<Hebeta>Huh..."
                             ]
                         },
                         {
@@ -7844,21 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>あの人達が言うにはさ、僕のこの醜い顔が気に入らないん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって。吐き気がして来るんだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご飯が不味くなるんだって。"
+                                "\\N<Hebeta>According to them, they just can't stand my ugly face. It\nmakes them nauseous, ruins their appetite."
                             ]
                         },
                         {
@@ -7882,7 +7805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それだけの事でさっきの様なご無体をなさるんで……？"
+                                "\\N<Yuia>Just for that reason, they treat you so terribly...?"
                             ]
                         },
                         {
@@ -7906,7 +7829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>そうらしいよ。ま、慣れてるけどね……。"
+                                "\\N<Hebeta>Seems so. Well, I'm used to it..."
                             ]
                         },
                         {
@@ -7930,7 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -8085,7 +8008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>どうする……？このままここに留まるか？"
+                                "\\N<Yuia>What to do...? Should I stay here?"
                             ]
                         },
                         {
@@ -8102,21 +8025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>母上やセノ、ここにそれらしい人物がいたのは間違い無さ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだが仔細も行方も判らん。これ以上ここに留まって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人の有益な情報を得られるものだろうか……。"
+                                "\\N<Yuia>Mother and Seno, there seems to be no mistake that people\nlike them were here, but I don't know the details or their\nwhereabouts. Can I really obtain any useful information\nabout them by staying here any longer..."
                             ]
                         },
                         {
@@ -8156,14 +8065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>いや……街へ戻るのはいつでも出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はもう暫しここに留まり二人の行方を探るべきだろう……。"
+                                "\\N<Yuia>No... I can always return to the city later. For now, it\nmight be best to stay here a while longer and search for\ntheir whereabouts..."
                             ]
                         },
                         {
@@ -8560,14 +8462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だからいつも言ってるだろうが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達の前に汚えツラを晒すなってよ！"
+                                "\\N<Ryuda Soldier>That's what I keep telling you! Don't show your filthy face\nin front of us!"
                             ]
                         },
                         {
@@ -8584,7 +8479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>ご、ごめんよ……ごめんよ？こんな僕でごめんよお……。"
+                                "\\N<Hebeta>So-sorry... I'm sorry for being like this..."
                             ]
                         },
                         {
@@ -8608,7 +8503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ち……っ！"
+                                "\\N<Ryuda Soldier>Tch...!"
                             ]
                         },
                         {
@@ -8829,7 +8724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>あの、もし……大丈夫ですか？"
+                                "\\N<Yuia>Excuse me, are you... alright?"
                             ]
                         },
                         {
@@ -8891,7 +8786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>ああ昨日の人か、まだいたの？"
+                                "\\N<Hebeta>Oh, the person from yesterday? You're still here?"
                             ]
                         },
                         {
@@ -8931,14 +8826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>その……何故なんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故ここまでの目に遭ってまでリュダに留まるのです？"
+                                "\\N<Yuia>Why... why do you endure such treatment and still stay with\nRyuda?"
                             ]
                         },
                         {
@@ -8962,7 +8850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>え……？"
+                                "\\N<Hebeta>Eh...?"
                             ]
                         },
                         {
@@ -8986,14 +8874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ここでお会い出来たのも何かの縁でございましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良ければお聞かせ下さいませんか？"
+                                "\\N<Yuia>Meeting you here must be some sort of fate. Would you mind\ntelling me your reasons?"
                             ]
                         },
                         {
@@ -9064,7 +8945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>……大した理由じゃないよ、僕はさ、結婚したいんだ。"
+                                "\\N<Hebeta>...It's not a big reason, you see, I just want to get\nmarried."
                             ]
                         },
                         {
@@ -9088,7 +8969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>け、結婚……？"
+                                "\\N<Yuia>Marriage...?"
                             ]
                         },
                         {
@@ -9150,7 +9031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>そう、あなたは結婚してるの？"
+                                "\\N<Hebeta>Yes, are you married?"
                             ]
                         },
                         {
@@ -9174,7 +9055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>私はその……。"
+                                "\\N<Yuia>I am..."
                             ]
                         },
                         {
@@ -9198,21 +9079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>いいや言わなくても。あなたの顔は整っているもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとしてるよね。僕もあなたの様な整った顔立ちに生まれ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ればどれだけ良かったか。"
+                                "\\N<Hebeta>No need to say it. You have a well-featured face, so you\nmust be. If only I were born with a face as well-featured as\nyours."
                             ]
                         },
                         {
@@ -9229,14 +9096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>僕はさ……女性に相手にされた事が無いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この醜い顔だからね。"
+                                "\\N<Hebeta>You see... I've never been favored by women. Because of this\nugly face."
                             ]
                         },
                         {
@@ -9260,7 +9120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -9284,14 +9144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>それでも……好きな人と一生を過ごしてみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ位は夢見てもいいだろ？"
+                                "\\N<Hebeta>Still... I want to spend my life with someone I love. Isn't\nit okay to dream at least that much?"
                             ]
                         },
                         {
@@ -9308,7 +9161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>だから……僕はここにいるんだ。"
+                                "\\N<Hebeta>That's why... I'm here."
                             ]
                         },
                         {
@@ -9325,21 +9178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>虫ケラの様な僕が少しでも女性達と対等になるにはここに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるのが一番じゃない？だから僕は……どんな目に遭おうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もここに居続けられるんだ。"
+                                "\\N<Hebeta>Isn't staying here the best way for someone like me, who's\nlike an insect, to become somewhat equal to women? That's\nwhy I can stay here, no matter what happens to me."
                             ]
                         },
                         {
@@ -9363,7 +9202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {

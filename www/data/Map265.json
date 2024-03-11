@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "湖底遺跡ミィベ:下層",
+    "displayName": "Lakebed Ruins Myyve: Lower Layer",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2372,21 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ここが遺跡の下層なのね……刺激臭が一層濃くなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マインド・リュダの効果が無ければ、わたしの身体はどう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっていたのかしら……。"
+                                "\\N<Segi>So this is the lower level of the ruins... The pungent smell\nhas gotten even stronger. Without the effects of Mind Lyuda,\nI wonder what would have become of my body..."
                             ]
                         },
                         {
@@ -2403,21 +2389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>マインド・リュダ……この薬は確実にわたしの身体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蝕んでいる。でもそのお陰でこうしてここに立てている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皮肉なものだわ……。"
+                                "\\N<Segi>Mind Lyuda... This medicine is definitely corroding my body.\nBut thanks to it, I can stand here like this. It's quite\nironic..."
                             ]
                         },
                         {
@@ -2434,14 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それでも……進まなきゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迷ってはいけない……そう決めたのだから。"
+                                "\\N<Segi>Still... I must go on. I can't hesitate... That's what I've\ndecided."
                             ]
                         },
                         {
@@ -2880,7 +2845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>経皮毒の為の毒草……これの事かしら。"
+                                "\\N<Segi>A poisonous herb for transdermal toxins... I wonder if this\nis it."
                             ]
                         },
                         {
@@ -3146,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミィベ湖底遺跡について"
+                                "About the MiiBe Lake Ruins"
                             ]
                         },
                         {
@@ -3170,21 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遺跡内にはセギの敵となる怪異が闊歩していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "接触により傷付いてもゲームオーバーになる事はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（スリップダメージを除く）"
+                                "Inside the ruins, there are eerie creatures that are enemies\nto Segi. Even if she gets hurt by contact, it will not\nresult in a game over. (Excluding slip damage)"
                             ]
                         },
                         {
@@ -3208,14 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし一部の条件で傷付き、倒れてしまうと彼女の身に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何らかの危険が迫る事が有ります。"
+                                "However, under certain conditions, if she gets injured and\ncollapses, some kind of danger may befall her."
                             ]
                         },
                         {
@@ -3239,14 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、闊歩する敵や宝箱の中には特殊な色を持った個体が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存在します。"
+                                "Additionally, among the enemies that roam and the contents\nof treasure chests, there are individuals with special\ncolors."
                             ]
                         },
                         {
@@ -3270,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これらは通常色の個体と比べ、ランダム要素を含むものの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総じてより良い報酬が期待出来ます。"
+                                "These individuals, compared to those of normal color,\ngenerally offer better rewards, although they include random\nelements."
                             ]
                         },
                         {

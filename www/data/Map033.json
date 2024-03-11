@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>場内では練兵会が開催中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参加者でない者はこれ以上進む事は叶わん。"
+                                "\\N<Ryuda Soldier>A training session is currently being held inside. Those who\nare not participants shall not proceed any further."
                             ]
                         },
                         {
@@ -2338,7 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -2362,14 +2355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユイア様、外でリイアとふたり、お待ちしてます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様のご無事をお祈りしています……。"
+                                "\\N<Segi>Lord Yuia, Riia and I will be waiting outside. We pray for\nyour safety..."
                             ]
                         },
                         {
@@ -2393,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>うん……有難う。きっと何もかも上手くいくさ。"
+                                "\\N<Yuia>Yeah... Thank you. I'm sure everything will go well."
                             ]
                         },
                         {
@@ -2417,7 +2403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -2441,21 +2427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>心配要らないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽観的過ぎると言われてしまえばそれまでだけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要は勝ち続ければいいだけさ。"
+                                "\\N<Yuia>No need to worry. They say I'm too optimistic, but in the\nend, all we need to do is keep winning."
                             ]
                         },
                         {
@@ -2472,14 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>試合に勝利し続ける限りは俺の身も君達の身の安全も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "保証される。それがこの下劣な大会の最低限の規則だからね。"
+                                "\\N<Yuia>As long as I continue to win the matches, both my safety and\nyours are guaranteed. That's the bare minimum rule of this\nvile tournament."
                             ]
                         },
                         {
@@ -2496,21 +2461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>そうでなければ戦士達は満足に力を発揮する事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない……リュダの兵士の受け売りだけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、こんな時位は連中の言葉を信用してみるさ。"
+                                "\\N<Yuia>Otherwise, the warriors wouldn't be able to exhibit their\nfull power... It's a cliché from the Ryuda soldiers, but\nwell, in times like these, I'll trust their words."
                             ]
                         },
                         {
@@ -2527,7 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>だから……大丈夫、心配要らないよ。"
+                                "\\N<Yuia>So... it's okay, no need to worry."
                             ]
                         },
                         {
@@ -2578,7 +2529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -2626,7 +2577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そこの連中、何をしている。道を空けろ。"
+                                "\\N<Ryuda Soldier>You there, what are you doing. Clear the way."
                             ]
                         },
                         {
@@ -2662,14 +2613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何でしょうか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの兵隊達が急に物々しく動き始めていますが……。"
+                                "\\N<Segi>Wh-What's going on...? The Ryuda soldiers have suddenly\nstarted moving urgently..."
                             ]
                         },
                         {
@@ -2686,14 +2630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>多分……例のリュダ本隊から着任すると言う新しい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "指揮官のご到着と言ったところじゃないかな。"
+                                "\\N<Yuia>Probably... the arrival of the new commander from the main\nRyuda forces that was supposed to be assigned here."
                             ]
                         },
                         {
@@ -2902,7 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ！！"
+                                "\\N<Segi>Ah!!"
                             ]
                         },
                         {
@@ -2919,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>セギ……どうしたんだい？"
+                                "\\N<Yuia>Segi... what's wrong?"
                             ]
                         },
                         {
@@ -3272,7 +3209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ユ、ユイア様……あ、あれ……！"
+                                "\\N<Segi>L-Lord Yuia... that...!"
                             ]
                         },
                         {
@@ -3296,7 +3233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>まさか……。"
+                                "\\N<Yuia>Could it be..."
                             ]
                         },
                         {
@@ -3336,7 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>……。"
+                                "\\N<Zuuteruka>..."
                             ]
                         },
                         {
@@ -3374,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ズーテルカ……間違い無い。風貌は変わっているが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴は間違い無くあのズーテルカだ……。"
+                                "\\N<Yuia>Zuuteruka... No mistake. His appearance has changed, but\nthat's definitely Zuuteruka..."
                             ]
                         },
                         {
@@ -3398,14 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>どうして奴がここに……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか奴がこの街の駐留司令官だと言うのか……？"
+                                "\\N<Yuia>Why is he here... Could it be that he's the commanding\nofficer stationed in this town...?"
                             ]
                         },
                         {
@@ -3429,7 +3352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんな……ど、どうすれば……。"
+                                "\\N<Segi>Th-That's... What should we do..."
                             ]
                         },
                         {
@@ -3453,14 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>平気さ……あれから何年も経つんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴にしたって俺達の人相などとっくに忘れているさ。"
+                                "\\N<Yuia>It's fine... It's been years since then. Even he must have\nforgotten our faces by now."
                             ]
                         },
                         {
@@ -3477,14 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それに……ここに俺達がいるなど予想もしていない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だろうからね。気付く筈が無いさ。"
+                                "\\N<Yuia>Besides... he wouldn't expect us to be here. There's no way\nhe'll notice us."
                             ]
                         },
                         {
@@ -3508,7 +3417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だ、だといいですが……。"
+                                "\\N<Segi>I hope you're right..."
                             ]
                         },
                         {
@@ -3532,7 +3441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -3549,14 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……大丈夫、平静にしていればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変に取り乱したりしたらそれこそ藪蛇さ。"
+                                "\\N<Yuia>...It's okay, just stay calm. If we act rashly, we'll only\nmake things worse."
                             ]
                         },
                         {
@@ -3580,7 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はい……。"
+                                "\\N<Segi>Y-Yes..."
                             ]
                         },
                         {
@@ -3788,7 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……。"
+                                "\\N<Yuia>..."
                             ]
                         },
                         {
@@ -3833,14 +3735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>行ってしまった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほ、本当ですね……わたし達に気付いた様子は無いみたい。"
+                                "\\N<Segi>He's gone... It's true... It seems like he didn't notice us\nat all."
                             ]
                         },
                         {
@@ -3864,14 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>だろう？所詮奴にとってはその程度の出来事に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過ぎなかったと言う訳さ。"
+                                "\\N<Yuia>Right? To him, it was nothing more than a trivial incident."
                             ]
                         },
                         {
@@ -3895,14 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>俺達にとっては……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忘れる事の出来ない悪夢の様な事であってもね。"
+                                "\\N<Yuia>For us... it was like a nightmare we can't forget."
                             ]
                         },
                         {
@@ -3926,7 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4004,7 +3885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……時間だ、そろそろ行くよ。"
+                                "\\N<Yuia>...It's time, let's go."
                             ]
                         },
                         {
@@ -4066,7 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……ユイア様、くれぐれもお気をつけて……。"
+                                "\\N<Segi>Yes... Lord Yuia, please be extra careful..."
                             ]
                         },
                         {
@@ -5044,21 +4925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>やあ、セギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてユイアさんもこれから試合かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、見ての通りあたしもこれからなんだケドさ。"
+                                "\\N<Irime>Hey, Segi. Is Yuia-san also heading to a match now? Well, as\nyou can see, I'm about to head out myself."
                             ]
                         },
                         {
@@ -5082,14 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……こんな時、何てお声掛けしたら良いか……。"
+                                "\\N<Segi>...Is that so. Um... I'm not sure what to say at a time like\nthis..."
                             ]
                         },
                         {
@@ -5113,14 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ふふ、愛する旦那の試合の前に、余計な気を遣わせちまった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みたいだね。"
+                                "\\N<Irime>Hehe, looks like I've made you worry unnecessarily before\nyour beloved husband's match."
                             ]
                         },
                         {
@@ -5137,21 +4990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>いいんだよ、今更何の言葉も要らないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ず勝って生き残ってみせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで来たら後は自分のチカラってのを信じるだけさ。"
+                                "\\N<Irime>It's okay, there's no need for any words now. I'll\ndefinitely win and survive. At this point, all I can do is\nbelieve in my own strength."
                             ]
                         },
                         {
@@ -5175,7 +5014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……どうかご無事で。"
+                                "\\N<Segi>Yes... Please be safe."
                             ]
                         },
                         {
@@ -5276,21 +5115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>やあ、セギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてユイアさんもこれから試合かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、見ての通りあたしもこれからなんだケドさ。"
+                                "\\N<Irime>Hey, Segi. Is Yuia-san also heading to a match now? Well, as\nyou can see, I'm about to head out myself."
                             ]
                         },
                         {
@@ -5314,14 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……こんな時、何てお声掛けしたら良いか……。"
+                                "\\N<Segi>...Is that so. Um... I'm not sure what to say at a time like\nthis..."
                             ]
                         },
                         {
@@ -5345,14 +5163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ふふ、愛する旦那の試合の前に、余計な気を遣わせちまった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みたいだね。"
+                                "\\N<Irime>Hehe, looks like I've made you worry unnecessarily before\nyour beloved husband's match."
                             ]
                         },
                         {
@@ -5369,21 +5180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>いいんだよ、今更何の言葉も要らないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ず勝って生き残ってみせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで来たら後は自分のチカラってのを信じるだけさ。"
+                                "\\N<Irime>It's okay, there's no need for any words now. I'll\ndefinitely win and survive. At this point, all I can do is\nbelieve in my own strength."
                             ]
                         },
                         {
@@ -5407,7 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……どうかご無事で。"
+                                "\\N<Segi>Yes... Please be safe."
                             ]
                         },
                         {
@@ -5607,7 +5404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさん……わ、わたし心配なんです……。"
+                                "\\N<Rame>Segi-san... I-I'm worried..."
                             ]
                         },
                         {
@@ -5624,21 +5421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ママのことはもちろん信じてますし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の心配もいらないって笑ってくれますが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもやっぱり心配になります……。"
+                                "\\N<Rame>Of course, I trust Mama, and she laughs saying there's no\nneed to worry... but still, I can't help but feel anxious..."
                             ]
                         },
                         {
@@ -5655,14 +5438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>だ、だって……ここで戦ってる人たちは、みんなママと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じで強い決意をもって戦ってる人たちだから……。"
+                                "\\N<Rame>Because... everyone fighting here has the same strong\nresolve as Mama..."
                             ]
                         },
                         {
@@ -5686,14 +5462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>あはは……ラメちゃんったらヘンなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふるえてるじゃないか。赤ちゃんみたい。"
+                                "\\N<Riia>Ahaha... Rame-chan, you're being silly. You're shaking like\na baby."
                             ]
                         },
                         {
@@ -5717,7 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>何よ……コドモのリイアちゃんにはわからないんだよ！"
+                                "\\N<Rame>What do you mean... You wouldn't understand, Riia-kun,\nyou're just a child!"
                             ]
                         },
                         {
@@ -5741,14 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>また言った！ぼくをコドモって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分だってそんなに変わらないのに！"
+                                "\\N<Riia>There you go again! Calling me a child! You're not that much\ndifferent yourself!"
                             ]
                         },
                         {
@@ -5772,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>止しなさい、リイア。"
+                                "\\N<Segi>Stop it, Riia."
                             ]
                         },
                         {
@@ -5796,14 +5558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そうだよね、心配だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもね、わたしも同じだよ……？"
+                                "\\N<Segi>...You're right, it's worrying. But you know, I feel the\nsame way...?"
                             ]
                         },
                         {
@@ -5827,7 +5582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさんも……？"
+                                "\\N<Rame>You do, Segi-san...?"
                             ]
                         },
                         {
@@ -5851,14 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うん、だから一緒にお祈りしようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママが無事に帰って来れます様にって。"
+                                "\\N<Segi>Yes, so let's pray together. That Mama comes back safely."
                             ]
                         },
                         {
@@ -5882,7 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>はい……。"
+                                "\\N<Rame>Yes..."
                             ]
                         },
                         {
@@ -5983,7 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさん……わ、わたし心配なんです……。"
+                                "\\N<Rame>Miss Segi... I-I'm worried..."
                             ]
                         },
                         {
@@ -6000,21 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ママのことはもちろん信じてますし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の心配もいらないって笑ってくれますが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもやっぱり心配になります……。"
+                                "\\N<Rame>Of course, I trust Mama, and she laughs saying there's no\nneed to worry... but still, I can't help but feel anxious..."
                             ]
                         },
                         {
@@ -6031,14 +5765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>だ、だって……ここで戦ってる人たちは、みんなママと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じで強い決意をもって戦ってる人たちだから……。"
+                                "\\N<Rame>After all... everyone fighting here has the same strong\ndetermination as Mama..."
                             ]
                         },
                         {
@@ -6062,14 +5789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……そうだよね、心配だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもね、私も同じだよ……？"
+                                "\\N<Segi>...You're right, it is worrying. But you know, I feel the\nsame way...?"
                             ]
                         },
                         {
@@ -6093,7 +5813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさんも……？"
+                                "\\N<Rame>You too, Miss Segi...?"
                             ]
                         },
                         {
@@ -6117,14 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うん、だから一緒にお祈りしようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママが無事に帰って来れます様にって。"
+                                "\\N<Segi>Yes, so let's pray together. That Mama comes home safely."
                             ]
                         },
                         {
@@ -6148,7 +5861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>はい……。"
+                                "\\N<Rame>Yes..."
                             ]
                         },
                         {
@@ -6283,21 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会で勝ち抜くには力は勿論の事、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "対戦者に対しての知識が必要不可欠になるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "匹夫の勇で勝ち抜ける程甘くは無いって事だな。"
+                                "\\N<Man>To win in the training tournament, strength is obviously\nnecessary, but knowledge of your opponents is also\nessential. It's not so sweet that you can win through mere\nbrute force alone."
                             ]
                         },
                         {

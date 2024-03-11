@@ -1940,7 +1940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>女、そろそろ出番だ。控室へ移動して貰おうか。"
+                                "\\N<Ryuda Soldier>Lady, it's about time for your turn. Please move to the\nwaiting room."
                             ]
                         },
                         {
@@ -2000,7 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>……判りました。"
+                                "\\N<???>...Understood."
                             ]
                         },
                         {
@@ -2043,14 +2043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>その前に名簿を……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か……お前の名は何だったかな……？"
+                                "\\N<Ryuda Soldier>Before that, let me check the roster... What was your name\nagain...?"
                             ]
                         },
                         {
@@ -2132,7 +2125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……ラメです。"
+                                "\\N<Rame>...It's Rame."
                             ]
                         },
                         {
@@ -2156,14 +2149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……。それにしても初戦だと言うのに随分な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち着き様だな。"
+                                "\\N<Ryuda Soldier>Hmm... You're quite composed for a first battle."
                             ]
                         },
                         {
@@ -2214,7 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……いけませんか？慌てふためく姿でもご所望ですか？"
+                                "\\N<Rame>...Is that a problem? Would you prefer to see me panic and\nflustered?"
                             ]
                         },
                         {
@@ -2238,7 +2224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>待てよ……そうか、確かお前は……。"
+                                "\\N<Ryuda Soldier>Wait... that's right, you are..."
                             ]
                         },
                         {
@@ -2289,14 +2275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ええ、且つてここで戦った事があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尤もその時は何も出来ず敗北するのみでしたが。"
+                                "\\N<Rame>Yes, I have fought here before. Although at that time, I\ncould do nothing but face defeat."
                             ]
                         },
                         {
@@ -2320,21 +2299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>成程、経験者と言う訳か。ならば丁度いい、今日のお前の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手も且つてこの街の教練所で学んだ男らしいぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かフー……何とかと言ったか？"
+                                "\\N<Ryuda Soldier>I see, a veteran then. That's good, your opponent today\nseems to be a man who also studied at the training grounds\nof this town. His name was Fu-... something, wasn't it?"
                             ]
                         },
                         {
@@ -2385,7 +2350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……。"
+                                "\\N<Rame>..."
                             ]
                         },
                         {
@@ -2409,7 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>さて、無駄話も終わりだ。そろそろ準備に取り掛かって貰おうか。"
+                                "\\N<Ryuda Soldier>Now, enough chit-chat. It's time to start preparing."
                             ]
                         },
                         {
@@ -2660,7 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>ああ、ちょっと待った。待って下さい。"
+                                "\\N<Young Man>Ah, wait a moment. Please wait."
                             ]
                         },
                         {
@@ -2711,7 +2676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……？"
+                                "\\N<Rame>...?"
                             ]
                         },
                         {
@@ -2735,7 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>何だ貴様……？どうやってここへ入った？"
+                                "\\N<Ryuda Soldier>Who are you...? How did you get in here?"
                             ]
                         },
                         {
@@ -2786,21 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>疑わないで下さいよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤダなあ、ちゃんと正規の手続きを取りましたよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し荒っぽかったかもですが……。"
+                                "\\N<Young Man>Don't be suspicious. Geez, I went through the proper\nprocedures, okay? Might have been a bit rough though..."
                             ]
                         },
                         {
@@ -2824,7 +2775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>見張りの兵を排除したと言うのか……一体何の用だ？"
+                                "\\N<Ryuda Soldier>You mean you took out the guards... What do you want?"
                             ]
                         },
                         {
@@ -2901,14 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>そのコ、今から戦うんですよね？良かった、間に合って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのコの代わりとして僕を戦わせて欲しいんですよ。"
+                                "\\N<Young Man>She's about to fight, right? Good, I made it in time. I want\nyou to let me fight in her place."
                             ]
                         },
                         {
@@ -2959,7 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>私の代わり……ですって？"
+                                "\\N<Rame>Fight in my place...?"
                             ]
                         },
                         {
@@ -3010,14 +2954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>うん、兵隊さんもその方がイイでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってこれは強者を選定する為の大会ですもんね？"
+                                "\\N<Young Man>Yeah, that would be better for you too, right soldier? After\nall, this tournament is to select the strongest, isn't it?"
                             ]
                         },
                         {
@@ -3041,7 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様……正気か？"
+                                "\\N<Ryuda Soldier>Are you out of your mind?"
                             ]
                         },
                         {
@@ -3092,14 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>あれ？違いました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕の知らない間に目的が変っちゃったんですかね？"
+                                "\\N<Young Man>Huh? Is that wrong? Did the purpose change while I wasn't\naware?"
                             ]
                         },
                         {
@@ -3150,14 +3080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>待ちなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰だか知らないけれど黙って聴いていれば……。"
+                                "\\N<Rame>Wait. I don't know who you are but if you'd just listen\nquietly..."
                             ]
                         },
                         {
@@ -3174,14 +3097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>わたしが弱いとでも？あなたこの街の人間じゃないわね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知りもしない人にそんな事言われる筋合いは無いわ。"
+                                "\\N<Rame>Are you implying that I'm weak? You're not from this town,\nare you? I have no reason to be told such things by someone\nwho doesn't even know me."
                             ]
                         },
                         {
@@ -3232,14 +3148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>え？ヤダなぁ、知らなくは無いでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって君はこれから俺とケッコンするんだから。"
+                                "\\N<Young Man>Eh? No way, I'm not ignorant. After all, you're going to\nmarry me soon."
                             ]
                         },
                         {
@@ -3290,7 +3199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>は……あ？け、結婚……？"
+                                "\\N<Rame>Wh... What? Marry...?"
                             ]
                         },
                         {
@@ -3341,21 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<青年>そ、ケッコン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でしょ？兵隊さん、家族ならイイんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "代理として名を上げても問題無いですよね？"
+                                "\\N<Young Man>Yes, marry. Right? Soldier, it's okay if it's family, right?\nThere should be no problem with me taking her place as a\nproxy."
                             ]
                         },
                         {
@@ -3422,7 +3317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ま、まさか……まさかあなたは……。"
+                                "\\N<Rame>Could it be... could you possibly be..."
                             ]
                         },
                         {
@@ -3559,7 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ただいま、ラメちゃん。約束を果たしに来たよ。"
+                                "\\N<Riia>I'm back, Rame-chan. I've come to fulfill our promise."
                             ]
                         },
                         {

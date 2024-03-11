@@ -2914,14 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>おはようございます、ユイア様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分と遅いお目覚めですね。"
+                                "\\N<Segi>Good morning, Lord Yuia. You've woken up quite late today."
                             ]
                         },
                         {
@@ -2945,7 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ああ、もうこんな時間か。そう言う君はとても早いね。"
+                                "\\N<Yuia>Ah, is it already this late? You're up very early, I see."
                             ]
                         },
                         {
@@ -2985,7 +2978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい。ベッド狭いですから。"
+                                "\\N<Segi>Yes. The bed is small, after all."
                             ]
                         },
                         {
@@ -3009,7 +3002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>……俺ってそんなに寝相悪い？"
+                                "\\N<Yuia>...Do I really sleep that badly?"
                             ]
                         },
                         {
@@ -3033,21 +3026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、お陰で目が覚めちゃいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもお気になさらず。これもユイア様とご一緒出来て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて知れた事ですから。"
+                                "\\N<Segi>Yes, thanks to that I woke up. But please don't worry about\nit. It's something I only got to know by spending time with\nyou, Lord Yuia."
                             ]
                         },
                         {
@@ -3071,7 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>んー……そう言って貰えて良いのか悪いのか……。"
+                                "\\N<Yuia>Hmm... I'm not sure if I should be happy or not about\nthat..."
                             ]
                         },
                         {
@@ -3095,21 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>人間、前向きな思考が大切ですよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより早くお食事を済ませて下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は出掛けるんですよね？"
+                                "\\N<Segi>It's important for humans to think positively, right? More\nimportantly, please finish your meal quickly. We're going\nout today, aren't we?"
                             ]
                         },
                         {
@@ -3133,21 +3098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>ああ。俺達はこの街じゃ新参だからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先ずは街の人達に挨拶して顔を覚えて貰って……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それから早く仕事を見付けなきゃ。"
+                                "\\N<Yuia>Yeah. We're newcomers to this town, after all. First, we\nneed to greet the townspeople and get them to remember our\nfaces... and then find work as soon as possible."
                             ]
                         },
                         {
@@ -3171,21 +3122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そうして頂けると助かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしも仕事を見付けるつもりではいますが、何分もう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手持ちは少ないですから……。"
+                                "\\N<Segi>That would be helpful. I intend to find work as well, but\nwe're running low on funds..."
                             ]
                         },
                         {
@@ -3202,7 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>旦那様にはしっかり稼いで貰わなきゃ困ります。"
+                                "\\N<Segi>I'm counting on you to earn a good income, Master."
                             ]
                         },
                         {
@@ -3226,7 +3163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>任せて置いて。俺ってやる時はやる男だからね。"
+                                "\\N<Yuia>Leave it to me. When it comes down to it, I'm a man who gets\nthings done."
                             ]
                         },
                         {
@@ -3250,21 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふふ、話半分に聞いて置きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、そうそう。わたし、お友達が出来たんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イリメさんって言うちょっと歳上の素敵な女性なんです。"
+                                "\\N<Segi>Hehe, I'll take that with a grain of salt. Oh, by the way, I\nmade a friend. Her name is Irime-san, a slightly older and\nwonderful woman."
                             ]
                         },
                         {
@@ -3288,14 +3211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>へえ、もう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君って見かけに寄らず、案外社交的なんだね。"
+                                "\\N<Yuia>Oh, already? You're more sociable than you look."
                             ]
                         },
                         {
@@ -3335,14 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……どう言う意味ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしそんなに呆けて見えます？"
+                                "\\N<Segi>...What do you mean by that? Do I look that dull to you?"
                             ]
                         },
                         {
@@ -3366,7 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>うん。"
+                                "\\N<Yuia>Yeah."
                             ]
                         },
                         {
@@ -3390,7 +3299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ハ、ハッキリ言いますねえ……自分だって凄い寝相の癖に。"
+                                "\\N<Segi>You're very blunt... even though you have such terrible\nsleeping habits yourself."
                             ]
                         },
                         {
@@ -3414,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ユイア>それは今関係ないでしょ……。"
+                                "\\N<Yuia>That's irrelevant right now..."
                             ]
                         },
                         {
@@ -3438,7 +3347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふふ……。"
+                                "\\N<Segi>Hehe..."
                             ]
                         },
                         {
@@ -3483,21 +3392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色々な事があったけど……あの時、わたしとユイア様は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑えていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはお互いの為に無理矢理作った笑顔なんかじゃない。"
+                                "Despite everything that happened... at that time, Lord Yuia\nand I were able to laugh. It wasn't a forced smile for each\nother's sake."
                             ]
                         },
                         {
@@ -3514,7 +3409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わたし達は……この先も笑い合えると信じていた。"
+                                "We believed... that we would continue to laugh together in\nthe future."
                             ]
                         },
                         {
@@ -3531,7 +3426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それなのに……わたしは……。"
+                                "And yet... I..."
                             ]
                         },
                         {
@@ -3548,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイア様……謝っても無意味な事だと理解しています。"
+                                "Lord Yuia... I understand that apologizing is meaningless\nnow."
                             ]
                         },
                         {
@@ -3565,7 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……本当にごめんなさい……。"
+                                "But... I'm truly sorry..."
                             ]
                         },
                         {

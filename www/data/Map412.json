@@ -3652,7 +3652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>全員揃っているな？"
+                                "\\N<Officer Ryuda>Is everyone assembled?"
                             ]
                         },
                         {
@@ -3669,7 +3669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>は。"
+                                "\\N<Ryuda Soldier>Yes."
                             ]
                         },
                         {
@@ -3686,14 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>では早急に準備を終えろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロザロが街に入り、我らが包囲を完了して今日で丁度７日だ。"
+                                "\\N<Officer Ryuda>Then hurry up and finish the preparations. Rozaro has\nentered the town, and it's been exactly seven days since we\ncompleted our encirclement."
                             ]
                         },
                         {
@@ -3710,14 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ士官>これよりロザロの安否確認及びツェダとその一党の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕縛の為、進軍を開始する。"
+                                "\\N<Officer Ryuda>From this point on, we will commence our advance to confirm\nRozaro's safety and to capture Zeda and his party."
                             ]
                         },
                         {
@@ -3734,7 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>は。"
+                                "\\N<Ryuda Soldier>Yes."
                             ]
                         },
                         {
@@ -3774,7 +3760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>……。"
+                                "\\N<Hebeta>..."
                             ]
                         },
                         {

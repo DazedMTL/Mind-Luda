@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……セギ、フービィ。両名とも揃っているようだな。"
+                                "\\N<Ryuda Soldier>Hmm... Segi, Fubii. It seems both of you are here."
                             ]
                         },
                         {
@@ -2619,7 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>はぁい。"
+                                "\\N<Fubii>Yes!"
                             ]
                         },
                         {
@@ -2643,7 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2693,14 +2693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>両名にとって今日は二度目の試合となる。文字通り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前哨戦を経て、今日からが本当の戦いになると言う訳だ。"
+                                "\\N<Ryuda Soldier>For both of you, today marks the second match. After\nliterally going through a preliminary battle, today the real\nfight begins."
                             ]
                         },
                         {
@@ -2724,7 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>本当の戦い……？"
+                                "\\N<Segi>The real fight...?"
                             ]
                         },
                         {
@@ -2748,14 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうだ。今日の試合からは双方共この練兵会本来の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "規則に従って貰う。"
+                                "\\N<Ryuda Soldier>That's right. Starting from today's match, both parties will\nfollow the original rules of this training assembly."
                             ]
                         },
                         {
@@ -2779,7 +2765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>何それ？一回戦とは規則が違うってコト？"
+                                "\\N<Fubii>What's that? Are the rules different from the first round?"
                             ]
                         },
                         {
@@ -2803,14 +2789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>基本的な規則は前回通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし今回からは双方、敵の「命」を奪い合って貰う。"
+                                "\\N<Ryuda Soldier>The basic rules are the same as last time. However, from now\non, both sides will fight to take each other's 'life'."
                             ]
                         },
                         {
@@ -2834,14 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、命ですって……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか生死を以て勝敗を決するなどと言う事では……！"
+                                "\\N<Segi>L-life...?! You don't mean to say that victory and defeat\nwill be decided by life or death...!"
                             ]
                         },
                         {
@@ -2865,14 +2837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふふ、安心するがいい。ここで言う「命」とは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝敗を決する為の鍵となるモノの事だ。"
+                                "\\N<Ryuda Soldier>Haha, rest assured. The 'life' I'm talking about here is\nsomething that becomes the key to deciding victory or\ndefeat."
                             ]
                         },
                         {
@@ -2896,14 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>何かハッキリしないなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと端的に言ってよ。時間の無駄だからさ。"
+                                "\\N<Fubii>That's kind of vague. Just say it more clearly. It's a waste\nof time otherwise."
                             ]
                         },
                         {
@@ -2987,7 +2945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふふ、これが何か判るか？"
+                                "\\N<Ryuda Soldier>Haha, do you understand what this is?"
                             ]
                         },
                         {
@@ -3004,7 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こ、これって……。"
+                                "\\N<Segi>Th-this is..."
                             ]
                         },
                         {
@@ -3021,21 +2979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>これがお前達の「命」だ。今回の試合からはこれを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪い合って貰う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この「命」を地に落とした方が敗北と言う訳だ。"
+                                "\\N<Ryuda Soldier>This is your 'life'. From this match onward, you'll be\nfighting to take this from each other. Whoever drops this\n'life' on the ground will be defeated."
                             ]
                         },
                         {
@@ -3052,21 +2996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ふぅん……散々勿体ぶった割には大したハナシじゃないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要するにこれを持って戦えってコトでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で、落とした方が負けってコトだよね？"
+                                "\\N<Fubii>Hmph... After all that build-up, it's not such a big deal.\nBasically, you're saying we fight while holding onto this,\nand whoever drops it loses, right?"
                             ]
                         },
                         {
@@ -3083,7 +3013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、その通りだ。"
+                                "\\N<Ryuda Soldier>Yes, exactly."
                             ]
                         },
                         {
@@ -3140,14 +3070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>これを男は自らの武器に装着。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女は……膣内に咥えたまま戦って貰う。"
+                                "\\N<Ryuda Soldier>Men will attach this to their weapon. Women... will fight\nwith it held inside their vagina."
                             ]
                         },
                         {
@@ -3197,7 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何で……どうしてこんな事……！？"
+                                "\\N<Segi>Wh-why... Why would you do such a thing...!?"
                             ]
                         },
                         {
@@ -3255,14 +3178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>言う迄もねえ。そう言う規則だからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "守れねえってんなら次の戦いに臨む権利は無ねえのさ。"
+                                "\\N<Ryuda Soldier>No need to ask. It's just the rules. If you can't abide by\nthem, then you have no right to participate in the next\nbattle."
                             ]
                         },
                         {
@@ -3279,7 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……！？"
+                                "\\N<Segi>Gah...!?"
                             ]
                         },
                         {
@@ -3303,14 +3219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "納得など到底出来る筈も無い条件に抗議するセギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暗く陰鬱な控え室に彼女の声が空しく響いた。"
+                                "Unable to accept such an outrageous condition, Segi\nprotested. Her voice echoed emptily in the dark and gloomy\nwaiting room."
                             ]
                         },
                         {
@@ -3334,21 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>本来男と女が戦う場合、どう考えても女の不利は明白だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがなあ、リュダも鬼じゃねえ。救済措置も有る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつがそうさ。"
+                                "\\N<Ryuda Soldier>In a battle between men and women, it's clear that women are\nat a disadvantage. But hey, Ryuda isn't a demon. There are\nrelief measures in place. This is one of them."
                             ]
                         },
                         {
@@ -3365,14 +3260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうだろう？仮に力で敵わなくても、コイツを相手から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪えば勝ちってんなら、良心的じゃねえか。"
+                                "\\N<Ryuda Soldier>Right? Even if you can't match the enemy in strength, if you\ncan take this from them and win, that's pretty fair."
                             ]
                         },
                         {
@@ -3389,21 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふざけないで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな馬鹿げた真似が救済な筈は無いわ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いい加減な事を言わないで……っ！"
+                                "\\N<Segi>Don't joke with me...! Such a ridiculous act can't possibly\nbe considered relief...! Stop talking nonsense...!"
                             ]
                         },
                         {
@@ -3420,14 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>馬鹿げてなんぞいねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達は価値を見出してやっているのさ。"
+                                "\\N<Ryuda Soldier>There's nothing ridiculous about it. We're giving value to\nwhat we're doing here."
                             ]
                         },
                         {
@@ -3444,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>本来なら練兵の舞台に立つ機会と資格を得られない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱者である女が戦いの舞台に立てる程の価値をな？"
+                                "\\N<Ryuda Soldier>Normally, women who wouldn't have the chance or\nqualifications to stand on the stage of training soldiers\nare given the value to stand on the battlefield, see?"
                             ]
                         },
                         {
@@ -3468,14 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>価値……！？汚い欲望に塗れ、女を愚弄するだけの愚劣な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行為を……価値と言ったの！？"
+                                "\\N<Segi>Value...!? To smear women with filthy desires and mock them\nwith such vile acts... You call that value!?"
                             ]
                         },
                         {
@@ -3492,7 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうさ、それがコレだ。"
+                                "\\N<Ryuda Soldier>Yes, that's what this is."
                             ]
                         },
                         {
@@ -3562,7 +3415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ひ……！？"
+                                "\\N<Segi>Gasp...!?"
                             ]
                         },
                         {
@@ -3579,14 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうそう、そんな反応さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうやって精々観衆を楽しませてやれ。"
+                                "\\N<Ryuda Soldier>Exactly, that kind of reaction. Entertain the audience as\nmuch as you can with that."
                             ]
                         },
                         {
@@ -3610,14 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意にセギの背後に控えていた兵が彼女の外套を捲り上げ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中の肢体に手を伸ばす。セギの身体が嫌悪感に震えた。"
+                                "Suddenly, a soldier lurking behind Segi lifted her cloak and\nreached for her body underneath. Segi's body trembled with\ndisgust."
                             ]
                         },
                         {
@@ -3641,14 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……っ！離して……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わたしに見世物になれと言うの……！？"
+                                "\\N<Segi>No, stop...! Let go of me...! Are you saying I should become\na spectacle...!?"
                             ]
                         },
                         {
@@ -3665,14 +3497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、その通りさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこれは言ってみりゃ温情さ、同情と呼んでもいい。"
+                                "\\N<Ryuda Soldier>Yes, exactly. But consider this a form of mercy or even\nsympathy if you will."
                             ]
                         },
                         {
@@ -3689,7 +3514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふざけないで……っ！！"
+                                "\\N<Segi>Stop joking around...!!"
                             ]
                         },
                         {
@@ -3706,14 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>お前と禅問答をする気はねえよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいか、しっかり抑えとけよ？じゃねえと暴れるからな？"
+                                "\\N<Ryuda Soldier>I'm not here to engage in a philosophical debate with you.\nListen up, hold onto it properly, okay? Otherwise, she'll\nthrash about."
                             ]
                         },
                         {
@@ -3730,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、任せておきな。"
+                                "\\N<Ryuda Soldier>Ah, leave it to me."
                             ]
                         },
                         {
@@ -3796,7 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ひ……！！？？"
+                                "\\N<Segi>Eek...!!??"
                             ]
                         },
                         {
@@ -3854,7 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……っく！やめ……離しなさい……っ！"
+                                "\\N<Segi>Ah...ack! Stop... Let me go...!"
                             ]
                         },
                         {
@@ -3871,7 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……。"
+                                "\\N<Ryuda Soldier>Hehe..."
                             ]
                         },
                         {
@@ -3941,7 +3759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！？"
+                                "\\N<Segi>...!?"
                             ]
                         },
                         {
@@ -3965,14 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵達の手が一斉にセギへと伸び、その肢体を抑える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして一気に彼女の外套を取り去ってしまう。"
+                                "The soldiers' hands simultaneously reached for Segi,\nrestraining her limbs, and swiftly removed her cloak."
                             ]
                         },
                         {
@@ -3996,21 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ……いつもながらこの瞬間は興奮するぜ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女が恐怖から快楽へと堕ちてゆく最初の一歩ってヤツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからなあ……？"
+                                "\\N<Ryuda Soldier>Hehe... I always get excited at this moment... It's the\nfirst step of a woman falling from fear into pleasure..."
                             ]
                         },
                         {
@@ -4027,7 +3824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何を……何をする気……！？"
+                                "\\N<Segi>Wh-what are you... what are you planning to do...!?"
                             ]
                         },
                         {
@@ -4044,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おいおい、さっき説明しただろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駄目だぜ？ヒトの話はちゃんと聞かなきゃよお？"
+                                "\\N<Ryuda Soldier>Hey, hey, didn't I explain it to you just now? That's no\ngood, you know? You gotta listen properly to what people\nsay."
                             ]
                         },
                         {
@@ -4121,7 +3911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……か……っ！？"
+                                "\\N<Segi>Ah... no...!"
                             ]
                         },
                         {
@@ -4191,7 +3981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あ……ふ……っ！"
+                                "\\N<Segi>Ah... ah... huh...!"
                             ]
                         },
                         {
@@ -4215,21 +4005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "卑猥な造形の張形がセギの膣口に押し当てられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてその先端が淫靡な水音を立て彼女の中に押し入ろうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣口を拡げ始めた。"
+                                "An obscene-shaped dildo was pressed against Segi's vaginal\nentrance. Then its tip began to spread her opening, trying\nto push inside with lewd squelching sounds."
                             ]
                         },
                         {
@@ -4253,7 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……あ……んん……っ！"
+                                "\\N<Segi>No, stop... ah... mmm...!"
                             ]
                         },
                         {
@@ -4270,7 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんな……そんなもの入らな……っ！"
+                                "\\N<Segi>No, that... that thing can't fit...!"
                             ]
                         },
                         {
@@ -4328,7 +4104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……あ……はあ……っ！"
+                                "\\N<Segi>Ha... ah... haa...!"
                             ]
                         },
                         {
@@ -4345,7 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>入るさ、入らなきゃ無理矢理にでも挿してやるよ。"
+                                "\\N<Ryuda Soldier>It will fit, and if it doesn't, I'll force it in anyway."
                             ]
                         },
                         {
@@ -4362,7 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな……や、やめ……っ！"
+                                "\\N<Segi>Don't... stop...!"
                             ]
                         },
                         {
@@ -4432,7 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……っ！？"
+                                "\\N<Segi>Mmm...!"
                             ]
                         },
                         {
@@ -4562,7 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か……はっ！？"
+                                "\\N<Segi>No... ah!"
                             ]
                         },
                         {
@@ -4632,7 +4408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……ふっ！？"
+                                "\\N<Segi>Ah... huh!"
                             ]
                         },
                         {
@@ -4649,14 +4425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、とは言え俺達も冷血漢じゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挿れ易い様にマンコ解してやってもイイぜ？"
+                                "\\N<Ryuda Soldier>Hehe, but we're not cold-blooded. I can make your pussy more\naccommodating if you want?"
                             ]
                         },
                         {
@@ -4858,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やめ……あ……はあ……っ！"
+                                "\\N<Segi>No, stop... ah... haa...!"
                             ]
                         },
                         {
@@ -4875,14 +4644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、どうする？大分解れて来たかあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとしてやろうか？くく。"
+                                "\\N<Ryuda Soldier>Hehe, what will it be? Has it loosened up a bit? Want me to\ndo more? Heh."
                             ]
                         },
                         {
@@ -4899,7 +4661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いや……ぬ、抜い……っ！"
+                                "\\N<Segi>No... take it out...!"
                             ]
                         },
                         {
@@ -4976,7 +4738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふ……う……っ！"
+                                "\\N<Segi>Huh... uh...!"
                             ]
                         },
                         {
@@ -5046,7 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ひ……っ！？"
+                                "\\N<Segi>Eek...!"
                             ]
                         },
                         {
@@ -5116,14 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>いいか？コイツはお前にとって、もうひとつの命も同然だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッソリと外しちまおうなんて考えるなよ？"
+                                "\\N<Ryuda Soldier>Understand this? This thing is as good as another life for\nyou. Don't even think about taking it off secretly."
                             ]
                         },
                         {
@@ -5140,21 +4895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>コイツをその涎を垂れ流したマンコから抜けば直ぐに判る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすればお前は即座に練兵会で戦う資格を失う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言って見りゃ首輪も同然って訳だ。"
+                                "\\N<Ryuda Soldier>If you pull it out of that drooling pussy of yours, we'll\nknow immediately. Then you'll lose your right to fight in\nthe training corps on the spot. It's basically a collar."
                             ]
                         },
                         {
@@ -5171,7 +4912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は……ああ……あ……！"
+                                "\\N<Segi>Ha... aah... ah...!"
                             ]
                         },
                         {
@@ -5241,7 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ああ……あ……！"
+                                "\\N<Segi>...ahh... ah...!"
                             ]
                         },
                         {
@@ -5311,7 +5052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あ……ふ……っ！"
+                                "\\N<Segi>Ah... ah... huh...!"
                             ]
                         },
                         {
@@ -5328,21 +5069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おい、聞いてんのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒトの話はちゃんと聞けって言っただろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度は説明しねえぞ？"
+                                "\\N<Ryuda Soldier>Hey, are you listening? I told you to listen properly when\nsomeone is talking to you, didn't I? I won't explain it\ntwice."
                             ]
                         },
                         {
@@ -5532,7 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か……ふ……っ！"
+                                "\\N<Segi>No... huh...!"
                             ]
                         },
                         {
@@ -5561,14 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>いいか？戦いが終わる迄コイツをそのマンコの中に埋め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とけって事だ。おい、理解したか？"
+                                "\\N<Ryuda Soldier>Understand this? You keep this thing buried in your pussy\nuntil the fight is over. Hey, did you get that?"
                             ]
                         },
                         {
@@ -5585,7 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あ………っ！"
+                                "\\N<Segi>Ah... ah...!"
                             ]
                         },
                         {
@@ -5602,14 +5322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく……感じてねえで答えてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと理解したか？え？"
+                                "\\N<Ryuda Soldier>Heh... Answer me instead of feeling it. Did you understand\nproperly? Huh?"
                             ]
                         },
                         {
@@ -5626,7 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……んんっ！や、やめ……！"
+                                "\\N<Segi>Ah... mmm! Stop, stop it...!"
                             ]
                         },
                         {
@@ -5696,7 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……かっ！はあ……！"
+                                "\\N<Segi>Ah... no! Haa...!"
                             ]
                         },
                         {
@@ -5766,7 +5479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ひ……っ！ひ……！"
+                                "\\N<Segi>Eek...! Eek...!"
                             ]
                         },
                         {
@@ -5783,14 +5496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わか……判った……から……あっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから……も、もう……もうやめ……！"
+                                "\\N<Segi>I understand... I got it... so please!! That's why... no\nmore... stop it already...!"
                             ]
                         },
                         {
@@ -5807,21 +5513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>へへ、駄目だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このだらしねえマンコにはもう少しちゃんと理解出来る様に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教育してやらなきゃなあ？"
+                                "\\N<Ryuda Soldier>Hehe, no way. This sloppy pussy needs a bit more education\nto understand properly, huh?"
                             ]
                         },
                         {
@@ -5862,7 +5554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>や、やだ……いや……ああっ！！"
+                                "\\N<Segi>No, I don't want this... no... aahh!!"
                             ]
                         },
                         {
@@ -5891,7 +5583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>んん……はあ……っ！ふ……っ！ああ……！"
+                                "\\N<Segi>Mmm... haa...! Huh...! Aahh...!"
                             ]
                         },
                         {
@@ -5927,7 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……っ！あっ！あっ！あっ！"
+                                "\\N<Segi>Ah...! Ah! Ah! Ah!"
                             ]
                         },
                         {
@@ -5944,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ああっ！！あはっ！あんっ！あっ！"
+                                "\\N<Segi>Aahh!! Ahh! Mmm! Ah!"
                             ]
                         },
                         {
@@ -5998,7 +5690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………………。"
+                                "..."
                             ]
                         },
                         {
@@ -6015,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………。"
+                                "..."
                             ]
                         },
                         {
@@ -6039,7 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あ……。"
+                                "\\N<Segi>Ah... ah..."
                             ]
                         },
                         {
@@ -6068,7 +5760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あう……あ……。"
+                                "\\N<Segi>Ahh... ah..."
                             ]
                         },
                         {
@@ -6163,7 +5855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おい、聞いてるか？今度はちゃんと理解したか？"
+                                "\\N<Ryuda Soldier>Hey, are you listening? Did you properly understand this\ntime?"
                             ]
                         },
                         {
@@ -6187,7 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……あ……。"
+                                "\\N<Segi>Haa... ah... ah..."
                             ]
                         },
                         {
@@ -6204,7 +5896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>少しやり過ぎたか？この姉さん呂律も回ってねえわ。"
+                                "\\N<Ryuda Soldier>Did I go a bit too far? This lady can't even speak clearly\nanymore."
                             ]
                         },
                         {
@@ -6221,21 +5913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ひひ、そんな事無ぇよ。いつも通りさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、この奥サマの身体が魅力的だったからいつもより気合い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れちまったんじゃねえか？"
+                                "\\N<Ryuda Soldier>Hehe, no way. It's business as usual. Well, maybe I got a\nbit more spirited because this lady's body is so attractive."
                             ]
                         },
                         {
@@ -6252,14 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ははは、それにしてもイイ恰好じゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでホントに戦えるのかねえ。"
+                                "\\N<Ryuda Soldier>Hahaha, but seriously, what a sight. Can you really fight\nlike that?"
                             ]
                         },
                         {
@@ -6276,21 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>何処の街でも女が練兵会の舞台に立つって決まる度に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度かこの措置を試したがな。ハッキリ言って勝つどころか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともに動けた奴さえもいやしねえよ。"
+                                "\\N<Ryuda Soldier>Every time it's decided that a woman will stand on the stage\nof the Rengun-kai, I've tried this measure several times.\nFrankly speaking, there hasn't been a single one who could\nmove properly, let alone win."
                             ]
                         },
                         {
@@ -6307,14 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、そりゃそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アソコが疼き続けて立ってるのもしんどいだろうからな。"
+                                "\\N<Ryuda Soldier>Kuku, of course. With that pussy throbbing, it must be hard\neven to stand."
                             ]
                         },
                         {
@@ -6331,14 +5981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ま、ソレはソレで見モノだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言や聞いた話じゃこの奥サマ、訳有なんだろ？"
+                                "\\N<Ryuda Soldier>Well, that's a spectacle in itself. By the way, I heard this\nlady has some circumstances, right?"
                             ]
                         },
                         {
@@ -6355,7 +5998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、投獄された旦那を救う為とか何とか……？"
+                                "\\N<Ryuda Soldier>Ah, something about saving her imprisoned husband...?"
                             ]
                         },
                         {
@@ -6372,21 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ひひ、なら尚更見モノじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並居る障害を乗り越えて夫婦の真実の絆を示せるかどうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいぜい見せて貰おうぜ？"
+                                "\\N<Ryuda Soldier>Hehe, then it's even more of a spectacle. Whether she can\novercome the ordinary obstacles and show the true bond of\nhusband and wife. Let's see you try your best?"
                             ]
                         },
                         {
@@ -6403,7 +6032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……。"
+                                "\\N<Segi>Haa... ah..."
                             ]
                         },
                         {
@@ -6420,14 +6049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そうそう、お前の股に突っ込んであるソイツは只の張形"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃねえ、俺達リュダの特別製だ。"
+                                "\\N<Ryuda Soldier>That's right, the thing you've got shoved in your crotch\nisn't just any dildo; it's a special make from us Ryudas."
                             ]
                         },
                         {
@@ -6444,21 +6066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ソイツの先端から流れ出し、お前の膣内に充満する液体は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本人も気付かねえ程心の奥底にしまい込んだ淫らな欲望や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲求を無理矢理捻り出す効能付きだ。"
+                                "\\N<Ryuda Soldier>The liquid flowing from its tip and filling up your vagina\nhas the effect of forcibly wringing out the lewd desires and\nurges hidden deep within your heart without you even\nrealizing it."
                             ]
                         },
                         {
@@ -6475,14 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>その上マインド・リュダを投与された女には特に適合する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性質を持ってるって代物だ。"
+                                "\\N<Ryuda Soldier>Moreover, it has properties that are particularly compatible\nwith women who have been administered Mind Ryuda."
                             ]
                         },
                         {
@@ -6499,14 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>くく、どうだ？その証拠に股座が温まって来るだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その上心臓の鼓動迄もが早く感じねえか？え？"
+                                "\\N<Ryuda Soldier>Kuku, how about it? As proof, your groin is getting warmer,\nright? And doesn't your heartbeat feel faster too? Eh?"
                             ]
                         },
                         {
@@ -6523,7 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……あ……。"
+                                "\\N<Segi>Haa... ah... ah..."
                             ]
                         },
                         {
@@ -6547,21 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一語一句男の言う通りだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セギの体温は著しく上昇し、下腹部には度し難い熱が籠って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いる様な感覚さえ有った。"
+                                "Every word the man said was true. Segi's body temperature\nhad risen significantly, and there was even a sensation of\nunbearable heat trapped in her lower abdomen."
                             ]
                         },
                         {
@@ -6578,14 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし当のセギ本人は今、その事実を否定する事も自らの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体を玩具の様に扱う兵隊達を睨み返す事も出来ない。"
+                                "However, Segi herself was unable to deny this fact or glare\nback at the soldiers who were treating her body like a toy."
                             ]
                         },
                         {
@@ -6609,7 +6182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……う……あ……あぁ……。"
+                                "\\N<Segi>...uh... ah... ahh..."
                             ]
                         },
                         {
@@ -6679,7 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おおーい、奥サン聞いてるか？"
+                                "\\N<Ryuda Soldier>Hey, lady, are you listening?"
                             ]
                         },
                         {
@@ -6696,21 +6269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>いつまでも股開いて惚けてないで、サッサと控室に移動"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前に俺達に相手して欲しいってんなら別だけどなあ？"
+                                "\\N<Ryuda Soldier>Don't just sit there with your legs spread out in a daze;\nmove to the waiting room quickly. Unless you're saying you\nwant us to take care of you first?"
                             ]
                         },
                         {
@@ -6727,21 +6286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>はははっ！そうそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままだと、そのモノ欲しそうにヒクついたマンコに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ブチ込んじまうぞ？"
+                                "\\N<Ryuda Soldier>Hahaha! That's right! At this rate, I might just shove it\ninto that pussy that looks so eager and twitching!"
                             ]
                         },
                         {
@@ -6758,7 +6303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あぁぁ……。"
+                                "\\N<Segi>Ah... aahh..."
                             ]
                         },
                         {
@@ -6775,14 +6320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>それと抜けちまったソイツは、ちゃんと自分でもう一度"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おマンコに挿し込んで置けよ？"
+                                "\\N<Ryuda Soldier>And make sure to reinsert that thing that fell out back into\nyour pussy yourself, alright?"
                             ]
                         },
                         {
@@ -6799,14 +6337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>せいぜい戦いの最中に落っこちねえ様に念入りに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥の奥までズッポリとな？くく。"
+                                "\\N<Ryuda Soldier>Make sure to do it thoroughly so it doesn't fall out during\nthe fight, shove it deep inside, all the way to the back?\nKuku."
                             ]
                         },
                         {
@@ -6823,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ははっ！ぎゃははっ！ひははははっ！！"
+                                "\\N<Ryuda Soldier>Hahah! Gyahaha! Hihahahaha!!"
                             ]
                         },
                         {
@@ -6866,7 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼等の軽口の中に含まれた言葉を糧に意識を立て直す。"
+                                "She clung to the words contained in their banter to regain\nher consciousness."
                             ]
                         },
                         {
@@ -6883,7 +6414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残った理性を総動員して……自分を立て直す。"
+                                "Mobilizing what remained of her rationality... to pull\nherself together."
                             ]
                         },
                         {
@@ -6907,14 +6438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ……これはユイア様の為。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイア様を救う為に……大切な目的を果たす為の小さな障害。"
+                                "That's right... this is for Lord Yuia. To save Lord Yuia...\na small obstacle for an important purpose."
                             ]
                         },
                         {
@@ -6931,14 +6455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからわたしは耐えられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな小さな障害……何でもない。"
+                                "That's why I can endure it. Such a small obstacle... is\nnothing."
                             ]
                         },
                         {
@@ -6962,7 +6479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "露程の絶望すらも……感じない。"
+                                "I don't even feel... a drop of despair."
                             ]
                         },
                         {
@@ -7195,7 +6712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7219,14 +6736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>敗者セギ、貴様は練兵会第二戦にて敗北した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敗者がどうなるか判っているな？"
+                                "\\N<Ryuda Soldier>Loser Segi, you were defeated in the second battle of the\ntraining soldiers' meet. You do understand what happens to\nthe losers, don't you?"
                             ]
                         },
                         {
@@ -7250,7 +6760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それ……は……。"
+                                "\\N<Segi>Th-that... is..."
                             ]
                         },
                         {
@@ -7274,7 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -7298,7 +6808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7322,7 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>答えろ。練兵会に於いて勝者が持つ敗者への権利とは何だ？"
+                                "\\N<Ryuda Soldier>Answer me. What rights does the victor have over the loser\nin the training soldiers' meet?"
                             ]
                         },
                         {
@@ -7346,7 +6856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その……勝者は敗者に……。"
+                                "\\N<Segi>The... the victor has the right to..."
                             ]
                         },
                         {
@@ -7363,7 +6873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7387,7 +6897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……言葉に出来ずとも理解はしているならばいい。"
+                                "\\N<Ryuda Soldier>It's fine as long as you understand, even if you can't put\nit into words."
                             ]
                         },
                         {
@@ -7404,14 +6914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>早速その足で処置室へ向かえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして勝者を迎え入れるんだ。"
+                                "\\N<Ryuda Soldier>Now, head straight to the treatment room. And prepare to\nwelcome the victor."
                             ]
                         },
                         {
@@ -7435,7 +6938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7593,7 +7096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7617,14 +7120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>セギ、貴様は練兵会第二戦にてフービィに勝利した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とは言え貴様がこれから成すべきは判っているな？"
+                                "\\N<Ryuda Soldier>Segi, you emerged victorious against Fubii in the second\nbattle of the training soldiers' assembly. But you do\nunderstand what you must do next, don't you?"
                             ]
                         },
                         {
@@ -7648,7 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それ……は……。"
+                                "\\N<Segi>Th-that... is..."
                             ]
                         },
                         {
@@ -7672,7 +7168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -7696,7 +7192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7720,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>答えろ。練兵会に於いて貴様が対戦相手に成すべき事は？"
+                                "\\N<Ryuda Soldier>Answer me. What is it that you must do to your opponent in\nthe training soldiers' assembly?"
                             ]
                         },
                         {
@@ -7744,7 +7240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7768,7 +7264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……言葉に出来ずとも理解はしているならばいい。"
+                                "\\N<Ryuda Soldier>...It's fine if you can't put it into words, as long as you\nunderstand."
                             ]
                         },
                         {
@@ -7785,14 +7281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>早速その足で処置室へ向かえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして対戦相手を迎え入れるんだ。"
+                                "\\N<Ryuda Soldier>Now, head straight to the treatment room with those legs of\nyours. And welcome your opponent."
                             ]
                         },
                         {
@@ -7816,7 +7305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {

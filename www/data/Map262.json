@@ -1973,7 +1973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……？"
+                                "\\N<Segi>Um, excuse me...?"
                             ]
                         },
                         {
@@ -1997,7 +1997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>……。"
+                                "\\N<Hebeta>..."
                             ]
                         },
                         {
@@ -2103,7 +2103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>準備……出来た？"
+                                "\\N<Hebeta>Are you ready...?"
                             ]
                         },
                         {
@@ -2125,8 +2125,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "……準備は出来た",
-                                    "少し時間が欲しい"
+                                    "...I'm ready.",
+                                    "I need a little more time."
                                 ],
                                 1,
                                 0,
@@ -2170,7 +2170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
+                                "\\N<Segi>Haah... Haah..."
                             ]
                         },
                         {
@@ -2194,14 +2194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……辛そうにしている貴女を見るのは耐えられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕はあなたの役に立ちたい……。"
+                                "\\N<Hebeta>...I can't bear to see you in pain like this. I want to be\nof help to you..."
                             ]
                         },
                         {
@@ -2225,7 +2218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2249,14 +2242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>例えそれが一時凌ぎにしかならなくても、今は僕しか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "貴女の苦しみを和らげる事は出来ない。そうだよね？"
+                                "\\N<Hebeta>Even if it's just a temporary relief, right now I'm the only\none who can ease your suffering. That's right, isn't it?"
                             ]
                         },
                         {
@@ -2280,7 +2266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……或いは……そうなのかも知れません。"
+                                "\\N<Segi>Haah... Haah... Maybe... that's true."
                             ]
                         },
                         {
@@ -2304,21 +2290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>どうする……？僕は強制するつもりなんか無いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大切な事だからね、飽く迄貴女自身の決断で選ぶべきだと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思うもの。"
+                                "\\N<Hebeta>What will you do...? I have no intention of forcing you.\nIt's an important matter, so I think it should be your own\ndecision to make."
                             ]
                         },
                         {
@@ -2342,7 +2314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2399,14 +2371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>選ぶも何も……他に選択肢なんて無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっとこれは、強制的な選択でしか無い……。"
+                                "\\N<Segi>There's nothing to choose... There are no other options.\nThis must be a forced choice..."
                             ]
                         },
                         {
@@ -2423,14 +2388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そしてわたしは……これをユイア様とリイアの為の戦いの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "為の只の通過儀礼だと自分自身に納得させた。"
+                                "\\N<Segi>And I have... convinced myself that this is just a rite of\npassage for the battle for Lord Yuia and Riia."
                             ]
                         },
                         {
@@ -2447,7 +2405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だとすれば……他に選ぶべき道なんて無い。"
+                                "\\N<Segi>If that's the case... there's no other path to choose."
                             ]
                         },
                         {
@@ -2476,7 +2434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "無いのだと……自分に納得させたのだから。"
+                                "That's what I've... convinced myself of."
                             ]
                         },
                         {
@@ -2537,7 +2495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2561,14 +2519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……どうするの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やはり旦那さんへの罪悪感が有るんだよね？"
+                                "\\N<Hebeta>...What will you do? You still feel guilty towards your\nhusband, don't you?"
                             ]
                         },
                         {
@@ -2592,7 +2543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……お願い……します。"
+                                "\\N<Segi>...Please... do it."
                             ]
                         },
                         {
@@ -2616,14 +2567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>判った。ボクはあくまで貴女の決断に沿う迄さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに……辛いだろうが正しい判断と思うよ。"
+                                "\\N<Hebeta>Understood. I will strictly follow your decision. Besides...\nit's tough, but I think it's the right choice."
                             ]
                         },
                         {
@@ -2689,7 +2633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>こっちへ来て……脚を開いて。うん、そう。"
+                                "\\N<Hebeta>Come here... spread your legs. Yeah, like that."
                             ]
                         },
                         {
@@ -2730,7 +2674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……っ。"
+                                "\\N<Segi>Haah... Ah...!"
                             ]
                         },
                         {
@@ -2747,7 +2691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……気分はどう？"
+                                "\\N<Hebeta>...How do you feel?"
                             ]
                         },
                         {
@@ -2805,7 +2749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……っ。"
+                                "\\N<Segi>Haah... Haah...!"
                             ]
                         },
                         {
@@ -2822,7 +2766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……触るよ？"
+                                "\\N<Hebeta>...Can I touch you?"
                             ]
                         },
                         {
@@ -2924,7 +2868,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……ん……っ。"
+                                "\\N<Segi>Ah... Nn...!"
                             ]
                         },
                         {
@@ -3001,7 +2945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……はあ……ああ。"
+                                "\\N<Segi>Ah... Haah... Aah."
                             ]
                         },
                         {
@@ -3025,21 +2969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘベタはセギを壁際に立たせ、自身はいつもの様に目隠しを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すると、彼女の正面に陣取り慣れた手付きでその膣内を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "刺激し始めた。"
+                                "Hebeta positioned Segi against the wall, blindfolded himself\nas usual, and began to stimulate her vagina with practiced\nhands."
                             ]
                         },
                         {
@@ -3075,7 +3005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あん……は……あっ。"
+                                "\\N<Segi>Ahn... Ha... Ah!"
                             ]
                         },
                         {
@@ -3092,7 +3022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……どうかな？"
+                                "\\N<Hebeta>...How about now?"
                             ]
                         },
                         {
@@ -3109,14 +3039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……はあ……は、は……い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "す、少しだけ……こ、効果が薄れた気がします……。"
+                                "\\N<Segi>Ah... Haah... Ha, ha... Yes, it feels a bit... less\neffective now..."
                             ]
                         },
                         {
@@ -3133,14 +3056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>そう、なら良かった。恥ずかしがる必要は無いからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕からは何も見えていないから。"
+                                "\\N<Hebeta>Good, that's good. There's no need to be embarrassed, okay?\nI can't see anything from here."
                             ]
                         },
                         {
@@ -3164,21 +3080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘベタは再度セギに自身には何も見えていない事を知らせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女にしてみれば身に触れさせているのは事実だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その僅かな細工で有っても充分に心の免罪符になった。"
+                                "Hebeta reassured Segi once again that he couldn't see\nanything. For her, the fact that she was allowing him to\ntouch her was true, but even that slight trick was enough to\nserve as a mental absolution."
                             ]
                         },
                         {
@@ -3202,7 +3104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は、はい……ああ……んん……っ。"
+                                "\\N<Segi>Ye-yes... Aah... Nnn...!"
                             ]
                         },
                         {
@@ -3265,7 +3167,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……あん……はあ……っ。"
+                                "\\N<Segi>Ah... Ahn... Haah...!"
                             ]
                         },
                         {
@@ -3282,7 +3184,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>んん……あ……っ。"
+                                "\\N<Segi>Nnn... Ah...!"
                             ]
                         },
                         {
@@ -3299,7 +3201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……。"
+                                "\\N<Hebeta>..."
                             ]
                         },
                         {
@@ -3401,7 +3303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>ねえ、この間の事覚えてる？"
+                                "\\N<Hebeta>Hey, do you remember what we talked about last time?"
                             ]
                         },
                         {
@@ -3418,7 +3320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>この……間？"
+                                "\\N<Segi>Last... time?"
                             ]
                         },
                         {
@@ -3476,7 +3378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>うん……この間、ここであなたに話した事。"
+                                "\\N<Hebeta>Yeah... The things I told you about here last time."
                             ]
                         },
                         {
@@ -3500,21 +3402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘベタは不意にセギに近付き、問いかける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その距離の近さも今の催淫効果の高まるセギにとっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不快と言うより、先ず身体中を高揚させてしまう。"
+                                "Suddenly Hebeta approached Segi and asked her. The closeness\nof their proximity was more exhilarating than uncomfortable\nfor Segi, who was already heightened by the aphrodisiac\neffects."
                             ]
                         },
                         {
@@ -3538,7 +3426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ、はあ……な、何……でしょうか……？"
+                                "\\N<Segi>Haah, haah... What is it...?"
                             ]
                         },
                         {
@@ -3555,14 +3443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>うん……僕はこうする事で、あなたの中のマインド・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "リュダの効果を薄めてあげられると思った。"
+                                "\\N<Hebeta>Yeah... I thought by doing this, I could lessen the effect\nof the Mind Lyuda inside you."
                             ]
                         },
                         {
@@ -3579,14 +3460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>実際それも少しは出来ていると思う。でも肝心の貴女の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気持ちを判ってなかったかも知れないって話……。"
+                                "\\N<Hebeta>I think it's working to some extent. But maybe I didn't\nunderstand your feelings after all..."
                             ]
                         },
                         {
@@ -3603,7 +3477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……は……はい……。お、覚えて……います。"
+                                "\\N<Segi>...Yes... I, I remember..."
                             ]
                         },
                         {
@@ -3620,14 +3494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>だからさ、今日は貴女の為この場所へ来て貰ったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここなら今度こそ少しは貴女の役に立てるかも知れないから。"
+                                "\\N<Hebeta>That's why I brought you to this place today, for your sake.\nMaybe here, I can be of some help to you this time."
                             ]
                         },
                         {
@@ -3644,7 +3511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ど、どう言う事……ですか……？"
+                                "\\N<Segi>What do you mean...?"
                             ]
                         },
                         {
@@ -3719,21 +3586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>………ちょっと待ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コイツは色々と仕掛けが面倒なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確か……仕掛けを起動する為の番号が……。"
+                                "\\N<Hebeta>...Just wait a second. This thing has a lot of complicated\nmechanisms. I'm sure... the number to activate the mechanism\nis..."
                             ]
                         },
                         {
@@ -3757,14 +3610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>在った、これだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かこれを入力すればイイんだよね……？"
+                                "\\N<Hebeta>Found it, this is it. I just need to input this, right...?"
                             ]
                         },
                         {
@@ -3819,7 +3665,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>3317……っと。これで良し。"
+                                "\\N<Hebeta>3317... There, that should do it."
                             ]
                         },
                         {
@@ -3934,7 +3780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……んっ！？"
+                                "\\N<Segi>Ah... Nn!?"
                             ]
                         },
                         {
@@ -3958,21 +3804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘベタはセギの背後のワイヤーを握り、それを引き上げた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワイヤーのゴツゴツとした、それでいて柔軟性の有る独特の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "材質が彼女の下腹部を刺激する。"
+                                "Hebeta grasped the wire behind Segi and pulled it up. The\nwire's rugged yet flexible material stimulated her lower\nabdomen uniquely."
                             ]
                         },
                         {
@@ -4020,7 +3852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……っ！は……あっ！あっ！ああっ！"
+                                "\\N<Segi>Ah...! Ha... Ah! Ah! Aah!"
                             ]
                         },
                         {
@@ -4037,7 +3869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>ほらね？これなら恥ずかしくないでしょ？"
+                                "\\N<Hebeta>See? This way it's not embarrassing, right?"
                             ]
                         },
                         {
@@ -4054,21 +3886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>今あなたの身体に触れているのは僕じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから何の遠慮も罪悪感も要らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ね？だから安心して声を出すといいよ？"
+                                "\\N<Hebeta>It's not me touching your body right now. So there's no need\nfor any hesitation or guilt. Okay? So feel free to let out\nyour voice."
                             ]
                         },
                         {
@@ -4138,7 +3956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……んんっ！こ、これって……！？"
+                                "\\N<Segi>Ah... Nnn! This is...!?"
                             ]
                         },
                         {
@@ -4155,14 +3973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>うん。僕も良くは判らないけどリュダの開発した新素材"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "らしいよ？柔らかい反面、かなり頑丈に出来てるらしくてね。"
+                                "\\N<Hebeta>Yeah. I don't fully understand it either, but it seems to be\na new material developed by Lyuda. It's soft yet apparently\nvery durable."
                             ]
                         },
                         {
@@ -4179,14 +3990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>本当は犯罪者の拷問なんかに使うらしいけど……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この間のあなたとの話でコレの存在を思い付いたんだ。"
+                                "\\N<Hebeta>It's actually supposed to be used for torturing criminals...\nbut I thought of its existence after our conversation the\nother day."
                             ]
                         },
                         {
@@ -4256,7 +4060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……はああっ！んっ！ああっ！"
+                                "\\N<Segi>Ah... Haaah! Nn! Aah!"
                             ]
                         },
                         {
@@ -4280,21 +4084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘベタは話の最中をその手を止める事無く、件のワイヤーで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セギの下腹部を慰め続ける。その刺激にセギの膝がガクガク"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "揺れ出した。"
+                                "While talking, Hebeta did not stop his hand and continued to\ncomfort Segi's lower abdomen with the wire. Her knees began\nto shake from the stimulation."
                             ]
                         },
                         {
@@ -4330,14 +4120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……んんっ！は、はあ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、だめっ！こ、これ……た、立っていられ……！"
+                                "\\N<Segi>...Nnn! Ha, haa...! No, no good! I can't... stand...!"
                             ]
                         },
                         {
@@ -4354,21 +4137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>確かズーテルカ様が何処かで見付けた技術を持ち帰って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "応用したとか。何でもちょっとやそっとじゃ千切ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出来ないのが自慢らしいよ？"
+                                "\\N<Hebeta>Apparently, Zuuteruka-sama found some technology somewhere\nand brought it back to apply here. It's said to be so tough\nthat it won't tear easily, which is its pride."
                             ]
                         },
                         {
@@ -4445,7 +4214,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……んんっ！？"
+                                "\\N<Segi>Ah... Nnn!?"
                             ]
                         },
                         {
@@ -4462,7 +4231,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>それよりどう？気持ちいい？もっとやろうか？"
+                                "\\N<Hebeta>But more importantly, how is it? Does it feel good? Should I\ndo more?"
                             ]
                         },
                         {
@@ -4479,14 +4248,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>うう……んんっ！は、はあ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で、でも……こ、これ以上されたら……！"
+                                "\\N<Segi>Uuh... Nnn! Ha, haa...! But... if you do any more than\nthis...!"
                             ]
                         },
                         {
@@ -4503,14 +4265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>じゃあ……どうしようか？これでお終いにする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう充分かな？これで無事に戦えそうかな？"
+                                "\\N<Hebeta>So... what should we do? Should we stop here? Is it enough?\nDo you think you can fight safely now?"
                             ]
                         },
                         {
@@ -4527,7 +4282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ん……そ、それ……それ……は……。"
+                                "\\N<Segi>Nn... That... that is..."
                             ]
                         },
                         {
@@ -4544,14 +4299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>もしも……もしもだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ充分じゃ無いなら遠慮しないで？恥ずかしがらずにさ。"
+                                "\\N<Hebeta>If... just if, okay? If it's not enough yet, don't hesitate.\nDon't be shy."
                             ]
                         },
                         {
@@ -4580,7 +4328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>僕は……僕はあなたの気の済む迄協力するから。"
+                                "\\N<Hebeta>I will... I will help you until you're satisfied."
                             ]
                         },
                         {
@@ -4686,7 +4434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……あ……はあ……んん……！"
+                                "\\N<Segi>Aah... Ah... Haa... Nnn...!"
                             ]
                         },
                         {
@@ -4703,7 +4451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あ……っ！あ……っ！あ……ん……！"
+                                "\\N<Segi>Ah...! Ah...! Ah...n...!"
                             ]
                         },
                         {
@@ -4720,14 +4468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>どうかな……？さっきよりも楽になった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ足りないなら言ってね？もっとしてあげるからさ。"
+                                "\\N<Hebeta>How about now...? Do you feel better than before? If it's\nstill not enough, just tell me. I'll do more for you."
                             ]
                         },
                         {
@@ -4756,14 +4497,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……！た、足りなくなど……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はあ……はあ……っ！"
+                                "\\N<Segi>Haa... Ah...! It's not that I'm not satisfied...! Haa...\nHaa...!"
                             ]
                         },
                         {
@@ -4780,14 +4514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>良かった、ちゃんとキモチイイんだね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "僕も少しはあなたの役に立ってるんだね？"
+                                "\\N<Hebeta>Good, you're feeling nice, right? I'm glad I can be of some\nhelp to you."
                             ]
                         },
                         {
@@ -4845,7 +4572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ああ……だ、だめ……だめぇぇ……。"
+                                "\\N<Segi>Aah... No, no more..."
                             ]
                         },
                         {
@@ -4862,14 +4589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ヘベタ>……だったら任せてよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたがもういいと言うまでしてあげるからさ……。"
+                                "\\N<Hebeta>...Then leave it to me. I'll keep going until you say it's\nenough..."
                             ]
                         },
                         {
@@ -4939,14 +4659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>だめ……こ、これ以上……は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたし……わた……。"
+                                "\\N<Segi>No more... if we go any further... I, I..."
                             ]
                         },
                         {
@@ -5038,7 +4751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………………。"
+                                "..."
                             ]
                         },
                         {
@@ -5055,7 +4768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……………。"
+                                "..."
                             ]
                         },
                         {
@@ -5256,7 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>準備……出来た？"
+                                "\\N<Hebeta>Are you ready?"
                             ]
                         },
                         {
@@ -5278,8 +4991,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "……準備は出来た",
-                                    "少し時間が欲しい"
+                                    "...I'm ready.",
+                                    "I need a little more time."
                                 ],
                                 1,
                                 0,
@@ -5323,7 +5036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……はい……。"
+                                "\\N<Segi>...Yes..."
                             ]
                         },
                         {
@@ -5590,7 +5303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……わ、わたしの進むべき道……。"
+                                "\\N<Segi>Ha, haa... haa... Wh-where I should go..."
                             ]
                         },
                         {
@@ -5607,21 +5320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんなの……決まってる……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をかき分けてでも進むべき……道。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お救いしなければならない人……守るべき人。"
+                                "\\N<Segi>Th-that's... obvious... The path I must take, no matter what\nI have to push through... The person I must save... The\nperson I must protect."
                             ]
                         },
                         {
@@ -5638,7 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、その為にならば……わたしは……。"
+                                "\\N<Segi>If it's for that purpose... I will..."
                             ]
                         },
                         {

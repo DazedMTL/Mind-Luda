@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Segi-san. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {
@@ -1747,14 +1740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……約束だよ？約束を破ったら私にも考えが有るからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚えて置いてくれよ？"
+                                "\\N<Weapon Shop Owner>...It's a promise, okay? If you break the promise, I have my\nways of dealing with it, so make sure you remember that."
                             ]
                         },
                         {
@@ -2423,7 +2409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……管理所へ行かなきゃ。"
+                                "\\N<Segi>...I have to go to the management office."
                             ]
                         },
                         {
@@ -2672,7 +2658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>く、薬を……早く薬を貰いに行かなくちゃ！"
+                                "\\N<Segi>I-I need to get the medicine... I must go get it quickly!"
                             ]
                         },
                         {
@@ -3043,7 +3029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>何処行くんだい、奥さん。"
+                                "\\N<Weapon Shop Owner>Where are you going, ma'am?"
                             ]
                         },
                         {
@@ -3107,7 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -3131,14 +3117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>何を驚いているんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然じゃないか、私の前を黙って素通りは無いだろ？"
+                                "\\N<Weapon Shop Owner>What's with the surprise? It's only natural, you can't just\nsilently walk past me, can you?"
                             ]
                         },
                         {
@@ -3162,7 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？あ……すみませんでした……。"
+                                "\\N<Segi>Eh...? Ah... I'm sorry..."
                             ]
                         },
                         {
@@ -3186,7 +3165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……。"
+                                "\\N<Weapon Shop Owner>..."
                             ]
                         },
                         {
@@ -3243,7 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>っ……？"
+                                "\\N<Segi>...?"
                             ]
                         },
                         {
@@ -3284,7 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何の……真似ですか？そこを通して下さい……。"
+                                "\\N<Segi>Wh-What are you doing? Please let me through..."
                             ]
                         },
                         {
@@ -3301,21 +3280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>通して欲しいなら私の相手をしてくれよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イイだろう？この間の事、忘れた訳じゃないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかあそこ迄して置いて今更他人振る気かい？"
+                                "\\N<Weapon Shop Owner>If you want to pass, then keep me company, okay? You haven't\nforgotten about last time, have you? Surely you're not\nplanning to act like a stranger after all that?"
                             ]
                         },
                         {
@@ -3332,7 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>だとしたら冷たいじゃないか、私達の仲なのに。"
+                                "\\N<Weapon Shop Owner>If that's the case, it's rather cold of you, considering our\nrelationship."
                             ]
                         },
                         {
@@ -3349,7 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わたし達の仲って何ですか……？"
+                                "\\N<Segi>Our relationship, what are you talking about...?"
                             ]
                         },
                         {
@@ -3366,14 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>知りません……何を仰っているのか判りませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙な言い掛かりは止めて下さい。"
+                                "\\N<Segi>I don't know... I don't understand what you're saying, but\nplease stop this strange accusation."
                             ]
                         },
                         {
@@ -3390,7 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>そうかい、なら言い掛かりかどうか試してみようじゃないか。"
+                                "\\N<Weapon Shop Owner>Is that so? Then let's see if it's a false accusation or\nnot."
                             ]
                         },
                         {
@@ -3460,7 +3418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>やめ……何を…手を離して下さいっ。"
+                                "\\N<Segi>Stop... What are you... Let go of me."
                             ]
                         },
                         {
@@ -3477,7 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……。"
+                                "\\N<Weapon Shop Owner>..."
                             ]
                         },
                         {
@@ -3543,7 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いや……っ！！？？"
+                                "\\N<Segi>No... Stop!!??"
                             ]
                         },
                         {
@@ -3560,14 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ふふ、ホラ見ろ。やはり奥さんがあの時の……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この身体、一度見たら忘れるもんか。"
+                                "\\N<Weapon Shop Owner>Heh heh, look at that. As I thought, ma'am, you're the one\nfrom that time... Once I've seen this body, how could I\nforget it?"
                             ]
                         },
                         {
@@ -3584,7 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>み、見ないで……やめて下さいっ！"
+                                "\\N<Segi>Don't look... Please stop!"
                             ]
                         },
                         {
@@ -3601,14 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>じゃあ認めてくれるかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタがあの時私と愛し合った女性だと。"
+                                "\\N<Weapon Shop Owner>So will you admit it? That you're the woman who made love\nwith me that time."
                             ]
                         },
                         {
@@ -3625,7 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ち、違いますっ！わたしそんな事してませんから……！"
+                                "\\N<Segi>That's not true! I didn't do anything like that...!"
                             ]
                         },
                         {
@@ -3642,14 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>一体どなたと勘違いしているのかは知りませんが……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止めて下さいっ！"
+                                "\\N<Segi>I don't know who you're mistaking me for...! Please stop!"
                             ]
                         },
                         {
@@ -3666,7 +3603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ふふ、白を切る気かい？アンタがその気なら構わないよ？"
+                                "\\N<Weapon Shop Owner>Heh heh, playing innocent, are you? If that's what you want,\nI don't mind."
                             ]
                         },
                         {
@@ -3683,21 +3620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>街中に触れ回ってやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタが旦那と息子を蔑ろにしてウチのフービィの所に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入り浸ってるってねえ。"
+                                "\\N<Weapon Shop Owner>I'll spread the word around town. That you've been\nneglecting your husband and son to hang around at Fubii's\nplace."
                             ]
                         },
                         {
@@ -3714,7 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……っ！？"
+                                "\\N<Segi>Wha...!?"
                             ]
                         },
                         {
@@ -3731,21 +3654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>皆、さぞ驚くだろうねえ。まさかアンタが……って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと同時に街の男衆が挙って手を挙げるだろうねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分もアンタの相手に立候補したいと。"
+                                "\\N<Weapon Shop Owner>Everyone will be shocked, for sure. They'd never expect it\nfrom you... And at the same time, all the men in town will\nbe eager to volunteer to be with you."
                             ]
                         },
                         {
@@ -3762,7 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！"
+                                "\\N<Segi>...!"
                             ]
                         },
                         {
@@ -3779,21 +3688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>そうなってからじゃあ遅いよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらフービィや私どころじゃない。街中がアンタを狙い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "始めるだろうさ。"
+                                "\\N<Weapon Shop Owner>It'll be too late by then. It won't just be Fubii or me\nanymore. The whole town will start aiming for you."
                             ]
                         },
                         {
@@ -3863,7 +3758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……く……っ！？"
+                                "\\N<Segi>...ugh...!?"
                             ]
                         },
                         {
@@ -3880,14 +3775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>どうかな？気は変わったかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの夜の事を認めて……私の相手をしてくれるかい？"
+                                "\\N<Weapon Shop Owner>So what do you say? Changed your mind? Will you admit to\nthat night and keep me company?"
                             ]
                         },
                         {
@@ -3904,7 +3792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ……判りましたから……っ！"
+                                "\\N<Segi>I... I understand...!"
                             ]
                         },
                         {
@@ -3921,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判りましたから……もうやめて下さい……っ！"
+                                "\\N<Segi>I understand... so please stop...!"
                             ]
                         },
                         {
@@ -3938,7 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ふふ……後で必ず……だよ？"
+                                "\\N<Weapon Shop Owner>Heh heh... Make sure to follow through later... okay?"
                             ]
                         },
                         {
@@ -3955,7 +3843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3972,14 +3860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……約束だよ？約束を破ったら私にも考えが有るからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚えて置いてくれよ？"
+                                "\\N<Weapon Shop Owner>...It's a promise, okay? If you break it, I have my ways\ntoo. Just remember that."
                             ]
                         },
                         {

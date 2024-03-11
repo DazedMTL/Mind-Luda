@@ -2089,14 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの育成機関である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無くば無駄な嫌疑がかかる前に立ち去る事だ。"
+                                "\\N<Ryuda Soldier>This is the training institution of Ryuda. If you have no\nbusiness here, leave before unnecessary suspicion falls upon\nyou."
                             ]
                         },
                         {
@@ -2386,14 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>見てわかんないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勉強中なんだ、話しかけないでよ……。"
+                                "\\N<Ryuda Soldier>Can't you see? I'm studying, so don't talk to me..."
                             ]
                         },
                         {
@@ -2470,21 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>わたしのパパは練兵会で戦ってるんだ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はまだいいけどさ、もしも負けちゃったりしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしやママはどうなるんだろう……。"
+                                "\\N<Ryuda Soldier>My dad is fighting in the training corps... It's still okay\nfor now, but I wonder what will happen to me and mom if he\never loses..."
                             ]
                         },
                         {
@@ -2561,14 +2533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>僕は何のためにここに通ってるんだろう……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイになるため？それとも……。"
+                                "\\N<Ryuda Soldier>What am I even coming here for... To become a soldier of\nRyuda? Or maybe..."
                             ]
                         },
                         {
@@ -2645,14 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だれ……？用が無いなら向こうへ行ってよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダのヘイタイに見られたくないんだ。"
+                                "\\N<Ryuda Soldier>Who...? If you have no business, please go over there. I\ndon't want to be seen by the Ryuda soldiers."
                             ]
                         },
                         {
@@ -2729,14 +2687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここでは街の子供達が学んでいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前は純粋な学問所でしたが……。"
+                                "\\N<Man>Here is where the children of the town learn. It used to be\na pure place of study, but..."
                             ]
                         },
                         {
@@ -2827,7 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ママ……っ！だ、大丈夫だった……！？"
+                                "\\N<Riia>Mom...! Are, are you okay...!?"
                             ]
                         },
                         {
@@ -2851,14 +2802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……うん。全然平気よ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったでしょ、知り合いに少し悪戯されただけだって。"
+                                "\\N<Segi>...Yeah. I'm totally fine. Didn't I tell you? I was just\nbeing teased a little by someone I know."
                             ]
                         },
                         {
@@ -2882,7 +2826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>で、でも……ぼく……。"
+                                "\\N<Riia>But... I..."
                             ]
                         },
                         {
@@ -2906,14 +2850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイアは女の子にあんな事をしてはダメよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママとのお約束ね？"
+                                "\\N<Segi>Riia, you can't do such things to a girl, okay? It's a\npromise with mom, right?"
                             ]
                         },
                         {
@@ -2937,7 +2874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……わかってるよ。"
+                                "\\N<Riia>...I know."
                             ]
                         },
                         {
@@ -3027,14 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイアは女の子にあんな事をしてはダメよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママとのお約束ね？"
+                                "\\N<Segi>Riia, you mustn't do such things to girls, okay? It's a\npromise with Mama, right?"
                             ]
                         },
                         {
@@ -3058,7 +2988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……わかってるよ。"
+                                "\\N<Riia>...I know."
                             ]
                         },
                         {
@@ -3147,7 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>どうしたの、ママ。こんな所に……。"
+                                "\\N<Riia>What's wrong, Mom? Why are you here..."
                             ]
                         },
                         {
@@ -3171,7 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ごめんね、ちょっとあなたに聞きたい事があって。"
+                                "\\N<Segi>Sorry, there's something I wanted to ask you."
                             ]
                         },
                         {
@@ -3195,14 +3125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>最近……ラメちゃんの事で何か変わった事は無い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアがおかしいなって思った事はないかしら？"
+                                "\\N<Segi>Recently... Have you noticed anything different about Rame-\nchan? Has Riia thought something was off?"
                             ]
                         },
                         {
@@ -3226,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>変わったこと……？別に何もないと思うけど……。"
+                                "\\N<Riia>Something different...? I don't think there's anything..."
                             ]
                         },
                         {
@@ -3250,21 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ホントに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママね、イリメさん……ラメちゃんのママから頼まれたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近ラメちゃんの様子がおかしかったって心配してたから。"
+                                "\\N<Segi>Really? You see, Mom was asked by Irime-san... Rame-chan's\nmom. She's been worried because Rame-chan has been acting\nstrange lately."
                             ]
                         },
                         {
@@ -3288,7 +3197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -3312,14 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>でも……そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアが知らないなら勘違いかも知れないね。"
+                                "\\N<Segi>But... I see. If Riia doesn't know, then maybe it's just a\nmisunderstanding."
                             ]
                         },
                         {
@@ -3336,14 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>判った、ラメちゃんのママには何も無かったってお話する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "から。リイアも忘れて？変な事聞いちゃってごめんね？"
+                                "\\N<Segi>Understood, I'll tell Rame-chan's mom that there's nothing\nwrong. Can you forget about it too, Riia? I'm sorry for\nasking such a strange question."
                             ]
                         },
                         {
@@ -3383,7 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ホントは……ボクもちょっと気になってたんだ。"
+                                "\\N<Riia>Actually... I've been a little concerned too."
                             ]
                         },
                         {
@@ -3407,7 +3302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>最近のラメちゃん悲しそうな顔をしてる時が多いから。"
+                                "\\N<Riia>Lately, Rame-chan often seems to have a sad look on her\nface."
                             ]
                         },
                         {
@@ -3431,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……心当たりは無い？"
+                                "\\N<Segi>...You have no idea why?"
                             ]
                         },
                         {
@@ -3455,7 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -3512,7 +3407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>フービィ……彼が……。"
+                                "\\N<Segi>Fubii... He..."
                             ]
                         },
                         {
@@ -3536,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……カンケーあるかはわからないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも最近二人が話してるのをよく見かけるんだ。"
+                                "\\N<Riia>...I don't know if it's related. But I've often seen the two\nof them talking recently."
                             ]
                         },
                         {
@@ -3560,14 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>何をしてるのかはわからないけど……そのあと、ラメちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はいつも悲しそうなカオしてるから……。"
+                                "\\N<Riia>I don't know what they're doing, but... after that, Rame-\nchan always looks sad..."
                             ]
                         },
                         {
@@ -3591,21 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……判った、話してくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言う事ならママから彼に聞いてみるからリイアは心配"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないで？"
+                                "\\N<Segi>...Understood, thank you for telling me. If that's the case,\nMom will ask him about it, so don't worry, Riia?"
                             ]
                         },
                         {
@@ -3629,7 +3496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……うん。"
+                                "\\N<Riia>...Yeah."
                             ]
                         },
                         {
@@ -3747,14 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……カンケーあるかはわからないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも最近二人が話してるのをよく見かけるんだ。"
+                                "\\N<Riia>...I'm not sure if it's related, but I've often seen the two\nof them talking together lately."
                             ]
                         },
                         {
@@ -3771,14 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>何をしてるのかはわからないけど……そのあと、ラメちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はいつも悲しそうなカオしてるから……。"
+                                "\\N<Riia>I don't know what they're doing, but... after that, Rame-\nchan always looks sad..."
                             ]
                         },
                         {

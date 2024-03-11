@@ -3827,14 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>警備任務中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無いなら話しかけないで貰おうか。"
+                                "\\N<Ryuda Soldier>I'm on guard duty. If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -4031,21 +4024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会が始まってからと言うもの、既にその勝敗によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天国と地獄を味わう住民が現れています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは街の人心が二分されてしまいます……。"
+                                "\\N<Man>Ever since the training tournament began, there are already\ncitizens who have tasted both heaven and hell depending on\nthe outcomes. If this continues, the town's public sentiment\nwill be split in two..."
                             ]
                         },
                         {
@@ -4122,14 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>知っての通り中では練兵会が催されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らの運命を決定付ける戦いだ、心して臨むがいいさ。"
+                                "\\N<Ryuda Soldier>As you know, a training session is being held inside. It's a\nbattle that will determine your fate, so approach it with\nresolve."
                             ]
                         },
                         {
@@ -4206,21 +4178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会会場か……ここも以前は街の演舞場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その憩いの場が、リュダの奴らが来てからすっかり血生臭い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に変わってしまった……。"
+                                "\\N<Man>The training grounds, huh... This place used to be the\ncity's performance hall. Ever since those Ryuda guys came,\nthis relaxing spot has completely turned into a blood-\nstained place..."
                             ]
                         },
                         {
@@ -4443,14 +4401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……不自然に塞がる傷……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに相手の攻撃を回避する方法……。"
+                                "\\N<Segi>...Wounds that unnaturally heal... and ways to dodge an\nopponent's attacks..."
                             ]
                         },
                         {
@@ -4490,14 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……今は考えていても仕方ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜はもう帰りましょう……。"
+                                "\\N<Segi>...There's no point in thinking about it now. Let's head\nback for tonight..."
                             ]
                         },
                         {
@@ -4818,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<赤帽の少年>あ……っ！？"
+                                "\\N<Red Cap Boy>Ah...!?"
                             ]
                         },
                         {
@@ -4842,7 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あなたは……ここで何してるの？"
+                                "\\N<Segi>What are you doing here...?"
                             ]
                         },
                         {
@@ -4866,7 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさん……。"
+                                "\\N<Rame>Miss Segi..."
                             ]
                         },
                         {
@@ -4961,14 +4905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ラメちゃん……どうしたの、こんな所で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか……泣いてたんじゃないの？"
+                                "\\N<Segi>Rame-chan... What's wrong, being in a place like this. Don't\ntell me... you were crying?"
                             ]
                         },
                         {
@@ -4992,7 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>セギさん……わたし……わたし……。"
+                                "\\N<Rame>Miss Segi... I... I..."
                             ]
                         },
                         {
@@ -5032,21 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ううん……何でもないんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その、ここでわたしと会った事リイアちゃんにはだまって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いてもらえますか……？"
+                                "\\N<Rame>No, it's nothing. Could you... keep it a secret from Riia-\nchan that you met me here...?"
                             ]
                         },
                         {
@@ -5063,14 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>し、しんぱい……させたくないですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ……さよなら。"
+                                "\\N<Rame>I don't want to... worry him. Well then... goodbye."
                             ]
                         },
                         {

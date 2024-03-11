@@ -1609,21 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……すまない。ウチで預かっているとは言え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の言う通り元々は他の街の人間だ。その所為で仲間意識や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の時世に対する危機意識が薄いのかも知れないな……。"
+                                "\\N<Weapon Shop Owner>...I'm sorry. Even though we're looking after him, he's\noriginally from another town, as he says. Maybe that's why\nhe lacks a sense of camaraderie and awareness of the current\nstate of affairs..."
                             ]
                         },
                         {
@@ -1992,7 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさんじゃないか。"
+                                "\\N<Weapon Shop Owner>Ah, if it isn't Miss Segi."
                             ]
                         },
                         {
@@ -2016,7 +2002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>こんにちわ。"
+                                "\\N<Segi>Good afternoon."
                             ]
                         },
                         {
@@ -2040,14 +2026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>珍しいじゃないか。アンタがここに来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人を傷付ける為の道具は苦手なんだろ？"
+                                "\\N<Weapon Shop Owner>It's rare to see you here. You're not the type to use tools\nmeant for hurting others, right?"
                             ]
                         },
                         {
@@ -2071,7 +2050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……決してそんなつもりじゃ……。"
+                                "\\N<Segi>No, I... that's not what I..."
                             ]
                         },
                         {
@@ -2095,14 +2074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>いいさ、それが真っ当な人間の反応さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ましてアンタの様な女性ならな。"
+                                "\\N<Weapon Shop Owner>It's fine, that's a normal human reaction. Especially for a\nwoman like you."
                             ]
                         },
                         {
@@ -2126,7 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……すみません。"
+                                "\\N<Segi>...I'm sorry."
                             ]
                         },
                         {
@@ -2150,14 +2122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>それにしても……大変な事になったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体この先、街はどうなってしまうんだろうか。"
+                                "\\N<Weapon Shop Owner>Even so... things have gotten pretty serious. I wonder what\nwill become of our town from now on."
                             ]
                         },
                         {
@@ -2181,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2205,14 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>アンタの気持ちも判るがね、今はこんなご時世だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自身の身を守る物位は用意しておいた方がいい。"
+                                "\\N<Weapon Shop Owner>I understand how you feel, but in times like these, it's\nwise to have something to protect yourself with."
                             ]
                         },
                         {
@@ -2229,14 +2187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>私で良ければいつでも相談に乗るよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにあるブツだって安くして置くからさ。"
+                                "\\N<Weapon Shop Owner>If you're okay with it, I'm always here to listen. I'll even\ngive you a discount on the goods here."
                             ]
                         },
                         {
@@ -2260,7 +2211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そうですね……有難う御座います。"
+                                "\\N<Segi>I see... Thank you very much."
                             ]
                         },
                         {
@@ -2478,7 +2429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<少年>……。"
+                                "\\N<Boy>..."
                             ]
                         },
                         {
@@ -2571,7 +2522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……。"
+                                "\\N<Segi>Ah..."
                             ]
                         },
                         {
@@ -2595,7 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>おい、挨拶くらいしたらどうだ？同じ街の仲間だぞ？"
+                                "\\N<Weapon Shop Owner>Hey, how about a greeting? We're all part of the same town,\naren't we?"
                             ]
                         },
                         {
@@ -2650,14 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、仲間？誰が？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてアンタとそのおばさんが？"
+                                "\\N<Fubii>Ahaha, comrades? Who? You mean you and that old lady?"
                             ]
                         },
                         {
@@ -2674,14 +2618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>生憎僕の方は仲間だと思った事は無いけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕は元々他の街の人間だしさ。"
+                                "\\N<Fubii>Unfortunately, I've never thought of myself as part of the\ngroup. I'm originally from another town, after all."
                             ]
                         },
                         {
@@ -2705,14 +2642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>何だと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前そんな態度でこの先上手くやっていけると思って……。"
+                                "\\N<Weapon Shop Owner>What? You think you can get by with that attitude..."
                             ]
                         },
                         {
@@ -2822,7 +2752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>お、おいっ！"
+                                "\\N<Weapon Shop Owner>Hey! Wait!"
                             ]
                         },
                         {
@@ -2846,7 +2776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2901,21 +2831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……すまない。ウチで預かっているとは言え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の言う通り元々は他の街の人間だ。その所為で仲間意識や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の時世に対する危機意識が薄いのかも知れないな……。"
+                                "\\N<Weapon Shop Owner>...I'm sorry. Even though he's under my care, he's right;\nhe's originally from another town. Maybe that's why he lacks\na sense of camaraderie and awareness of the current\ncrisis..."
                             ]
                         },
                         {
@@ -2970,7 +2886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いいえ。気にしていませんから。"
+                                "\\N<Segi>No, it's fine. I'm not bothered by it."
                             ]
                         },
                         {
@@ -2987,14 +2903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それに無理もありません。あの年頃で単身知らない街へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来て、すぐに心を開けと言う方に無理がありますし。"
+                                "\\N<Segi>Besides, it's not unreasonable. It's too much to expect\nsomeone his age to come to an unknown town alone and open up\nhis heart right away."
                             ]
                         },
                         {
@@ -3018,14 +2927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>本当にすまない。そう言って貰えると助かるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ見えて決して悪い奴じゃ無いんだ。"
+                                "\\N<Weapon Shop Owner>Really sorry. It helps to hear you say that. Despite\nappearances, he's not a bad kid at all."
                             ]
                         },
                         {

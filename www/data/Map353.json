@@ -3332,14 +3332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>お、おい……ホントに大丈夫なんだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホントにここにあのセギさんが来るんだろうな……？"
+                                "\\N<Customer>Hey, hey... are you sure this is okay? Is Segi really going\nto come here...?"
                             ]
                         },
                         {
@@ -3356,7 +3349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ああ。間違い無いよ。そう言う契約だからねえ。"
+                                "\\N<Shopkeeper>Yeah, there's no mistake. That's the deal we made."
                             ]
                         },
                         {
@@ -3403,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>で？どうすりゃイイんだ？どんな手順になってるんだ？"
+                                "\\N<Customer>So? What should I do? What's the procedure?"
                             ]
                         },
                         {
@@ -3420,14 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>何言ってるんだい、手順も何もありはしないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全てはアンタらの裁量次第さ。"
+                                "\\N<Shopkeeper>What are you talking about? There's no particular procedure.\nIt's all up to your discretion."
                             ]
                         },
                         {
@@ -3444,7 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>はあ？じゃあ一体どうすりゃイイってんだ？"
+                                "\\N<Customer>Huh? Then what exactly should I do?"
                             ]
                         },
                         {
@@ -3461,14 +3447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ちょっと考えれば方法何て幾らでも有るだろうさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えば判らない様に酒で潰しちまうとかねえ。"
+                                "\\N<Shopkeeper>If you think about it, there are plenty of ways. For\nexample, you could get her drunk without her noticing."
                             ]
                         },
                         {
@@ -3485,7 +3464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>潰すったって……どうやって？"
+                                "\\N<Customer>Get her drunk... but how?"
                             ]
                         },
                         {
@@ -3502,14 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>それくらいは自分達で考えなさいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女を抱きたいんだろ？だったら人任せじゃいけないねえ。"
+                                "\\N<Shopkeeper>You should figure that out on your own. You want to bed her,\nright? Then you can't leave it to others."
                             ]
                         },
                         {
@@ -3526,14 +3498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ふん……上等だ、なら俺達流でやらせて貰うだけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言って置くがな、奥さんが壊れちまっても後悔するなよ？"
+                                "\\N<Customer>Hmph... fine by me, we'll do it our way then. But just so\nyou know, if the lady breaks, don't you regret it, okay?"
                             ]
                         },
                         {
@@ -3550,14 +3515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>それは看過出来ないね、彼女はウチの大切な給仕と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったろ？せいぜい丁重に扱って欲しいものだね。"
+                                "\\N<Shopkeeper>I can't overlook that. Didn't I tell you she's our precious\nwaitress? I'd prefer if you treat her with the utmost care."
                             ]
                         },
                         {
@@ -3574,7 +3532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へ……本人に内緒で売り払って置いて良く言うぜ。"
+                                "\\N<Customer>Heh... selling her off without her knowing and still saying\nthat, huh."
                             ]
                         },
                         {

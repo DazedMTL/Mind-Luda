@@ -1405,14 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<医師>やあ、セギさん。この診療所に何か御用かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体の変調を感じた時はいつでも相談してくれ給えよ、はは。"
+                                "\\N<Doctor>Hey there, Miss Segi. Do you need anything at this clinic?\nFeel free to consult me anytime you feel something off with\nyour body, haha."
                             ]
                         },
                         {
@@ -1665,21 +1658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ここは街で唯一の診療所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダの連中に色々なモノが奪われたが、まさかここまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪う事は無いと信じたいよ……。"
+                                "\\N<Man>This is the only clinic in town. The Ryuda gang has taken so\nmuch from us, but I want to believe they wouldn't go as far\nas to take this..."
                             ]
                         },
                         {
@@ -1756,14 +1735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<老婆>……練兵会で多くの人間が傷付いています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし誰一人ここで治療を受けた者はいないと言います。"
+                                "\\N<Old Woman>...Many people have been injured at the training assembly.\nYet, they say not a single person has received treatment\nhere."
                             ]
                         },
                         {
@@ -1780,14 +1752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<老婆>ならば一体何処で治療を受けているのでしょうか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、或いは……。"
+                                "\\N<Old Woman>Then where on earth are they getting treated... Could it\npossibly be, or perhaps..."
                             ]
                         },
                         {
@@ -1864,14 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<女>その……お恥ずかしながら妊娠についての件でここに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通っています。良い結果に繋がれば良いのですけれど……。"
+                                "\\N<Woman>I'm... I'm embarrassed to say that I've been coming here\nregarding pregnancy. I hope it leads to a good outcome..."
                             ]
                         },
                         {
@@ -1955,14 +1913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確かこの先は処置室だった筈……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無断で立ち入る事は出来ないわ。"
+                                "\\N<Segi>If I remember correctly, the treatment room should be\nahead... We can't enter without permission."
                             ]
                         },
                         {

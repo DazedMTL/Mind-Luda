@@ -1806,14 +1806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には獄に繋がれている夫の延命措置として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会期間中、5日毎に金子の納付が義務付けられている。"
+                                "\\N<Ryuda Soldier>As a life-prolonging measure for your husband who is\nimprisoned, you are obligated to pay gold every 5 days\nduring the training period."
                             ]
                         },
                         {
@@ -1830,7 +1823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今回貴様に課せられている金額は\\C[1][2000 MO]\\C[0]だ。"
+                                "\\N<Ryuda Soldier>The amount imposed on you this time is \\C[1][2000 MO]\\C[0]."
                             ]
                         },
                         {
@@ -1854,7 +1847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今回の納付準備は出来ているか？\\$"
+                                "\\N<Ryuda Soldier>Are you prepared to make the payment this time?\\$"
                             ]
                         },
                         {
@@ -1869,9 +1862,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "準備出来ている",
-                                    "準備中",
-                                    "用意は出来ない"
+                                    "Ready to go",
+                                    "Preparing",
+                                    "Can't prepare"
                                 ],
                                 1,
                                 0,
@@ -1936,14 +1929,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>ふむ……確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "御苦労だった、今後も励むと良かろう。"
+                                "\\N<Ryuda Soldier>Hmm... indeed. You have worked hard. It would be good for\nyou to continue to strive in the future."
                             ]
                         },
                         {
@@ -2004,14 +1990,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>尤も……貴様が我が身可愛さに納付を中断したところで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こちらは粛々と形を執行するだけだがな。"
+                                "\\N<Ryuda Soldier>However... should you stop the payments out of self-\npreservation, we will simply carry out the procedure without\nhesitation."
                             ]
                         },
                         {
@@ -2054,7 +2033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<リュダ兵>何の真似だ？貴様も所持金は条件を満たしていない。"
+                                "\\N<Ryuda Soldier>What is this charade? You also do not have enough money on\nhand to meet the conditions."
                             ]
                         },
                         {
@@ -2136,7 +2115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2160,14 +2139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？黙っていても始まらん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分の成すべき事を成せ。"
+                                "\\N<Ryuda Soldier>What's the matter? Silence won't start anything. Do what you\nmust do."
                             ]
                         },
                         {
@@ -2191,7 +2163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>Th-that is..."
                             ]
                         },
                         {
@@ -2215,14 +2187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>……そうか。万事理解した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やはり貴様は器では無かったと言う事だな。"
+                                "\\N<Ryuda Soldier>...I see. I understand everything. It seems you were not up\nto the task after all."
                             ]
                         },
                         {
@@ -2246,14 +2211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ま、待って下さい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少しだけ待って頂ければお金は必ず……！"
+                                "\\N<Segi>Please, wait! If you could just wait a little longer, I will\ndefinitely have the money...!"
                             ]
                         },
                         {
@@ -2277,14 +2235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には既に十分な猶予が与えられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ以上の温情は無い。"
+                                "\\N<Ryuda Soldier>You have already been given ample grace period. There will\nbe no further leniency."
                             ]
                         },
                         {
@@ -2308,7 +2259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でもっ！！"
+                                "\\N<Segi>But, but!!"
                             ]
                         },
                         {
@@ -2332,14 +2283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>来い。器では無いとは言ったが、幸い貴様には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ利用価値が有りそうだからな。"
+                                "\\N<Ryuda Soldier>Come now. I said you were not up to the task, but\nfortunately, it seems you still have some value to us."
                             ]
                         },
                         {
@@ -2543,7 +2487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>御苦労だった、今後も励むと良かろう。"
+                                "\\N<Ryuda Soldier>Good work, continue to strive in the future."
                             ]
                         },
                         {
@@ -3247,7 +3191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何……？何の騒ぎなの……？"
+                                "\\N<Segi>What...? What's all this commotion...?"
                             ]
                         },
                         {
@@ -3329,14 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダの配下>離せっ！俺はツェダ様の配下だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめえらの指図なんざ受けねえっ！"
+                                "\\N<Subordinate Of Zeda>Let go! I'm a subordinate of Lord Zeda! I won't take orders\nfrom the likes of you!"
                             ]
                         },
                         {
@@ -3353,14 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>構わん、連行するぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱獄に失敗した情けない男の遠吠えなど聞く価値も無い。"
+                                "\\N<Ryuda Soldier>It doesn't matter, we're taking you in. The howling of a man\nwho failed to escape from prison isn't worth listening to."
                             ]
                         },
                         {
@@ -3377,14 +3307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダの配下>何だと……！？離しやがれっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "てめえら全員ブチ殺してやるっ！！"
+                                "\\N<Subordinate Of Zeda>What did you say...!? Let me go! I'll kill all of you!!"
                             ]
                         },
                         {
@@ -3401,14 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ふん……ツェダか。我らリュダの中では少しばかり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わり者だったから人気が有っただけさ。"
+                                "\\N<Ryuda Soldier>Hmph... Zeda, huh. He was just a bit of an oddball in Ryuda,\nthat's why he was popular."
                             ]
                         },
                         {
@@ -3425,7 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>第一本当に奴が有能なら何で虜囚になってたんだ？え？"
+                                "\\N<Ryuda Soldier>Besides, if he was really capable, why was he captured as a\nprisoner? Huh?"
                             ]
                         },
                         {
@@ -3442,14 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ツェダの配下>時を待っていたんだっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツェダ様が何れてめえらを……っ！"
+                                "\\N<Subordinate Of Zeda>We were just waiting for the right time! Lord Zeda will\neventually...!"
                             ]
                         },
                         {
@@ -3466,7 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>モノは言い様だな。構わん、早く連れて行け。"
+                                "\\N<Ryuda Soldier>It's all in how you say it. Never mind, take him away\nquickly."
                             ]
                         },
                         {
@@ -3718,7 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>よう、セギ。いい所に来たな、もう起きて平気なのか？"
+                                "\\N<Zuuteruka>Yo, Segi. Good timing coming here, are you awake and feeling\nalright now?"
                             ]
                         },
                         {
@@ -3742,69 +3651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ズーテルカ……！"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                18
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<ズーテルカ>突然ブっ倒れちまうから驚いたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その上ぶっ倒れてるお前を態々家まで送り届けてやったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝してくれても構わねえぜ？"
-                            ]
-                        },
-                        {
-                            "code": 117,
-                            "indent": 0,
-                            "parameters": [
-                                2
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N<セギ>く……！"
+                                "\\N<Segi>Zuuteruka...!"
                             ]
                         },
                         {
@@ -3828,14 +3675,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、それよりどうしたんだ？"
+                                "\\N<Zuuteruka>I was surprised when you suddenly collapsed. On top of that,\nI even took the trouble to carry you home. You could at\nleast thank me, you know?"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                2
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりアレか？ツェダとの事が原因か？"
+                                "\\N<Segi>Ugh...!"
+                            ]
+                        },
+                        {
+                            "code": 117,
+                            "indent": 0,
+                            "parameters": [
+                                18
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\N<Zuuteruka>Hehehe, more importantly, what happened? Is it because of\nthat thing with Zeda?"
                             ]
                         },
                         {
@@ -3859,7 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……！？"
+                                "\\N<Segi>Wha...!?"
                             ]
                         },
                         {
@@ -3883,7 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>お前らの事は大体本人から聞いてるぜ？ひへへ……。"
+                                "\\N<Zuuteruka>I've heard most of it from the man himself, you know?\nHehehe..."
                             ]
                         },
                         {
@@ -3907,14 +3795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……彼が何を吹き込んだか知らないけれど、あなたの聴いた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事は全部出鱈目だわ。"
+                                "\\N<Segi>...I don't know what he's told you, but whatever you heard\nis all nonsense."
                             ]
                         },
                         {
@@ -3945,14 +3826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ま、そう言うコトにしといてやるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより……何か気付かねえか？"
+                                "\\N<Zuuteruka>Well, I'll let it slide. But... haven't you noticed\nsomething?"
                             ]
                         },
                         {
@@ -3976,7 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>この管理所の騒がしい事……？"
+                                "\\N<Segi>The noise in this facility...?"
                             ]
                         },
                         {
@@ -4026,14 +3900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、本当にいい時に来たぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのツェダが地下牢から脱走しやがったんだ。"
+                                "\\N<Zuuteruka>Yeah, you really came at the right time. That Zeda has\nescaped from the dungeon."
                             ]
                         },
                         {
@@ -4057,7 +3924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！！？？"
+                                "\\N<Segi>Eh...!!??"
                             ]
                         },
                         {
@@ -4081,14 +3948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>その上一緒に捕らえられてた、且つての奴の部下共を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解放して、だ。"
+                                "\\N<Zuuteruka>Moreover, he freed his subordinates who were captured with\nhim."
                             ]
                         },
                         {
@@ -4112,7 +3972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ど、どうしてそんな……。"
+                                "\\N<Segi>Why would he do such a thing..."
                             ]
                         },
                         {
@@ -4136,14 +3996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>言っただろ……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴がゾゾイェの奴ともう一人の粛清対象者だってよお。"
+                                "\\N<Zuuteruka>Didn't I tell you...? He's one of Zozoye's men and another\ntarget for purging."
                             ]
                         },
                         {
@@ -4200,7 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……。"
+                                "\\N<Segi>Ah..."
                             ]
                         },
                         {
@@ -4224,21 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、大方今になって命が惜しくなったんだろうさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "或いは久し振りにお前の声を聴いて、何か思う所が有ったの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かもな？"
+                                "\\N<Zuuteruka>Hehehe, probably got scared for his life now. Or maybe after\nhearing your voice for the first time in a while, he felt\nsomething?"
                             ]
                         },
                         {
@@ -4262,14 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな筈が無いでしょう……！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮にそうだとしてもわたしには関係の無い話だわ……。"
+                                "\\N<Segi>That can't be true...! Even if it were, it has nothing to do\nwith me..."
                             ]
                         },
                         {
@@ -4293,7 +4125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>おいおい、寝惚けてんじゃねえぞ？大アリさ。"
+                                "\\N<Zuuteruka>Hey hey, don't be so groggy. It's very possible."
                             ]
                         },
                         {
@@ -4310,14 +4142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>奴はどうやら遺跡の最下層に逃げ込んだらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前にはその追討を頼もうと思ってなあ？"
+                                "\\N<Zuuteruka>It seems he's fled to the lowest level of the ruins. I was\nthinking of asking you to pursue him."
                             ]
                         },
                         {
@@ -4341,7 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……！？ど、どうしてわたしが……！？"
+                                "\\N<Segi>Wha...!? Why should I...!?"
                             ]
                         },
                         {
@@ -4365,7 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>奴が要求してんのがお前なんだよ、ホレ。"
+                                "\\N<Zuuteruka>Because he's asking for you, see."
                             ]
                         },
                         {
@@ -4415,7 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>これは……。"
+                                "\\N<Segi>This is..."
                             ]
                         },
                         {
@@ -4439,21 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>奴がご丁寧に牢の中に残した書き置きの写しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な？お前に遺跡まで来いって書いてあるだろ？要求を飲まな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かった場合遺跡を内部から破壊し、部下共々自決するとさ。"
+                                "\\N<Zuuteruka>This is a copy of the note he left behind in his cell. See?\nIt says for you to come to the ruins. If his demands aren't\nmet, he'll destroy the ruins from the inside and commit\nsuicide along with his subordinates."
                             ]
                         },
                         {
@@ -4470,21 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>あの遺跡にはまだまだ謎が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研究的価値が有るって事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となりゃあ今奴に破壊されちゃあ困るんだよ。"
+                                "\\N<Zuuteruka>There are still many mysteries in those ruins. They have\nresearch value. That's why we can't afford to have them\ndestroyed by him now."
                             ]
                         },
                         {
@@ -4508,7 +4305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……それこそわたしには関係無い話だわ。"
+                                "\\N<Segi>...That's none of my concern."
                             ]
                         },
                         {
@@ -4532,14 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、それだけじゃねえぞ？奴は人質を取ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が出向かなきゃ人質の命は無えって事だ。"
+                                "\\N<Zuuteruka>Hehehe, that's not all. He's taken hostages. If you don't\nshow up, the hostages' lives are forfeit."
                             ]
                         },
                         {
@@ -4563,7 +4353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>人質……？"
+                                "\\N<Segi>Hostages...?"
                             ]
                         },
                         {
@@ -4613,7 +4403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……お前の可愛いひとり息子だよ。"
+                                "\\N<Zuuteruka>Hehehe... Your dear little son."
                             ]
                         },
                         {
@@ -4637,7 +4427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……！！？？"
+                                "\\N<Segi>Wha...!!??"
                             ]
                         },
                         {
@@ -4661,14 +4451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>どうする？これでもやっぱり行くのを止めとくか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても自分の身が可愛いってんなら強制はしねえぜ？"
+                                "\\N<Zuuteruka>What will you do? Are you still going to refuse to go? If\nyou're so fond of your own life, I won't force you."
                             ]
                         },
                         {
@@ -4796,14 +4579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ふざけないでっ！！教えなさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの男はリイアを連れて何処へ向かったの！？"
+                                "\\N<Segi>Don't joke with me!! Tell me! Where did that man take Riia!?"
                             ]
                         },
                         {
@@ -4827,14 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>遺跡の最下層って言ったろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昇降機を使った更にその先に在る建屋さ。"
+                                "\\N<Zuuteruka>Didn't I say the lowest level of the ruins? It's the\nbuilding even further beyond, accessed by the elevator."
                             ]
                         },
                         {
@@ -4858,7 +4627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！"
+                                "\\N<Segi>G...gh!!"
                             ]
                         },
                         {
@@ -4882,14 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>せいぜい気を付けな、相手も必死だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ文字通り生死が懸かってるからなあ？"
+                                "\\N<Zuuteruka>Be very careful, your opponent is desperate. After all, it's\nliterally a matter of life and death, isn't it?"
                             ]
                         },
                         {
@@ -5260,14 +5022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん、じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用がないならこの先には立ち入らない方がいい。"
+                                "\\N<Man>Isn't that Miss Segi? If you have no business here, it's\nbetter not to go any further."
                             ]
                         },
                         {
@@ -5284,14 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>以前は街の子供達の学舎だったここも、今では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっかりリュダの為の教育施設に変わってしまったからな。"
+                                "\\N<Man>This place used to be a school for the town's children, but\nnow it has completely changed into an educational facility\nfor Ruda."
                             ]
                         },
                         {
@@ -5419,7 +5167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先は先の脱走者残党の調査の為立ち入り不可だ。"
+                                "\\N<Ryuda Soldier>Access beyond this point is prohibited due to an\ninvestigation of the remnants of the deserters."
                             ]
                         },
                         {
@@ -5547,7 +5295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先は先の脱走者残党の調査の為立ち入り不可だ。"
+                                "\\N<Ryuda Soldier>Access beyond this point is prohibited due to the\ninvestigation of the remnants of the deserters."
                             ]
                         },
                         {
@@ -5666,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>去れ、現在この先は為立ち入り不可だ。"
+                                "\\N<Ryuda Soldier>Leave, the area beyond here is currently off-limits."
                             ]
                         },
                         {
@@ -5905,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には獄に繋がれている夫の延命措置として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会期間中、5日毎に金子の納付が義務付けられている。"
+                                "\\N<Ryuda Soldier>You are obligated to pay gold every five days during the\ntraining camp period as a life-prolonging measure for your\nhusband who is imprisoned."
                             ]
                         },
                         {
@@ -6262,14 +6003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>貴様には獄に繋がれている夫の延命措置として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会期間中、5日毎に金子の納付が義務付けられている。"
+                                "\\N<Ryuda Soldier>You are obligated to pay gold every five days during the\ntraining camp period as a life-prolonging measure for your\nhusband who is imprisoned."
                             ]
                         },
                         {
@@ -8572,7 +8306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>今は遺跡へ向かわなくちゃ……。"
+                                "\\N<Segi>We must head to the ruins now..."
                             ]
                         },
                         {
@@ -8969,7 +8703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>去れ、現在この先は為立ち入り不可だ。"
+                                "\\N<Ryuda Soldier>Leave, this area is currently off-limits."
                             ]
                         },
                         {
@@ -9088,7 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先は先の脱走者残党の調査の為立ち入り不可だ。"
+                                "\\N<Ryuda Soldier>Access beyond this point is prohibited due to an\ninvestigation of the remnants of the deserters."
                             ]
                         },
                         {

@@ -2131,21 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>この先を進めばズーテルカ様の執務室だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この駐留地の指揮官でもある方だ……せいぜい言動に留意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "する事だな。"
+                                "\\N<Ryuda Soldier>Beyond here is Lord Zuuteruka's office. He's also the\ncommander of this garrison... Make sure to watch your words\nand actions."
                             ]
                         },
                         {
@@ -2222,14 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここには住民達や我らリュダの兵よりの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼委託掲示板が設置されている。"
+                                "\\N<Ryuda Soldier>Here we have a request board for commissions from the\nresidents and our Ryuda soldiers."
                             ]
                         },
                         {
@@ -2246,7 +2225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>尤も……現在掲示されている依頼は皆無だがな。"
+                                "\\N<Ryuda Soldier>Although... there are currently no requests posted at all."
                             ]
                         },
                         {

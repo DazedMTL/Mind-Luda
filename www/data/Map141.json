@@ -1695,21 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、あなたは戦闘に関しては素人同然だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決死の戦いに臨もうと言うのに、それでは余りに心許ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめて俺に戦いについての助言をさせてくれないだろうか。"
+                                "\\N<Rozaro>Segi-san, you're practically an amateur when it comes to\ncombat. To face a battle of life and death with that level\nof experience is far too reckless. At the very least, would\nyou allow me to give you some advice on fighting?"
                             ]
                         },
                         {
@@ -1733,14 +1719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい、是非お願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらこそロザロさんに助言を頂けたら百人力ですから。"
+                                "\\N<Segi>Yes, please do. I would be greatly empowered by any advice\nyou could give, Rozaro-san."
                             ]
                         },
                         {
@@ -1764,21 +1743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふむ……知っての通りセギさんの相手、ホジコの奴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦士では無い。それ故に戦いの最中の予想外の事態には反応"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない筈だ。"
+                                "\\N<Rozaro>Hmm... As you know, your opponent, Hojiko, is not a warrior.\nBecause of that, he should be unable to react to unexpected\nsituations during the fight."
                             ]
                         },
                         {
@@ -1795,14 +1760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>奴に付け入る隙を見付けられるかは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言った状況を作り出せるかどうかかも知れない。"
+                                "\\N<Rozaro>Whether you can find an opening to exploit might depend on\nyour ability to create such situations."
                             ]
                         },
                         {
@@ -1826,7 +1784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>予想外の事態……ですか。"
+                                "\\N<Segi>Unexpected situations... I see."
                             ]
                         },
                         {
@@ -1850,21 +1808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ああ、その意味では戦士では無いあなたと奴は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同条件であると言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝利の可能性は十分に有ると言う事だ。"
+                                "\\N<Rozaro>Yes, in that sense, you and he are on equal footing since\nneither of you are warriors. That means there's a good\nchance of victory."
                             ]
                         },
                         {
@@ -1888,7 +1832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そうですね……ご忠告有難う御座います。"
+                                "\\N<Segi>I see... Thank you for your guidance."
                             ]
                         },
                         {
@@ -1912,14 +1856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、貴方がこれから歩く道は修羅の道だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して楽な道などでは無い。"
+                                "\\N<Rozaro>Segi-san, the path you're about to walk is a warrior's path.\nIt's by no means an easy one."
                             ]
                         },
                         {
@@ -1936,14 +1873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>だが……どうか忘れないで欲しい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はいつもセギさんやユイア、そしてリイア。君達の味方だ。"
+                                "\\N<Rozaro>But... please don't forget, I am always on your side, as\nwell as Yuia's and Riia's. We are your allies."
                             ]
                         },
                         {
@@ -1967,7 +1897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はい……心強いお言葉を頂き有難うございます。"
+                                "\\N<Segi>Yes... Thank you for your encouraging words."
                             ]
                         },
                         {
@@ -2057,14 +1987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>セギさん、貴方がこれから歩く道は修羅の道だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して楽な道などでは無い。"
+                                "\\N<Rozaro>Segi-san, the path you're about to walk is a path of\ncarnage. It's by no means an easy one."
                             ]
                         },
                         {
@@ -2081,14 +2004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>だが……どうか忘れないで欲しい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はいつもセギさんやユイア、そしてリイア。君達の味方だ。"
+                                "\\N<Rozaro>But... please don't forget, I am always on your side, as\nwell as Yuia's and Riia's."
                             ]
                         },
                         {

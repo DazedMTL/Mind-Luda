@@ -2045,21 +2045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『リュダ行軍記録 5』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "独立夜警国家「暁の穂」行軍禄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "情婦スーイア及びセノ、配置転換について。"
+                                "\"Ryuda Expedition Record 5\" Independent Night Watch Nation\n\"Dawn's Ear\" Expedition Allowance. Regarding the\nreassignment of Mistress Suia and Seno."
                             ]
                         },
                         {
@@ -2074,8 +2060,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "やめておく"
+                                    "View",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -2397,21 +2383,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『リュダ行軍記録 4』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "独立夜警国家「暁の穂」行軍禄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "情婦スーイア及びセノ、その後の処遇について。"
+                                "\"Luda Expedition Record 4\" Independent Night Watch State\n\"Dawn's Ear\" military stipend. Regarding the treatment of\ncourtesan Suia and Seno thereafter."
                             ]
                         },
                         {
@@ -2426,8 +2398,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "やめておく"
+                                    "View",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -2644,21 +2616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『リュダ行軍記録 1』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "独立夜警国家「暁の穂」行軍禄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "元自警団長オルギとその妻セノの自宅にて。"
+                                "\"Ryuda Expedition Record 1\" - At the home of Orugi, the\nformer leader of the self-defense force, and his wife Seno,\nin the independent night-watch nation \"Dawn's Ear.\""
                             ]
                         },
                         {
@@ -2673,8 +2631,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "やめておく"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
@@ -2917,21 +2875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『リュダ行軍記録 2』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "独立夜警国家「暁の穂」行軍禄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大公及び公妃スーイアの私室にて。"
+                                "\"Ryuda Expedition Record 2\" Independent Night Watch State\n\"Dawn's Ear\" Expedition Record. In the private chambers of\nthe Grand Duke and Princess Consort Suia."
                             ]
                         },
                         {
@@ -2946,8 +2890,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "やめておく"
+                                    "View",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -3190,21 +3134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "『リュダ行軍記録 3』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "独立夜警国家「暁の穂」行軍禄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "公妃スーイア及び自警団員セノ並びに敗残兵処理について。"
+                                "\"Marching Records of Ryuda 3\" - Independent Night Watch\nState \"Dawn's Ear\" military service records. Regarding\nPrincess Consort Suia and the self-defense corps member\nSeno, as well as the handling of the remnants of defeated\nsoldiers."
                             ]
                         },
                         {
@@ -3219,8 +3149,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "やめておく"
+                                    "View",
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -3675,14 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの行軍記録を貯蔵した書庫である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交戦の記録や戦果、或いは捕虜等の記録が保管されている。"
+                                "\\N<Ryuda Soldier>This is the archive where we store the records of Ryuda's\nmilitary campaigns. It contains records of engagements,\nbattle results, and even documents regarding prisoners of\nwar."
                             ]
                         },
                         {
@@ -3757,14 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ほう……手配囚の討伐に成功したと言うのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早速戦功記録に留めて置くとしよう。"
+                                "\\N<Ryuda Soldier>Hmm... So you've succeeded in subduing the wanted criminal.\nI shall promptly record this as a military achievement."
                             ]
                         },
                         {
@@ -3781,14 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ご苦労だったな。貴様には対価として、ここの蔵書である"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らリュダの戦功記録の一部の閲覧を許可しよう。"
+                                "\\N<Ryuda Soldier>You've done well. As a reward, I will grant you access to\nperuse a portion of our Ryuda's records of military exploits\nstored here."
                             ]
                         },
                         {
@@ -3805,14 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>今後とも励む事だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでこそ貴様もこの街の連中も価値が有ると言うものだ。"
+                                "\\N<Ryuda Soldier>Continue to strive in the future. That is what gives value\nto both you and the people of this city."
                             ]
                         },
                         {
@@ -3925,14 +3827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ここは我らリュダの行軍記録を貯蔵した書庫である。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交戦の記録や戦果、或いは捕虜等の記録が保管されている。"
+                                "\\N<Ryuda Soldier>This is the archive where we store the records of Ryuda's\nmilitary campaigns. It contains records of engagements,\nbattle results, and even documents regarding prisoners of\nwar."
                             ]
                         },
                         {

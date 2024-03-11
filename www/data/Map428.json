@@ -3017,7 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、開かない……？"
+                                "\\N<Segi>Ah, it won't open...?"
                             ]
                         },
                         {
@@ -3198,7 +3198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、開かない……？"
+                                "\\N<Segi>Ah, it won't open...?"
                             ]
                         },
                         {
@@ -3238,14 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>見た事も無い鍵穴の形をしている……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解除しようにも、わたしにそんな知識は無いし……。"
+                                "\\N<Segi>It's a keyhole shape I've never seen before... I don't have\nthe knowledge to unlock it..."
                             ]
                         },
                         {
@@ -3262,14 +3255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>この街でそんな知識を持っている人か……或いは解除の為の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道具を取り扱っている所……。"
+                                "\\N<Segi>Someone in this town must have the knowledge... Or perhaps a\nplace that deals with tools for unlocking..."
                             ]
                         },
                         {
@@ -3309,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だとすれば……ホジコさんの所で相応の物を手に入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来るしか……。"
+                                "\\N<Segi>If that's the case... I guess I have no choice but to get\nsomething suitable from Mr. Hojiko's place..."
                             ]
                         },
                         {
@@ -3417,7 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、開かない……？"
+                                "\\N<Segi>Ah, it won't open...?"
                             ]
                         },
                         {
@@ -3457,14 +3436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>見た事も無い鍵穴の形をしている……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解除しようにも、わたしにそんな知識は無いし……。"
+                                "\\N<Segi>The shape of this keyhole is like nothing I've ever seen...\nI don't have the knowledge to unlock it..."
                             ]
                         },
                         {
@@ -3481,14 +3453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>この街でそんな知識を持っている人か……或いは解除の為の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道具を取り扱っている所……。"
+                                "\\N<Segi>Someone in this town must have the knowledge... Or perhaps a\nplace that deals with tools for unlocking..."
                             ]
                         },
                         {
@@ -3521,14 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だとすれば……ホジコさんの所で相応の物を手に入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来るしか……。"
+                                "\\N<Segi>If that's the case... I guess I have no choice but to get\nsomething suitable from Mr. Hojiko's place..."
                             ]
                         },
                         {
@@ -3613,8 +3571,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遺跡の鍵（特注）を使う",
-                                    "使わない"
+                                    "Use the Custom-made Ruins Key",
+                                    "Do not use"
                                 ],
                                 1,
                                 0,

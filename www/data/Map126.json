@@ -4414,7 +4414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>どうしたの？まさか今更怖気付いたとでも？"
+                                "\\N<Hebeta>What's wrong? Don't tell me you're getting cold feet now?"
                             ]
                         },
                         {
@@ -4431,21 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ヘベタ>だとしてもそれは無意味な事だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう貴女には前に進む以外の選択なんて無いんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覚悟を決めて進むしか無いんだ。"
+                                "\\N<Hebeta>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. You must resolve yourself and\nproceed."
                             ]
                         },
                         {
@@ -4831,7 +4817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ホジコさん……。"
+                                "\\N<Segi>Mr. Hojiko..."
                             ]
                         },
                         {
@@ -4855,21 +4841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>奥さん……とうとうこの時が来てしまったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで来たら、お互いどう転んでも恨みっこ無しにしたい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ものだね。"
+                                "\\N<Hojiko>My dear wife... the time has finally come. Now that we've\ncome this far, let's agree to hold no grudges, no matter how\nthings turn out."
                             ]
                         },
                         {
@@ -4886,14 +4858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>アタシだってこんな事はしたくないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがね、妻や自分自身の為にも仕方ないんだ……。"
+                                "\\N<Hojiko>I don't want to do this either. But, you see, it's necessary\nfor my wife and myself..."
                             ]
                         },
                         {
@@ -4917,21 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……判っています。わたしも同じ気持ちですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事ここに至って手心を加えて下さいとお願いするつもりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありません。"
+                                "\\N<Segi>...I understand. I feel the same way. I have no intention of\nasking for mercy now that it has come to this."
                             ]
                         },
                         {
@@ -4955,7 +4906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>ほう……？"
+                                "\\N<Hojiko>Oh...?"
                             ]
                         },
                         {
@@ -4979,14 +4930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>どうせ避けられない運命なら……せめて悔いだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残さない様にしましょう。"
+                                "\\N<Segi>If we can't avoid this fate... let's at least ensure we have\nno regrets."
                             ]
                         },
                         {
@@ -5010,7 +4954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ホジコ>ああ……判った。いくよ、奥さん。"
+                                "\\N<Hojiko>Ah... Understood. Here I come, my dear wife."
                             ]
                         },
                         {
@@ -5034,7 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい。"
+                                "\\N<Segi>...Yes."
                             ]
                         },
                         {
@@ -5209,7 +5153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……っ！"
+                                "\\N<Segi>Haa... haa...!"
                             ]
                         },
                         {
@@ -5233,7 +5177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>う、うう……痛い……痛いよ……っ！"
+                                "\\N<Hojiko>Ugh, ugh... it hurts... it hurts...!"
                             ]
                         },
                         {
@@ -5250,14 +5194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>ひ、ひひ……でもこれで……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これでセギさんはアタシを買ってくれるんだよね……！？"
+                                "\\N<Hojiko>Hehe... but with this...! With this, you'll buy me, right,\nMs. Segi...!?"
                             ]
                         },
                         {
@@ -5281,7 +5218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5305,21 +5242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>い、痛くて怖くて……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな事は本当にイヤだったけど……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その分イイ思いが出来るなら戦った甲斐も有ったよ……！"
+                                "\\N<Hojiko>It's painful and scary...! I really hated doing this...! But\nif it means I can have a good experience afterward, then it\nwas worth fighting...!"
                             ]
                         },
                         {
@@ -5343,21 +5266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>無駄口を叩くな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝者セギ、そして敗者ホジコ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以上の結果を以てこの戦いの勝敗は決したものとする。"
+                                "\\N<Ryuda Soldier>Stop your prattle. The victor, Segi, and the defeated,\nHojiko. With these results, the outcome of this battle is\nhereby decided."
                             ]
                         },
                         {
@@ -5381,7 +5290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5689,7 +5598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>は……はあっ！はあっ！"
+                                "\\N<Hojiko>Ha... haa! Haa!"
                             ]
                         },
                         {
@@ -5713,7 +5622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>く……う……っ！"
+                                "\\N<Segi>Ku... uh...!"
                             ]
                         },
                         {
@@ -5824,7 +5733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>双方、そこまでだ。"
+                                "\\N<Ryuda Soldier>Both parties, that's enough."
                             ]
                         },
                         {
@@ -5848,7 +5757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>え……あ……？あ、アタシが……勝ったのかい……？"
+                                "\\N<Hojiko>Eh... ah...? Did I... win...?"
                             ]
                         },
                         {
@@ -5872,21 +5781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<リュダ兵>ああ、その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝者ホジコ、そして敗者セギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "以上の結果を以てこの戦いの勝敗は決したものとする。"
+                                "\\N<Ryuda Soldier>Yes, that's correct. The victor, Hojiko, and the defeated,\nSegi. With these results, the outcome of this battle is\nhereby decided."
                             ]
                         },
                         {
@@ -5910,7 +5805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そん……な……。"
+                                "\\N<Segi>No, no way..."
                             ]
                         },
                         {
@@ -5934,7 +5829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>や、やった……！アタシの勝ち……だっ！"
+                                "\\N<Hojiko>Ya, I did it...! I won...!"
                             ]
                         },
                         {
@@ -5951,7 +5846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ホジコ>これで……こ、これで……！"
+                                "\\N<Hojiko>With this... with this...!"
                             ]
                         },
                         {
@@ -6718,7 +6613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -6735,21 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Come on, brace yourself and\nproceed."
                             ]
                         },
                         {
@@ -6895,7 +6776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -6912,21 +6793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Come on, brace yourself and\nproceed."
                             ]
                         },
                         {
@@ -7003,7 +6870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -7020,21 +6887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Come on, brace yourself and\nproceed."
                             ]
                         },
                         {
@@ -7111,7 +6964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -7128,21 +6981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Now, brace yourself and proceed."
                             ]
                         },
                         {
@@ -7219,7 +7058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -7236,21 +7075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Come on, brace yourself and\nproceed."
                             ]
                         },
                         {
@@ -7327,7 +7152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうした？まさか今更怖気付いたとでも？"
+                                "\\N<Ryuda Soldier>What's the matter? Don't tell me you're getting cold feet\nnow?"
                             ]
                         },
                         {
@@ -7344,21 +7169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>だとしてもそれは無意味だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様には前に進む以外の選択など無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、覚悟を決めて進め。"
+                                "\\N<Ryuda Soldier>Even if that's the case, it's meaningless. You have no\nchoice but to move forward. Now, brace yourself and proceed."
                             ]
                         },
                         {

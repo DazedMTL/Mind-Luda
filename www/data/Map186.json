@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Segi-san. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {
@@ -1798,14 +1791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Segi-san. If there's anything in our stock that\ncan be of use to you, don't hesitate to pick it up."
                             ]
                         },
                         {
@@ -1987,14 +1973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Miss Segi. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {
@@ -2299,7 +2278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ああ、セギさん、いらっしゃい。どうしたんだい？"
+                                "\\N<Weapon Shop Owner>Ah, Miss Segi, welcome. What brings you here?"
                             ]
                         },
                         {
@@ -2323,7 +2302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……ここにラメちゃんが来ていませんか？"
+                                "\\N<Segi>Um, has... has Rame-chan been here?"
                             ]
                         },
                         {
@@ -2347,14 +2326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ああ、来てるみたいだよ。取り巻き連中も一緒にね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきからずっと二階に籠ってるけど……何してるんだか？"
+                                "\\N<Weapon Shop Owner>Yeah, looks like she's been here. Her entourage is with her\ntoo. They've been holed up on the second floor for a while\nnow... Wonder what they're doing?"
                             ]
                         },
                         {
@@ -2378,14 +2350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その……もしも可能ならラメちゃんをここへ呼んで来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頂けませんか？"
+                                "\\N<Segi>That... If it's possible, could you call Rame-chan down here\nfor me?"
                             ]
                         },
                         {
@@ -2409,21 +2374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>それがね、部屋には誰も入れるなと言われてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フービィの奴にね。それがさ、凄い剣幕でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチは歳上だってのにビビっちゃったよ、あはは。"
+                                "\\N<Weapon Shop Owner>The thing is, I've been told not to let anyone in the room.\nBy Fubii. And man, they were pretty intense about it. Scared\nme a bit, even though I'm older, haha."
                             ]
                         },
                         {
@@ -2447,7 +2398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2530,21 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>それがね、部屋には誰も入れるなと言われてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フービィの奴にね。それがさ、凄い剣幕でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチは歳上だってのにビビっちゃったよ、あはは。"
+                                "\\N<Weapon Shop Owner>You see, I was told by Fubii not to let anyone into the\nroom. And they were really intense about it. Even though I'm\nolder, I got scared, haha."
                             ]
                         },
                         {
@@ -2663,21 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>部屋には誰も入れるなと言われてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フービィの奴にね。それがさ、凄い剣幕でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コッチは歳上だってのにビビっちゃったよ、あはは。"
+                                "\\N<Weapon Shop Owner>I was told not to let anyone into the room, by Fubii. And\nyou know, they were really intense about it. Even though I'm\nolder, I got scared, haha."
                             ]
                         },
                         {

@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 145,
-        "description": "一般的なナイフ。非戦闘用。",
+        "description": "A general-purpose knife. Not for combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 144,
-        "description": "自警団員に支給される鋼の長剣。",
+        "description": "A steel longsword issued to members of the vigilante corps.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "戦士の長剣",
+        "name": "Warrior's Longsword",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "杖",
+        "name": "Staff",
         "note": "",
         "params": [
             0,
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "弓",
+        "name": "Bow",
         "note": "",
         "params": [
             0,
@@ -267,7 +267,7 @@
     {
         "id": 9,
         "animationId": 150,
-        "description": "リュダ上級士官用の禁制の刃。",
+        "description": "A prohibited blade for senior officers of Ryuda.",
         "etypeId": 1,
         "traits": [
             {
@@ -282,7 +282,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "リュダの豪刃",
+        "name": "Ryuda's Mighty Blade",
         "note": "",
         "params": [
             0,
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 150,
-        "description": "リュダの特殊技法で研磨された短刀。",
+        "description": "A dagger polished with Ryuda's special techniques.",
         "etypeId": 1,
         "traits": [
             {
@@ -315,7 +315,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "リュダの魔刃",
+        "name": "Ryuda's Magic Blade",
         "note": "",
         "params": [
             0,

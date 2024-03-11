@@ -2490,14 +2490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "似合ってるじゃないか、思った通りだ。"
+                                "\\N<Shopkeeper>Nice, ma'am. It suits you, just as I thought it would."
                             ]
                         },
                         {
@@ -2548,7 +2541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こ、これって……！？"
+                                "\\N<Segi>Th-this is...!?"
                             ]
                         },
                         {
@@ -2572,7 +2565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>うん？何か不思議かな？"
+                                "\\N<Shopkeeper>Hm? Is there something strange?"
                             ]
                         },
                         {
@@ -2623,14 +2616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こんなの困ります……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたし……帰ります……！"
+                                "\\N<Segi>This is troubling...! I-I'm going home...!"
                             ]
                         },
                         {
@@ -2654,14 +2640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おいおい、冗談だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度請け負った仕事を途中で投げ出しちゃ困るよ。"
+                                "\\N<Shopkeeper>Hey now, you're joking, right? It's a problem if you throw\nin the towel on a job you've accepted halfway through."
                             ]
                         },
                         {
@@ -2712,7 +2691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……これって……。"
+                                "\\N<Segi>But... this is..."
                             ]
                         },
                         {
@@ -2736,21 +2715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>奥さん、コイツは言うまいと思ったがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近アンタ、俺の頼んだ仕事以外でも遺跡に入ってると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞いたよ？"
+                                "\\N<Shopkeeper>Ma'am, I wasn't going to say this but, I've heard you've\nbeen entering the ruins lately, not just for the jobs I've\nasked of you?"
                             ]
                         },
                         {
@@ -2767,14 +2732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>理由は知らんが一介の主婦がそんな危険を冒す訳は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして何か事情があるんじゃないの？"
+                                "\\N<Shopkeeper>I don't know why, but there's no reason for a mere housewife\nto take such risks. Could it be that you have some\ncircumstances?"
                             ]
                         },
                         {
@@ -2825,7 +2783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -2849,14 +2807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>水臭いじゃないか、何でも言ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺だってアンタの助けになれるつもりだよ？"
+                                "\\N<Shopkeeper>Don't be so distant, tell me everything. I intend to help\nyou out, you know?"
                             ]
                         },
                         {
@@ -2873,21 +2824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>だが勿論タダでって訳にはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちにも事情が有るしね。だからこその仕事の依頼と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言う訳さ。"
+                                "\\N<Shopkeeper>But of course, it can't be for free. I have my own\ncircumstances too. That's why I'm offering you this job."
                             ]
                         },
                         {
@@ -2904,21 +2841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>仕事を引き受けてくれりゃあ金は勿論、知り合いの工房に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頼んで遺跡に潜るアンタの為に役立つ物でも作ってくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よう口利きだって出来るんだ。"
+                                "\\N<Shopkeeper>If you accept the job, not only will you get paid, but I can\nalso put in a good word for you at my acquaintance's\nworkshop to make something useful for your dives into the\nruins."
                             ]
                         },
                         {
@@ -2969,7 +2892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2993,14 +2916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>な？お互い損なハナシじゃないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺を助けると思って……な？"
+                                "\\N<Shopkeeper>See? It's not a bad deal for either of us, right? Think of\nit as helping me out... okay?"
                             ]
                         },
                         {
@@ -3051,7 +2967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判りました。そ、その代わり……その。"
+                                "\\N<Segi>...Understood. But in exchange... that."
                             ]
                         },
                         {
@@ -3075,7 +2991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>判ってるさ、勿論約束は守るよ。"
+                                "\\N<Shopkeeper>I know, I'll of course keep my promise."
                             ]
                         },
                         {
@@ -3123,7 +3039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あの……ほ、本当にこれで……その……。"
+                                "\\N<Segi>Um... are you really sure this will... that..."
                             ]
                         },
                         {
@@ -3140,21 +3056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おうよ。別に難しくないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>Of course. It's not that difficult, right? Pouring drinks is\nsomething even a grown woman should have some experience\nwith as a matter of sophistication, isn't it?"
                             ]
                         },
                         {
@@ -3171,7 +3073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have any...!"
                             ]
                         },
                         {
@@ -3188,21 +3090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's an easy task. As you can see,\nI'm taking care to ensure your identity isn't revealed."
                             ]
                         },
                         {
@@ -3219,7 +3107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -3236,21 +3124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>さあ、判ったら客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, if you understand, go entertain the customers. After\nall, they come here for that very purpose."
                             ]
                         },
                         {
@@ -3361,14 +3235,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "相変わらず似合ってるじゃないか、とても綺麗だよ？"
+                                "\\N<Shopkeeper>Nice, ma'am. You still look great in it, very beautiful?"
                             ]
                         },
                         {
@@ -3419,7 +3286,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……止めて下さい。"
+                                "\\N<Segi>...Please stop."
                             ]
                         },
                         {
@@ -3443,14 +3310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ああ、客連中にその身がバレないかと心配なら平気さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "現にこの間も大丈夫だっただろう？"
+                                "\\N<Shopkeeper>Ah, if you're worried about the customers recognizing you,\ndon't be. It was fine last time too, right?"
                             ]
                         },
                         {
@@ -3467,21 +3327,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>それに……酔った連中の眼なんざ節穴同然さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここにセギさんがいるって判り切ってでも無い限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アンタが本人だなんて想像すら出来ないよ。"
+                                "\\N<Shopkeeper>Besides... the eyes of drunkards are like sieve holes.\nUnless it's blatantly obvious that Segi-san is here, they\ncan't even imagine it's really you."
                             ]
                         },
                         {
@@ -3532,7 +3378,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -3556,21 +3402,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあさあ、余計な心配なんてしなくて大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それより客達がお待ちかねだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "せいぜい愉しませてやってくおくれよ？"
+                                "\\N<Shopkeeper>Come on, no need for unnecessary worries. The customers are\neagerly waiting. Do your best to entertain them?"
                             ]
                         },
                         {
@@ -3601,21 +3433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さて、別に難しくないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>So, it's not that difficult, right? Pouring drinks is\nsomething even a grown woman should have some experience\nwith as a matter of sophistication, isn't it?"
                             ]
                         },
                         {
@@ -3632,7 +3450,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have any...!"
                             ]
                         },
                         {
@@ -3649,21 +3467,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's an easy task. As you can see,\nI'm taking care to ensure your identity isn't revealed."
                             ]
                         },
                         {
@@ -3680,7 +3484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -3697,21 +3501,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあ、下の客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, go entertain the customers downstairs. After all, they\ncome here for that very purpose."
                             ]
                         },
                         {
@@ -3851,7 +3641,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -3875,14 +3665,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>やあ、準備完了かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そのカッコも随分と堂に入って来たんじゃないか？"
+                                "\\N<Shopkeeper>Hey, are you ready? You're getting quite good at this look,\naren't you?"
                             ]
                         },
                         {
@@ -3933,7 +3716,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>そ、そんな事……ありません。"
+                                "\\N<Segi>That's not true..."
                             ]
                         },
                         {
@@ -3957,14 +3740,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>客達の反応も上々だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さあ、今日も張り切って仕事にいこうか。"
+                                "\\N<Shopkeeper>The customers' reactions are great too? Let's go and give it\nour all at work today."
                             ]
                         },
                         {
@@ -4104,7 +3880,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4128,14 +3904,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>いいね、奥さんにはやっぱりその恰好が似合うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日もその妖艶な魅力で連中を愉しませてやっておくれ。"
+                                "\\N<Shopkeeper>You know, that outfit really suits you, ma'am. Use your\nbewitching charm to entertain them today as well."
                             ]
                         },
                         {
@@ -4186,7 +3955,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4210,21 +3979,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>おいおい、どうしたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日は特別指名も入っているんだよ？もう少し気を入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "くれなきゃ困るじゃないか。"
+                                "\\N<Shopkeeper>Hey, hey, what's the matter? You've got a special request\ntoday, you know? You need to show a little more spirit, or\nit'll be troublesome."
                             ]
                         },
                         {
@@ -4241,21 +3996,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>奥さん、何度も言ったと思うがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "これは持ちつ持たれつな契約なのさ。俺はアンタの事情には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "加味しない。アンタはその対価を得る。"
+                                "\\N<Shopkeeper>Ma'am, I think I've said this many times. This is a give-\nand-take contract. I won't consider your personal\ncircumstances. You receive compensation in return."
                             ]
                         },
                         {
@@ -4272,14 +4013,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>何もおかしな事は無いだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "寧ろこれは好機と捉えて貰いたいものだよ。"
+                                "\\N<Shopkeeper>There's nothing strange about it, right? Rather, I want you\nto see this as an opportunity."
                             ]
                         },
                         {
@@ -4296,21 +4030,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>さあさあ、さっきも言ったが今日は特別指名の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "客も来てる。連中に高い支払いに見合う様な、甘い夢を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "見せてやっておくれ。"
+                                "\\N<Shopkeeper>Now, now, as I said earlier, you have a special request from\na customer today. Please show them a sweet dream worth their\nhigh payment."
                             ]
                         },
                         {
@@ -4450,7 +4170,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4474,21 +4194,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>どうしたんだい、浮かない顔しちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "もうこの店は奥さん目当ての客でもってる様なモンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "肝心の主役がそれじゃあ困るよ？"
+                                "\\N<Shopkeeper>What's with the long face? This place is practically running\non customers who come for you. It's a problem if the star of\nthe show looks like that."
                             ]
                         },
                         {
@@ -4539,7 +4245,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -4563,14 +4269,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>大丈夫、この店の中で起きた事は今後一切外に漏れる事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "無いよ。勿論ユイアさんやリイアの耳に入る事も無い。"
+                                "\\N<Shopkeeper>Don't worry, nothing that happens in this shop will ever\nleak outside. Of course, that includes Yuia-san and Riia\nhearing about it."
                             ]
                         },
                         {
@@ -4587,14 +4286,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>だから安心して今日も客達に甘い夢を見せてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "アンタにしか出来ない事さ、女冥利に尽きるだろう？"
+                                "\\N<Shopkeeper>So relax and give the customers their sweet dreams today.\nIt's something only you can do, surely it's the pinnacle of\nwomanly satisfaction?"
                             ]
                         },
                         {
@@ -4807,14 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>おい、店主よお！今日のお楽しみ給仕はまだかあ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちとらその為に旨くもねえ安酒を呷って待ってんだぞ！？"
+                                "\\N<Customer>Hey, shopkeeper! Where's today's entertainment waitress?\nI've been waiting here, drinking this crappy cheap booze\njust for that!"
                             ]
                         },
                         {
@@ -4831,7 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうだっ！早くしろよ！勿体付けてんじゃねえぞ！"
+                                "\\N<Customer>Yeah, hurry it up! Don't act all high and mighty!"
                             ]
                         },
                         {
@@ -4848,14 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>大人しく待ってろよ、只今絶賛準備中さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のは上玉だからね、腰抜かしても知らないよ？"
+                                "\\N<Shopkeeper>Just wait patiently, we're preparing something special.\nToday's girl is a real gem, so don't blame me if you faint\nfrom excitement."
                             ]
                         },
                         {
@@ -4872,14 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>上玉だあ？嘘吐け！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この店にそんな上玉の女呼ぶ器量何てあるもんかよっ！"
+                                "\\N<Customer>A real gem, huh? Bullshit! Like this place could ever have a\nwoman of that caliber!"
                             ]
                         },
                         {
@@ -4896,7 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ、それはどうかな？ま、見てのお楽しみさ。"
+                                "\\N<Shopkeeper>Heh, we'll see about that. Just wait and enjoy the show."
                             ]
                         },
                         {
@@ -4939,7 +4610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>お、お待たせ……しました。"
+                                "\\N<Segi>S-sorry to keep you waiting..."
                             ]
                         },
                         {
@@ -4991,7 +4662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>おお！？"
+                                "\\N<Customer>Oh!?"
                             ]
                         },
                         {
@@ -5093,7 +4764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5110,14 +4781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>お、おいおい！こりゃあ確かに上玉じゃねえか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店主よお！こんな女一体今迄何処に隠してやがったんだ！？"
+                                "\\N<Customer>Hey, hey! This is definitely a gem! Shopkeeper! Where the\nhell have you been hiding a woman like this until now!?"
                             ]
                         },
                         {
@@ -5134,14 +4798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ、それ見た事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、ゆっくり飲んで金を落としてってくんな。"
+                                "\\N<Shopkeeper>Heh, see what I mean? Now, take your time drinking and spend\nsome money."
                             ]
                         },
                         {
@@ -5158,7 +4815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5175,21 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>はははっ！！いいぜ、姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか興奮させるじゃねえか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとこう……腰を振ってよお、妖艶に頼むわ！？"
+                                "\\N<Customer>Hahaha!! Nice, sister! You're quite exciting! Move your hips\nmore... seductively, please!"
                             ]
                         },
                         {
@@ -5206,21 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうそう、俺達はここで一杯ひっかける位しか楽しみのねえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悲しい身の上さ！その心身共に疲れ切った男達に天使のお恵"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みをってなあ！？"
+                                "\\N<Customer>Exactly, we're just sad men with nothing else to enjoy but a\ndrink here! Bless us tired souls with an angel's mercy, will\nya?"
                             ]
                         },
                         {
@@ -5244,14 +4873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隠されたヴェールの中で半ば無理矢理に笑顔を作り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男達に酌をしてゆくセギ。"
+                                "Forced to smile behind the hidden veil, Segi serves drinks\nto the men."
                             ]
                         },
                         {
@@ -5268,21 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男達の要求する天使の微笑とは程遠い作り笑顔だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでもそのしなやかな肢体を晒しながらの酌に男達から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下卑た歓声が上がる。"
+                                "The smile is far from angelic as demanded by the men, but\nstill, her graceful figure while serving raises vulgar\ncheers from them."
                             ]
                         },
                         {
@@ -5306,14 +4914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ひゃはは！！いいねえ！色っぽいぜ姉ちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その調子で頼むわ！"
+                                "\\N<Customer>Hyahaha!! I like it! You're sexy, sister! Keep it up!"
                             ]
                         },
                         {
@@ -5330,21 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ホントホント！姉ちゃんみてえな綺麗な女に酌して貰えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会やリュダの連中とのめんどくせえ事、一切合切が癒さ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れるってもんだ！！ははははっ！！"
+                                "\\N<Customer>Really, really! Being served by a beautiful woman like you\nmakes all the troubles with the training corps and the Lyuda\nguys feel healed!! Hahahaha!!"
                             ]
                         },
                         {
@@ -5361,14 +4948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ、良かったねえ。客の皆様方にご好評でさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタもこれで本望だろ？"
+                                "\\N<Shopkeeper>Heh, glad to hear it. The customers are all pleased. This\nmust be what you wanted too, right?"
                             ]
                         },
                         {
@@ -5385,7 +4965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5402,14 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ははは！そうそうコッチは至極好評ですよっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからネエチャンの方も、もっと気合入れて頼むわ！"
+                                "\\N<Customer>Hahaha! That's right, we're extremely satisfied over here!\nSo sister, put some more spirit into it for us!"
                             ]
                         },
                         {
@@ -5426,7 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5443,14 +5016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>それにしても寡黙なネエチャンだねえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黙ってねえで何とか言ったらどうだい？"
+                                "\\N<Customer>But man, you're a quiet one, aren't you? Why don't you say\nsomething instead of staying silent?"
                             ]
                         },
                         {
@@ -5467,7 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうそう、俺達ゃ人形に酌して貰う趣味はねえんだからな？"
+                                "\\N<Customer>Yeah, yeah, we're not into being served by dolls here!"
                             ]
                         },
                         {
@@ -5484,7 +5050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5501,21 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ、すまないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このコは最近この仕事を始めたばかりでねえ。しかも極度の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あがり症と来た。だからこんな恰好をさせているのさ。"
+                                "\\N<Shopkeeper>Heh, sorry about that. This girl just started working here\nrecently. Plus, she's extremely shy. That's why she's\ndressed like this."
                             ]
                         },
                         {
@@ -5532,14 +5084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>とは言え……ホラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し位はお客サマの要求に応えてあげないと。"
+                                "\\N<Shopkeeper>But still... Look. You've got to respond to the customers'\nrequests at least a little bit."
                             ]
                         },
                         {
@@ -5556,7 +5101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5580,21 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴェールに隠された口元が固く結ばれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余計な声でも上げて男達に身の上が晒されるのは絶対に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "避けねばならない。"
+                                "The mouth hidden behind the veil tightens firmly. She must\navoid making any unnecessary sounds that could expose her\ncircumstances to the men."
                             ]
                         },
                         {
@@ -5618,14 +5149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いらっしゃいませ……皆さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうぞ沢山お召し上がり下さい……。"
+                                "\\N<Segi>Welcome... everyone. Please enjoy your meal to your heart's\ncontent..."
                             ]
                         },
                         {
@@ -5649,21 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声色を抑え感情を押し殺し、努めて冷静に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして従順な女を装う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここではそれが最も賢い選択に思えたからだ。"
+                                "Suppressing her voice and emotions, she strives to remain\ncalm and act like an obedient woman. It seemed like the\nwisest choice in this situation."
                             ]
                         },
                         {
@@ -5687,14 +5197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ひひひ！ネエチャン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思った通り可愛い声してるじゃねえの！"
+                                "\\N<Customer>Hehehe! Sister! Just as I thought, you have a cute voice!"
                             ]
                         },
                         {
@@ -5711,14 +5214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>それでダンマリなんて勿体ねえぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにアンタに似合ってるぜ、その衣装もよお？"
+                                "\\N<Customer>What a waste to be silent! And that outfit suits you too!"
                             ]
                         },
                         {
@@ -5735,7 +5231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、有難うございます……。"
+                                "\\N<Segi>Ah, thank you very much..."
                             ]
                         },
                         {
@@ -5752,14 +5248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>よおし、決めた！俺ぁ明日から毎日通うぜ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらネエチャンももっとサービスしてくれるんだろ！？"
+                                "\\N<Customer>Alright, I've decided! I'm coming here every day from now\non! Then sister will give us more service, right!?"
                             ]
                         },
                         {
@@ -5776,7 +5265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！？"
+                                "\\N<Segi>E-eh...!?"
                             ]
                         },
                         {
@@ -5793,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、そうかい。そりゃあ嬉しいねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って事だからまた頼むよ？"
+                                "\\N<Shopkeeper>Haha, is that so. That's great to hear. So I'll be counting\non you again, okay?"
                             ]
                         },
                         {
@@ -5817,7 +5299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -5972,7 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>御苦労サマ、助かったよ奥さん、はは。"
+                                "\\N<Shopkeeper>Good work, ma'am. You were a big help, haha."
                             ]
                         },
                         {
@@ -5996,7 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6020,21 +5502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>皆んなアンタに夢中だったな。注目の的ってヤツさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女冥利に尽きるんじゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして奥さん、ああ言うの向いてるんじゃないか？"
+                                "\\N<Shopkeeper>Everyone was crazy about you. You were the center of\nattention. Isn't that the best reward for a woman? Maybe\nyou're cut out for this kind of thing, ma'am?"
                             ]
                         },
                         {
@@ -6058,7 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>む、向いてるなんて……そんな事ありません。"
+                                "\\N<Segi>Suited for it...? That's not true at all."
                             ]
                         },
                         {
@@ -6082,21 +5550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>そうかい？何にせよ助かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その気になったらまたおいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その時はもっと報酬を弾ませて貰うよ？"
+                                "\\N<Shopkeeper>Is that so? Well, either way, you were a big help. If you\nfeel like it, come again. Next time, I'll make sure to give\nyou a bigger reward, okay?"
                             ]
                         },
                         {
@@ -6113,7 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ……ホラ約束の報酬だ、また頼むよ？"
+                                "\\N<Shopkeeper>Hehe... Here's the promised reward. I'll be counting on you\nagain, alright?"
                             ]
                         },
                         {
@@ -6137,7 +5591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6473,14 +5927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "似合ってるじゃないか、思った通りだ。"
+                                "\\N<Shopkeeper>Nice, ma'am. It suits you, just as I thought it would."
                             ]
                         },
                         {
@@ -6531,7 +5978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こ、これって……！？"
+                                "\\N<Segi>Th-this is...!?"
                             ]
                         },
                         {
@@ -6555,7 +6002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>うん？何か不思議かな？"
+                                "\\N<Shopkeeper>Hm? Is there something strange?"
                             ]
                         },
                         {
@@ -6606,14 +6053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こんなの困ります……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたし……帰ります……！"
+                                "\\N<Segi>This is troubling...! I-I'm going home...!"
                             ]
                         },
                         {
@@ -6637,14 +6077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おいおい、冗談だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度請け負った仕事を途中で投げ出しちゃ困るよ。"
+                                "\\N<Shopkeeper>Hey now, you're joking, right? It's a problem if you throw\nin the towel on a job you've taken on halfway through."
                             ]
                         },
                         {
@@ -6695,7 +6128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……これって……。"
+                                "\\N<Segi>But... this is..."
                             ]
                         },
                         {
@@ -6719,21 +6152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>奥さん、コイツは言うまいと思ったがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近アンタ、俺の頼んだ仕事以外でも遺跡に入ってると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞いたよ？"
+                                "\\N<Shopkeeper>Ma'am, I wasn't going to say this, but I've heard you've\nbeen entering the ruins lately, not just for the jobs I've\nasked of you."
                             ]
                         },
                         {
@@ -6750,14 +6169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>理由は知らんが一介の主婦がそんな危険を冒す訳は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして何か事情があるんじゃないの？"
+                                "\\N<Shopkeeper>I don't know why, but there's no reason for an ordinary\nhousewife to take such risks. Maybe there's some\ncircumstance I'm not aware of?"
                             ]
                         },
                         {
@@ -6808,7 +6220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -6832,14 +6244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>水臭いじゃないか、何でも言ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺だってアンタの助けになれるつもりだよ？"
+                                "\\N<Shopkeeper>Don't be so distant, tell me anything. I intend to help you\nout, you know?"
                             ]
                         },
                         {
@@ -6856,21 +6261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>だが勿論タダでって訳にはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちにも事情が有るしね。だからこその仕事の依頼と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言う訳さ。"
+                                "\\N<Shopkeeper>But of course, it can't be for free. I have my own\ncircumstances too. That's why I'm offering you this job."
                             ]
                         },
                         {
@@ -6887,21 +6278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>仕事を引き受けてくれりゃあ金は勿論、知り合いの工房に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頼んで遺跡に潜るアンタの為に役立つ物でも作ってくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よう口利きだって出来るんだ。"
+                                "\\N<Shopkeeper>If you take on the job, not only will you get paid, but I\ncan also put in a good word for you at a friend's workshop\nto make something useful for your dives into the ruins."
                             ]
                         },
                         {
@@ -6952,7 +6329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6976,14 +6353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>な？お互い損なハナシじゃないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺を助けると思って……な？"
+                                "\\N<Shopkeeper>See? It's not a bad deal for either of us, right? Think of\nit as helping me out... okay?"
                             ]
                         },
                         {
@@ -7034,7 +6404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判りました。そ、その代わり……その。"
+                                "\\N<Segi>...Understood. But in exchange... that..."
                             ]
                         },
                         {
@@ -7058,7 +6428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>判ってるさ、勿論約束は守るよ。"
+                                "\\N<Shopkeeper>I know, I'll of course keep my promise."
                             ]
                         },
                         {
@@ -7106,7 +6476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あの……ほ、本当にこれで……その……。"
+                                "\\N<Segi>Um... are you really sure this will... that..."
                             ]
                         },
                         {
@@ -7123,21 +6493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おうよ。別に難しくないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>Of course. It's not difficult, right? Pouring drinks is\nsomething even a lady like yourself should have some\nexperience with, right?"
                             ]
                         },
                         {
@@ -7154,7 +6510,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have it...!"
                             ]
                         },
                         {
@@ -7171,21 +6527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's a simple task. As you can see,\nI'm taking care to ensure your identity isn't revealed."
                             ]
                         },
                         {
@@ -7202,7 +6544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -7219,21 +6561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>さあ、判ったら客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, if you understand, go entertain the customers. After\nall, they come here for that very purpose."
                             ]
                         },
                         {
@@ -7344,14 +6672,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "相変わらず似合ってるじゃないか、とても綺麗だよ？"
+                                "\\N<Shopkeeper>Nice, ma'am. You always look good in it, very beautiful\nindeed?"
                             ]
                         },
                         {
@@ -7402,7 +6723,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……止めて下さい。"
+                                "\\N<Segi>...Please stop."
                             ]
                         },
                         {
@@ -7426,14 +6747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ああ、客連中にその身がバレないかと心配なら平気さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "現にこの間も大丈夫だっただろう？"
+                                "\\N<Shopkeeper>Ah, if you're worried about the customers recognizing you,\ndon't be. It was fine last time too, right?"
                             ]
                         },
                         {
@@ -7450,21 +6764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>それに……酔った連中の眼なんざ節穴同然さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここにセギさんがいるって判り切ってでも無い限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アンタが本人だなんて想像すら出来ないよ。"
+                                "\\N<Shopkeeper>Besides... the eyes of drunkards are like sieve holes.\nUnless it's blatantly obvious that Segi-san is here, they\ncan't even imagine it's really you."
                             ]
                         },
                         {
@@ -7515,7 +6815,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -7539,21 +6839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあさあ、余計な心配なんてしなくて大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それより客達がお待ちかねだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "せいぜい愉しませてやってくおくれよ？"
+                                "\\N<Shopkeeper>Come on, no need for unnecessary worries. The customers are\neagerly waiting. Do your best to entertain them?"
                             ]
                         },
                         {
@@ -7584,21 +6870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さて、別に難しくないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>So, it's not difficult, right? Pouring drinks is something\neven a lady like yourself should have some experience with,\nright?"
                             ]
                         },
                         {
@@ -7615,7 +6887,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have it...!"
                             ]
                         },
                         {
@@ -7632,21 +6904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's a simple task. As you can see,\nI'm taking care to ensure your identity isn't revealed."
                             ]
                         },
                         {
@@ -7663,7 +6921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -7680,21 +6938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあ、下の客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, go entertain the customers downstairs. After all, they\ncome here for that very purpose."
                             ]
                         },
                         {
@@ -7834,7 +7078,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -7858,14 +7102,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>やあ、準備完了かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そのカッコも随分と堂に入って来たんじゃないか？"
+                                "\\N<Shopkeeper>Hey, are you ready? You're getting quite good at this get-\nup, aren't you?"
                             ]
                         },
                         {
@@ -7916,7 +7153,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>そ、そんな事……ありません。"
+                                "\\N<Segi>That's not true..."
                             ]
                         },
                         {
@@ -7940,14 +7177,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>客達の反応も上々だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さあ、今日も張り切って仕事にいこうか。"
+                                "\\N<Shopkeeper>The customers' reactions are great too? Let's go and give it\nour all at work today."
                             ]
                         },
                         {
@@ -8087,7 +7317,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8111,14 +7341,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>いいね、奥さんにはやっぱりその恰好が似合うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日もその妖艶な魅力で連中を愉しませてやっておくれ。"
+                                "\\N<Shopkeeper>You know, that outfit really suits you, ma'am. Use your\nbewitching charm to entertain them today as well."
                             ]
                         },
                         {
@@ -8169,7 +7392,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8193,21 +7416,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>おいおい、どうしたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日は特別指名も入っているんだよ？もう少し気を入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "くれなきゃ困るじゃないか。"
+                                "\\N<Shopkeeper>Hey, hey, what's the matter? You've got a special request\ntoday, you know? I need you to put a little more spirit into\nit, or we'll be in trouble."
                             ]
                         },
                         {
@@ -8224,21 +7433,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>奥さん、何度も言ったと思うがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "これは持ちつ持たれつな契約なのさ。俺はアンタの事情には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "加味しない。アンタはその対価を得る。"
+                                "\\N<Shopkeeper>Ma'am, I think I've said this many times. This is a give-\nand-take contract. I don't concern myself with your\ncircumstances. You get what you're due."
                             ]
                         },
                         {
@@ -8255,14 +7450,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>何もおかしな事は無いだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "寧ろこれは好機と捉えて貰いたいものだよ。"
+                                "\\N<Shopkeeper>There's nothing strange about it, right? Rather, I want you\nto see this as an opportunity."
                             ]
                         },
                         {
@@ -8279,21 +7467,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>さあさあ、さっきも言ったが今日は特別指名の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "客も来てる。連中に高い支払いに見合う様な、甘い夢を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "見せてやっておくれ。"
+                                "\\N<Shopkeeper>Now, now, as I said earlier, we have customers who've made\nspecial requests today. Please show them a sweet dream worth\ntheir high payment."
                             ]
                         },
                         {
@@ -8433,7 +7607,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8457,21 +7631,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>どうしたんだい、浮かない顔しちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "もうこの店は奥さん目当ての客でもってる様なモンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "肝心の主役がそれじゃあ困るよ？"
+                                "\\N<Shopkeeper>What's with the long face? This place is practically running\non customers who come for you. It's a problem if the star of\nthe show looks like that, isn't it?"
                             ]
                         },
                         {
@@ -8522,7 +7682,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8546,14 +7706,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>大丈夫、この店の中で起きた事は今後一切外に漏れる事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "無いよ。勿論ユイアさんやリイアの耳に入る事も無い。"
+                                "\\N<Shopkeeper>Don't worry, nothing that happens in this shop will ever\nleak outside. Of course, that includes Yuia-san and Riia\nhearing about it."
                             ]
                         },
                         {
@@ -8570,14 +7723,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>だから安心して今日も客達に甘い夢を見せてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "アンタにしか出来ない事さ、女冥利に尽きるだろう？"
+                                "\\N<Shopkeeper>So relax and give the customers their sweet dreams today.\nIt's something only you can do, it's the epitome of a\nwoman's happiness, isn't it?"
                             ]
                         },
                         {
@@ -8799,7 +7945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……どうぞ。"
+                                "\\N<Segi>...Please go ahead."
                             ]
                         },
                         {
@@ -8857,14 +8003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>おーい！ネエチャﾝ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちばかり相手にしえねえで、こっちにも注いでくれや！"
+                                "\\N<Customer>Hey! Missy! Don't just pay attention to them, pour some for\nus too!"
                             ]
                         },
                         {
@@ -8888,14 +8027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは男達から飛ばされる下品な野次を受け流し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可能な限り口数少なく立ち回っていた。"
+                                "Segi brushed off the vulgar catcalls from the men,\ninteracting as little as possible."
                             ]
                         },
                         {
@@ -8919,7 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……はい、只今。"
+                                "\\N<Segi>...Yes, right away."
                             ]
                         },
                         {
@@ -8936,21 +8068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへ！それにしてもネエチャンよお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スゴイ恰好してるじゃねえの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちから見るとアンタの可愛い尻が丸見えだぜえ？"
+                                "\\N<Customer>Hehe! But seriously, Missy. You're wearing quite the outfit.\nFrom here, I can see your cute ass completely!"
                             ]
                         },
                         {
@@ -8967,7 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～っ！"
+                                "\\N<Segi>~!"
                             ]
                         },
                         {
@@ -8991,21 +8109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギの背後から男達の下品な野次が飛ぶ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それもその筈、彼女着衣の丈は極端に短く、男の言葉の通り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "背後から見れば丸裸も同然だった。"
+                                "The crude jeers from the men continued behind Segi. It was\nno wonder, as her clothing was extremely short, and as the\nman said, from behind she might as well have been naked."
                             ]
                         },
                         {
@@ -9029,21 +8133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへ！ホント、ホント！いやらしい衣装着ちゃってよお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛い尻の形が丸判りだぜ？もしかしてアンタの趣味かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと見られたいとかあ！？"
+                                "\\N<Customer>Hehe! Really, really! What a lewd outfit you've got on. The\nshape of your cute ass is totally visible. Is this your\nkink? Wanting to be seen more, huh?!"
                             ]
                         },
                         {
@@ -9060,14 +8150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんな……っ！ち、違います……っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "み、見ないで……下さい……！"
+                                "\\N<Segi>Th-that's not...! It's not like that...! Please... don't\nlook...!"
                             ]
                         },
                         {
@@ -9084,14 +8167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへ、それ位いいじゃねえか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も触らせてくれってんじゃねえんだからなあ。"
+                                "\\N<Customer>Hehe, what's wrong with that? It's not like I'm asking to\ntouch or anything."
                             ]
                         },
                         {
@@ -9108,7 +8184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う、うう……い、いや……。"
+                                "\\N<Segi>U-uh... n-no..."
                             ]
                         },
                         {
@@ -9132,14 +8208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑なに拒絶されても男はセギの肢体から眼を離す気配は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それどころか、益々下劣な視線が店中から彼女に集中する。"
+                                "Even as she firmly rejected them, the man did not take his\neyes off Segi's body. Rather, increasingly vulgar gazes from\naround the shop concentrated on her."
                             ]
                         },
                         {
@@ -9163,14 +8232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>おいおい、客の要望には応えて貰わなきゃ困るよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちとらアンタに高い金払ってるんだからねえ？"
+                                "\\N<Shopkeeper>Hey hey, you've got to meet the customers' requests, you\nknow? We're paying good money for you after all."
                             ]
                         },
                         {
@@ -9187,7 +8249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……く……っ！"
+                                "\\N<Segi>...Ugh...!"
                             ]
                         },
                         {
@@ -9204,14 +8266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>アンタも大人なら判るよね？こいつは契約ってヤツさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとすれば、どうするのが一番賢い選択か判るでしょ？"
+                                "\\N<Shopkeeper>You understand, right? You're an adult. This is what we call\na contract. So, what do you think is the smartest choice to\nmake?"
                             ]
                         },
                         {
@@ -9228,7 +8283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……ぅぅぅっっ！"
+                                "\\N<Segi>U... ughhh!"
                             ]
                         },
                         {
@@ -9252,14 +8307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一糸纏わぬ姿同然で男達に酌をして回るセギ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その表情は羞恥と屈辱で朱に染まっていた。"
+                                "Segi, practically naked, served drinks to the men. Her face\nwas flushed with shame and humiliation."
                             ]
                         },
                         {
@@ -9283,14 +8331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>うんうん……そうさ、それでいいんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛想振りまいて男共に酌して回るだけなんざ簡単な仕事さ。"
+                                "\\N<Shopkeeper>Yeah yeah... that's right, that's how you do it. Just smile\nand serve the guys—it's an easy job."
                             ]
                         },
                         {
@@ -9307,14 +8348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>さあさあ！お客サマ方にドンドン注いでやってくれよな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日頃の嫌な事なんざ全部忘れちまえる位にねえ！"
+                                "\\N<Shopkeeper>Come on now! Keep pouring for our dear customers! Make them\nforget all their troubles!"
                             ]
                         },
                         {
@@ -9331,7 +8365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうそう！どうせなら女の魅力たっぷりに頼むぜ！？"
+                                "\\N<Customer>That's right! While you're at it, show us all of your\nfeminine charm!"
                             ]
                         },
                         {
@@ -9348,21 +8382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>何ならその邪魔な布切れ脱いじまって、生まれたまんまの姿"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "で奉仕してくれても構わねえぞお！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひはははははっ！！"
+                                "\\N<Customer>Or better yet, strip off those pesky clothes and serve us in\nyour birthday suit! Hahahaha!!"
                             ]
                         },
                         {
@@ -9379,7 +8399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……く……ぅぅっっ！！"
+                                "\\N<Segi>Ugh... ughhh!"
                             ]
                         },
                         {
@@ -9534,7 +8554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>御苦労サマ、助かったよ奥さん、はは。"
+                                "\\N<Shopkeeper>Thanks for your hard work, ma'am. You've been a big help,\nhaha."
                             ]
                         },
                         {
@@ -9558,7 +8578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -9582,14 +8602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>今日も客達は皆んなアンタに夢中だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり奥さん、ああ言うの向いてるんじゃないか？"
+                                "\\N<Shopkeeper>All the customers were crazy about you today. Maybe this\nkind of thing suits you, huh?"
                             ]
                         },
                         {
@@ -9613,7 +8626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -9637,21 +8650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>そんなカオしなさんなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチとしてはこのままずっと働いて貰いたい気分だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすりゃあ売り上げも右肩上がりさ。"
+                                "\\N<Shopkeeper>Don't look so down. Personally, I'd like you to keep working\nhere forever. That way our sales will keep going up."
                             ]
                         },
                         {
@@ -9668,7 +8667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>へへ……ホラ約束の報酬だ、また頼むよ？"
+                                "\\N<Shopkeeper>Hehe... Here's the promised payment. I'll be counting on you\nagain, okay?"
                             ]
                         },
                         {
@@ -9692,7 +8691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -10028,14 +9027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "似合ってるじゃないか、思った通りだ。"
+                                "\\N<Shopkeeper>Nice, ma'am. It suits you, just as I thought."
                             ]
                         },
                         {
@@ -10086,7 +9078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こ、これって……！？"
+                                "\\N<Segi>Th-this is...!?"
                             ]
                         },
                         {
@@ -10110,7 +9102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>うん？何か不思議かな？"
+                                "\\N<Shopkeeper>Hm? Is something strange?"
                             ]
                         },
                         {
@@ -10161,14 +9153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こんなの困ります……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わ、わたし……帰ります……！"
+                                "\\N<Segi>This is troubling...! I-I'm going home...!"
                             ]
                         },
                         {
@@ -10192,14 +9177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おいおい、冗談だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度請け負った仕事を途中で投げ出しちゃ困るよ。"
+                                "\\N<Shopkeeper>Hey now, you're joking, right? It's a problem if you throw\nin the towel on a job you've taken halfway through."
                             ]
                         },
                         {
@@ -10250,7 +9228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……これって……。"
+                                "\\N<Segi>But... this is..."
                             ]
                         },
                         {
@@ -10274,21 +9252,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>奥さん、コイツは言うまいと思ったがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近アンタ、俺の頼んだ仕事以外でも遺跡に入ってると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞いたよ？"
+                                "\\N<Shopkeeper>Ma'am, I wasn't going to say this, but I've heard you've\nbeen entering the ruins lately, not just for the jobs I've\nasked of you."
                             ]
                         },
                         {
@@ -10305,14 +9269,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>理由は知らんが一介の主婦がそんな危険を冒す訳は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして何か事情があるんじゃないの？"
+                                "\\N<Shopkeeper>I don't know why, but there's no reason for a mere housewife\nto take such risks. Maybe there's some circumstance?"
                             ]
                         },
                         {
@@ -10363,7 +9320,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -10387,14 +9344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>水臭いじゃないか、何でも言ってくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺だってアンタの助けになれるつもりだよ？"
+                                "\\N<Shopkeeper>Don't be so distant, tell me anything. I intend to help you\nout, you know?"
                             ]
                         },
                         {
@@ -10411,21 +9361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>だが勿論タダでって訳にはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちにも事情が有るしね。だからこその仕事の依頼と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言う訳さ。"
+                                "\\N<Shopkeeper>But of course, it can't be for free. I have my own\ncircumstances. That's why I'm offering you this job."
                             ]
                         },
                         {
@@ -10442,21 +9378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>仕事を引き受けてくれりゃあ金は勿論、知り合いの工房に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頼んで遺跡に潜るアンタの為に役立つ物でも作ってくれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よう口利きだって出来るんだ。"
+                                "\\N<Shopkeeper>If you take the job, not only will you get money, but I can\nalso talk to an acquaintance's workshop to make something\nuseful for your dives into the ruins."
                             ]
                         },
                         {
@@ -10507,7 +9429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -10531,14 +9453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>な？お互い損なハナシじゃないだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺を助けると思って……な？"
+                                "\\N<Shopkeeper>See? It's not a bad deal for either of us, right? Think of\nit as helping me out... okay?"
                             ]
                         },
                         {
@@ -10589,7 +9504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……判りました。そ、その代わり……その。"
+                                "\\N<Segi>...Understood. But in exchange... that."
                             ]
                         },
                         {
@@ -10613,7 +9528,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>判ってるさ、勿論約束は守るよ。"
+                                "\\N<Shopkeeper>I know, of course, I'll keep my promise."
                             ]
                         },
                         {
@@ -10661,7 +9576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あの……ほ、本当にこれで……その……。"
+                                "\\N<Segi>Um... are you really sure this will... that..."
                             ]
                         },
                         {
@@ -10678,21 +9593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>おうよ。別に難しくないだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>Yeah. It's not that difficult, right? Pouring drinks is\nsomething even a grown woman should have some experience\nwith as a matter of sophistication."
                             ]
                         },
                         {
@@ -10709,7 +9610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have it...!"
                             ]
                         },
                         {
@@ -10726,21 +9627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's an easy task. As you can see,\nI'm being careful not to blow your cover."
                             ]
                         },
                         {
@@ -10757,7 +9644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -10774,21 +9661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<店主>さあ、判ったら客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, if you understand, go entertain the guests. After all,\nthey come here for that very purpose."
                             ]
                         },
                         {
@@ -10899,14 +9772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>いいねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "相変わらず似合ってるじゃないか、とても綺麗だよ？"
+                                "\\N<Shopkeeper>Nice, ma'am. You always look good in it, very beautiful?"
                             ]
                         },
                         {
@@ -10957,7 +9823,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……止めて下さい。"
+                                "\\N<Segi>...Please stop."
                             ]
                         },
                         {
@@ -10981,14 +9847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>ああ、客連中にその身がバレないかと心配なら平気さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "現にこの間も大丈夫だっただろう？"
+                                "\\N<Shopkeeper>Ah, if you're worried about the guests recognizing you,\ndon't be. It was fine last time too, right?"
                             ]
                         },
                         {
@@ -11005,21 +9864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>それに……酔った連中の眼なんざ節穴同然さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここにセギさんがいるって判り切ってでも無い限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アンタが本人だなんて想像すら出来ないよ。"
+                                "\\N<Shopkeeper>Besides... the eyes of drunkards are like sieve holes.\nUnless it's blatantly obvious that Segi-san is here, they\ncan't even imagine it's really you."
                             ]
                         },
                         {
@@ -11070,7 +9915,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -11094,21 +9939,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあさあ、余計な心配なんてしなくて大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それより客達がお待ちかねだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "せいぜい愉しませてやってくおくれよ？"
+                                "\\N<Shopkeeper>Come on, no need for unnecessary worries. The guests are\neagerly waiting. Do your best to entertain them?"
                             ]
                         },
                         {
@@ -11139,21 +9970,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さて、別に難しくないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "酌して回る位、大人の女のたしなみとして奥さんでも経験"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くらいあるだろ？"
+                                "\\N<Shopkeeper>So, it's not that difficult, right? Pouring drinks is\nsomething even a grown woman should have some experience\nwith as a matter of sophistication."
                             ]
                         },
                         {
@@ -11170,7 +9987,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>そ、そんな経験なんて……！"
+                                "\\N<Segi>Such experience... I don't have it...!"
                             ]
                         },
                         {
@@ -11187,21 +10004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>そうかい、どっちにしろ簡単な事さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こっちも見ての通り奥さんの身バレには気を遣ってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだからね。"
+                                "\\N<Shopkeeper>Is that so? Either way, it's an easy task. As you can see,\nI'm being careful not to blow your cover."
                             ]
                         },
                         {
@@ -11218,7 +10021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>で、でも……。"
+                                "\\N<Segi>But..."
                             ]
                         },
                         {
@@ -11235,21 +10038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<店主>さあ、下の客達を楽しませてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何せ連中と来たらその為にここに足を運んでいる様なモン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だからねえ。"
+                                "\\N<Shopkeeper>Now, go entertain the guests downstairs. After all, they\ncome here for that very purpose."
                             ]
                         },
                         {
@@ -11389,7 +10178,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -11413,14 +10202,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>やあ、準備完了かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そのカッコも随分と堂に入って来たんじゃないか？"
+                                "\\N<Shopkeeper>Hey, are you ready? You're getting quite good at this look,\naren't you?"
                             ]
                         },
                         {
@@ -11471,7 +10253,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>そ、そんな事……ありません。"
+                                "\\N<Segi>That's not true..."
                             ]
                         },
                         {
@@ -11495,14 +10277,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<店主>客達の反応も上々だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さあ、今日も張り切って仕事にいこうか。"
+                                "\\N<Shopkeeper>The guests' reactions are great too? Let's go and give it\nour all at work today."
                             ]
                         },
                         {
@@ -11642,7 +10417,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -11666,14 +10441,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>いいね、奥さんにはやっぱりその恰好が似合うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日もその妖艶な魅力で連中を愉しませてやっておくれ。"
+                                "\\N<Shopkeeper>You know, that outfit really suits you, ma'am. Use your\nbewitching charm to entertain them today as well."
                             ]
                         },
                         {
@@ -11724,7 +10492,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -11748,21 +10516,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>おいおい、どうしたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今日は特別指名も入っているんだよ？もう少し気を入れて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "くれなきゃ困るじゃないか。"
+                                "\\N<Shopkeeper>Hey, hey, what's the matter? You've got a special request\ntoday, you know? You need to show a little more spirit, or\nwe'll be in trouble."
                             ]
                         },
                         {
@@ -11779,21 +10533,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>奥さん、何度も言ったと思うがね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "これは持ちつ持たれつな契約なのさ。俺はアンタの事情には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "加味しない。アンタはその対価を得る。"
+                                "\\N<Shopkeeper>Ma'am, I think I've said this many times. This is a give-\nand-take contract. I don't concern myself with your\ncircumstances. You get what you're due."
                             ]
                         },
                         {
@@ -11810,14 +10550,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>何もおかしな事は無いだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "寧ろこれは好機と捉えて貰いたいものだよ。"
+                                "\\N<Shopkeeper>There's nothing strange about it, right? Rather, I want you\nto see this as an opportunity."
                             ]
                         },
                         {
@@ -11834,21 +10567,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<店主>さあさあ、さっきも言ったが今日は特別指名の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "客も来てる。連中に高い支払いに見合う様な、甘い夢を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "見せてやっておくれ。"
+                                "\\N<Shopkeeper>Now, now, as I said earlier, we have guests with special\nrequests today. Please show them a sweet dream worth their\nhigh payment."
                             ]
                         },
                         {
@@ -11988,7 +10707,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -12012,21 +10731,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>どうしたんだい、浮かない顔しちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "もうこの店は奥さん目当ての客でもってる様なモンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "肝心の主役がそれじゃあ困るよ？"
+                                "\\N<Shopkeeper>What's with the long face? This place is practically running\non customers who come for you. It's a problem if the star of\nthe show looks like that, isn't it?"
                             ]
                         },
                         {
@@ -12077,7 +10782,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -12101,14 +10806,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>大丈夫、この店の中で起きた事は今後一切外に漏れる事は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "無いよ。勿論ユイアさんやリイアの耳に入る事も無い。"
+                                "\\N<Shopkeeper>Don't worry, nothing that happens in this shop will ever\nleak outside. Of course, Yuia-san and Riia won't hear about\nit either."
                             ]
                         },
                         {
@@ -12125,14 +10823,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<店主>だから安心して今日も客達に甘い夢を見せてやっておくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "アンタにしか出来ない事さ、女冥利に尽きるだろう？"
+                                "\\N<Shopkeeper>So go ahead and show the guests a sweet dream today with\npeace of mind. It's something only you can do, it's the\nultimate joy for a woman, isn't it?"
                             ]
                         },
                         {
@@ -12354,7 +11045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……本当にこれで……その……。"
+                                "\\N<Segi>Ah, um... Are you really sure about this... that..."
                             ]
                         },
                         {
@@ -12371,21 +11062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ああ、そうさ。別に難しい注文じゃ無いと思うけどねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥さん程立派な淑女なら、女の嗜みとして、当然経験くらい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるだろう？"
+                                "\\N<Shopkeeper>Yeah, I think so. It's not a difficult request. A lady as\nsplendid as you should have some experience with this sort\nof thing as part of her feminine charms, right?"
                             ]
                         },
                         {
@@ -12402,7 +11079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>け、経験だなんてそんな……。"
+                                "\\N<Segi>E-experience? I don't have such..."
                             ]
                         },
                         {
@@ -12419,21 +11096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>何れに知ろ、そう思い悩む事じゃないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも仕事だと割り切ってさ、店で寂しく飲んでる連中を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しませてやっておくれよ。"
+                                "\\N<Shopkeeper>Anyway, there's no need to worry so much. Just think of it\nas part of the job, and entertain the lonely guys drinking\nin the shop, will you?"
                             ]
                         },
                         {
@@ -12450,7 +11113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>で、でも……わたし……。"
+                                "\\N<Segi>But... I..."
                             ]
                         },
                         {
@@ -12505,14 +11168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>いいぞ、ネエチャン！なかなか上手いじゃねえの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その悩まし気な腰つき！堪らないねえ！"
+                                "\\N<Customer>Nice one, sister! You're pretty good at this! That seductive\nsway of your hips is irresistible!"
                             ]
                         },
                         {
@@ -12577,7 +11233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半ば無理矢理に笑顔を作り、男達の前で妖艶な踊りを踊るセギ。"
+                                "Forced to smile, Segi dances an enchanting dance in front of\nthe men."
                             ]
                         },
                         {
@@ -12594,21 +11250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴェールの下のその顔は、客達に心から奉仕するなどとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "口が裂けても呼べない作り笑顔だが、それでもそのしなやか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な肢体を前に、男達から下卑た歓声が上がる。"
+                                "Underneath the veil, her face bears a smile she could never\ntruly mean as one of heartfelt service to the customers, but\neven so, her supple body elicits vulgar cheers from the men."
                             ]
                         },
                         {
@@ -12632,21 +11274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへへ！！色っぽいねえ！その調子で頼むわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタみてえな綺麗な姉ちゃんの踊り見てると、くだらねえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "練兵会やリュダの連中の事も忘れられるってもんだ！ははっ！"
+                                "\\N<Customer>Hehehe!! You're so sexy! Keep it up, please! Watching a\nbeautiful babe like you dance makes us forget all about\nthose pointless military drills and the Ludan guys! Haha!"
                             ]
                         },
                         {
@@ -12663,21 +11291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、良かったねえ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ての通り客の連中は大喜びさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタも女冥利に尽きるだろ？"
+                                "\\N<Shopkeeper>Heh heh, that's great, ma'am. As you can see, the customers\nare thrilled. This must be very satisfying for a woman,\nright?"
                             ]
                         },
                         {
@@ -12701,14 +11315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっとセギに近付き、他の客には漏れない程の小声で店主が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "語り掛けて来る。"
+                                "The shopkeeper approaches Segi quietly and speaks in a\nwhisper so that no other customer can hear."
                             ]
                         },
                         {
@@ -12732,7 +11339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -12749,21 +11356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ははは！いいぞ、いいぞっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ俺達ゃ、コレを見に来たんだ！ワザワザ不味い酒しか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出さねえこんな店にソレ以外の目的で来るもんかっての！"
+                                "\\N<Customer>Hahaha! That's the spirit! After all, we came here to see\nthis! Who would come to such a place with nothing but lousy\nbooze if not for this?!"
                             ]
                         },
                         {
@@ -12780,14 +11373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、言ってくれるじゃないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあそろそろ、お客サマのご要望にお応えしようかねえ？"
+                                "\\N<Shopkeeper>Heh heh, you flatter me. Well then, shall we fulfill our\ncustomers' requests soon?"
                             ]
                         },
                         {
@@ -12804,14 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>踊り子さん、その邪魔な布キレを一枚ずつ取っていって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みようか？"
+                                "\\N<Shopkeeper>Dancer, how about you start removing those bothersome pieces\nof cloth one by one?"
                             ]
                         },
                         {
@@ -12828,7 +11407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……！？"
+                                "\\N<Segi>Eh...!?"
                             ]
                         },
                         {
@@ -12852,14 +11431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その進言に笑顔を忘れ、セギは思わず表情が凍り付かせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瞬時に店主の要求が理解出来ない。"
+                                "Forgetting to smile at this suggestion, Segi's expression\nfreezes over. She can't comprehend the shopkeeper's demand\ninstantly."
                             ]
                         },
                         {
@@ -12895,21 +11467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへっ！待ってましたっ！！ネエチャン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっととその邪魔な衣装を脱いじまってくれよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにと着込んだままじゃ肩凝っちまうだろ！？へへっ！"
+                                "\\N<Customer>Heheh! Been waiting for this!! Sister! Hurry up and take off\nthat annoying outfit! You'll get stiff shoulders if you keep\nit on like that! Heheh!"
                             ]
                         },
                         {
@@ -12967,7 +11525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ま、待って下さい……！？そんな事……っ！"
+                                "\\N<Segi>W-wait please...! Such a thing...!"
                             ]
                         },
                         {
@@ -12984,21 +11542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>待てないよ。言っただろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつは飽く迄仕事さ。奥さんは連中を楽しませてやる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その対価として金を貰う。それの何が不満なんだい？"
+                                "\\N<Shopkeeper>Can't wait. Didn't I tell you? This is strictly business.\nYou're here to entertain these guys. In return, you get\npaid. What's there to be dissatisfied about?"
                             ]
                         },
                         {
@@ -13015,14 +11559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>奥さんに払うのは安い金じゃないんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらソッチも出来る事は何でもしてくれなきゃな？"
+                                "\\N<Shopkeeper>The money I'm paying you isn't small change. So you've got\nto do whatever you can, right?"
                             ]
                         },
                         {
@@ -13039,14 +11576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>それとも……奥さんには他に連中を楽しませる心得でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有るのかい？"
+                                "\\N<Shopkeeper>Or... do you have some other way to entertain these guys?"
                             ]
                         },
                         {
@@ -13063,7 +11593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、それは……。"
+                                "\\N<Segi>That is..."
                             ]
                         },
                         {
@@ -13080,14 +11610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>だろう？だったら是非も無しじゃないかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに早くしないと客も騒ぎ始めるよ？"
+                                "\\N<Shopkeeper>Right? So there's no helping it, is there? Besides, if you\ndon't hurry up, the customers will start making a fuss."
                             ]
                         },
                         {
@@ -13104,21 +11627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>まあ……どうしてもお断りってんなら仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他所で金払いのイイ所でも探して来るんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その魅力的な身体でも売って……ねえ？"
+                                "\\N<Shopkeeper>Well... if you absolutely refuse, then that can't be helped.\nGo find some other place that pays well. Maybe sell that\nattractive body of yours... eh?"
                             ]
                         },
                         {
@@ -13135,7 +11644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！"
+                                "\\N<Segi>G...!"
                             ]
                         },
                         {
@@ -13159,14 +11668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ユイアの妻として、身体を売るなど出来る筈も無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛する人を裏切る事など出来る筈も無い。"
+                                "As Yuia's wife, she couldn't possibly sell her body. She\ncouldn't betray the person she loves."
                             ]
                         },
                         {
@@ -13183,14 +11685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とは言え、明日の命さえ保証されぬ身である夫の命を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "繋げるのは自分だけなのだ。その葛藤が彼女を絡め取る。"
+                                "However, she is the only one who can sustain her husband's\nlife, which isn't even guaranteed until tomorrow. This\nconflict entangles her."
                             ]
                         },
                         {
@@ -13207,21 +11702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その為には今、この淫靡な衣装に身を包む自分の姿さえも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味の有るものだと自分に言い聞かせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてセギは、意を決した様に衣装に手を掛けた。"
+                                "To that end, she convinces herself that even her current\nappearance in this lewd outfit has meaning. And so Segi\nreaches for her costume with a determined look."
                             ]
                         },
                         {
@@ -13310,7 +11791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……く……！"
+                                "\\N<Segi>...G...!"
                             ]
                         },
                         {
@@ -13334,14 +11815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ホラホラ！お待ちかねの時間の到来だぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆、その為に来たんだろう！？よく拝んで置きなっ！"
+                                "\\N<Shopkeeper>Come on, come on! The moment everyone's been waiting for has\narrived? Everyone came here for this reason! Take a good\nlook!"
                             ]
                         },
                         {
@@ -13365,14 +11839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セギは自身の衣装を1枚、床に脱ぎ捨てた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途端に男達から歓声が上がる。"
+                                "Segi drops one piece of her costume onto the floor.\nInstantly, cheers erupt from the men."
                             ]
                         },
                         {
@@ -13396,7 +11863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うう……く……！"
+                                "\\N<Segi>Ugh... G...!"
                             ]
                         },
                         {
@@ -13413,14 +11880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、さあ、お客サマ方へのご挨拶はどうした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踊り子として、一言有ってもいいだろう？"
+                                "\\N<Shopkeeper>Heh heh, now how about a greeting for our customers? As a\ndancer, shouldn't you say a word or two?"
                             ]
                         },
                         {
@@ -13478,14 +11938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い……いかが……でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしの踊り……た、楽しんで頂いておりますでしょうか？"
+                                "\\N<Segi>H-how is it...? My dance... are you enjoying it?"
                             ]
                         },
                         {
@@ -13502,21 +11955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへへっ！おうよ！楽しんでますとも！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、アレだな！本当に心置きなく楽しむには、あと一声"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足りないんじゃねえか！？"
+                                "\\N<Customer>Heheheh! Oh yeah! We're enjoying it alright! But you know\nwhat? To truly enjoy ourselves without any reservations, it\nfeels like we're missing just one more thing!"
                             ]
                         },
                         {
@@ -13533,7 +11972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -13550,14 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、強欲な客共だな。聞いての通りだ、奥さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客サマ方からのご要望だよ？もう一枚いってみようか？"
+                                "\\N<Shopkeeper>Heh heh, such greedy customers. You heard them, ma'am. It's\na request from our customers? How about one more piece?"
                             ]
                         },
                         {
@@ -13615,7 +12047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんなっ！こ、これ以上は……！"
+                                "\\N<Segi>S-such a thing! I can't... any more than this...!"
                             ]
                         },
                         {
@@ -13632,21 +12064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ここまで来てソレはねえだろ？後はもう同じさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタだってこの程度の事は覚悟してここへ来たんじゃない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のかい？"
+                                "\\N<Shopkeeper>After coming this far, you can't say that now? The rest is\nall the same. You were prepared for this much when you came\nhere, weren't you?"
                             ]
                         },
                         {
@@ -13663,21 +12081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>何もタダで奉仕しろって言ってる訳じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相応の報酬を払おうってんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だったらもっと連中を楽しませる努力をしてくれないとねえ。"
+                                "\\N<Shopkeeper>I'm not saying you should serve for free. I'm willing to pay\nyou accordingly. But then, you have to try harder to\nentertain these guys, right?"
                             ]
                         },
                         {
@@ -13694,7 +12098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>う……くっ！！"
+                                "\\N<Segi>Ugh...ugh!!"
                             ]
                         },
                         {
@@ -13718,14 +12122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まただ。この卑怯者の脅し文句はいつも同じだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし……それに逆らう事は出来はしなかった。"
+                                "Again. This scoundrel's threats are always the same.\nHowever... I couldn't defy him."
                             ]
                         },
                         {
@@ -13814,7 +12211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -13831,7 +12228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>あははは！！こりゃいいねえ！ほとんど丸裸じゃねえか！！"
+                                "\\N<Customer>Ahahaha!! This is great! She's practically naked!!"
                             ]
                         },
                         {
@@ -13848,14 +12245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ご、ご満足いただいて……お、おります……でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご存分に……お、踊りを堪能していただきたいと思います。"
+                                "\\N<Segi>Are you... satisfied...? I would like you to fully...\nenjoy... my dance."
                             ]
                         },
                         {
@@ -13872,7 +12262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ははは！踊りになんて集中出来ねえって！"
+                                "\\N<Customer>Hahaha! Who can focus on the dance!"
                             ]
                         },
                         {
@@ -13889,14 +12279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうそう！そんないやらしいカッコで尻だの胸だのを揺らされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たんじゃあんたの身体に目がいっちまうってね！"
+                                "\\N<Customer>Exactly! With such a lewd outfit, shaking your ass and\nbreasts, our eyes are drawn to your body!"
                             ]
                         },
                         {
@@ -13913,7 +12296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……ううっ！！"
+                                "\\N<Segi>G...ugh!!"
                             ]
                         },
                         {
@@ -13944,7 +12327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悔しさと羞恥に唇を噛み締める。"
+                                "She bites her lip in frustration and shame."
                             ]
                         },
                         {
@@ -13961,21 +12344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裸同然の下着姿の様な衣装で、男達の前で腰を振る自分。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情けなさと無力感で涙さえ出そうになるのを、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は必死で堪えた。"
+                                "In an outfit that's almost like underwear, she shakes her\nhips in front of the men. She desperately holds back tears\nfrom the humiliation and feeling of powerlessness."
                             ]
                         },
                         {
@@ -13999,7 +12368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>く……っ！！"
+                                "\\N<Segi>G...uh!!"
                             ]
                         },
                         {
@@ -14016,14 +12385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そう言えば……例の話、どう思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ユイアさんは本当にリュダの連中に捕まってんのか？"
+                                "\\N<Customer>By the way... what do you think about that story? Is Yuia\nreally caught by the Lyuda guys?"
                             ]
                         },
                         {
@@ -14040,14 +12402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>さてな……まあ仮にそうだとして、自分の嫁さんがあんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カッコして人前で踊り狂って……その事知ってんのかねえ？"
+                                "\\N<Customer>Who knows... Well, even if that's true, I wonder if he knows\nthat his wife is dancing like a madwoman in front of people\nin such an outfit?"
                             ]
                         },
                         {
@@ -14064,14 +12419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>俺なら自分の嫁がこんな所で裸踊り同然の真似して金を稼い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でると知ったら、耐えられねえけどなあ？"
+                                "\\N<Customer>If it were me, I couldn't stand knowing my wife was earning\nmoney by dancing almost naked like this in such a place!"
                             ]
                         },
                         {
@@ -14088,21 +12436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へ、へへ……だよなあ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、まあ……愛する旦那の為にこうやって知らねえ男に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裸を晒す人妻ってのも興奮して来ちまうがなあ……へへ。"
+                                "\\N<Customer>Heh, hehe... Right? But, well... A married woman exposing\nherself to unknown men for the sake of her beloved husband,\nthat's kind of exciting too... hehe."
                             ]
                         },
                         {
@@ -14119,7 +12453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへへ！！ちげえねえ！"
+                                "\\N<Customer>Hehehe!! No doubt about it!"
                             ]
                         },
                         {
@@ -14136,7 +12470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～っ！！"
+                                "\\N<Segi>~!!"
                             ]
                         },
                         {
@@ -14165,21 +12499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>ホラホラ、踊りが止まってるぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踊り子さんはどんな時でも目の前の客に精一杯のもてなしを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "提供してくれねえと。"
+                                "\\N<Customer>Hey hey, the dance has stopped? A dancer should always\nprovide the best hospitality to the audience in front of\nher."
                             ]
                         },
                         {
@@ -14196,14 +12516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>俺達はその為に金払ってんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが出来なきゃ、もう一枚行くかあ？"
+                                "\\N<Customer>We're paying money for that. If you can't do it, shall we\ntake off another piece?"
                             ]
                         },
                         {
@@ -14220,14 +12533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>そうだ、そうだ！ここにいる全員にあんたの大事な所拝ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やってくれよ！？"
+                                "\\N<Customer>That's right, that's right! Show everyone here your precious\nparts!"
                             ]
                         },
                         {
@@ -14244,7 +12550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そ、そんな……だ、駄目っ！これ以上は……！！"
+                                "\\N<Segi>Th-that's... No! I can't... not any more...!!"
                             ]
                         },
                         {
@@ -14261,21 +12567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>おいおい、奥さん。いいから早くしな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も同じ事を言わせるんじゃないよ。アンタは今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の誰でもねえ、この店の踊り子なんだからな？"
+                                "\\N<Shopkeeper>Hey hey, ma'am. Hurry up, will you? Don't make me say the\nsame thing over and over. You're the dancer of this\nestablishment now, aren't you?"
                             ]
                         },
                         {
@@ -14292,14 +12584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>だからって……だ、駄目っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は……で、出来な……！"
+                                "\\N<Segi>But still... No! I can't... do any more...!"
                             ]
                         },
                         {
@@ -14365,7 +12650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>えっ！！？？"
+                                "\\N<Segi>Eh!!??"
                             ]
                         },
                         {
@@ -14389,14 +12674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "躊躇するセギを余所に、周囲の男達が強引に下着を剥いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女の秘所が露わになり、男達の視線が集中する。"
+                                "Ignoring Segi's hesitation, the surrounding men forcefully\nstripped off her underwear. Her genitals were exposed, and\nall eyes were focused on her."
                             ]
                         },
                         {
@@ -14420,7 +12698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な……あっ！！？？"
+                                "\\N<Segi>N-no...ahh!!??"
                             ]
                         },
                         {
@@ -14437,14 +12715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>おおおっ！？いいねえっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アソコまで拝ませてくれるとはよっ！！"
+                                "\\N<Customer>Oooh! Nice! To let us worship even down there!!"
                             ]
                         },
                         {
@@ -14468,21 +12739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘所を曝け出したまま、セギは固まるしかなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分はなぜこんな事目に遭っているのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "瞬時に理解出来なかった。"
+                                "Frozen with her genitals exposed, Segi couldn't do anything\nbut stand still. She couldn't understand why she was going\nthrough this."
                             ]
                         },
                         {
@@ -14506,14 +12763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<客>へへっ！！姉ちゃんが悪いんだぜえ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまでも脱がねえから俺が手伝ってやったのよ！！ "
+                                "\\N<Customer>Heheh!! It's your fault, sis! You wouldn't take it off, so I\nhelped you out!!"
                             ]
                         },
                         {
@@ -14530,7 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い……い……！！"
+                                "\\N<Segi>N-no...no...!!"
                             ]
                         },
                         {
@@ -14547,7 +12797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いやああああああっっ……！！"
+                                "\\N<Segi>Nooooooo...!!"
                             ]
                         },
                         {
@@ -14702,7 +12952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>御苦労サマ、助かったよ奥さん、はは。"
+                                "\\N<Shopkeeper>Thanks for the hard work, ma'am. That helped a lot, haha."
                             ]
                         },
                         {
@@ -14726,7 +12976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -14750,7 +13000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>どうしたんだい？もしかして怒ってるの？"
+                                "\\N<Shopkeeper>What's wrong? Are you angry?"
                             ]
                         },
                         {
@@ -14774,7 +13024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、当り前です……あんな……あんな事……。"
+                                "\\N<Segi>Of course I am... Such a thing..."
                             ]
                         },
                         {
@@ -14798,21 +13048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>でも客達は大盛り上がりだったじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺や他の給仕じゃああはならないねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正に奥さんだからこそ出来た事さ。"
+                                "\\N<Shopkeeper>But the customers were thrilled. It wouldn't have been the\nsame with me or the other waiters. It's something only you\ncould do as a wife."
                             ]
                         },
                         {
@@ -14836,7 +13072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>わ、わたし……もうここには……。"
+                                "\\N<Segi>I... I can't be here anymore..."
                             ]
                         },
                         {
@@ -14860,21 +13096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ふふ、ソレは任せるよ。強制する事は出来ないしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……もし奥さんにソノ気が有るならウチはいつでも大歓迎"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからね？"
+                                "\\N<Shopkeeper>Haha, that's up to you. I can't force you. But... if you're\never willing, our establishment will always welcome you with\nopen arms?"
                             ]
                         },
                         {
@@ -14891,7 +13113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<店主>ホラ……約束の報酬だ、また頼むよ？"
+                                "\\N<Shopkeeper>Here... your promised payment. I'll be counting on you\nagain?"
                             ]
                         },
                         {

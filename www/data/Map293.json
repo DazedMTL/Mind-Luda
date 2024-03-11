@@ -4359,14 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>警備任務中だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "用が無いなら話しかけないで貰おうか。"
+                                "\\N<Ryuda Soldier>I'm on guard duty. If you have no business, please don't\nspeak to me."
                             ]
                         },
                         {
@@ -4563,21 +4556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会が始まってからと言うもの、既にその勝敗によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天国と地獄を味わう住民が現れています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは街の人心が二分されてしまいます……。"
+                                "\\N<Man>Ever since the training tournament began, there are already\nresidents who have tasted both heaven and hell depending on\nthe outcomes. If this continues, the town's public sentiment\nwill be split in two..."
                             ]
                         },
                         {
@@ -4849,21 +4828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会が始まってからと言うもの、既にその勝敗によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天国と地獄を味わう住民が現れています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままでは街の人心が二分されてしまいます……。"
+                                "\\N<Man>Ever since the training tournament began, there are already\ncitizens who have tasted both heaven and hell depending on\nthe outcomes. If this continues, the town's public sentiment\nwill be split in two..."
                             ]
                         },
                         {
@@ -4991,14 +4956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>知っての通り中では練兵会が催されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴様らの運命を決定付ける戦いだ、心して臨むがいいさ。"
+                                "\\N<Ryuda Soldier>As you know, a training session is being held inside. It's a\nbattle that will determine your fate, so face it with\nresolve."
                             ]
                         },
                         {
@@ -5075,21 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会会場か……ここも以前は街の演舞場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その憩いの場が、リュダの奴らが来てからすっかり血生臭い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に変わってしまった……。"
+                                "\\N<Man>The training grounds, huh... This place used to be the\ntown's performance hall. Ever since those Ryuda guys came,\nit's completely turned into a blood-stained place..."
                             ]
                         },
                         {
@@ -5361,21 +5305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>練兵会会場か……ここも以前は街の演舞場だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その憩いの場が、リュダの奴らが来てからすっかり血生臭い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に変わってしまった……。"
+                                "\\N<Man>The training grounds, huh... This place used to be the\ncity's performance hall. Ever since those Lyuda guys came,\nthis relaxing spot has completely turned into a blood-\nstained place..."
                             ]
                         },
                         {
@@ -6115,7 +6045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>す、すみません……っ。"
+                                "\\N<Segi>I-I'm sorry..."
                             ]
                         },
                         {
@@ -6139,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ち……何処見て歩いてやがる！気を付けろっ！"
+                                "\\N<Man>Tch... Where are you looking when you walk? Be careful!"
                             ]
                         },
                         {
@@ -6163,7 +6093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -6187,14 +6117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>くそ……どいつもこいつも僕を馬鹿にしやがって……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと腕が立つと思って……今に見てろ、ロザロの奴っ！"
+                                "\\N<Man>Damn it... Everyone's making a fool out of me... Just\nbecause they think they're a bit skilled... Just you wait,\nRozaro!"
                             ]
                         },
                         {
@@ -6227,7 +6150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あの……ロザロさんがどうかされましたか？"
+                                "\\N<Segi>U-um... What happened with Rozaro-san?"
                             ]
                         },
                         {
@@ -6251,7 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ああ……！？"
+                                "\\N<Man>Ah...!?"
                             ]
                         },
                         {
@@ -6268,14 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>どうかしたも何も、ついさっきそこで煮え湯を飲まされた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んだよ、あのクソ野郎にな！"
+                                "\\N<Man>What do you mean what happened? I just got served by that\nbastard over there!"
                             ]
                         },
                         {
@@ -6320,7 +6236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>や、やめて……やめて下さい……。"
+                                "\\N<Rame>P-please stop... Please..."
                             ]
                         },
                         {
@@ -6361,14 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>お、お願いします……ほんとに……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、こんなところでなんて……。"
+                                "\\N<Rame>P-please... I'm begging you... Not here, not like this..."
                             ]
                         },
                         {
@@ -6426,14 +6335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>へ、へへ……いいじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕……さっきからラメちゃんの事が頭から離れないんだ。"
+                                "\\N<Man>Heh, heh... What's wrong with that? I haven't been able to\nget Rame-chan out of my head since earlier."
                             ]
                         },
                         {
@@ -6457,21 +6359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラメと練兵会で戦い、つい先程迄彼女の身体を弄んでいた男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼は戦いが終わった後も路地裏にラメを連れ込み、行為の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余韻に耽っていた。"
+                                "The man who had fought with Rame in the training corps and\nhad been toying with her body until just a moment ago. After\nthe fight, he dragged Rame into an alleyway, indulging in\nthe afterglow of their encounter."
                             ]
                         },
                         {
@@ -6495,7 +6383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>へへ……可愛かったよ、さっきのラメちゃん……。"
+                                "\\N<Man>Heh heh... You were so cute earlier, Rame-chan..."
                             ]
                         },
                         {
@@ -6512,14 +6400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>だ、だからってこんな所で……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も、もしだれかに見られたら……。"
+                                "\\N<Rame>But that doesn't mean we should do this here... If someone\nsaw us..."
                             ]
                         },
                         {
@@ -6536,21 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>へへ……あ、安心しなって、誰も来やしないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに僕達は愛し合っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰に見られたって構うもんか……！"
+                                "\\N<Man>Heh heh... Ah, don't worry, no one's going to come here.\nBesides, we're in love. Who cares if someone sees us...!"
                             ]
                         },
                         {
@@ -6567,7 +6434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ、愛し合ってなんて……！"
+                                "\\N<Rame>We're not in love...!"
                             ]
                         },
                         {
@@ -6637,7 +6504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ……っ！？"
+                                "\\N<Rame>Ah...!?"
                             ]
                         },
                         {
@@ -6661,14 +6528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戸惑うラメの事などお構い無しとばかりに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男は彼女の外套を剥いでゆく。"
+                                "Ignoring Rame's confusion, the man began to strip off her\ncloak."
                             ]
                         },
                         {
@@ -6692,7 +6552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>うう……っ！？"
+                                "\\N<Rame>Ugh...!?"
                             ]
                         },
                         {
@@ -6709,14 +6569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そ、そんな事言わないでおくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきはラメちゃんだって感じてただろう……？"
+                                "\\N<Man>Don't say things like that. You were feeling it earlier too,\nweren't you, Rame-chan...?"
                             ]
                         },
                         {
@@ -6733,14 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>だ、だって……あれはムリヤリ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、わたしはいやだって……言ったのに……。"
+                                "\\N<Rame>But... that was against my will... I said I didn't want\nto..."
                             ]
                         },
                         {
@@ -6757,21 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>人聞きの悪い事言わないでおくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理なんかじゃないさ、アレは練兵会の規約って奴さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああしなければいけなかったんだよ……？"
+                                "\\N<Man>Don't say things that sound so bad. It wasn't against your\nwill; it was part of the training corps' rules. We had to do\nit that way...?"
                             ]
                         },
                         {
@@ -6788,14 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そ、それに……キッカケはどうだったにしろ、僕と君"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は確かに愛し合ったんだ。ソレは事実だよね……？"
+                                "\\N<Man>And besides... No matter how it started, we definitely made\nlove. That's a fact, right...?"
                             ]
                         },
                         {
@@ -6812,14 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>だ、だからわたしは……お、おにいさんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛してるなんて……い、言って……。"
+                                "\\N<Rame>That's why I... I never said I loved you or anything..."
                             ]
                         },
                         {
@@ -6836,21 +6654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>じゃあラメちゃんは誰にでもヤラせてあげちゃうの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うよね？そんな女のコじゃないもんね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕だからさせてくれたんだよね？"
+                                "\\N<Man>So does that mean Rame-chan would let just anyone do it?\nThat's not true, right? You're not that kind of girl, are\nyou? You let me because it was me, right?"
                             ]
                         },
                         {
@@ -6920,7 +6724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……っ！？"
+                                "\\N<Rame>...!?"
                             ]
                         },
                         {
@@ -6937,21 +6741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そ、それなら……もう二人は愛し合ってるも同じじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないか……？だったらイイでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛し合う二人なら場所なんて何処でだって……へへ。"
+                                "\\N<Man>If that's the case... then it's as if we're already in love,\nright...? Then it's okay, right? If two people are in love,\nit doesn't matter where they are... heh heh."
                             ]
                         },
                         {
@@ -6968,7 +6758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>そ、そんな事ありません……っ！"
+                                "\\N<Rame>That's not true at all...!"
                             ]
                         },
                         {
@@ -6985,14 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>お、おねがい……します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほ、ほんと……だ、だれかに見られちゃう……。"
+                                "\\N<Rame>Please... I'm begging you. We really could be seen by\nsomeone..."
                             ]
                         },
                         {
@@ -7062,7 +6845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ん……っ！？"
+                                "\\N<Rame>Nn...!?"
                             ]
                         },
                         {
@@ -7079,14 +6862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>いいじゃないか……誰が来ようと僕が守ってあげる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうラメちゃんは僕のモノなんだから……。"
+                                "\\N<Man>It's fine... No matter who comes, I'll protect you. Rame-\nchan is already mine..."
                             ]
                         },
                         {
@@ -7103,21 +6879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>だから……ね？これから僕のウチへ行こうよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきの続きしてあげるからさ、沢山気持ち良くしてあげる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "からさ……？"
+                                "\\N<Man>So... right? Let's go to my place? I'll continue what we\nstarted earlier, I'll make you feel really good..."
                             ]
                         },
                         {
@@ -7134,7 +6896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ……んん……っ！？だ、だめぇぇ……！"
+                                "\\N<Rame>Ah...nnn...! Nooo...!"
                             ]
                         },
                         {
@@ -7151,21 +6913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そ、それとも……やっぱりアレかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラメちゃん位の女のコは気持ちイイ事よりも……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デ、デートとかかな？"
+                                "\\N<Man>Or maybe... is it that? A girl like Rame-chan prefers nice\nthings over feeling good... Like, dates or something?"
                             ]
                         },
                         {
@@ -7182,14 +6930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そう言う事ならさ……ま、先ずはお兄さんと正式に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お付き合い……しようか？ね？"
+                                "\\N<Man>If that's the case... then, first, why don't you officially\nstart dating me? Huh?"
                             ]
                         },
                         {
@@ -7206,7 +6947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ん……！で、でき……できません……そんな……！"
+                                "\\N<Rame>Nn...! I can't... do such a thing...!"
                             ]
                         },
                         {
@@ -7276,7 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>う……ううっ！？"
+                                "\\N<Rame>Ugh... ughh!?"
                             ]
                         },
                         {
@@ -7293,14 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>どうして？恥ずかしがってるの？好き同士なら何も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題無いじゃない？"
+                                "\\N<Man>Why not? Are you embarrassed? If we like each other, there's\nno problem, right?"
                             ]
                         },
                         {
@@ -7317,14 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>その証拠にホラ……僕はもうこうしてるだけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうアソコが破裂しそうにパンパンに膨らんでいるのに。"
+                                "\\N<Man>As proof, look... Just by doing this, down there is already\nso swollen it feels like it's going to burst."
                             ]
                         },
                         {
@@ -7341,7 +7068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>ひ……っ！？"
+                                "\\N<Rame>Eek...!?"
                             ]
                         },
                         {
@@ -7471,7 +7198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ……うう……っ！？"
+                                "\\N<Rame>Ah... ugh...!?"
                             ]
                         },
                         {
@@ -7488,21 +7215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ね……いいでしょ？もうガマン出来ないよ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当はウチでゆっくりしたかったけどさ、愛し合っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら場所なんてどうでもイイよね……？"
+                                "\\N<Man>Hey... it's fine, right? I can't wait any longer... I really\nwanted to take our time at my place, but if we love each\nother, the place doesn't really matter, does it...?"
                             ]
                         },
                         {
@@ -7519,14 +7232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>それに……もし誰かが覗いていたって構わないさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人の仲の良さを見せ付けてやろうね？"
+                                "\\N<Man>Besides... I don't mind if someone peeks. Let's show off how\nclose we are, shall we?"
                             ]
                         },
                         {
@@ -7543,14 +7249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>お、おねがい……します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところでなんて……い、いや……やだ……。"
+                                "\\N<Rame>Please... not here... I don't... I don't want to..."
                             ]
                         },
                         {
@@ -7567,7 +7266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>へ、へへ……じゃあ……いくよ……？"
+                                "\\N<Man>Heh, heh... then... shall we go...?"
                             ]
                         },
                         {
@@ -7625,7 +7324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>……そこで何をしている？"
+                                "\\N<Rozaro>...What are you doing here?"
                             ]
                         },
                         {
@@ -7642,7 +7341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ロザロっ！？"
+                                "\\N<Man>Rozaro!?"
                             ]
                         },
                         {
@@ -7659,7 +7358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>お、お師匠さん……。"
+                                "\\N<Rame>M-Master..."
                             ]
                         },
                         {
@@ -7683,14 +7382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不意に声を掛けて来たのはロザロだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼は男を威圧的に見据え続けている。"
+                                "The one who suddenly called out was Rozaro. He continued to\nstare down the man with an intimidating gaze."
                             ]
                         },
                         {
@@ -7714,21 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>な、何って……見たら判るだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタこそここで何してるんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く向こうへ行けよ……アンタには関係の無い事じゃないか。"
+                                "\\N<Man>What do you mean 'what'? Can't you see? What are you even\ndoing here? Go away... This has nothing to do with you."
                             ]
                         },
                         {
@@ -7745,14 +7423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>そうかな？彼女は嫌がっている様に見えるが？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしそうならば、即刻彼女を離して貰おうか。"
+                                "\\N<Rozaro>Is that so? She seems to be resisting, doesn't she? If\nthat's the case, I'll have you release her immediately."
                             ]
                         },
                         {
@@ -7774,7 +7445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>う、うるせえっ！アンタの指図は受けない……！"
+                                "\\N<Man>Shut up! I won't take orders from you...!"
                             ]
                         },
                         {
@@ -7791,14 +7462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そもそもコイツは僕が練兵会での戦いで死ぬ思いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手に入れた女だ！易々と手放せるもんかっ！"
+                                "\\N<Man>Besides, this girl is someone I won through a life-\nthreatening battle at the training corps! There's no way I'd\nlet her go easily!"
                             ]
                         },
                         {
@@ -7815,21 +7479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>死ぬ思いで手に入れただと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女が相手と判って、上機嫌で戦いの舞台に臨んだの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違いじゃないのか？"
+                                "\\N<Rozaro>Won through a life-threatening battle? You mean you were in\nhigh spirits knowing she was the prize and eagerly went to\nthe battlefield, right?"
                             ]
                         },
                         {
@@ -7846,14 +7496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>だ、だったら何だってんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちにしろ僕が手に入れたコトに変わりは無いじゃないか！"
+                                "\\N<Man>So what if I did! Either way, she's mine now, isn't she!"
                             ]
                         },
                         {
@@ -7870,14 +7513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>そ、それともアンタ……練兵会の規約ってのを反故にする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つもりか！？"
+                                "\\N<Man>Or what, are you planning to disregard the training corps'\nrules!?"
                             ]
                         },
                         {
@@ -7894,21 +7530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>規約と来たか、正しくそれは道理だが、それでも納得する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "訳にはいかん。何故ならその規約に則れば、彼女は俺の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モノでもあるからだ。"
+                                "\\N<Rozaro>Rules, you say? Indeed, that is the principle, but I cannot\nconsent. Because according to those rules, she also belongs\nto me."
                             ]
                         },
                         {
@@ -7925,7 +7547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……。"
+                                "\\N<Rame>..."
                             ]
                         },
                         {
@@ -7942,14 +7564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>さて、となれば後は力ずくと言う事になるがどうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はそれでも構わんぞ？"
+                                "\\N<Rozaro>Well then, what will it be? Shall we resort to force? I\ndon't mind if it comes to that."
                             ]
                         },
                         {
@@ -7992,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>ち……！お、覚えてろよっ！？"
+                                "\\N<Man>Tch...! Remember this...!"
                             ]
                         },
                         {
@@ -8016,21 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>ふん、型通りの捨て台詞だな、恨むなら力の無い己を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恨めば良いものを。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "己よりも上位の力を持つ者を蔑んでも仕方あるまいに。"
+                                "\\N<Rozaro>Hmph, such a cliché parting threat. If you're going to\nresent someone, resent your own powerless self. It's\npointless to scorn those who possess greater power than you."
                             ]
                         },
                         {
@@ -8047,21 +7648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>あ、あの……お師匠さん……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてわたしを助けてくれたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……あ、ありがとうございます。"
+                                "\\N<Rame>Um... Master... did you save me just now? Thank you so much."
                             ]
                         },
                         {
@@ -8078,7 +7665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ロザロ>礼には及ばん。君はリイアの大切な友人だからな。"
+                                "\\N<Rozaro>No need for thanks. You are an important friend of Riia's\nafter all."
                             ]
                         },
                         {
@@ -8095,7 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ラメ>……。"
+                                "\\N<Rame>..."
                             ]
                         },
                         {
@@ -8178,7 +7765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ロザロさんがラメちゃんとふたりで……？"
+                                "\\N<Segi>Rozaro-san and Rame-chan together...?"
                             ]
                         },
                         {
@@ -8195,14 +7782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>まさか……そんな事が有る筈が無いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも実際ロザロさんは練兵会でラメちゃんと戦っていて……。"
+                                "\\N<Segi>No way... that can't be possible. But Rozaro-san did fight\nwith Rame-chan at the training corps..."
                             ]
                         },
                         {
@@ -8242,14 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ここで考えていても仕方ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直にロザロさんに問い正してみよう……。"
+                                "\\N<Segi>...It's no use thinking about it here. I'll ask Rozaro-san\ndirectly..."
                             ]
                         },
                         {
@@ -8526,7 +8099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おい、女……どうした、何をしている？"
+                                "\\N<Ryuda Soldier>Hey, girl... what's wrong, what are you doing?"
                             ]
                         },
                         {
@@ -8550,14 +8123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>どうも……しません……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしなら……だ、大丈夫です……っ。"
+                                "\\N<Segi>Nothing... I'm not doing anything... I'm... I'm fine..."
                             ]
                         },
                         {
@@ -8588,14 +8154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>仮にそうでなくても……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あなた方の手を借りる必要はありません……。"
+                                "\\N<Segi>Even if that weren't the case... I... I don't need your\nhelp..."
                             ]
                         },
                         {
@@ -8619,7 +8178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -8815,7 +8374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>おい、女……どうした、何をしている？"
+                                "\\N<Ryuda Soldier>Hey, girl... what's wrong, what are you doing?"
                             ]
                         },
                         {
@@ -8839,14 +8398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>どうも……しません……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしなら……だ、大丈夫です……っ。"
+                                "\\N<Segi>Nothing... I'm not doing anything... I'm... I'm fine..."
                             ]
                         },
                         {
@@ -8877,14 +8429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>仮にそうでなくても……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あなた方の手を借りる必要はありません……。"
+                                "\\N<Segi>Even if that weren't the case... I... I don't need your\nhelp..."
                             ]
                         },
                         {
@@ -8908,7 +8453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -9100,7 +8645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>結局イリメさんは舞台に現れなかった……。"
+                                "\\N<Segi>In the end, Miss Irime didn't show up on stage..."
                             ]
                         },
                         {
@@ -9117,7 +8662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それにズーテルカの言っていた事が……気になる。"
+                                "\\N<Segi>And what Zuuteruka said... it's bothering me."
                             ]
                         },
                         {
@@ -9169,14 +8714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>どうですか、ズーテルカ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例の試みはこれで一先ず成功って事ですかい？"
+                                "\\N<Ryuda Soldier>How is it, Lord Zuuteruka. Is this to say that the trial has\nbeen a success for now?"
                             ]
                         },
                         {
@@ -9234,7 +8772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あ……ひっ。ああ……はあ……あっ。"
+                                "\\N<Irime>Ah... ah! Ah... haah... ah."
                             ]
                         },
                         {
@@ -9251,21 +8789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、そうみてえだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ろよあの女、今迄に見た事ねえ位に蕩けたツラしてやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "股が渇く暇もねえってか？"
+                                "\\N<Zuuteruka>Hehehe, seems like it. Look at that woman, she's got a face\nmelted in pleasure like I've never seen before. Can't even\nfind time to dry her crotch, huh?"
                             ]
                         },
                         {
@@ -9294,7 +8818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>ああ……んんっ。はああ……ん……あっ。"
+                                "\\N<Irime>Ah... mmm! Haah... mmm... ah."
                             ]
                         },
                         {
@@ -9318,21 +8842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこには眼の光を失い、垂れた涎を気にも留めずに男を貪る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イリメの姿が在った。その異常な様子は一目で彼女が正常"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では無いと理解出来た。"
+                                "There was Irime, lost in the light of her eyes, not even\ncaring about the drool dripping down, greedily devouring the\nman. Her abnormal state made it clear at a glance that she\nwas not in her right mind."
                             ]
                         },
                         {
@@ -9356,7 +8866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>あ……あひっ。あん……んっ……あっ。"
+                                "\\N<Irime>Ah... ah! Mmm... mmm... ah."
                             ]
                         },
                         {
@@ -9373,14 +8883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>全くこれがマインド・リュダの本来の効果だとしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺ぁ男としての自信失うぜ。"
+                                "\\N<Zuuteruka>Seriously, if this is the true effect of Mind Ryuda, I'd\nlose my confidence as a man."
                             ]
                         },
                         {
@@ -9397,7 +8900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>でも何故なんです？何故今更こんな実験を？"
+                                "\\N<Ryuda Soldier>But why, sir? Why conduct such an experiment now?"
                             ]
                         },
                         {
@@ -9414,28 +8917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>マインド・リュダの効果は実証済みだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放って置いてもこの女は何れ今の状態に陥っていた筈だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は飽く迄追加投与の形で催淫状態到達までの時間を早めた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけさ。"
+                                "\\N<Zuuteruka>The effects of Mind Ryuda have already been proven. Left\nalone, this woman would have eventually fallen into this\nstate anyway. I merely hastened the onset of her aphrodisiac\nstate with an additional dose."
                             ]
                         },
                         {
@@ -9452,7 +8934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>そんな……たったそれだけでここまで自我を……。"
+                                "\\N<Ryuda Soldier>That's... just for that, she's lost her self so much..."
                             ]
                         },
                         {
@@ -9469,21 +8951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ、その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これこそがマインド・リュダの本質。俺が知りたかったのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう言う事さ。"
+                                "\\N<Zuuteruka>Yes, exactly. This is the essence of Mind Ryuda. This is\nwhat I wanted to know."
                             ]
                         },
                         {
@@ -9500,21 +8968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>恋人同士の恋慕、友人同士の友愛、或いは家族の絆。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれも簡単に壊れてしまう脆さを持つ反面、同じ位に強い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情念の結び付きだ。"
+                                "\\N<Zuuteruka>The love between lovers, the friendship between friends, or\nthe bonds of family. All are fragile enough to be easily\nbroken, yet they also have ties of strong passion."
                             ]
                         },
                         {
@@ -9531,21 +8985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>特に母親の子への情愛はそれらを越える程に強え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マインド・リュダを以てしても、その強い情愛を壊せるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかが課題だった。"
+                                "\\N<Zuuteruka>Especially a mother's love for her child surpasses those and\nis incredibly strong. Whether Mind Ryuda could break even\nthat strong affection was the issue at hand."
                             ]
                         },
                         {
@@ -9562,7 +9002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>……。"
+                                "\\N<Ryuda Soldier>..."
                             ]
                         },
                         {
@@ -9579,21 +9019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>その意味じゃこの女はお誂え向きの被験者だった訳さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "精神の禁忌のタガを外すってのも、ある意味じゃ身体強化と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼んでいい程の変化だ。"
+                                "\\N<Zuuteruka>In that sense, this woman was the perfect subject. Removing\nthe taboos of the mind can be considered a change as\nsignificant as physical enhancement."
                             ]
                         },
                         {
@@ -9610,7 +9036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>それこそ……人の想いや形を自在に変えてしまえる程にな。"
+                                "\\N<Zuuteruka>To the point where... it can freely change people's feelings\nand forms."
                             ]
                         },
                         {
@@ -9634,14 +9060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>だからこそ……この秘薬を使って造反を画策した奴も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出て来る訳だ。"
+                                "\\N<Zuuteruka>That's why... there are those who would use this secret\npotion to plot a rebellion."
                             ]
                         },
                         {
@@ -9665,14 +9084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズーテルカはイリメの様子を見ながら、且つてその霊薬を使い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リュダへの反旗を翻そうと企てた男の事を思い出していた。"
+                                "Zuuteruka was reminded of a man who once used that spiritual\nmedicine to attempt to revolt against Ryuda as he watched\nIrime's condition."
                             ]
                         },
                         {
@@ -9696,7 +9108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>ああ……ツェダとその一党ですか。"
+                                "\\N<Ryuda Soldier>Ah... Zeda and his faction, right?"
                             ]
                         },
                         {
@@ -9713,7 +9125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ああ。ま、連中は失敗に終わった訳だがよ。"
+                                "\\N<Zuuteruka>Yeah. Well, their attempt ended in failure."
                             ]
                         },
                         {
@@ -9749,7 +9161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<イリメ>はあ……んっ。あ……ふ……あっ。"
+                                "\\N<Irime>Haah... mmm. Ah... fu... ah."
                             ]
                         },
                         {
@@ -9766,14 +9178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>それにしても……快楽に溺れるってのは正にこう言う事"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かと思わせる程の効果ですね。"
+                                "\\N<Ryuda Soldier>Even so... to drown in pleasure is truly an effect that\nmakes you realize what it means."
                             ]
                         },
                         {
@@ -9790,14 +9195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ、羨ましい話だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで嫌な事を忘れられる位没頭出来るって言うのはよ。"
+                                "\\N<Zuuteruka>Hehehe, it's an enviable story. To be so immersed that you\nforget all the unpleasant things."
                             ]
                         },
                         {
@@ -9814,14 +9212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>でも女だけがその効果を享受出来る訳じゃねえぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男だって同じさ。"
+                                "\\N<Zuuteruka>But it's not just women who can enjoy this effect, right?\nMen are the same."
                             ]
                         },
                         {
@@ -9838,14 +9229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>コイツを使えばお手軽に強くなる上に狙った女をオトす手間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も省ける。イイ事ずくめじゃねえか？"
+                                "\\N<Zuuteruka>With this, you can easily become stronger and save the\ntrouble of wooing the woman you're after. It's all good,\nisn't it?"
                             ]
                         },
                         {
@@ -9862,14 +9246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>確かに……目当ての女にコイツを使えば……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへ、こりゃあイイや……。"
+                                "\\N<Ryuda Soldier>Indeed... if I use this on the woman I'm after... hehe, this\nis great..."
                             ]
                         },
                         {
@@ -9898,7 +9275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>先ずは成功って訳だな。どうだあ？夢が広がるかあ？"
+                                "\\N<Zuuteruka>First off, let's call it a success. How about it? Does it\nexpand your dreams?"
                             ]
                         },
                         {
@@ -9915,14 +9292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リュダ兵>は、はいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺達はズーテルカ様に何処までもお供しますぜ……っ！"
+                                "\\N<Ryuda Soldier>Y-yes! We will follow Lord Zuuteruka wherever he goes...!"
                             ]
                         },
                         {
@@ -9939,7 +9309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ズーテルカ>ひへへ……現金な連中だぜ。"
+                                "\\N<Zuuteruka>Hehehe... what a bunch of opportunists."
                             ]
                         },
                         {
@@ -10244,14 +9614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイア？そこで何してるの……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "駄目じゃない勝手に出歩いたら……！"
+                                "\\N<Segi>Riia? What are you doing there...? You shouldn't wander off\non your own...!"
                             ]
                         },
                         {
@@ -10275,7 +9638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ごめん、でも平気だよ……。"
+                                "\\N<Riia>Sorry, but it's okay..."
                             ]
                         },
                         {
@@ -10292,14 +9655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>それよりママ……ラメちゃん達は中にいるんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからここで戦いが始まるんでしょ……？"
+                                "\\N<Riia>More importantly, Mom... Rame and the others are inside,\nright? A battle is about to start here, isn't it...?"
                             ]
                         },
                         {
@@ -10323,7 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -10347,7 +9703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ラメちゃんに……聴いたの？"
+                                "\\N<Segi>Did you... hear that from Rame-chan?"
                             ]
                         },
                         {
@@ -10371,21 +9727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……ううん。街の人のうわさを聴いたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも……きっとさっきラメちゃんは僕にそれを言いたくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチに来てくれたんだと思う。"
+                                "\\N<Riia>...No. I heard the rumors from the townspeople. But... I\nthink Rame-chan wanted to tell me that when she came to our\nhouse earlier."
                             ]
                         },
                         {
@@ -10402,14 +9744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>ねえ、ママ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぼくなら平気だから……ホントの事を教えて？"
+                                "\\N<Riia>Hey, Mom. I'll be fine... Can you tell me the truth?"
                             ]
                         },
                         {
@@ -10433,14 +9768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ええ。あなたの言う通りよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中にはラメちゃん……そして多分イリメさんもいる筈だわ。"
+                                "\\N<Segi>...Yes. You're right. Rame-chan is inside... and probably\nIrime-san as well."
                             ]
                         },
                         {
@@ -10464,7 +9792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>やっぱり……そっか。"
+                                "\\N<Riia>I thought so... I see."
                             ]
                         },
                         {
@@ -10513,14 +9841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>きっと……これから先のラメちゃん達にとってとても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切な戦い……それなのに僕は……ここで何も出来ずに……。"
+                                "\\N<Riia>It must be a very important battle for Rame and the others\nfrom now on... And yet, I can't do anything from here..."
                             ]
                         },
                         {
@@ -10544,21 +9865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……行きましょう、リイア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラメちゃんだってあなたがが近くにいてくれればきっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心強い筈だもの。"
+                                "\\N<Segi>...Let's go, Riia. Rame-chan will surely feel reassured if\nyou're nearby."
                             ]
                         },
                         {
@@ -10575,21 +9882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それにそう思うのであれば、あなたにはきっとラメちゃんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦いを見守る義務が有る筈だわ。それがきっと彼女への責任"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "の取り方だと思う。"
+                                "\\N<Segi>Besides, if you feel that way, then you must have a duty to\nwatch over Rame-chan's battle. I think that's how you take\nresponsibility for her."
                             ]
                         },
                         {
@@ -10613,7 +9906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>でも……ぼくは中には……。"
+                                "\\N<Riia>But... I can't go inside..."
                             ]
                         },
                         {
@@ -10637,14 +9930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>大丈夫、ママが何とかしてみせるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから……行きましょう、リイア。"
+                                "\\N<Segi>It's okay, I'll figure something out. So... let's go, Riia."
                             ]
                         },
                         {
@@ -10668,7 +9954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……うん。"
+                                "\\N<Riia>...Yeah."
                             ]
                         },
                         {
@@ -11009,7 +10295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -11033,7 +10319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>リイア……。"
+                                "\\N<Segi>Riia..."
                             ]
                         },
                         {
@@ -11057,7 +10343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {
@@ -11074,14 +10360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>負けたんだよね……ラメちゃんとおばさんは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから二人はどうなるの……？"
+                                "\\N<Riia>We lost, didn't we... What's going to happen to Rame-chan\nand the lady now...?"
                             ]
                         },
                         {
@@ -11105,21 +10384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ママにも判らないわ。でもきっと命を奪う様な事は無い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから安心して？明日にでもママがイリメさんを訪ねてみる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアは何も心配要らないわ。"
+                                "\\N<Segi>Mommy doesn't know either. But I'm sure they won't do\nanything like taking their lives. So don't worry, okay?\nMommy will go see Miss Irime tomorrow. Riia doesn't have to\nworry about anything."
                             ]
                         },
                         {
@@ -11143,7 +10408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<リイア>……。"
+                                "\\N<Riia>..."
                             ]
                         },
                         {

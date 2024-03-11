@@ -2040,14 +2040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>これが……さっきの人が言っていた昇降機……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……これを使えば地下の訓練施設に行けるのね。"
+                                "\\N<Segi>This must be... the elevator that person mentioned\nearlier... If we use this, we can go to the underground\ntraining facility."
                             ]
                         },
                         {
@@ -2062,8 +2055,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "準備は出来た",
-                                    "準備を整える"
+                                    "I'm ready.",
+                                    "Let's get ready."
                                 ],
                                 -2,
                                 0,
@@ -2109,7 +2102,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……迷う必要なんて無いわ。もう決めたんですもの……。"
+                                "\\N<Segi>...There's no need to hesitate. I've already made up my\nmind..."
                             ]
                         },
                         {
@@ -2285,7 +2278,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's get ready and come back here..."
                             ]
                         },
                         {
@@ -2348,7 +2341,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's get ready and come back here..."
                             ]
                         },
                         {
@@ -2462,8 +2455,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "湖底遺跡へ",
-                                    "準備を整える"
+                                    "To the Lakebed Ruins",
+                                    "Prepare for the journey"
                                 ],
                                 -2,
                                 0,
@@ -2659,7 +2652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's get ready and come back again..."
                             ]
                         },
                         {

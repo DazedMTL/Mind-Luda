@@ -2714,8 +2714,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "遺跡へ進入する",
-                                    "準備を整える"
+                                    "Enter the ruins",
+                                    "Prepare for the expedition"
                                 ],
                                 -2,
                                 0,
@@ -2761,7 +2761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>……迷う必要なんて無いわ。もう決めたんですもの……。"
+                                "\\N<Segi>...There's no need to hesitate. I've already made up my\nmind..."
                             ]
                         },
                         {
@@ -2937,7 +2937,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's come back after we've made preparations..."
                             ]
                         },
                         {
@@ -3064,8 +3064,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "遺跡へ進入する",
-                                    "準備を整える"
+                                    "Enter the ruins",
+                                    "Prepare for the expedition"
                                 ],
                                 -2,
                                 0,
@@ -3247,7 +3247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>準備を整えてからまた来ましょう……。"
+                                "\\N<Segi>Let's come back again after we've made preparations..."
                             ]
                         },
                         {

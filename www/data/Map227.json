@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Miss Segi. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {

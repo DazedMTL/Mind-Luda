@@ -1609,14 +1609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Miss Segi. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {
@@ -1754,7 +1747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。珍しいじゃないか、どうしたんだい？"
+                                "\\N<Weapon Shop Owner>Hey there, Segi-san. It's rare to see you here, what brings\nyou in?"
                             ]
                         },
                         {
@@ -1778,7 +1771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ、その……少しお話を伺えないかと思いまして。"
+                                "\\N<Segi>No, it's just that... I was hoping to have a little chat."
                             ]
                         },
                         {
@@ -1802,7 +1795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>話？私にかい？一体何の……。"
+                                "\\N<Weapon Shop Owner>A chat? With me? What about...?"
                             ]
                         },
                         {
@@ -1838,7 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Well..."
                             ]
                         },
                         {
@@ -1862,7 +1855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>……？"
+                                "\\N<Weapon Shop Owner>...?"
                             ]
                         },
                         {
@@ -1893,14 +1886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そう言えば……例の彼、フービィと言ったかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼はその後お元気ですか？"
+                                "\\N<Segi>By the way... that guy, Fubii was it? How has he been doing\nlately?"
                             ]
                         },
                         {
@@ -1924,7 +1910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>え……？"
+                                "\\N<Weapon Shop Owner>Eh...?"
                             ]
                         },
                         {
@@ -1948,14 +1934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いえ……彼はうちの息子と同じ教練所に通っていますから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その……少し気になってしまって。"
+                                "\\N<Segi>No... He's been attending the same training academy as my\nson, so I was just... a bit concerned."
                             ]
                         },
                         {
@@ -1972,14 +1951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>確か彼は何か事情が有って最近この街へ移り住んで来たの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですよね……？"
+                                "\\N<Segi>If I remember correctly, he had some circumstances and\nrecently moved to this town, right...?"
                             ]
                         },
                         {
@@ -2010,14 +1982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ああ、そうさ。以前にも話した通りフービィは遠縁である"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を頼ってこの街へやって来た。"
+                                "\\N<Weapon Shop Owner>Ah, that's right. As I've told you before, Fubii came to\nthis town relying on me, his distant relative."
                             ]
                         },
                         {
@@ -2034,14 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>当時は判らなかったが、その目的はどうやら練兵会への"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参加だったらしいね。"
+                                "\\N<Weapon Shop Owner>At the time, I didn't know, but it seems his purpose was to\njoin the military training association."
                             ]
                         },
                         {
@@ -2058,14 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>それにしてもどんな風の吹き回しだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツの事を教えて欲しいだなんてさ。"
+                                "\\N<Weapon Shop Owner>But what's this all about? You want to know about him?"
                             ]
                         },
                         {
@@ -2089,14 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>い、いえ……その。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はうちの息子が訓練所で彼の訓練を見かけたらしく……。"
+                                "\\N<Segi>N-no, it's just that... Apparently, my son saw him training\nat the academy..."
                             ]
                         },
                         {
@@ -2113,14 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>その際に目にした彼の才能に驚いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か参考になれば……と。ご迷惑でしたでしょうか……？"
+                                "\\N<Segi>And he was so surprised by the talent he witnessed that he\nthought it might be something to learn from... Did I bother\nyou...?"
                             ]
                         },
                         {
@@ -2144,21 +2081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>成程ね、いいや迷惑なんかじゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにアイツ、態度は褒められたモンじゃないが頭の良さと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体能力だけは頭抜けてるからねえ。"
+                                "\\N<Weapon Shop Owner>I see, no, you're not bothering me at all. Indeed, that guy,\nhis attitude isn't praiseworthy, but he's exceptionally\nsmart and physically capable."
                             ]
                         },
                         {
@@ -2182,7 +2105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>それで……その、何か秘密が有るのでしょうか。"
+                                "\\N<Segi>So... does he have any secrets?"
                             ]
                         },
                         {
@@ -2206,14 +2129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>まあ秘密なんて大層なモンじゃないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しばかり思い当たる節は有るな。"
+                                "\\N<Weapon Shop Owner>Well, it's not some grand secret, but there are a few things\nthat come to mind."
                             ]
                         },
                         {
@@ -2230,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>奴は……フービィは孤児院の出なのさ。"
+                                "\\N<Weapon Shop Owner>The guy... Fubii is an orphanage kid."
                             ]
                         },
                         {
@@ -2254,7 +2170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -2278,21 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>と言っても根っからの孤児って訳じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "父親も母親もハッキリしてる。だがね、父親は奴が赤ん坊の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頃に流行り病だかで死んじまったのさ。"
+                                "\\N<Weapon Shop Owner>But it's not like he's a complete orphan. Both his father\nand mother are known. However, his father died of an\nepidemic or something when he was a baby."
                             ]
                         },
                         {
@@ -2316,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな……それから彼はどうしたんですか……？"
+                                "\\N<Segi>How terrible... What happened to him after that...?"
                             ]
                         },
                         {
@@ -2340,21 +2242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>勿論残った母親が奴の面倒を見る様になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがな、その母親も旦那が死んで幾らも経たないウチに他に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男を作って逃げてしまったのさ。"
+                                "\\N<Weapon Shop Owner>Of course, his remaining mother took care of him. But then,\nnot long after her husband died, she found another man and\nran off with him."
                             ]
                         },
                         {
@@ -2378,7 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2402,21 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>そして奴は孤児院に入ったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いた話じゃ、奴はそこで友達も何も作ろうとしなかった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "らしいや。"
+                                "\\N<Weapon Shop Owner>And so he ended up in the orphanage. From what I've heard,\nhe didn't try to make any friends there."
                             ]
                         },
                         {
@@ -2433,14 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>それどころか、教職の連中含め、誰一人心を開く事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無かったって話だ。"
+                                "\\N<Weapon Shop Owner>Not only that, but he didn't open up to anyone, including\nthe teaching staff."
                             ]
                         },
                         {
@@ -2457,21 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>悔しかったんだろうな。だから鍛えたのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分を限界まで追い込んでな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方、戦士として名を上げようとでもしたんだろうさ。"
+                                "\\N<Weapon Shop Owner>Must have been tough for him. That's why he trained himself.\nPushed himself to the limit. Probably aimed to make a name\nfor himself as a warrior or something."
                             ]
                         },
                         {
@@ -2495,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>戦士として……？何の為にでしょうか……？"
+                                "\\N<Segi>As a warrior...? For what purpose...?"
                             ]
                         },
                         {
@@ -2519,7 +2372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>さてね、奴は自分の事は私なんかには話さないからね。"
+                                "\\N<Weapon Shop Owner>Who knows, he doesn't talk about his own matters with\nsomeone like me."
                             ]
                         },
                         {
@@ -2536,21 +2389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>でも、まあこんな所じゃないのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げちまった母親の眼を引く為に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分に集中させる為に……ってね。"
+                                "\\N<Weapon Shop Owner>But maybe it's something like this. To catch the eye of the\nmother who ran away. To make her focus on him... you know."
                             ]
                         },
                         {
@@ -2574,7 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2605,14 +2444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>こんな所かな。奴には他にも何かあった様な気もするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は覚えてないね。確か何かの事件がどうとか……。"
+                                "\\N<Weapon Shop Owner>That's about it. I feel like there might have been something\nelse with him, but I can't remember any more than that.\nSomething about an incident or whatever..."
                             ]
                         },
                         {
@@ -2636,7 +2468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>事件……ですか。"
+                                "\\N<Segi>An incident...?"
                             ]
                         },
                         {
@@ -2660,21 +2492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>ああ、だが悪い。本当に覚えてないのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、割と有名な事件だったらしいから、何処かの記録にでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるかもだけどな。"
+                                "\\N<Weapon Shop Owner>Yeah, but sorry, I really can't remember. Well, it was\nsupposedly a fairly well-known incident, so maybe there's a\nrecord of it somewhere."
                             ]
                         },
                         {
@@ -2698,7 +2516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -2734,14 +2552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>どうだい？これでいいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リイアちゃんの役に立ちそうかな？"
+                                "\\N<Weapon Shop Owner>How about it? Is this good? Will it be helpful for Riia-\nchan?"
                             ]
                         },
                         {
@@ -2765,7 +2576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>有難う御座います。その……息子も喜ぶと思います。"
+                                "\\N<Segi>Thank you very much. I think... my son will be happy to hear\nthis."
                             ]
                         },
                         {
@@ -2789,14 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>そりゃ良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また何かあったらいつでも寄ってくれ。"
+                                "\\N<Weapon Shop Owner>That's good to hear. If there's anything else, feel free to\nstop by anytime."
                             ]
                         },
                         {
@@ -2907,14 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<武器屋店主>やあ、セギさん。ウチの在庫でアンタの役に立つ物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "在れば、遠慮無く手に取っておくれ。"
+                                "\\N<Weapon Shop Owner>Hey there, Miss Segi. If there's anything in our stock that\ncan be of use to you, feel free to take it without\nhesitation."
                             ]
                         },
                         {

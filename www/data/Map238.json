@@ -3762,7 +3762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こんな恰好で人と会うなんて……！"
+                                "\\N<Segi>Meeting someone dressed like this...!"
                             ]
                         },
                         {
@@ -5340,7 +5340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>こんな恰好で人と会うなんて……！"
+                                "\\N<Segi>Meeting someone dressed like this...!"
                             ]
                         },
                         {
@@ -6871,14 +6871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん、何処へ行く気だい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかと思うがこの先の遺跡に行く気なら止した方がいい。"
+                                "\\N<Man>Segi-san, where do you think you're going? I have a bad\nfeeling about this, but if you're planning to go to the\nruins ahead, I'd advise against it."
                             ]
                         },
                         {
@@ -6895,14 +6888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>この街に古くから在る遺跡の入場管理さえも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はリュダの兵隊達が担っているからね……。"
+                                "\\N<Man>The entrance management of the ruins that have been in this\ntown for ages is now being handled by Ryuda's soldiers..."
                             ]
                         },
                         {
@@ -7021,14 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>セギさん、何処へ行く気だい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかと思うがこの先の遺跡に行く気なら止した方がいい。"
+                                "\\N<Man>Segi-san, where do you think you're going? I hate to think\nit, but if you're planning to go to the ruins ahead, I'd\nadvise against it."
                             ]
                         },
                         {
@@ -7045,14 +7024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>この街に古くから在る遺跡の入場管理さえも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はリュダの兵隊達が担っているからね……。"
+                                "\\N<Man>Even the entrance management of the ruins that have been in\nthis town for ages is now handled by Ryuda's soldiers..."
                             ]
                         },
                         {
@@ -7249,21 +7221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>街の中には未だにリュダの兵士達に対して反抗を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試みる層がいますが、迷惑な話ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無駄な争いは避けるべきだと言うのに……。"
+                                "\\N<Man>There are still those in the city who attempt to resist the\nsoldiers of Ryuda, but it's such a nuisance. I keep saying\nwe should avoid pointless conflicts..."
                             ]
                         },
                         {
@@ -7382,21 +7340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>街の中には未だにリュダの兵士達に対して反抗を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試みる層がいますが、迷惑な話ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無駄な争いは避けるべきだと言うのに……。"
+                                "\\N<Man>There are still those in the city who try to resist Ryuda's\nsoldiers, but it's such a nuisance. I keep saying we should\navoid pointless conflicts..."
                             ]
                         },
                         {
@@ -7473,14 +7417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>身を守る防具は最低限の備えと言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡内を探索するにも練兵会での戦いでもな。"
+                                "\\N<Man>Protective armor can be considered the bare minimum of\npreparation, whether you're exploring ruins or fighting in\nthe training grounds."
                             ]
                         },
                         {
@@ -7599,14 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<男>身を守る防具は最低限の備えと言える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺跡内を探索するにも練兵会での戦いでもな。"
+                                "\\N<Man>Protective armor can be considered the bare minimum of\npreparation, whether you're exploring ruins or fighting in\nthe training grounds."
                             ]
                         },
                         {
@@ -7704,14 +7634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>やあ、おばさん。明日は練兵会での戦いの日なんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう？準備は進んでる？"
+                                "\\N<Fubii>Hey, ma'am. Tomorrow's the day of the battle at the training\ngrounds, right? How's it going? Are you prepared?"
                             ]
                         },
                         {
@@ -7735,7 +7658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あなたには関係の無い事だわ。"
+                                "\\N<Segi>That's none of your business."
                             ]
                         },
                         {
@@ -7759,21 +7682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そんな事無いよ。忘れた訳じゃないよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクだっておばさんの対戦者だったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまりおばさんの所有権はボクにも有るって事だからね。"
+                                "\\N<Fubii>That's not true. You haven't forgotten, have you? I was your\nopponent too. That means I have a claim on you as well."
                             ]
                         },
                         {
@@ -7797,7 +7706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>所有権だなんて……人を物みたいに言うのは止めて頂戴。"
+                                "\\N<Segi>Claim... Stop talking about people as if they're objects."
                             ]
                         },
                         {
@@ -7821,14 +7730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、でも実際その通りだもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさんを所有する権利……今この瞬間もね。"
+                                "\\N<Fubii>Ahaha, but it's true. The right to own you... even at this\nvery moment."
                             ]
                         },
                         {
@@ -7885,14 +7787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ち……ちょっと……こ、こんな所で……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人に見られたらどうするつもり……！？"
+                                "\\N<Segi>W-wait... n-not here...! What if someone sees us...!?"
                             ]
                         },
                         {
@@ -7909,7 +7804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>じゃあ人目に付かない所へ行こうよ。それならイイでしょ？"
+                                "\\N<Fubii>Then let's go somewhere out of sight. That would be okay,\nright?"
                             ]
                         },
                         {
@@ -7926,7 +7821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>～っ！"
+                                "\\N<Segi>~!"
                             ]
                         },
                         {
@@ -7950,7 +7845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………。"
+                                "..."
                             ]
                         },
                         {
@@ -7967,7 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………………。"
+                                "..."
                             ]
                         },
                         {
@@ -8019,7 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……っ。"
+                                "\\N<Segi>Hah... hah...!"
                             ]
                         },
                         {
@@ -8062,7 +7957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>んん……ふ……っ！"
+                                "\\N<Segi>Mmm... fu...!"
                             ]
                         },
                         {
@@ -8079,7 +7974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>はあ……あ……あ……っ！"
+                                "\\N<Segi>Hah... ah... ah...!"
                             ]
                         },
                         {
@@ -8120,7 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……あ……んんっ！"
+                                "\\N<Segi>Ah... ah... mmm!"
                             ]
                         },
                         {
@@ -8137,7 +8032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ああ……だ、駄目……ぇぇ……っ！"
+                                "\\N<Segi>Ahh... no, I can't... ehh...!"
                             ]
                         },
                         {
@@ -8154,21 +8049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ふふ、随分積極的になったねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに必死に腰振っちゃってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも例の薬の影響ってヤツなのかな？"
+                                "\\N<Fubii>Hehe, you've become quite aggressive. Desperately moving\nyour hips like that. Is it the effect of that drug, I\nwonder?"
                             ]
                         },
                         {
@@ -8185,14 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ち、違うわ……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、あなたが……無理矢理誘って来るから……っ！"
+                                "\\N<Segi>It's not like that...! You're the one who... forcefully\nbrought me here...!"
                             ]
                         },
                         {
@@ -8209,7 +8083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>でもこんな場所で旦那さんとはしないでしょ？"
+                                "\\N<Fubii>But you wouldn't do this with your husband in such a place,\nright?"
                             ]
                         },
                         {
@@ -8226,7 +8100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、当たり前よ……っ！"
+                                "\\N<Segi>Of course not...!"
                             ]
                         },
                         {
@@ -8243,14 +8117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ならやっぱり積極的になったって事だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくともボクに対しては。嬉しいなあ。"
+                                "\\N<Fubii>So, you've become more aggressive after all. At least\ntowards me. I'm happy about that."
                             ]
                         },
                         {
@@ -8267,7 +8134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え、悦に入ってないで……は、早くして……っ！"
+                                "\\N<Segi>Don't get so pleased with yourself... hurry up and\nfinish...!"
                             ]
                         },
                         {
@@ -8305,7 +8172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>……？"
+                                "\\N<Fubii>...?"
                             ]
                         },
                         {
@@ -8329,7 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……んん……ど、どうしたの……？"
+                                "\\N<Segi>Ah... mmm... what's wrong...?"
                             ]
                         },
                         {
@@ -8346,7 +8213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>……おばさん、静かにして。誰か来る。"
+                                "\\N<Fubii>...Ma'am, be quiet. Someone's coming."
                             ]
                         },
                         {
@@ -8363,7 +8230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -8404,14 +8271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>あの二人はどう見繕っても怪しかった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ずここに居る筈だ。"
+                                "\\N<Voice Of The Residents>Those two looked suspicious no matter how you slice it...\nThey must be around here somewhere."
                             ]
                         },
                         {
@@ -8428,14 +8288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>そうかも知れないが……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮に二人が居たとして、見付けてどうするんだ？"
+                                "\\N<Voice Of The Residents>That might be true, but even if we find them, what are we\ngoing to do?"
                             ]
                         },
                         {
@@ -8452,14 +8305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>そりゃあ決まってるさ。注意するんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風紀が乱れる原因になるだろう？"
+                                "\\N<Voice Of The Residents>It's obvious, isn't it? We'll warn them. They could be\ncausing a disturbance to public morals, right?"
                             ]
                         },
                         {
@@ -8476,7 +8322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>そ……そうだな。"
+                                "\\N<Voice Of The Residents>Y-yeah, that's right."
                             ]
                         },
                         {
@@ -8521,7 +8367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……ま、街の人達がわたし達を探しに……？"
+                                "\\N<Segi>...The townspeople are searching for us...?"
                             ]
                         },
                         {
@@ -8538,7 +8384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ふふ、聞いた？傑作だね、嘘だよアレ。"
+                                "\\N<Fubii>Hehe, did you hear that? What a masterpiece, it's a lie\nthough."
                             ]
                         },
                         {
@@ -8555,7 +8401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -8572,14 +8418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ボクらを見付けだら強請る気だよ。間違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風紀が乱れるとか言っちゃってさ、笑えるよね。"
+                                "\\N<Fubii>They're planning to blackmail us if they find us. No doubt\nabout it. Talking about disturbing public morals, it's\nlaughable."
                             ]
                         },
                         {
@@ -8596,7 +8435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ゆ、強請るって……まさか……。"
+                                "\\N<Segi>B-blackmail... you don't mean..."
                             ]
                         },
                         {
@@ -8613,21 +8452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>そ、目的はおばさんの身体さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクにさせてるんだから俺達にもってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の考える事なんて幾つになっても同じって事さ。"
+                                "\\N<Fubii>Yeah, their goal is your body. If I can have you, they think\nthey should too. Men's thoughts are always the same no\nmatter their age."
                             ]
                         },
                         {
@@ -8644,7 +8469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そんな……。"
+                                "\\N<Segi>That's awful..."
                             ]
                         },
                         {
@@ -8661,14 +8486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>おばさんもそんなのは御免でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから見付からない様にしなきゃ。静かにしててね？"
+                                "\\N<Fubii>You wouldn't want that, right? So we have to make sure we're\nnot found. Be quiet, okay?"
                             ]
                         },
                         {
@@ -8685,7 +8503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>え、ええ……。"
+                                "\\N<Segi>Y-yes..."
                             ]
                         },
                         {
@@ -8721,7 +8539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>……。"
+                                "\\N<Fubii>..."
                             ]
                         },
                         {
@@ -8738,7 +8556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -8790,7 +8608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>か……は……っ！？"
+                                "\\N<Segi>Ka...ha...!?"
                             ]
                         },
                         {
@@ -8831,7 +8649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ああ……あ……っ！？"
+                                "\\N<Segi>Ah...a...!"
                             ]
                         },
                         {
@@ -8897,7 +8715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>へへ……ビックリした？"
+                                "\\N<Fubii>Hehe... surprised?"
                             ]
                         },
                         {
@@ -8914,7 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>な、何……を……っ！？"
+                                "\\N<Segi>Wh-what... are you...!"
                             ]
                         },
                         {
@@ -8931,14 +8749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だってさ、ただあの人達がいなくなるのを待ってるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "退屈だもん。少し位いいでしょ？"
+                                "\\N<Fubii>Well, just waiting for those people to leave is boring. A\nlittle bit of fun is fine, right?"
                             ]
                         },
                         {
@@ -8955,7 +8766,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>やめ……い、今がどんな状況か……っ。"
+                                "\\N<Segi>Stop... Do you realize the situation we're in...!"
                             ]
                         },
                         {
@@ -8972,14 +8783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ね、おばさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボク少し試してみたい事が有るんだけどいいかな？"
+                                "\\N<Fubii>Hey, ma'am. There's something I want to try out, is that\nokay with you?"
                             ]
                         },
                         {
@@ -8996,7 +8800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>何言って……やめ……ち、ちょっと……！"
+                                "\\N<Segi>What are you saying... stop... wait a minute...!"
                             ]
                         },
                         {
@@ -9013,14 +8817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>大丈夫、おばさんが声を我慢すればイイだけの話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからさ、少しだけ我慢しててくれる……？"
+                                "\\N<Fubii>It's fine, you just have to keep your voice down. So, can\nyou bear with it for a little while...?"
                             ]
                         },
                         {
@@ -9063,7 +8860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ……か……っ！？"
+                                "\\N<Segi>Ah...ka...!"
                             ]
                         },
                         {
@@ -9080,7 +8877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、思った通りだ。いいカオしてるよ？"
+                                "\\N<Fubii>Ahaha, just as I thought. You're making such a nice face?"
                             ]
                         },
                         {
@@ -9109,7 +8906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>やめ……ぬ、抜い……てっ！"
+                                "\\N<Segi>Stop... take it out...!"
                             ]
                         },
                         {
@@ -9126,14 +8923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>おばさんさあ、やっぱり責められるの弱いでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めてした時も精一杯虚勢張ってたもんねえ？"
+                                "\\N<Fubii>Ma'am, you're really weak when it comes to being teased,\naren't you? You were trying so hard to bluff the first time\nwe did it, right?"
                             ]
                         },
                         {
@@ -9150,14 +8940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>でしょ？ボクがしようとしたら、慌てて自分が上になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とか言ってたもんね？"
+                                "\\N<Fubii>Right? When I tried to do it, you panicked and said you\nwanted to be on top?"
                             ]
                         },
                         {
@@ -9174,14 +8957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だからさ？こうしてボクに責められたら、自分は簡単に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堕ちちゃうって判ってたんじゃないの？"
+                                "\\N<Fubii>So? That means you knew that if I teased you like this,\nyou'd fall easily, didn't you?"
                             ]
                         },
                         {
@@ -9198,7 +8974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>そん……そんな事……っ！やめ……み、見付か……！"
+                                "\\N<Segi>That's not... such a thing...! Stop... we'll be found...!"
                             ]
                         },
                         {
@@ -9215,14 +8991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>でもさ、そんなおばさんのささやかな秘密も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう判ったから隠す必要無いよ？少なくともボクにはね。"
+                                "\\N<Fubii>But now, there's no need to hide your little secret anymore,\nright? At least not from me."
                             ]
                         },
                         {
@@ -9239,7 +9008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>き、気付かれちゃう……いや……いや……あ……っ！"
+                                "\\N<Segi>We'll be noticed... no... no... ah...!"
                             ]
                         },
                         {
@@ -9256,14 +9025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>あはは、だったら少しは声抑えなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱いトコ責められて感じちゃうのは判るけどさ。"
+                                "\\N<Fubii>Ahaha, then try to keep your voice down a bit. I understand\nit feels good to have your weak spots teased."
                             ]
                         },
                         {
@@ -9292,7 +9054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……んん……ん……っ！"
+                                "\\N<Segi>Mm...mmm...mm...!"
                             ]
                         },
                         {
@@ -9309,14 +9071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>ホラホラ、頑張って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの人達に見付かったら困るんでしょ？"
+                                "\\N<Fubii>Come on, do your best. It would be trouble if they found us,\nright?"
                             ]
                         },
                         {
@@ -9333,14 +9088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>困るよねえ？旦那さんもリイアもおばさんがこんなトコで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクとしてるって知ったらどんな顔するだろうね？"
+                                "\\N<Fubii>It would be trouble, wouldn't it? I wonder what kind of face\nyour husband and Riia would make if they knew you were doing\nthis with me here?"
                             ]
                         },
                         {
@@ -9369,7 +9117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……っ！んっ！ん……っ！"
+                                "\\N<Segi>Mm...! Mm! Mm...!"
                             ]
                         },
                         {
@@ -9386,7 +9134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だから隠し通さなきゃね。その為に今が頑張り処だよ？"
+                                "\\N<Fubii>So we have to keep it a secret. Now's the time to really try\nhard, right?"
                             ]
                         },
                         {
@@ -9403,21 +9151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>あ、あなただって……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タダじゃ済まないかも知れない……のに……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに……い、一体何のつもり……？"
+                                "\\N<Segi>You too... might not get off scot-free... yet despite\nthat... what are you planning...?"
                             ]
                         },
                         {
@@ -9434,21 +9168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>う～ん、確かにね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも見付かったらそれはそれで面白そうかなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんね急に、ビックリした？"
+                                "\\N<Fubii>Hmm, that's true. But if we get caught, that might be\ninteresting in its own way. Sorry for surprising you all of\na sudden."
                             ]
                         },
                         {
@@ -9465,14 +9185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>いや……あ……そ、そんな事になったら……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、この街でもう生きていけない……っ。"
+                                "\\N<Segi>No...ah... if something like that happens... we won't be\nable to live in this town anymore..."
                             ]
                         },
                         {
@@ -9489,7 +9202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>泣かないでよ。冗談だって。"
+                                "\\N<Fubii>Don't cry. I was just joking."
                             ]
                         },
                         {
@@ -9506,7 +9219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うう……ん……ん……っ。"
+                                "\\N<Segi>Uu...mm...mm..."
                             ]
                         },
                         {
@@ -9523,7 +9236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>泣かないでって。ホントに見付かっちゃうよ？"
+                                "\\N<Fubii>Don't cry. We'll really get found out, you know?"
                             ]
                         },
                         {
@@ -9540,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>うう……う……う……っ。"
+                                "\\N<Segi>Uu...u...u..."
                             ]
                         },
                         {
@@ -9557,7 +9270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>じゃあ……仕方ないなあ。"
+                                "\\N<Fubii>Well then... can't be helped."
                             ]
                         },
                         {
@@ -9644,7 +9357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……っ！？"
+                                "\\N<Segi>...!?"
                             ]
                         },
                         {
@@ -9668,7 +9381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………………………。"
+                                "..."
                             ]
                         },
                         {
@@ -9685,7 +9398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………………。"
+                                "..."
                             ]
                         },
                         {
@@ -9709,7 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>どうだった……二人は居たか……？"
+                                "\\N<Voice Of The Residents>How about it... were they there?"
                             ]
                         },
                         {
@@ -9726,14 +9439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>いや、向こうにも居なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何処かに隠れているのかも知れんが……。"
+                                "\\N<Voice Of The Residents>No, they weren't over there either. They might be hiding\nsomewhere..."
                             ]
                         },
                         {
@@ -9750,14 +9456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>そうか……こんな時間だ。もうすぐ夜になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日のところは諦めるとするか。"
+                                "\\N<Voice Of The Residents>I see... it's getting late. Let's give up for today."
                             ]
                         },
                         {
@@ -9774,14 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>……そうだな、惜しい事をした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現場さえ押さえれば色々と楽しみようも有っただろうに。"
+                                "\\N<Voice Of The Residents>Yeah, that's right, it's a shame. If we had caught them in\nthe act, we could have had all sorts of fun."
                             ]
                         },
                         {
@@ -9798,7 +9490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<住民の声>なぁに、また何れ機会は在るさ。"
+                                "\\N<Voice Of The Residents>Don't worry, there will be another chance."
                             ]
                         },
                         {
@@ -9841,7 +9533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>……。"
+                                "\\N<Fubii>..."
                             ]
                         },
                         {
@@ -9858,7 +9550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -9875,7 +9567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>行ったかな……？おばさん、もう大丈夫そうだよ？"
+                                "\\N<Fubii>Have they gone...? Auntie, are you okay now?"
                             ]
                         },
                         {
@@ -9892,7 +9584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……。"
+                                "\\N<Segi>Mm..."
                             ]
                         },
                         {
@@ -9909,7 +9601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>おばさん、おばさんって。聞いてるの？"
+                                "\\N<Fubii>Auntie, auntie. Are you listening?"
                             ]
                         },
                         {
@@ -9926,7 +9618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ど、どうして……こ、こんな事……。"
+                                "\\N<Segi>Why... why would you... do something like this..."
                             ]
                         },
                         {
@@ -9943,14 +9635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>だってこれが一番だと思ったから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばさん泣いてるし見付かる前に口塞いだ方がいいかなって。"
+                                "\\N<Fubii>Because I thought this was the best way. You were crying,\nand I thought it'd be better to cover your mouth before we\ngot found."
                             ]
                         },
                         {
@@ -9967,7 +9652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>ん……。"
+                                "\\N<Segi>Mm..."
                             ]
                         },
                         {
@@ -9984,14 +9669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フービィ>イヤだった？それともビックリした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ってか面白そうだなんて言ってゴメンね？"
+                                "\\N<Fubii>Did you not like it? Or were you just surprised? Sorry for\nsaying it seemed fun, okay?"
                             ]
                         },
                         {
@@ -10008,7 +9686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -10384,7 +10062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……リイアを迎えに行かなきゃ。"
+                                "\\N<Segi>...I have to go pick up Riia."
                             ]
                         },
                         {
@@ -10537,7 +10215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……リイアを迎えに行かなきゃ。"
+                                "\\N<Segi>...I have to go pick up Riia."
                             ]
                         },
                         {
@@ -10690,7 +10368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -10843,7 +10521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -11096,7 +10774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -11120,7 +10798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>ん？何だい、セギさん。"
+                                "\\N<Rozaro>Hm? What is it, Segi-san?"
                             ]
                         },
                         {
@@ -11144,7 +10822,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>実はその……管理所の依頼板を見たんです、ロザロさんの。"
+                                "\\N<Segi>Actually, I saw the request board at the management\noffice... Rozaro-san's."
                             ]
                         },
                         {
@@ -11168,14 +10846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>依頼板？ああ、特訓の相手の事か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それがどうかしたのか？"
+                                "\\N<Rozaro>Request board? Ah, you mean the sparring partner thing. What\nabout it?"
                             ]
                         },
                         {
@@ -11199,7 +10870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>……その、わたしではお役に立てないでしょうか？"
+                                "\\N<Segi>...Well, I was wondering if I might be of any help to you?"
                             ]
                         },
                         {
@@ -11223,7 +10894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>セギさんが？"
+                                "\\N<Rozaro>You, Segi-san?"
                             ]
                         },
                         {
@@ -11247,14 +10918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はい、わたしではロザロさんのお相手としては力不足"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なのは心得ています。"
+                                "\\N<Segi>Yes, I am aware that I might not be strong enough to be your\nsparring partner."
                             ]
                         },
                         {
@@ -11271,14 +10935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>でもロザロさんには息子共々いつも力になって頂いていま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すし、何よりお相手頂ければわたし自身の鍛錬にもなります。"
+                                "\\N<Segi>But you have always been a great help to both my son and me,\nand more than anything, it would serve as good training for\nmyself as well."
                             ]
                         },
                         {
@@ -11295,14 +10952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>訓練のお相手を務めると言いながら、結局は自分の為だと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言う身勝手なお願いなのは判っています。"
+                                "\\N<Segi>I know it's selfish of me to offer to help with your\ntraining when in reality it's for my own benefit."
                             ]
                         },
                         {
@@ -11326,14 +10976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>でも……如何でしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたしではお力になれませんか？"
+                                "\\N<Segi>But... what do you think? Could I be of any help to you?"
                             ]
                         },
                         {
@@ -11373,14 +11016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>……判った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では遠慮なく貴女に相手を務めて貰うとしよう。"
+                                "\\N<Rozaro>...Understood. Then I'll accept your offer without\nreservation."
                             ]
                         },
                         {
@@ -11420,14 +11056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>本当ですか？有り難う御座います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたし、精一杯頑張りますから。"
+                                "\\N<Segi>Really? Thank you so much. I'll do my very best."
                             ]
                         },
                         {
@@ -11451,14 +11080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>無論、訓練相手としての対価も払おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし訓練である以上手は抜けない。それでもいいかな？"
+                                "\\N<Rozaro>Of course, I'll pay you for your time as a training partner.\nBut since it's training, I can't hold back. Is that alright\nwith you?"
                             ]
                         },
                         {
@@ -11482,7 +11104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はい、勿論です。"
+                                "\\N<Segi>Yes, of course."
                             ]
                         },
                         {
@@ -11506,7 +11128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>ふむ、では準備が整い次第郊外の森で始めようか。"
+                                "\\N<Rozaro>Hmm, then let's begin in the forest outskirts as soon as\nyou're ready."
                             ]
                         },
                         {
@@ -11530,7 +11152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>判りました、宜しくお願いします。"
+                                "\\N<Segi>Understood, thank you very much."
                             ]
                         },
                         {
@@ -11634,14 +11256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>では、いいかなセギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早速訓練を始めるとしようか。"
+                                "\\N<Rozaro>Then, Segi-san, shall we start the training right away?"
                             ]
                         },
                         {
@@ -11665,7 +11280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はい、宜しくお願い致します。"
+                                "\\N<Segi>Yes, please take care of me."
                             ]
                         },
                         {
@@ -11729,7 +11344,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……。"
+                                "\\N<Segi>Ha, haa... haa..."
                             ]
                         },
                         {
@@ -11746,7 +11361,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -11804,14 +11419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>……セギさん、無理をするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し休んだ方がいい。貴女ではいきなり俺の相手は無理だ。"
+                                "\\N<Rozaro>...Segi-san, don't overdo it. You should rest a bit. You're\nnot ready to spar with me just yet."
                             ]
                         },
                         {
@@ -11828,14 +11436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>へ、平気です……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次は……次は何をお手伝いすれば……。"
+                                "\\N<Segi>No, I'm fine... What should I... help with next..."
                             ]
                         },
                         {
@@ -11852,21 +11453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>……気持ちは嬉しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だがな、折角こんな時間が取れたなら、それは貴女にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "有意義なものであって欲しいんだ。"
+                                "\\N<Rozaro>...I appreciate the sentiment. But if we've managed to find\nthis time, I want it to be meaningful for you too."
                             ]
                         },
                         {
@@ -11883,14 +11470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>つまり……この訓練は俺だけで無く、貴女の訓練としても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "役立つものでありたいと言う事だ。"
+                                "\\N<Rozaro>In other words... I want this training to be beneficial for\nyou as well, not just for me."
                             ]
                         },
                         {
@@ -11907,7 +11487,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>え……？"
+                                "\\N<Segi>Eh...?"
                             ]
                         },
                         {
@@ -11924,14 +11504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>そう言う訳でここからは貴女の為の訓練としよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これも俺の依頼の一部と捉えて貰いたいが構わないかな？"
+                                "\\N<Rozaro>That's why from here on out, let's focus on training for\nyour sake. Consider it part of my request to you, is that\nokay?"
                             ]
                         },
                         {
@@ -11948,7 +11521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>ロザロさん……有難う御座います。"
+                                "\\N<Segi>Rozaro-san... Thank you very much."
                             ]
                         },
                         {
@@ -11965,21 +11538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>礼を言うのは早いかも知れないぞ？無論俺もやるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "には真剣にやらせて貰う。やはり俺の訓練等に付き合わねば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良かったと後悔しない様にな。"
+                                "\\N<Rozaro>Don't thank me just yet. Of course, I'll take it seriously\nsince I'm involved. Make sure you don't regret agreeing to\ntrain with me."
                             ]
                         },
                         {
@@ -11996,7 +11555,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>はい……が、頑張ります……。"
+                                "\\N<Segi>Yes... but, I'll do my best..."
                             ]
                         },
                         {
@@ -12020,14 +11579,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>ふむ……いいか、セギさん。先ず戦士として戦わねば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ならない貴女には決定的に不足している幾つかの要素が有る。"
+                                "\\N<Rozaro>Hmm... Listen, Segi-san. As a warrior who must fight, there\nare several key elements you're critically lacking."
                             ]
                         },
                         {
@@ -12044,21 +11596,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>ひとつは攻撃の力の源となる筋力。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひとつは攻撃に対して守りの要となる体力。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひとつは生きる源となる生命力だ。"
+                                "\\N<Rozaro>One is muscular strength, the source of power for attacks.\nAnother is stamina, essential for defense against attacks.\nAnd one more is vitality, the essence of life."
                             ]
                         },
                         {
@@ -12075,21 +11613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<ロザロ>何れも戦いに於いては重要な要素と言えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さて、貴女は何を重要と考える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どれでも貴女の望む訓練に付き合おうじゃないか。"
+                                "\\N<Rozaro>All are important elements in battle. Now, what do you\nconsider important? I'll accompany you in any training you\nwish to focus on."
                             ]
                         },
                         {
@@ -12113,14 +11637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<セギ>（確かにロザロさんの仰る要素はどれも重要に思える……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたしは一体どの要素を選ぶべきかしら……）"
+                                "\\N<Segi>(Indeed, all the elements Rozaro-san mentioned seem\nimportant... Which one should I choose...)"
                             ]
                         },
                         {
@@ -12135,9 +11652,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "筋力(攻撃力上昇)",
-                                    "体力(防御力上昇)",
-                                    "生命力（最大HP上昇)"
+                                    "Muscle (Attack Increase)",
+                                    "Stamina (Defense Increase)",
+                                    "Vitality (Max HP Increase)"
                                 ],
                                 -1,
                                 -1,
@@ -12174,14 +11691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>筋力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on muscular strength. Understood. Then let's\nproceed with today's training in that manner."
                             ]
                         },
                         {
@@ -12252,14 +11762,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -12283,21 +11786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -12345,14 +11834,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺はいつでもあなたに協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -12376,7 +11858,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -12545,14 +12027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>体力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on stamina. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -12623,14 +12098,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -12654,21 +12122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -12716,14 +12170,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺はいつでもあなたに協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -12747,7 +12194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -12916,14 +12363,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>生命力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on vitality. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -12994,14 +12434,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -13025,21 +12458,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -13087,14 +12506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺はいつでもあなたに協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -13118,7 +12530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -13334,7 +12746,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -13351,7 +12763,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>ロザロさん、良ければまた……お願いします。"
+                                "\\N<Segi>Rozaro-san, if it's alright with you, I'd like to ask for\nyour guidance again..."
                             ]
                         },
                         {
@@ -13375,7 +12787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>貴女がまた俺の訓練相手を務めてくれると言う訳か。"
+                                "\\N<Rozaro>Are you saying you want to be my training partner again?"
                             ]
                         },
                         {
@@ -13399,21 +12811,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい、ロザロさんにお稽古をつけて頂くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "非力なわたしでも力の付くを実感します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ……もしかして図々しかったでしょうか……？"
+                                "\\N<Segi>Yes, when I receive instruction from you, Rozaro-san, even\nsomeone as weak as me can feel myself getting stronger.\nAh... was that too presumptuous of me...?"
                             ]
                         },
                         {
@@ -13437,14 +12835,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>いや、こちらも願ったりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何分にも相手が見付からなくてね。"
+                                "\\N<Rozaro>No, it's exactly what I was hoping for. It's hard to find a\npartner these days."
                             ]
                         },
                         {
@@ -13468,14 +12859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>やっぱりロザロさんのお力は街の皆さんが認めていますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だから皆さん二の足を踏むんですね。"
+                                "\\N<Segi>That's because everyone in town recognizes your strength,\nRozaro-san. That's why they hesitate."
                             ]
                         },
                         {
@@ -13499,14 +12883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>過大評価さ。だがそう言う訳だからこちらも助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "早速始めようか。"
+                                "\\N<Rozaro>That's an overestimation. But that's the situation, so it\nhelps me out. Let's get started right away."
                             ]
                         },
                         {
@@ -13523,14 +12900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>それとセギさん、前回同様手加減はするつもりだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それでも最低限気を張って置いて欲しい。"
+                                "\\N<Rozaro>And Segi-san, just like last time, I intend to hold back,\nbut still, I want you to be on your guard at the very least."
                             ]
                         },
                         {
@@ -13554,7 +12924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい。判りました。"
+                                "\\N<Segi>Yes. Understood."
                             ]
                         },
                         {
@@ -13658,14 +13028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>では、いいかなセギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "早速訓練を始めるとしようか。"
+                                "\\N<Rozaro>So, are you ready Segi-san? Let's begin the training right\naway."
                             ]
                         },
                         {
@@ -13689,7 +13052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>はい、宜しくお願い致します。"
+                                "\\N<Segi>Yes, please take care of me."
                             ]
                         },
                         {
@@ -13753,7 +13116,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……。"
+                                "\\N<Segi>Ha, haa... haa..."
                             ]
                         },
                         {
@@ -13770,7 +13133,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -13828,14 +13191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>……セギさん、無理をするな。少し休んだ方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺の方も充分実りのある訓練だったしな。"
+                                "\\N<Rozaro>...Segi-san, don't overdo it. It might be better to take a\nbreak. The training was quite fruitful for me as well."
                             ]
                         },
                         {
@@ -13859,14 +13215,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ロザロ>さて、貴女は戦いに於いて何を重要と考える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どれでも貴女の望む訓練に付き合おうじゃないか。"
+                                "\\N<Rozaro>Now, what do you consider important in battle? I'll\naccompany you in any training you wish to focus on."
                             ]
                         },
                         {
@@ -13883,7 +13232,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<セギ>（わたしは……）"
+                                "\\N<Segi>(I think...)"
                             ]
                         },
                         {
@@ -13898,9 +13247,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "筋力(攻撃力上昇)",
-                                    "体力(防御力上昇)",
-                                    "生命力（最大HP上昇)"
+                                    "Strength (Attack Increase)",
+                                    "Stamina (Defense Increase)",
+                                    "Vitality (Max HP Increase)"
                                 ],
                                 -1,
                                 -1,
@@ -13937,14 +13286,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>筋力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on muscular strength. Understood. Then let's\nproceed with today's training in that manner."
                             ]
                         },
                         {
@@ -14015,14 +13357,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -14046,21 +13381,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -14108,14 +13429,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -14139,7 +13453,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -14308,14 +13622,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>体力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on stamina. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -14386,14 +13693,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -14417,21 +13717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -14479,14 +13765,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -14510,7 +13789,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -14679,14 +13958,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>生命力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on vitality. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -14757,14 +14029,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... thank you... so much..."
                             ]
                         },
                         {
@@ -14788,21 +14053,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -14850,14 +14101,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -14881,7 +14125,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい。その時はまた、宜しくお願いします。"
+                                "\\N<Segi>Yes. When that time comes, please take care of me again."
                             ]
                         },
                         {
@@ -15097,7 +14341,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -15114,7 +14358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>ロザロさん、良ければまた……お願いします。"
+                                "\\N<Segi>Rozaro-san, if it's alright with you, I'd like to ask for\nyour help again..."
                             ]
                         },
                         {
@@ -15138,7 +14382,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>貴女がまた俺の訓練相手を務めてくれると言う訳か。"
+                                "\\N<Rozaro>You mean to say you'll be my training partner again?"
                             ]
                         },
                         {
@@ -15162,21 +14406,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい、ロザロさんにお稽古をつけて頂くと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "非力なわたしでも力の付くを実感します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あ……もしかして図々しかったでしょうか……？"
+                                "\\N<Segi>Yes, when I receive training from Rozaro-san, even someone\nas weak as me can feel myself getting stronger. Ah... was\nthat too presumptuous of me...?"
                             ]
                         },
                         {
@@ -15200,14 +14430,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>いや、こちらも願ったりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "何分にも相手が見付からなくてね。"
+                                "\\N<Rozaro>No, it's exactly what I was hoping for. It's hard to find a\npartner at times."
                             ]
                         },
                         {
@@ -15231,14 +14454,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>やっぱりロザロさんのお力は街の皆さんが認めていますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "だから皆さん二の足を踏むんですね。"
+                                "\\N<Segi>It's because everyone in town acknowledges Rozaro-san's\nstrength. That's why they hesitate."
                             ]
                         },
                         {
@@ -15262,14 +14478,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>過大評価さ。だがそう言う訳だからこちらも助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "早速始めようか。"
+                                "\\N<Rozaro>That's an overestimation. But that's the situation, so it\nhelps me out too. Let's get started right away."
                             ]
                         },
                         {
@@ -15286,14 +14495,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>それとセギさん、前回同様手加減はするつもりだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それでも最低限気を張って置いて欲しい。"
+                                "\\N<Rozaro>Also, Segi-san, like last time, I intend to hold back, but\neven so, I want you to at least stay alert."
                             ]
                         },
                         {
@@ -15317,7 +14519,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい。判りました。"
+                                "\\N<Segi>Yes. Understood."
                             ]
                         },
                         {
@@ -15421,14 +14623,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>では、いいかなセギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "早速訓練を始めるとしようか。"
+                                "\\N<Rozaro>So, are you ready, Segi-san? Let's begin the training\nimmediately."
                             ]
                         },
                         {
@@ -15452,7 +14647,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>はい、宜しくお願い致します。"
+                                "\\N<Segi>Yes, please take care of me."
                             ]
                         },
                         {
@@ -15516,7 +14711,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……。"
+                                "\\N<Segi>Ha... haa... haa..."
                             ]
                         },
                         {
@@ -15533,7 +14728,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -15591,14 +14786,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>……セギさん、無理をするな。少し休んだ方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "俺の方も充分実りのある訓練だったしな。"
+                                "\\N<Rozaro>...Segi-san, don't overdo it. You should rest a bit. The\ntraining was fruitful enough for me as well."
                             ]
                         },
                         {
@@ -15622,14 +14810,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<ロザロ>さて、貴女は戦いに於いて何を重要と考える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どれでも貴女の望む訓練に付き合おうじゃないか。"
+                                "\\N<Rozaro>Now, what do you consider important in battle? I'll\naccompany you in any training you desire."
                             ]
                         },
                         {
@@ -15646,7 +14827,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\N<セギ>（わたしは……）"
+                                "\\N<Segi>(I think...)"
                             ]
                         },
                         {
@@ -15661,9 +14842,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "筋力(攻撃力上昇)",
-                                    "体力(防御力上昇)",
-                                    "生命力（最大HP上昇)"
+                                    "Muscle (Attack Increase)",
+                                    "Stamina (Defense Increase)",
+                                    "Vitality (Max HP Increase)"
                                 ],
                                 -1,
                                 -1,
@@ -15700,14 +14881,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>筋力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on strength. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -15778,14 +14952,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... ah, thank you... so much..."
                             ]
                         },
                         {
@@ -16016,14 +15183,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>体力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on stamina. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -16094,14 +15254,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... ah, thank you... so much..."
                             ]
                         },
                         {
@@ -16332,14 +15485,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>生命力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on vitality. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -16410,14 +15556,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... ah, thank you... so much..."
                             ]
                         },
                         {
@@ -16686,7 +15825,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>あの……。"
+                                "\\N<Segi>Um..."
                             ]
                         },
                         {
@@ -16710,14 +15849,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>どうした、セギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "また俺の訓練相手を務めてくれると言うのか？"
+                                "\\N<Rozaro>What is it, Segi-san? Are you saying you'll be my training\npartner again?"
                             ]
                         },
                         {
@@ -16741,7 +15873,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>い、いえ……あの……。"
+                                "\\N<Segi>No... um..."
                             ]
                         },
                         {
@@ -16765,14 +15897,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>どうした？もしそうならこちらも願ったりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "貴女との訓練は俺にとっても有意義な時間だからな。"
+                                "\\N<Rozaro>What's wrong? If that's the case, I'd be more than willing.\nTraining with you is also meaningful for me."
                             ]
                         },
                         {
@@ -16796,7 +15921,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>……。"
+                                "\\N<Segi>..."
                             ]
                         },
                         {
@@ -16900,14 +16025,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>では、いいかなセギさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "早速訓練を始めるとしようか。"
+                                "\\N<Rozaro>So, are you ready, Segi-san? Let's begin the training\nimmediately."
                             ]
                         },
                         {
@@ -16931,7 +16049,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>はい……宜しくお願い致します。"
+                                "\\N<Segi>Yes... please take care of me."
                             ]
                         },
                         {
@@ -16995,7 +16113,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>は、はあ……はあ……。"
+                                "\\N<Segi>Ha... haa... haa..."
                             ]
                         },
                         {
@@ -17012,7 +16130,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>……。"
+                                "\\N<Rozaro>..."
                             ]
                         },
                         {
@@ -17070,14 +16188,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>……セギさん、無理をするな。少し休んだ方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "俺の方も充分実りのある訓練だったしな。"
+                                "\\N<Rozaro>...Segi-san, don't overdo it. You should rest a bit. The\ntraining was fruitful enough for me as well."
                             ]
                         },
                         {
@@ -17101,14 +16212,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<ロザロ>さて、貴女は戦いに於いて何を重要と考える？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "どれでも貴女の望む訓練に付き合おうじゃないか。"
+                                "\\N<Rozaro>Now, what do you consider important in battle? I'll\naccompany you in any training you desire."
                             ]
                         },
                         {
@@ -17125,7 +16229,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\N<セギ>（わたしは……）"
+                                "\\N<Segi>(I think...)"
                             ]
                         },
                         {
@@ -17140,9 +16244,9 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "筋力(攻撃力上昇)",
-                                    "体力(防御力上昇)",
-                                    "生命力（最大HP上昇)"
+                                    "Muscle (Attack Increase)",
+                                    "Stamina (Defense Increase)",
+                                    "Vitality (Max HP Increase)"
                                 ],
                                 -1,
                                 -1,
@@ -17179,14 +16283,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ロザロ>筋力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on strength. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -17379,14 +16476,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -17534,14 +16624,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ロザロ>体力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on stamina. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -17612,14 +16695,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... ah, thank you... so much..."
                             ]
                         },
                         {
@@ -17643,21 +16719,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -17851,14 +16913,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
@@ -18006,14 +17061,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ロザロ>生命力を重視するのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "承知した。では今日の訓練はその様に進めよう。"
+                                "\\N<Rozaro>You're focusing on vitality. Understood. Then let's proceed\nwith today's training in that manner."
                             ]
                         },
                         {
@@ -18084,14 +17132,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<セギ>はあ……はあ……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "あ、ありがとう……御座いました……。"
+                                "\\N<Segi>Ha... haa... ah, thank you... so much..."
                             ]
                         },
                         {
@@ -18115,21 +17156,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\N<ロザロ>ああ、俺の方もいい訓練になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "それにこれからも定期的に管理所に依頼板を掲示させて貰う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "つもりだ。"
+                                "\\N<Rozaro>Ah, it was good training for me too. Plus, I plan to keep\nposting requests on the management office board regularly\nfrom now on."
                             ]
                         },
                         {
@@ -18323,14 +17350,7 @@
                             "code": 401,
                             "indent": 6,
                             "parameters": [
-                                "\\N<ロザロ>もし貴女の気が向いたらまた声をかけて欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 6,
-                            "parameters": [
-                                "俺はいつでも協力しよう。"
+                                "\\N<Rozaro>If you feel like it, please call on me again. I'm always\nready to assist you."
                             ]
                         },
                         {
