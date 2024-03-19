@@ -835,7 +835,7 @@ var $plugins = [
     description:
       "メニューシーンに変数の値を表示します。\r\n歩数や戦闘回数などを表示することもできます。",
     parameters: {
-      labelAName: "Segi's Inferiority",
+      labelAName: "Segi's Desire",
       labelAId: "17",
       labelAMax: "100",
       labelAFooter: "",
@@ -933,7 +933,7 @@ var $plugins = [
       "メニュー画面にステータスコマンドを追加します。追加されたコマンドをクリックすると設定した名前と名前に紐づく値の一覧を表示します",
     parameters: {
       command_name: "Segi's Story",
-      param_name_1: "■Inferiority:,0,％",
+      param_name_1: "Desire:,0,％",
       param_name_2: "■Mind:,0",
       param_name_3: "■Body:,0",
       param_name_4: "■Soul Mate:,0",
