@@ -465,7 +465,7 @@ function OriginMenuStatusSaveObj() {
   };
 
   BaseWindow.prototype.GetFontSize = function () {
-    return this.standardFontSize();
+    return this.standardFontSize() - 16;
   };
 
   // パラメーター名描画。

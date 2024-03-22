@@ -943,7 +943,7 @@ var $plugins = [
       param_name_8: "",
       param_name_9: "",
       param_name_10: "",
-      paramName_pos_x: "100",
+      paramName_pos_x: "50",
       paramName_align: "left",
       parameter_pos_x: "",
       param_pos_y: "50",
